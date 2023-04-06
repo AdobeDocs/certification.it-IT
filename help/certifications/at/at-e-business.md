@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Dovresti avere:
 * Conoscenza dei concetti statistici e dell&#39;analisi dei dati in relazione all&#39;ottimizzazione
 * Una conoscenza approfondita del flusso di lavoro in tre fasi (esperienze, targeting, obiettivi e impostazioni, comprese tutte le origini di reporting)
 * Possibilità di tradurre i risultati dei rapporti di attività in informazioni e suggerimenti fruibili
-* Comprendere l’impatto del cambiamento delle tecnologie su Target (ad esempio, ITP, RGPD/CCPA, SPA)
+* Comprendere l’impatto dei cambiamenti nelle tecnologie su Target (ITP, RGPD/CCPA, SPA)
 * Informazioni su come utilizzare le attività Consigli come soluzione
 
 Inoltre, devi avere familiarità con le seguenti tecnologie e ambienti:

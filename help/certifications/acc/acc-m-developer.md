@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Architect
 badge: label="Exam AD0-E328" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1119'
 ht-degree: 9%
 
 ---
@@ -34,7 +34,7 @@ Dovresti avere:
 * La capacità di descrivere e dimostrare le funzionalità e le caratteristiche del prodotto
 * Capacità di mappare le funzionalità dei prodotti a casi di utilizzo elevati
 * Esperienza di supporto al team pre-vendita
-* La possibilità di offrire il supporto per desktop (ad esempio, best practice per i prodotti, metriche di reporting, ecc.)
+* Possibilità di offrire il coaching desktop (best practice per i prodotti, metriche di reporting e così via)
 * Esperienza che descrive le differenze tra i modelli di implementazione
 
 >[!NOTE]

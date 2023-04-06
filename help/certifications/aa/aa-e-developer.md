@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1082'
 ht-degree: 9%
 
 ---
@@ -41,7 +41,7 @@ Strumenti:
 Ambienti:
 
 * Ambienti di sviluppo web front-end
-* Conoscenza delle applicazioni mobili (limitazioni e differenze, ad esempio perché sono diverse dal web)
+* Conoscenza dell’app mobile (limitazioni e differenze, ad esempio, perché è diversa dal web)
 * Il settore del marketing digitale
 * Conoscenza minima degli ambienti di sviluppo back-end, inclusi i sistemi operativi PC, Mac, Android/iOS (operazioni di base, non di sviluppo)
 

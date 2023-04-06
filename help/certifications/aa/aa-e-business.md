@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1192'
+source-wordcount: '1194'
 ht-degree: 10%
 
 ---
@@ -27,7 +27,7 @@ Dovresti avere:
 * Capacità di generare e interpretare rapporti
 * La capacità di comunicare i risultati e può proporre una linea d&#39;azione basata sull&#39;analisi delle relazioni
 * Aiuta i clienti a capire come estrarre/estrarre le informazioni desiderate (ad esempio, aiutarli a definire le loro domande aziendali)
-* Comprendere il funzionamento della tecnologia e comprendere l’implementazione di un cliente (ad esempio dove si trovano i dati, come possono essere raccolti, come vengono tracciati) da un punto di vista funzionale
+* Comprendere come funziona la tecnologia e comprendere l’implementazione di un cliente (ad esempio, dove si trovano i dati, come possono essere raccolti, come vengono tracciati) da un punto di vista funzionale
 * Almeno un anno di [!DNL Adobe Analytics] esperienza pratica
 * Informazioni di base su come l’analisi digitale sta filtrando/strutturando i dati
 * Una consapevolezza dell&#39;integrazione dei [!DNL Adobe Analytics] con altre soluzioni Adobe
@@ -67,13 +67,14 @@ Dovresti avere:
 
 **Dettagli dell&#39;esame:**
 
-* Livello: Esperto (esperienza da 1 a 3 anni)
-* Punteggio di passaggio: 01/03/1950
-* Ora: 120 min
-* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
-* Lingue disponibili: Inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E208
+>* **Livello:** Esperto (esperienza da 1 a 3 anni)
+>* **Punteggio di passaggio:** 01/03/1950
+>* **Ora:** 120 min
+>* **Consegna:** Eseguiti online (richiede l&#39;accesso alla telecamera) o un centro di prova processati
+>* **Lingue disponibili:** Inglese
+>* **Costo:** $225 (globale) / $150 (India)
+>* **ID esame:** AD0-E208
+
 
 **Autovalutazione della preparazione**
 
