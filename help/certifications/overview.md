@@ -2,9 +2,9 @@
 title: Pagina principale di certificazione
 description: Scopri [!DNL Experience Cloud] Certificazione ad Adobe. Scopri cosa ottenere certificato può fare per te.
 mini-toc-levels: 1
-source-git-commit: c125ff68ecd1b982c5dd6aa6a374070c37d9973c
+source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,6 @@ Ottenere un Adobe [!DNL Experience Cloud] la certificazione può essere utile pe
 
 Il nostro programma di certificazione è progettato per professionisti in diversi campi, tra cui sviluppatori, professionisti e architetti. Con molti percorsi di certificazione diversi tra cui scegliere, è possibile mostrare le proprie competenze e competenze all&#39;interno dell&#39;Adobe [!DNL Experience Cloud] e impressionare clienti e datori di lavoro allo stesso modo.
 
-Allora perché aspettare? Fai il primo passo verso lo sblocco del tuo potenziale professionale e [esploriamo oggi i nostri percorsi di certificazione](https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
+Allora perché aspettare? Fai il primo passo verso lo sblocco del tuo potenziale professionale ed esplora oggi i nostri percorsi di certificazione!
 
+[!BADGE Introduzione]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
