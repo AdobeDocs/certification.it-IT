@@ -5,9 +5,9 @@ solution: Experience Platform
 role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1961'
+source-wordcount: '1959'
 ht-degree: 4%
 
 ---
@@ -312,4 +312,4 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? [Contatti](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

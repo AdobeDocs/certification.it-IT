@@ -2,10 +2,10 @@
 title: Professionista di certificazione professionale
 description: Scopri come diventare certificato come Adobe [!DNL Advertising DSP] Professionista di Business Practice.
 solution: Advertising
-role: Developer
+role: User
 badge: label="Exam AD0-E502" type="positivo"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
 source-wordcount: '776'
 ht-degree: 0%
@@ -153,4 +153,4 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? Invia e-mail `certif@adobe.com`.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

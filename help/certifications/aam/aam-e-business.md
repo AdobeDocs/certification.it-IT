@@ -2,10 +2,10 @@
 title: Certificazione di esperto di Business Practices
 description: Scopri come diventare certificato come Adobe [!DNL Audience Manager] Business Manager Expert.
 solution: Audience Manager
-role: Developer
+role: User
 badge: label="Exam AD0-E457" type="positivo"
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 6%
@@ -195,4 +195,4 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? Invia e-mail `certif@adobe.com`.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -2,10 +2,10 @@
 title: Certificazione di Business Practices
 description: Scopri come diventare un esperto di Business Practitioner di Adobe in [!DNL Adobe Analytics]
 solution: Analytics
-role: Developer
+role: User
 badge: label="Exam AD0-E208" type="positivo"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 10%
@@ -67,14 +67,13 @@ Dovresti avere:
 
 **Dettagli dell&#39;esame:**
 
->* **Livello:** Esperto (esperienza da 1 a 3 anni)
->* **Punteggio di passaggio:** 01/03/1950
->* **Ora:** 120 min
->* **Consegna:** Eseguiti online (richiede l&#39;accesso alla telecamera) o un centro di prova processati
->* **Lingue disponibili:** Inglese
->* **Costo:** $225 (globale) / $150 (India)
->* **ID esame:** AD0-E208
-
+* **Livello:** Esperto (esperienza da 1 a 3 anni)
+* **Punteggio di passaggio:** 01/03/1950
+* **Ora:** 120 min
+* **Consegna:** Eseguiti online (richiede l&#39;accesso alla telecamera) o un centro di prova processati
+* **Lingue disponibili:** Inglese
+* **Costo:** $225 (globale) / $150 (India)
+* **ID esame:** AD0-E208
 
 **Autovalutazione della preparazione**
 
@@ -202,4 +201,4 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? Invia e-mail `certif@adobe.com`.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

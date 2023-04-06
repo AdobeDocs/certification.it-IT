@@ -2,10 +2,10 @@
 title: Certificazione di esperto di Business Practices
 description: Scopri come diventare un esperto di Business Practitioner certificato in [!DNL Experience Manager Sites].
 solution: Experience Manager Sites
-role: Developer
+role: User
 badge: label="Exam AD0-E121" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
 source-wordcount: '1334'
 ht-degree: 6%
@@ -206,4 +206,4 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? Invia e-mail `certif@adobe.com`.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

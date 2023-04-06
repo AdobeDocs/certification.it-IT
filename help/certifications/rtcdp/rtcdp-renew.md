@@ -2,11 +2,11 @@
 title: Rinnovo della certificazione
 description: Scopri come rinnovare il tuo [!DNL Experience Platform] certificazione [!DNL Real-Time Customer Data Platform].
 solution: Real-time Customer Data Platform
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 1%
@@ -43,4 +43,4 @@ Siamo lieti di annunciare che potrai rinnovare la tua certificazione con un nuov
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? Invia e-mail `certif@adobe.com`.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
