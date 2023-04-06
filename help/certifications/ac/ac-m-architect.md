@@ -5,9 +5,9 @@ solution: Commerce
 role: Developer
 badge: label="Exam AD0-E718" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '961'
+source-wordcount: '985'
 ht-degree: 1%
 
 ---
@@ -72,15 +72,13 @@ Inoltre, devi avere molta familiarità con le seguenti attività e tecnologie:
 
 **Dettagli dell&#39;esame:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E718
-```
+* Livello: Master (esperienza di 3-5 anni)
+* Punteggio di passaggio: 09/02/1950
+* Ora: 120 min
+* Consegna: Eseguita online (richiede l&#39;accesso alla telecamera)
+* Lingue disponibili: Inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E718
 
 **Autovalutazione della preparazione**
 

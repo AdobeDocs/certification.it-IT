@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E331" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1311'
 ht-degree: 10%
 
 ---
@@ -42,15 +42,13 @@ Dovresti avere:
 
 **Dettagli dell&#39;esame:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E331
-```
+* Livello: Professionale (esperienza da 0 a 12 mesi)
+* Punteggio di passaggio: 03/03/50
+* Ora: 100 min
+* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
+* Lingue disponibili: Inglese
+* Costo: $125 (globale) / $95 (India)
+* ID esame: AD0-E331
 
 **Autovalutazione della preparazione**
 

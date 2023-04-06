@@ -2,9 +2,9 @@
 title: Pagina principale di certificazione
 description: Scopri [!DNL Experience Cloud] Certificazione ad Adobe. Scopri cosa ottenere certificato può fare per te.
 mini-toc-levels: 1
-source-git-commit: 2dee616ff2304a6a92ba3edeae5e11da637bb235
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Ottenere un Adobe [!DNL Experience Cloud] la certificazione può essere utile pe
 * **Convalida delle proprie competenze:** La certificazione Adobe dimostra ai potenziali clienti o datori di lavoro che hai le competenze e le conoscenze necessarie per utilizzare [!DNL Experience Cloud] in modo efficace.
 * **Avanzamento della carriera:** La certificazione Adobe può aiutarti a distinguerti in un mercato del lavoro affollato e ad aumentare le tue possibilità di essere assunto o promosso nel tuo lavoro attuale.
 * **Aumentare il potenziale di guadagno:** Le persone certificate spesso guadagnano più dei loro omologhi non certificati, in quanto le loro credenziali convalidano le loro competenze e conoscenze.
-* **Accesso a risorse esclusive:** Una volta ottenuto il certificato Adobe, potrai accedere a risorse esclusive, come materiali di formazione, versioni beta del software e forum di supporto che ti aiuteranno a rimanere aggiornato sugli ultimi sviluppi software e sulle tendenze del settore.
+* **Accesso a risorse esclusive:** Quando si diventa Adobi certificati, si ottiene l&#39;accesso a risorse esclusive. Queste risorse includono materiali di formazione, versioni beta del software e forum di supporto che possono aiutarti a rimanere aggiornato con gli ultimi sviluppi software e le tendenze del settore.
 * **Prove di pratica gratuita:** Adobe offre esami di pratica gratuiti che possono aiutarti a preparare il tuo esame di certificazione e ad assicurarti di essere completamente pronto a sostenere il test.
 * **Rinnovi della certificazione:** Le certificazioni di Adobe sono valide per due anni e puoi rinnovare la tua certificazione prendendo un esame on-demand e non elaborato o completando una serie di attività di apprendimento continuo.
 

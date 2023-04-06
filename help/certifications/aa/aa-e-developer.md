@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1081'
 ht-degree: 9%
 
 ---
@@ -61,15 +61,13 @@ Ambienti:
 
 **Dettagli dell&#39;esame:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) and $150 (India)
-Exam ID: AD0-E209
-```
+* Livello: Esperto (esperienza da 1 a 3 anni)
+* Punteggio di passaggio: 01/03/1950
+* Ora: 120 min
+* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
+* Lingue disponibili: Inglese
+* Costo: $225 (globale) e $150 (India)
+* ID esame: AD0-E209
 
 **Autovalutazione della preparazione**
 

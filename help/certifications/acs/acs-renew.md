@@ -4,9 +4,9 @@ description: Scopri come rinnovare l’Adobe [!DNL Campaign Standard] certificaz
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1442'
+source-wordcount: '1491'
 ht-degree: 11%
 
 ---
@@ -47,15 +47,13 @@ Al momento devi essere certificato (non scaduto) in:
 
 **Dettagli dell&#39;esame:**
 
-```
-Passing Score: 23/30
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
-Exam ID: AD5-E822
-```
+* Punteggio di passaggio: 03/02/30
+* Ora: 110 min
+* Costo: GRATUITO/non processato
+* Consegna: On-demand
+* Lingue disponibili: Inglese
+* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Standard] Certificazione di esperto di Business Practices
+* ID esame: AD5-E822
 
 **Ambito di applicazione e obiettivi**
 
@@ -133,15 +131,13 @@ Al momento devi essere certificato (non scaduto) in:
 
 **Dettagli dell&#39;esame:**
 
-```
-Passing Score: 23/30
-Time: 60 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
-Exam ID: AD5-E821
-```
+* Punteggio di passaggio: 03/02/30
+* Ora: 60 min
+* Costo: GRATUITO/non processato
+* Consegna: On-demand
+* Lingue disponibili: Inglese
+* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Standard] Certificazione Developer Expert
+* ID esame: AD5-E821
 
 **Ambito di applicazione e obiettivi**
 

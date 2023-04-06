@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E559" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1608'
+source-wordcount: '1637'
 ht-degree: 0%
 
 ---
@@ -64,15 +64,13 @@ Inoltre, devi avere familiarità con i seguenti strumenti e tecnologie:
 
 **Dettagli dell&#39;esame:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 32/50
-Time: 110 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English & Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E559
-```
+* Livello: Esperto (esperienza da 1 a 3 anni)
+* Punteggio di passaggio: 02/03/1950
+* Ora: 110 min
+* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
+* Lingue disponibili: Inglese e giapponese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E559
 
 **Autovalutazione della preparazione**
 
