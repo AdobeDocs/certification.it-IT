@@ -1,11 +1,11 @@
 ---
 title: Guida introduttiva alle certificazioni Adobe
-description: Introduzione a [!DNL Experience Cloud] certificazioni. Scopri il programma e come navigare tra le pagine del sito.
+description: Introduzione a [!DNL Experience Cloud] certificazioni. Scopri il programma e questo sito web.
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 529ac3568da1f1cc35c93022b87c8e765205b267
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Introduzione {#getting-started}
 
-Le certificazioni Adobe sono progettate per convalidare le conoscenze e le competenze dei professionisti che lavorano con le nostre soluzioni di marketing digitale.
-
-Guida introduttiva alle certificazioni tecniche. Scopri il programma e come navigare tra le pagine del sito.
+Le certificazioni Adobe sono progettate per convalidare le conoscenze e le competenze dei professionisti che lavorano con le nostre soluzioni di marketing digitale. Utilizza le seguenti schede per iniziare a conoscere il programma di certificazione.
 
 >[!BEGINTABS]
 
@@ -32,6 +30,7 @@ Scopri la differenza tra i tipi di esami che incontrerai sul tuo percorso di cer
 | Domande di esempio | Per alcuni esami di certificazione, l&#39;Adobe non dispone ancora di test di pratica completi. Per questi esami viene fornita una serie rappresentativa di domande di esempio. |
 | questionario di preparazione | Un questionario di preparazione è un altro strumento che puoi utilizzare per valutare la tua disponibilità a sostenere il tuo esame di certificazione. Il questionario di preparazione comprende affermazioni basate sugli obiettivi dell&#39;esame—rispondendo a &quot;Sì&quot; o &quot;No&quot; ad ogni dichiarazione, puoi determinare la tua disponibilità rispetto alle principali aree di contenuto coperte dall&#39;esame. |
 
+{style="table-layout:auto"}
 
 >[!TAB Livelli di certificazione]
 
@@ -42,14 +41,17 @@ Questi livelli riflettono una progressione delle competenze e delle conoscenze, 
 | ![Badge professionale](/help/certifications/assets/professional-badge-Xsmall.png) | **Certificazioni professionali** verificare che un candidato abbia una conoscenza fondamentale delle soluzioni di marketing digitale di Adobe. L’esame di certificazione riguarda i concetti e le funzionalità di base dell’Adobe [!DNL Experience Cloud]. |
 | --------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Badge esperto](/help/certifications/assets/expert-badge-Xsmall.png) | **Certificazioni esperte** sono per i professionisti che hanno una comprensione più avanzata delle soluzioni di marketing digitale di Adobe. L&#39;esame di certificazione riguarda concetti e funzionalità più complessi di Adobe [!DNL Experience Cloud], inclusa l’implementazione e la risoluzione dei problemi. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Badge principale](/help/certifications/assets/master-badge-Xsmall.png) | **Certificazioni master** sono per i professionisti che hanno una conoscenza approfondita delle soluzioni di marketing digitale di Adobe e hanno dimostrato la loro esperienza in diverse aree di Adobe [!DNL Experience Cloud]. L’esame di certificazione tratta argomenti e scenari avanzati, tra cui integrazioni complesse, personalizzazioni e risoluzione dei problemi. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 >[!TAB Ruoli di lavoro]
 
@@ -58,11 +60,17 @@ Gli esami di certificazione di Adobe sono personalizzati in tre diversi ruoli di
 | ![Badge professionista](/help/certifications/assets/business_practitioner_blk_small.png) | **Professionisti** sono responsabili della progettazione, dell’esecuzione e della gestione delle campagne di marketing tramite Adobe [!DNL Experience Cloud] soluzioni. Devono avere una conoscenza fondamentale delle soluzioni di marketing digitale di Adobe, nonché l&#39;esperienza nel marketing e nella pubblicità. La certificazione Business Practitioner convalida la loro capacità di utilizzare efficacemente le soluzioni di marketing digitali di Adobe per raggiungere gli obiettivi aziendali. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Badge per sviluppatori](/help/certifications/assets/developer_blk_small.png) | **Sviluppatori** sono responsabili dell&#39;attuazione e dell&#39;integrazione dell&#39;Adobe [!DNL Experience Cloud] soluzioni nello stack di tecnologia di un&#39;organizzazione. Dovrebbero avere esperienza nello sviluppo di software e nella competenza in tecnologie web, come HTML, CSS, JavaScript e API RESTful. La certificazione per sviluppatori convalida la loro capacità di implementare e personalizzare in modo efficace le soluzioni di marketing digitale di Adobe per soddisfare i requisiti aziendali. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Badge architetto](/help/certifications/assets/architect_blk_small.png) | **Architetti** sono responsabili della progettazione e dell&#39;implementazione di soluzioni di livello enterprise utilizzando Adobe [!DNL Experience Cloud] soluzioni. Devono avere un&#39;ampia conoscenza delle soluzioni e dell&#39;esperienza di marketing digitale di Adobe in materia di architettura, integrazione e personalizzazione del software. La certificazione Architect convalida la loro capacità di progettare e implementare soluzioni complesse utilizzando le soluzioni di marketing digitale di Adobe. |
 | ------- | ------- |
+
+{style="table-layout:auto"}
 
 >[!TAB Percorso di certificazione]
 
@@ -73,6 +81,8 @@ La Guida al Percorso di certificazione è uno strumento completo progettato per 
 | **Pronti** | Destinato a fornire una panoramica dell&#39;esame, incluse informazioni sul pubblico previsto, dettagli dell&#39;esame, autovalutazione della prontezza, obiettivi dell&#39;esame e ambito. Questa sezione ti aiuta a capire l&#39;esame e cosa ti puoi aspettare quando lo prendi. L&#39;autovalutazione della preparazione è particolarmente utile, in quanto consente di determinare il livello di conoscenza attuale e di identificare le aree in cui potrebbe essere necessario concentrare gli sforzi di studio. |
 | **Predefinito** | È dove puoi trovare formazione e risorse per aiutarti a preparare l&#39;esame. Questa sezione include informazioni e collegamenti a materiali di studio e corsi di formazione. |
 | **Ottieni certificato** | Offre preziose informazioni su come registrarsi per l&#39;esame di certificazione, compresi dettagli sul processo di registrazione e sui metodi di pagamento disponibili. Inoltre, questa sezione fornisce una panoramica chiara del processo di esame. Consulta questa sezione per ottenere risorse utili, ad esempio un collegamento all’Adobe Certification Prep Portal per gli esami che offrono test di pratica e collegamenti per la registrazione agli esami di certificazione. |
+
+{style="table-layout:auto"}
 
 >[!ENDTABS]
 
