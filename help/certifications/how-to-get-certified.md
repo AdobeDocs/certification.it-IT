@@ -3,9 +3,9 @@ title: Ottieni la certificazione all'Adobe
 description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse necessarie prima, durante e dopo la certificazione.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -182,7 +182,7 @@ Le sezioni e i collegamenti seguenti funzioneranno solo dopo l’accesso al [Ado
 | Collegamenti rapidi | Descrizione |
 | ------- | ------- | 
 | Sistema di gestione delle credenziali Adobe | [Accesso iniziale a Gestione credenziali Adobe](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profilo | [Pagina delle informazioni demografiche con la posizione del nome dell’account, l’indirizzo, l’azienda, ecc. I nomi possono essere aggiornati solo come amministratore di Adobe](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Profilo | [Pagina delle informazioni demografiche con la posizione del nome dell’account, l’indirizzo, l’azienda e così via. I nomi possono essere aggiornati solo come amministratore di Adobe](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identificazione | [Posizione dell’Adobe/ID di accesso. Di solito inizia con ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | Cronologia | [Visualizza il rapporto del punteggio e la cronologia degli esami](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certificazioni | [Visualizza tutte le certificazioni correnti e scadute](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |

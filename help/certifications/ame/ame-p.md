@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ Sezione 3: Definizione e targeting di tipi di pubblico (33%)
 
 Sezione 4: Analisi e creazione di rapporti (9%)
 
-* Spiegare l’Adobe standard [!DNL Marketo Engage] rapporti e quando devono essere utilizzati (prestazioni dei collegamenti e-mail, prestazioni e-mail, prestazioni della pagina di destinazione, prestazioni delle persone, prestazioni del programma, attività della pagina web, ecc.)
+* Spiegare l’Adobe standard [!DNL Marketo Engage] rapporti e quando devono essere utilizzati (prestazioni dei collegamenti e-mail, prestazioni e-mail, prestazioni della pagina di destinazione, prestazioni delle persone, prestazioni del programma, attività della pagina web e così via)
 * Comprimi informazioni e metriche del dashboard (dashboard del programma e-mail, dashboard del programma di coinvolgimento)
 * Comprendere le metriche Approfondimenti e-mail
 

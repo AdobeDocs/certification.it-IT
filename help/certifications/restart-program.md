@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '5353'
+source-wordcount: '5355'
 ht-degree: 8%
 
 ---
@@ -256,7 +256,7 @@ Sezione 1: Analisi dell’implementazione (28%)
 * Come guidare e supportare l’implementazione di AAM come prodotto autonomo o come parte di una soluzione cloud
 * Analizzare le opzioni di destinazione in uscita e consigliare un approccio di implementazione AAM
 * Determinare una strategia di onboarding dei dati per un caso d’uso aziendale
-* Identifica funzioni quali visualizzatore del profilo visitatore, tag, RBAC, ecc. per allinearsi agli obiettivi aziendali
+* Identifica funzioni quali visualizzatore del profilo visitatore, tag, RBAC e così via per allinearsi agli obiettivi aziendali
 * Determinare come progettare e testare i pixel necessari per creare segmenti e caratteristiche
 
 Sezione 2: Progettazione di soluzioni e Recommendations (17%)

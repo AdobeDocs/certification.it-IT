@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1230'
 ht-degree: 15%
 
 ---
@@ -28,7 +28,7 @@ Esperienza con le seguenti attività:
 
 * Interpretazione di un documento di progettazione delle soluzioni (SDR) e comprensione dello scopo di tutti [!DNL Adobe Analytics] variabili raccolte
 * Informazioni e utilizzo di Adobe (Experience Platform) Launch
-* Informazioni sulla configurazione della linea di base [!DNL Adobe Analytics] dimensioni ed eventi Nome pagina, Nome collegamento, Activity Map, ecc., ma collaborerà con sviluppatori esperti per altre implementazioni dei clienti - La mappatura delle variabili è ancora di proprietà di sviluppatori a livello di esperti
+* Informazioni sulla configurazione della linea di base [!DNL Adobe Analytics] dimensioni ed eventi Nome pagina, Nome collegamento, Activity Map e così via, ma collaborerà con sviluppatori esperti per altre implementazioni dei clienti - La mappatura delle variabili è ancora di proprietà di sviluppatori a livello di esperti
 * Creazione e configurazione di regole all’interno di Launch in base alla progettazione fornita da un esperto AA
 * Verifica e convalida dei dati acquisiti nelle variabili ed eventi attivati utilizzando i debugger della console web o i sistemi di app mobili come i registri di charles
 * Informazioni sul livello di dati e su come leggere un oggetto JavaScript

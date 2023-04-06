@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E457" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1207'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ Dovresti avere:
 
 Tecnologie:
 
-* Piattaforma DSP (area di lavoro, doppio clic su Gestione offerte, ecc.)
+* Piattaforma DSP (scrivania, doppio clic su Gestione offerte e così via)
 * Excel
 * Tableau e strumenti simili (PowerBI, Qlik)
 * Ad Server (doppio clic su Campaign Manager)

@@ -4,9 +4,9 @@ description: Risposte alle domande sul programma di certificazione Adobe. Scopri
 role: Developer
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 76a3cea2c92ac32fc20031c32e13d7b88999363c
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1884'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ Puoi tenere traccia dello stato di certificazione andando a [Sistema di gestione
 
 +++Cosa ottengo dopo aver superato l&#39;esame di certificazione?
 
-Dopo aver completato l&#39;esame, i risultati verranno visualizzati immediatamente sullo schermo. Entro 72 ore riceverai una conferma e-mail del tuo punteggio da CertMetrics, con un PDF del tuo certificato. Puoi accedere ai loghi dal tuo account CertMetrics che mostrano il tuo stato di certificazione e possono essere utilizzati sul tuo sito web, e-mail, firma, biglietto da visita, profili social, ecc.
+Dopo aver completato l&#39;esame, i risultati verranno visualizzati immediatamente sullo schermo. Entro 72 ore riceverai una conferma e-mail del tuo punteggio da CertMetrics, con un PDF del tuo certificato. Puoi accedere ai loghi dal tuo account CertMetrics che mostrano lo stato di certificazione e possono essere utilizzati sul tuo sito web, e-mail, firma, biglietto da visita, profili social e così via.
 
 +++
 
@@ -169,7 +169,7 @@ Per saperne di più su Come rinnovare la tua certificazione, vai [qui](https://e
 
 Accedi a [Sistema di gestione delle credenziali Adobe](https://www.certmetrics.com/adobe/){target="_blank"}. Qui puoi vedere quando hai raggiunto le tue credenziali e quando scadrà. Controlla anche il tuo profilo e conferma che il tuo contatto, l&#39;e-mail secondaria e le informazioni sul lavoro siano corrette.
 
-Riceverai una notifica e-mail un mese prima della scadenza della certificazione. Ma se hai cambiato lavoro e non hai aggiornato l&#39;e-mail, potresti non ricevere notifiche. Aggiungi un’e-mail secondaria (come Gmail, Hotmail, Yahoo, ecc.) nel tuo account CertMetrics in modo da ricevere un messaggio e-mail di promemoria sulla scadenza della certificazione, anche se cambi azienda.
+Riceverai una notifica e-mail un mese prima della scadenza della certificazione. Ma se hai cambiato lavoro e non hai aggiornato l&#39;e-mail, potresti non ricevere notifiche. Aggiungi un’e-mail secondaria (come Gmail, Hotmail, Yahoo e così via) nel tuo account CertMetrics per ricevere un promemoria di scadenza della certificazione, anche se cambi azienda.
 
 +++
 
