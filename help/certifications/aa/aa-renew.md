@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '543'
 ht-degree: 5%
 
 ---
@@ -79,4 +79,4 @@ Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e 
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? Invia e-mail `certif@adobe.com`.
+Domande aggiuntive? [Contatti](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.

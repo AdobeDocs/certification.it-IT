@@ -3,9 +3,9 @@ title: Ottieni la certificazione all'Adobe
 description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse necessarie prima, durante e dopo la certificazione.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1466'
 ht-degree: 1%
 
 ---
@@ -213,4 +213,4 @@ Il tuo badge è una prova tangibile della tua competenza con i prodotti Adobe Ex
 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Domande aggiuntive? Invia e-mail `certif@adobe.com`.
+Domande aggiuntive? [Contatti](mailto:certif@adobe.com){:target=&quot;_blank&quot;}.
