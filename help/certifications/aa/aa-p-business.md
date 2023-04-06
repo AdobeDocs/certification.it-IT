@@ -5,10 +5,10 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E212" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 14%
+source-wordcount: '874'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ Dovresti avere almeno 3 mesi di esperienza in [!DNL Adobe Analytics] e la seguen
 * Un background di marketing o proviene da un ruolo di marketing, ma può provenire da una varietà di ruoli di lavoro.
 * Una familiarità di base con le metriche e le dimensioni di analisi digitale.
 * La possibilità di utilizzare Analytics per generare rapporti e rispondere a domande aziendali e comunicare i risultati.
-* Comprensione dei concetti di base di analisi digitale, ad esempio segmentazione, creazione di rapporti, definizioni metriche standard.
+* Comprendere i concetti di base dell’analisi digitale come segmentazione, creazione di report e definizioni di metriche standard.
 
 >[!NOTE]
 >
@@ -48,15 +48,13 @@ Dovresti avere almeno 3 mesi di esperienza in [!DNL Adobe Analytics] e la seguen
 
 **Dettagli dell&#39;esame:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-```
+* Livello: Professionale (esperienza da 0 a 12 mesi)
+* Punteggio di passaggio: 01/03/1950
+* Ora: 100 min
+* Consegna: Eseguita online (richiede l&#39;accesso alla telecamera)
+* Lingue disponibili: Inglese
+* Costo: $125 (globale) / $95 (India)
+* ID esame: AD0-E212
 
 **Autovalutazione della preparazione**
 
