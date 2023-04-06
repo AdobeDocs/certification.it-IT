@@ -2,10 +2,11 @@
 title: Professionista di certificazione professionale
 description: Scopri come diventare un certificato [!DNL Adobe Target] Professionista di Business Practice.
 solution: Target
+product: Target
 role: User
 badge: label="Exam AD0-E408" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '966'
 ht-degree: 7%

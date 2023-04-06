@@ -2,10 +2,11 @@
 title: Certificazione Master Architetto
 description: Scopri come diventare certificato come [!DNL Adobe Analytics] Architetto Maestro.
 solution: Analytics
-role: Developer
+product: Analytics
+role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '963'
 ht-degree: 20%

@@ -2,10 +2,11 @@
 title: Rinnovo della certificazione
 description: Scopri come rinnovare l’Adobe [!DNL Experience Platform] certificazione prima della scadenza.
 solution: Experience Platform
-role: Developer
+product: Experience Platform
+role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizer Renewal" type="positivo"
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
