@@ -6,10 +6,10 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '979'
+ht-degree: 10%
 
 ---
 
@@ -72,10 +72,14 @@ Sezione 2: Architettura (22%)
 * Identificare dove definire ruoli e autorizzazioni
 * In uno scenario, definisci gli approcci di memorizzazione in cache disponibili
 
-Sezione 3: Configurazione e implementazione (13%)
+Sezione 3: Analisi aziendale (43%)
 
-* Identificare le best AEM practice per l’utilizzo dei componenti di contenuto
-* In uno scenario, identificare la corretta implementazione di una funzione
+* In uno scenario, individua moduli standard di AEM che affrontano i problemi aziendali dei clienti
+* Identificare i concetti di gestione dei contenuti per i moduli AEM
+* Identificare le parti interessate tipiche del progetto
+* Identificare scenari di collaborazione realistici tra i team coinvolti
+* In uno scenario, descrivere un approccio corretto per raggiungere gli obiettivi aziendali mantenendo il budget e/o l&#39;ambito
+* Identificare i modi per collegare gli obiettivi aziendali con il team di sviluppo
 
 Sezione 4: Configurazione e implementazione (13%)
 
