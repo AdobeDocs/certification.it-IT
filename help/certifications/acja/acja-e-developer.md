@@ -4,24 +4,41 @@ description: Scopri come diventare un Adobe di esperti certificato in [!DNL Cust
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-EXXX" type="positivo"
+badge: label="Exam AD0-E604" type="positivo"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
+source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 7%
+source-wordcount: '582'
+ht-degree: 0%
 
 ---
 
-
 # Percorso di certificazione per Adobe [!DNL Customer Journey Analytics] Esperto
 
-Scopri come diventare un Adobe certificato
+Scopri come diventare uno sviluppatore di Percorsi cliente Adobe Analytics certificato.
 
 ## Esperienza minima
 
-Dovresti avere:
+Dovresti avere un’esperienza di 12-24 mesi in Adobe Customer Journey Analytics ed essere in grado di eseguire le seguenti attività:
+
+* Leggere e comprendere lo schema XDM (classi)
+* Dimostrare una familiarità con l’interfaccia della piattaforma
+* Convalida dei dati (servizio query), visualizzazione dei dati in un set di dati
+* Comprendere le autorizzazioni di amministrazione richieste per diversi livelli di accesso
+* Leggere e comprendere uno script QA
+* Definire uno script QC da consegnare al tecnico AEP
+* Configurare le connessioni con le identità principali (ID persona)
+* Configurare connessioni con più set di dati
+* Configurare una visualizzazione dati (configurazione metrica/dimensione)
+* Configurare CJA
+* Trasforma i dati all’interno di dimensioni e metriche
+* Analisi delle nozioni di base di Workspace (visualizzazioni, impostazioni di attribuzione, filtri, metriche calcolate)
+* Comprendere la governance dei dati in CJA (DULE)
+* Creare metriche di canale o filtri basati su persone
+* Distinguere/comprendere le sandbox in AEP
+* Comprendere la pubblicazione del pubblico (condivisione)
 
 >[!NOTE]
 >
@@ -33,29 +50,49 @@ Dovresti avere:
 
 **Pubblico previsto:**
 
+* Architetto tecnico
+* Manager tecnico
+* Analista dati
+* Architetto/ingegnere dati
+* Architetto della soluzione
+* Architetto Enterprise
+* Esperto di implementazione
+* Leader nella tecnologia di marketing
 
 **Dettagli dell&#39;esame:**
 
 * Livello: Esperto (esperienza da 1 a 3 anni)
-* Punteggio di passaggio:
-* Ora:
+* Punteggio di passaggio: 03/03/50
+* Ora: 100 min
 * Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
 * Lingue disponibili: Inglese
 * Costo: $225 (globale) / $150 (India)
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica di candidato minimo consigliata.
+* ID esame: AD0-E604
 
 **Obiettivi e campo di applicazione dell&#39;esame**
 
-Sezione 1:
+Sezione 1: Connessioni (22%)
 
-Sezione 2:
+* Progettare connessioni CJA con le impostazioni appropriate
+* Creare connessioni CJA dai set di dati XDM disponibili in AEP tramite sandbox
 
-Sezione 3:
+Sezione 2: Visualizzazioni dati (30%)
 
-Sezione 4:
+* Configurazione di visualizzazioni dati per reporting e analisi
+* Modifica dei componenti nelle visualizzazioni dati
+
+Sezione 3: Convalida e risoluzione dei problemi dei dati (34%)
+
+* Convalidare che i dati vengano compilati in modo accurato e completo
+* Risoluzione dei problemi relativi a connessioni e visualizzazioni dati
+* Creare o risolvere problemi relativi ai componenti
+* Monitorare l’utilizzo della licenza
+
+Sezione 4: Reporting e attivazione (14%)
+
+* Utilizza Analysis Workspace per dimostrare ai percorsi di clienti cross-channel le visualizzazioni appropriate
+* Inviare i membri di un filtro CJA a un pubblico RTCDP
+* Progettazione e creazione di filtri per set di dati
 
 >[!TAB Preparato]
 
@@ -63,21 +100,7 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 
 Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
-**Sezione 1:**
-
-* [AGGIUNGI risorsa](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=it){target="_blank"}
-
-**Sezione 2:**
-
-* [AGGIUNGI risorsa](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=it){target="_blank"}
-
-**Sezione 3:**
-
-* [AGGIUNGI risorsa](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=it){target="_blank"}
-
-**Sezione 4:**
-
-* [AGGIUNGI risorsa](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=it){target="_blank"}
+_Disponibile a breve!_
 
 >[!TAB Ottieni certificato]
 
@@ -88,16 +111,6 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 **Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Fai un test pratico**
-
-Prima di iniziare, consigliamo di effettuare il test gratuito. Avrai accesso illimitato a tutti i test di esercitazione disponibili per gli esami a livello di esperti di Adobe.
-
-I nostri test sono tutti sviluppati partendo dallo stesso modello degli esami in diretta. Il test di esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
-
-Ricordare che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
-
-Vai a [Portale di preparazione all&#39;esame di certificazione di Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
-
 **Prendere l&#39;esame di certificazione**
 
 Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
@@ -107,9 +120,9 @@ Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examit
 
 Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-EXXX
+### Numero dell&#39;esame: AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
