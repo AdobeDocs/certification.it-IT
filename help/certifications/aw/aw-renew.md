@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6beb8e647b0638540548038d9ce60cdb3398aa20
+source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,8 @@ Sviluppatore +++Workfront Fusion
 
 **Dettagli dell&#39;esame:**
 
-* Punteggio di passaggio:
-* Ora: menta
+* Punteggio di passaggio: 34/25
+* Ora: 66 min
 * Costo: GRATUITO/non processato
 * Consegna: On-demand
 * Lingue disponibili: Inglese
@@ -49,13 +49,51 @@ Sviluppatore +++Workfront Fusion
 
 **Ambito di applicazione e obiettivi**
 
-AGGIUNGI
+Sezione 1: Amministrazione e configurazione del sistema core (26%)
+
+* Dato uno scenario Fusion che richiede l&#39;nidificazione di una funzione all&#39;interno di un&#39;altra funzione, selezionare l&#39;espressione formata correttamente.
+* In uno scenario di fusione che richiede la manipolazione del fuso orario, distinguere tra l&#39;utente, l&#39;organizzazione visibile e dove è necessaria l&#39;override del fuso orario.
+* In uno scenario di fusione, selezionare l&#39;espressione e/o i moduli del pannello di mappatura che trasformerebbero in modo appropriato i dati di input nei dati di output.
+* Identificare i modi corretti per utilizzare lo strumento Fusion Dev per risolvere gli errori di esecuzione o determinare le chiamate e le risposte effettuate a sistemi di terze parti.
+
+Sezione 2: Progettazione e architettura di scenari (47%)
+
+* Dato un elenco di passaggi, scegli la sequenza corretta per analizzare JSON e convertire in bundle.
+* In uno scenario di fusione, identificare un&#39;opportunità per semplificare la progettazione e/o ottimizzare la manutenzione.
+* In una situazione specifica, individuare l’opportunità di ridurre il flusso di dati attraverso uno scenario.
+* Dato un esempio del numero di bundle mostrati su un modulo di ricerca e su un aggregatore seguente, spiegare le modifiche nel numero di operazioni elaborate e visualizzate dall&#39;ispettore del bundle.
+* Dato un esempio di errore 403:proibito, seleziona correttamente l’origine del messaggio di errore e causa
+* Identifica l’utilizzo appropriato di Riferimenti e Raccolte sui moduli Workfront Search e Read.
+
+Sezione 3: Test e gestione degli errori (15%)
+
+* In uno scenario Fusion, identificare correttamente la soluzione per prevenire o gestire un servizio inaffidabile.
+* In uno scenario di fusione con dati obbligatori mancanti, selezionare i modi per gestire i dati non validi.
+
+Sezione 4: Utilizzo delle API (12%)
+
+* Dato un sistema di terze parti che non dispone di un’app dedicata, identifica l’app HTTP e seleziona il modulo appropriato.
+* Identifica la differenza tra le operazioni CRUD e altre funzionalità comuni delle API REST.
 
 ## Preparato
 
 Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
 
 Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+
+**Sezione 1: Amministrazione e configurazione del sistema core**
+
+AGGIUNGI
+
+**Sezione 2: Progettazione e architettura di scenari**
+
+AGGIUNGI
+
+**Sezione 3: Test e gestione degli errori**
+
+AGGIUNGI
+
+**Sezione 4: Utilizzo delle API**
 
 AGGIUNGI
 
@@ -67,7 +105,7 @@ Per rinnovare l&#39;esame, fai clic sul link Workfront Fusion Developer Renewers
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se non riesci a ricevere il 75% dopo tre tentativi, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
+>Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
 
 +++
 
