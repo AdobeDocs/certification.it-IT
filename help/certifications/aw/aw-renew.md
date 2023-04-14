@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -83,19 +83,21 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 **Sezione 1: Amministrazione e configurazione del sistema core**
 
-AGGIUNGI
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Funzioni in Adobe Workfront Fusion, Organizzazioni in Adobe Workfront Fusion, Moduli in Adobe Workfront Fusion, Scenari in Adobe Workfront Fusion
 
 **Sezione 2: Progettazione e architettura di scenari**
 
-AGGIUNGI
+* [Ottimizzazione dello scenario Workfront Fusion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"} - Tutorial
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Moduli in Adobe Workfront Fusion
 
 **Sezione 3: Test e gestione degli errori**
 
-AGGIUNGI
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Pannello impostazioni scenario in Adobe Workfront Fusion, errori in Adobe Workfront Fusion, funzioni in Adobe Workfront Fusion
 
 **Sezione 4: Utilizzo delle API**
 
-AGGIUNGI
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Moduli HTTP, connessioni in Adobe Workfront Fusion, moduli in Adobe Workfront Fusion
+* [API Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## Rinnova la certificazione
 
