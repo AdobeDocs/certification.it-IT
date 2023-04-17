@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 11%
@@ -222,7 +222,7 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 ## Rinnova la certificazione
 
-Assicurati di aver seguito il passaggio 1 precedente e di aver effettuato l&#39;accesso a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"} prima. Poi, per rinnovare l&#39;esame clicca sul &quot;[!DNL Campaign Standard] Rinnovo per sviluppatori - link AD5-821&quot; qui sotto.
+Assicurati di aver seguito il passaggio 1 precedente e di aver effettuato l&#39;accesso a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul [!DNL Campaign Standard] Rinnovo per sviluppatori - link AD5-821 qui sotto.
 
 * [[!DNL Campaign Standard] Rinnovo per sviluppatori - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 

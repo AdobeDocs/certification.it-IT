@@ -6,9 +6,10 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1116'
 ht-degree: 2%
 
 ---
@@ -103,9 +104,14 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 **Riavvia la certificazione**
 
-Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
+Assicurati di aver seguito il passaggio 1 precedente e di aver effettuato l&#39;accesso a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul link Adobe Audience Manager Business Practitioner Expert - AD5-E826 qui sotto.
 
-[!BADGE Prendi l&#39;esame di rinnovo dell&#39;esperto di Adobe Audience Manager Business Practitioner AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE Prendi l&#39;esame di rinnovo di Adobe Audience Manager Business Practitioner Expert AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!NOTE]
+>
+>Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
+
 
 >[!TAB Principale]
 
@@ -177,11 +183,16 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 * [AAM: Funzioni avanzate](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ Formazione e risorse Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### Riavvia la certificazione
+### Rinnova la certificazione
 
-Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
+Assicurati di aver seguito il passaggio 1 precedente e di aver effettuato l&#39;accesso a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul link Adobe Audience Manager Architect Master Renewers - AD5-E825 qui sotto.
 
-[!BADGE Esegui l&#39;esame di rinnovo master Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE Esegui l&#39;esame di rinnovo Master Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
+
 
 >[!ENDTABS]
 
