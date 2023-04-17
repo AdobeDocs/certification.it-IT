@@ -6,9 +6,10 @@ product: Magento
 role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '880'
 ht-degree: 1%
 
 ---
@@ -27,9 +28,45 @@ Siamo lieti di annunciare che potrai rinnovare la tua certificazione con un nuov
 
 >[!TAB Professionale]
 
+Al momento devi essere certificato (non scaduto) in:
+
+* Adobe [!DNL Commerce] Professionista
+* Adobe [!DNL Commerce] Sviluppatore professionale
+* Adobe [!DNL Commerce] Sviluppatore front-end Professional
+
+## Istruzioni per il rinnovo del tuo Adobe [!DNL Commerce] certificazione
+
+Seleziona **tre attività** completare e trasmettere le valutazioni del corso associate a ciascuna.
+
+* **Passaggio 1**: Accesso eseguito a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: Studiare i corsi in Experience League
+* **Passaggio 3**: Completare e superare ogni valutazione del corso con almeno l&#39;80%
+
+In alternativa, è possibile studiare due corsi, passare due valutazioni del corso e presentare un modulo di riferimento per il cliente che convalidi il tuo coinvolgimento in un progetto per un totale di 100 ore negli ultimi 12 mesi.
+
+Per alcune certificazioni Adobe Experience Cloud, il programma Adobe Credential accetta **riferimenti ai clienti** che convalidano il lavoro continuo come utente Adobe certificato che guida, gestisce e/o partecipa a un progetto di implementazione Adobe Experience Cloud.
+
+In questi casi è possibile fornire un riferimento al cliente per affermare di aver partecipato ad almeno 100 ore di impegno dimostrato nel progetto durante il rinnovo della certificazione per un intervallo di 2 anni.
+
+**Una volta esaminato il riferimento al cliente, riceverai una notifica dal team delle credenziali Adobe.**
+
+Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e non sono proctoring. Se possiedi più certificazioni di livello Adobe Commerce Professional, dovrai solo completare i requisiti riportati di seguito e tutte le certificazioni Adobe Commerce a questo livello saranno rinnovate.
+
+[Modulo di riferimento per i clienti per Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
+
+### Corsi e valutazioni dei corsi:
+
+| Corso | Valutazione del corso |
+| ------- | ------- |
+| [Adobe [!DNL Commerce] Tendenze E-Commerce](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalizzazione](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
+| [Adobe [!DNL Commerce] Automazione AI](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
+| [[!DNL Commerce]: Integrazioni di dati in Experience Platform e oltre](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
+| [[!DNL Commerce]: Commercio compositore su Adobe [!DNL Commerce]](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
+
 >[!NOTE]
 >
->Rinnovo professionale in arrivo.
+>Puoi ripeterlo fino a quando non avrai completato tre attività o completato due attività, più il modulo di riferimento del cliente.
 
 >[!TAB Esperto e Maestro]
 
@@ -56,7 +93,7 @@ In questi casi è possibile fornire un riferimento al cliente per affermare di a
 
 **Una volta esaminato il riferimento al cliente, riceverai una notifica dal team delle credenziali Adobe.**
 
-Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e non sono proctoring. Se possiedi più certificazioni Adobe Experience Manager Expert e Master, dovrai solo completare i requisiti riportati di seguito e tutte le certificazioni AEM saranno rinnovate.
+Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e non sono proctoring. Se possiedi più certificazioni Adobe Commerce Expert e Master, dovrai solo completare i requisiti riportati di seguito e le certificazioni Adobe Commerce a questo livello saranno rinnovate.
 
 [Modulo di riferimento per i clienti per Adobe [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
@@ -72,7 +109,7 @@ Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e 
 
 >[!NOTE]
 >
->Puoi ripetere l’operazione fino a quando non avrai completato tre attività o completato il modulo di riferimento per il cliente.
+>Puoi ripeterlo fino a quando non avrai completato tre attività o completato due attività, più il modulo di riferimento del cliente.
 
 >[!ENDTABS]
 
@@ -81,4 +118,3 @@ Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e 
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
-

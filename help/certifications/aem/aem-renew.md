@@ -5,9 +5,10 @@ solution: Experience Manager Sites
 product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '608'
 ht-degree: 2%
 
 ---
@@ -57,7 +58,7 @@ In questi casi è possibile fornire un riferimento al cliente per affermare di a
 
 **Una volta esaminato il riferimento al cliente, riceverai una notifica dal team delle credenziali Adobe.**
 
-Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e non sono proctoring. Se possiedi più certificazioni Adobe Experience Manager Expert e Master, dovrai solo completare i requisiti riportati di seguito e tutte le certificazioni AEM saranno rinnovate.
+Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e non sono proctoring. Se possiedi più certificazioni Adobe Experience Manager Expert e Master, dovrai solo completare i requisiti riportati di seguito e tutte le certificazioni AEM a questo livello saranno rinnovate.
 
 [Modulo di riferimento per i clienti per Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
@@ -77,7 +78,7 @@ Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e 
 
 >[!NOTE]
 >
->Puoi ripetere l’operazione fino a quando non avrai completato tre attività o completato il modulo di riferimento per il cliente.
+>Puoi ripeterlo fino a quando non avrai completato tre attività o completato due attività, più il modulo di riferimento del cliente.
 
 >[!ENDTABS]
 

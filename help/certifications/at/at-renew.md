@@ -6,9 +6,10 @@ product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ In questi casi è possibile fornire un riferimento al cliente per affermare di a
 
 **Una volta esaminato il riferimento al cliente, riceverai una notifica dal team delle credenziali Adobe.**
 
-Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e non sono proctoring. Se possiedi più certificazioni Adobe Experience Manager Expert e Master, dovrai solo completare i requisiti riportati di seguito e tutte le certificazioni AEM saranno rinnovate.
+Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e non sono proctoring. Se possiedi più certificazioni Adobe Target Expert e Master, dovrai solo completare i requisiti riportati di seguito e tutte le certificazioni Adobe Target a questo livello saranno rinnovate.
 
 [Modulo di riferimento per i clienti per [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
@@ -70,7 +71,7 @@ Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e 
 
 >[!NOTE]
 >
->Puoi ripetere l’operazione fino a quando non avrai completato tre attività o completato il modulo di riferimento per il cliente.
+>Puoi ripetere finché non avrai completato con successo tre attività o completato due attività oltre al modulo di riferimento per il cliente.
 
 >[!ENDTABS]
 
