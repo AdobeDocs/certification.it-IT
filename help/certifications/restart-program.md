@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 8%
@@ -15,7 +16,7 @@ ht-degree: 8%
 
 # Riavvia il percorso di certificazione passando da scaduto a certificato
 
-Questo programma a tempo limitato, offerto **dal 17 aprile 2023 al 20 ottobre 2023**, ti dà la possibilità di aggiornare le tue competenze e di rimanere al di sopra della curva in un panorama digitale in rapida evoluzione.
+Questo programma a tempo limitato, offerto **dal 24 aprile 2023 al 20 ottobre 2023**, ti dà la possibilità di aggiornare le tue competenze e di rimanere al di sopra della curva in un panorama digitale in rapida evoluzione.
 
 Le persone le cui certificazioni sono scadute a partire dal 2020 fino al 23 aprile 2023 sono ammissibili a questo **gratuito** programma.
 
