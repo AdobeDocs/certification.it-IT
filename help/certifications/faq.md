@@ -4,9 +4,10 @@ description: Risposte alle domande sul programma di certificazione Adobe. Scopri
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ No, devi solo completare i requisiti elencati per la soluzione. Le certificazion
 +++Devo rivedere i corsi, o posso semplicemente iniziare a prendere valutazioni?
 
 Le valutazioni si basano sui corsi in Experience League e la loro revisione preparerà i candidati a superarli con successo. Tuttavia, il requisito fondamentale per il rinnovo è semplicemente quello di superare le Valutazioni.
+
++++
+
+>[!TAB Riavvia il programma]
+
+**Panoramica del programma**
+
++++Qual è il programma di riavvio della certificazione di Adobe?
+
+Il programma di riavvio della certificazione di Adobe è un&#39;iniziativa una tantum che consente agli individui di riottenere le loro certificazioni di Adobe scadute passando brevi esami o valutazioni online, senza costi.
+
++++
+
++++Per quanto tempo verrà eseguito il programma di riavvio?
+
+Il programma avrà una durata di sei mesi, dal 24 aprile al 20 ottobre 2023.
+
++++
+
++++Adobe offrirà di nuovo questo tipo di programma in futuro?
+
+Al momento, non abbiamo intenzione di offrire di nuovo questo. Questa è un&#39;offerta unica.
+
++++
+
++++Quali livelli di certificazione sono inclusi nel programma di riavvio?
+
+Nel programma di riavvio sono incluse solo le certificazioni di livello Expert e Master. A partire da giugno 2023 le certificazioni professionali avranno un percorso di rinnovo.
+
++++
+
+**Ammissibilità del programma**
+
++++Chi è idoneo per il programma di riavvio della certificazione Adobe?
+
+Le persone le cui certificazioni sono scadute dal 2020 al 23 aprile 2023 sono ammissibili al Restart Program, a condizione che la certificazione ricercata sia inclusa nel programma (vedi l&#39;elenco degli Esperti di Certificazione Idonei qui sotto).
+
++++
+
++++ Perché non vengono rilasciati tutti gli esami di certificazione nel corso degli anni inclusi nel programma Restart?\
+Gli esami rilasciati prima del 2019 sono esclusi dal programma Restart.
+
++++
+
++++Perché il 23 aprile 2023 è la data limite per l’idoneità al programma Restart?
+
+Perché permette alle persone che non hanno potuto partecipare al periodo di rinnovo della certificazione GRATIS (lanciato il 23 gennaio 2023) un tempo sufficiente per rinnovare le loro certificazioni.
+
++++
+
++++Quali certificazioni fanno parte del programma di riavvio della certificazione Adobe?
+
+Tutte le certificazioni di Adobe attive, ad eccezione di quelle in pensione, fanno parte del programma.
+
++++
+
++++È possibile visualizzare un elenco di esami idonei per applicazione?
+
+**Adobe Experience Manager**
+
+| ID esame | Nome esame |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] Professionista di Business Practices |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Professionista di Business Practices |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Sviluppatore esperto |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Sviluppatore esperto |
+| AD0-E106 | [!DNL Adobe Experience Manager] Esperto ingegnere Dev/Ops |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architetto |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architetto |
+
+**[!DNL Adobe Analytics]**
+
+| ID esame | Nome esame |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Sviluppatore esperto |
+| AD0-E202 | [!DNL Adobe Analytics] Professionista di Business Practices |
+| AD0-E200 | [!DNL Adobe Analytics] Architetto |
+| AD0-E207 | [!DNL Adobe Analytics] Architetto |
+
+**Adobe Audience Manager**
+
+| ID esame | Nome esame |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] Architetto |
+| AD0-E452 | [!DNL Adobe Audience Manager] Architetto |
+| AD0-E453 | [!DNL Adobe Audience Manager] Professionista di Business Practices |
+
+**Adobe Campaign Classic**
+
+| ID esame | Nome esame |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Siti Business Practices Expert |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Siti Business Practices Expert |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architetto |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architetto |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Sviluppatore esperto |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Sviluppatore esperto |
+
+**Adobe Campaign Standard**
+
+| ID esame | Nome esame |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] Professionista di Business Practices |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Professionista di Business Practices |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Sviluppatore esperto |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Sviluppatore esperto |
+
+**Adobe[!DNL Marketo Engage]**
+
+| ID esame | Nome esame |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] Business Practitioner (precedentemente MCE) |
+
+**Adobe Target**
+
+| ID esame | Nome esame |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] Professionista di Business Practices |
+| AD0-E402 | [!DNL Adobe Target] Architetto |
+
++++
+
++++La mia certificazione scade tra il 24 aprile e il 20 ottobre 2023, mentre questo programma è disponibile. È possibile continuare il programma Restart per la mia certificazione una volta scaduto?
+
+No. Tutti i candidati con certificazioni attive a partire dalla data di lancio hanno la possibilità di proseguire il percorso di rinnovamento dell&#39;apprendimento continuo annunciato nel gennaio 2023.
+
+Il programma Restart è destinato solo alle certificazioni scadute prima del 24 aprile 2023, al fine di offrire la certificazione ai candidati che non potevano partecipare al programma di apprendimento continuo.
+
++++
+
+**[!DNL Marketo Engage]Solution Architect (MCSA) e Adobe Commerce**
+
++++I ha una scadenza [!DNL Marketo] Certified Solution Architect (MCSA). Posso reinserirlo in questo programma?
+
+Candidati con scadenza [!DNL Marketo] La certificazione Certified Solution Architect può seguire il percorso di riavvio di Marketo Business Practitioner per un requisito parziale verso il nuovo [!DNL Marketo Engage] Certificazione architettonica.
+
+Il requisito finale è quello di passare il nuovo [!DNL Marketo Engage] Esame architetto. Per tutti i titolari di certificati scaduti MCSA, è in corso una promozione di sconto del 50% fino al 31 dicembre 2023, si prega di contattare il supporto di certificazione per i dettagli.
+
++++
+
++++Perché sono Adobi [!DNL Commerce] Le certificazioni non fanno parte del programma di riavvio della certificazione Adobe?
+
+Non ci sono titolari di certificati scaduti per l&#39;Adobe attualmente offerto [!DNL Commerce] Certificazioni a partire dal 23 aprile 2023. Pertanto, tutti gli Adobi attivi [!DNL Commerce] I candidati certificati hanno la possibilità di rinnovarsi grazie all&#39;apprendimento continuo [percorso di rinnovo della certificazione](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Profilo di Adobe Credential Manager**
+
++++Perché viene visualizzato _Partecipazione_ nella sezione della cronologia del mio profilo in Adobe Credential Manager?
+
+Questo per contrassegnare l&#39;idoneità per il programma Adobe Certification Restart. I candidati a cui è stata assegnata questa partecipazione possono completare i requisiti per riavviare la certificazione scaduta, in ogni applicazione.
+
++++
+
++++I ha completato i requisiti e non visualizza i risultati nella cronologia del profilo, quando riceverò il certificato?
+
+La certificazione sarà rilasciata entro 72 ore dal completamento dei requisiti. È importante notare che questo programma attribuirà la certificazione solo ai candidati idonei.
+
++++
+
++++Cosa devo fare se la mia certificazione risulta ancora scaduta anche dopo aver completato i requisiti di riavvio?
+
+Purtroppo, una volta scaduta la certificazione, non può essere prorogata. In questi casi viene rilasciata una nuova certificazione invece di rinnovare quella precedente.
 
 +++
 

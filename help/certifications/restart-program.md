@@ -5,9 +5,8 @@ role: Developer
 solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
-hidefromtoc: true
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 8%
@@ -65,7 +64,7 @@ Le valutazioni del corso sono gratuite. Non c&#39;è bisogno di pianificarle, e 
 
 | Corso | Valutazione del corso |
 | ------- | ------- |
-| [Passaggio ad Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
+| [Passare ad Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
 | [Pianificazione del passaggio ad Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
 | [Introduzione ad Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
 | [Gestione dei contenuti headless tramite API GraphQL](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
