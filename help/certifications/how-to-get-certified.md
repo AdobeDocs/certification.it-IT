@@ -3,7 +3,8 @@ title: Ottieni la certificazione all'Adobe
 description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse necessarie prima, durante e dopo la certificazione.
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Il team Adobe Credential collabora con i fornitori per supportare le iniziative 
 | Nome fornitore | Descrizione | Pagina di supporto/e-mail |
 | ------- | ------- | ------- |
 | Fidanzato | Sistema di gestione dei badge | [- Supporto](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Estrema | Fornitore di servizi di distribuzione di test (solo monitoraggio online) | support@examity.com o 855-Examity (855-392-6489) |
-| PSI | Produttore di consegna del test per esami protetti in un luogo o in giapponese | adobe.psisupport@psionline.com |
-| Xvoucher - Adobe di certificazione Voucher Center | Centro voucher per l&#39;acquisto di voucher individuali o di massa | support@xvoucher.com o [Guida in linea](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| Estrema | Fornitore di servizi di distribuzione di test (solo monitoraggio online) | [E-mail](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
+| PSI | Produttore di consegna del test per esami protetti in un luogo o in giapponese | [E-mail](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher - Adobe di certificazione Voucher Center | Centro voucher per l&#39;acquisto di voucher individuali o di massa | [E-mail](mailto:support@xvoucher.com){target="_blank"} o [Guida in linea](https://help.xvoucher.com/hc/en-us) |
 
 Altre risorse fornitore:
 
