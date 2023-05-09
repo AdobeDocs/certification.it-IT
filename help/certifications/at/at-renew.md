@@ -7,18 +7,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '524'
 ht-degree: 1%
 
 ---
 
 # Rinnova il tuo [!DNL Adobe Target] certificazione
 
-Quando passi un esame di certificazione, la tua certificazione è valida per due anni.
+La tua certificazione Adobe è valida per due anni. Se ti avvicini a questa soglia di due anni, è il momento di rinnovare la certificazione per mantenerla attiva.
 
-Siamo lieti di annunciare che potrai rinnovare la tua certificazione con un nuovo formato non costoso. Si tratta di utilizzare corsi ed esercitazioni di Experience League on-demand, per completare semplicemente tre attività per rinnovare la certificazione senza costi aggiuntivi. È necessario rinnovare prima della scadenza della certificazione, oppure è necessario prendere l&#39;esame completo per essere nuovamente certificato.
+Innanzitutto, seleziona il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la tua certificazione.
+
+Assicurati di avere un ampio tempo per completare tutti i requisiti prima della scadenza della certificazione.
+
+È importante notare che se la tua certificazione scade, dovrai ripetere l&#39;esame di certificazione, che NON è gratuito.
 
 >[!IMPORTANT]
 >

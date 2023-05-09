@@ -7,18 +7,22 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '565'
 ht-degree: 5%
 
 ---
 
 # Rinnova il tuo [!DNL Analytics] certificazione
 
-Quando passi un esame di certificazione, la tua certificazione è valida per due anni.
+La tua certificazione Adobe è valida per due anni. Se ti avvicini a questa soglia di due anni, è il momento di rinnovare la certificazione per mantenerla attiva.
 
-Siamo lieti di annunciare che potrai rinnovare la tua certificazione con un nuovo formato non costoso. Si tratta di utilizzare corsi ed esercitazioni di Experience League on-demand, per completare semplicemente tre attività per rinnovare la certificazione senza costi aggiuntivi. È necessario rinnovare prima della scadenza della certificazione, oppure è necessario prendere l&#39;esame completo per essere nuovamente certificato.
+Innanzitutto, seleziona il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la tua certificazione.
+
+Assicurati di avere un ampio tempo per completare tutti i requisiti prima della scadenza della certificazione.
+
+È importante notare che se la tua certificazione scade, dovrai ripetere l&#39;esame di certificazione, che NON è gratuito.
 
 >[!IMPORTANT]
 >

@@ -6,18 +6,23 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---
 
 # Rinnova il tuo Adobe [!DNL Real-Time CDP] certificazione
 
-Quando passi un esame di certificazione, la tua certificazione è valida per due anni.
+La tua certificazione Adobe è valida per due anni. Se ti avvicini a questa soglia di due anni, è il momento di rinnovare la certificazione per mantenerla attiva.
 
-Siamo lieti di annunciare che potrai rinnovare la tua certificazione con un nuovo formato non costoso. Si tratta di utilizzare corsi ed esercitazioni di Experience League on-demand, per completare semplicemente tre attività per rinnovare la certificazione senza costi aggiuntivi. È necessario rinnovare prima della scadenza della certificazione, oppure è necessario prendere l&#39;esame completo per essere nuovamente certificato.
+Innanzitutto, seleziona il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la tua certificazione.
+
+Assicurati di avere un ampio tempo per completare tutti i requisiti prima della scadenza della certificazione.
+
+È importante notare che se la tua certificazione scade, dovrai ripetere l&#39;esame di certificazione, che NON è gratuito.
 
 >[!IMPORTANT]
 >
