@@ -6,18 +6,22 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e10f50a8e8a62d88d6c3ed5175a6d155760dc37c
+source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
 workflow-type: tm+mt
-source-wordcount: '3197'
+source-wordcount: '3215'
 ht-degree: 0%
 
 ---
 
 # Rinnova il tuo Adobe [!DNL Workfront] certificazione
 
-Quando passi un esame di certificazione, la tua certificazione è valida per due anni.
+La tua certificazione Adobe è valida per due anni. Se ti avvicini a questa soglia di due anni, è il momento di rinnovare la certificazione per mantenerla attiva.
 
-Siamo lieti di annunciare che potrai rinnovare la tua certificazione con un nuovo formato non costoso. Si tratta di utilizzare corsi ed esercitazioni di Experience League on-demand, per completare semplicemente tre attività per rinnovare la certificazione senza costi aggiuntivi. È necessario rinnovare prima della scadenza della certificazione, oppure è necessario prendere l&#39;esame completo per essere nuovamente certificato.
+Innanzitutto, seleziona il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la tua certificazione.
+
+Assicurati di avere un ampio tempo per completare tutti i requisiti prima della scadenza della certificazione.
+
+È importante notare che se la tua certificazione scade, dovrai ripetere l&#39;esame di certificazione, che NON è gratuito.
 
 >[!IMPORTANT]
 >
