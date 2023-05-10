@@ -2,17 +2,17 @@
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
 user-guide-description: Scopri [!DNL Experience Cloud] Certificazione ad Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 44%
+ht-degree: 45%
 
 ---
 
 
 # Certificazione in Adobe {#program}
 
-+ [Pagina principale di certificazione](overview.md)
++ [Pagina Home di certificazione](overview.md)
 + [Introduzione](getting-started.md)
 + [Come ottenere la certificazione](how-to-get-certified.md)
 + [Rinnova la certificazione](renew.md)
@@ -109,7 +109,7 @@ ht-degree: 44%
    + Adobe [!DNL Document Cloud] {#adc}
       + [Panoramica del Document Cloud](/help/certifications/adc/adc-overview.md)
       + Professionale {#adc-professional}
-         + [Professionista](/help/certifications/adc/adc-professional.md)
+         + [Professionista](/help/certifications/adc/adc-p-business.md)
       + [Rinnovo](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Panoramica di Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
