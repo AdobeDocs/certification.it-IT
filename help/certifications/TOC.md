@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
-user-guide-description: Scopri [!DNL Experience Cloud] Certificazione ad Adobe. Scopri cosa vuol dire ottenere una certificazione.
+user-guide-description: Scopri la Certificazione  [!DNL Experience Cloud]  in Adobe. Scopri cosa vuol dire ottenere una certificazione.
 source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 45%
+ht-degree: 47%
 
 ---
 

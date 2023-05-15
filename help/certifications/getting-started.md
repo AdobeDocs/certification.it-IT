@@ -1,13 +1,13 @@
 ---
 title: Guida introduttiva alle certificazioni Adobe
-description: Introduzione a [!DNL Experience Cloud] certificazioni. Scopri il programma e questo sito web.
+description: Introduzione alle certificazioni.  [!DNL Experience Cloud]  Scopri il programma e questo sito web.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
 source-wordcount: '947'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
