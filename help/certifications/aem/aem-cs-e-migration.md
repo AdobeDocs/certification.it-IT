@@ -1,12 +1,13 @@
 ---
 title: Certificazione esperta
 description: Scopri come diventare un Adobe certificato [!DNL Experience Manager] esperto.
-solution: Experience Manager as a Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E136" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 64b53064-8280-405b-a5f7-b50264394b82
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 10%
@@ -124,7 +125,7 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 * [[!DNL Experience Manager] Guida utente as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 * [Guida alla migrazione all’Adobe [!DNL Experience Manager] as a Cloud Service per i partner](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"}
-* [ Modifiche di rilievo apportate a AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=it){target="_blank"}
+* [ Modifiche di rilievo apportate ad AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=it){target="_blank"}
 
 **Sezione 2: Progettazione**
 
@@ -181,4 +182,3 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
-

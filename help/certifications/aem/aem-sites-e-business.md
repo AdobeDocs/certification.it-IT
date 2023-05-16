@@ -1,12 +1,13 @@
 ---
 title: Certificazione di esperto di Business Practices
 description: Scopri come diventare un esperto di Business Practitioner certificato in [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
 badge: label="Exam AD0-E121" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 0b533269-0826-4921-a539-d281c74da63d
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1334'
 ht-degree: 6%
@@ -123,7 +124,7 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 **Sezione 2: Architettura**
 
-* [Introduzione all’Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"}
+* [Introduzione all’Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=it){target="_blank"}
 * [Informazioni sulle funzionalità di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
 * [Adobe [!DNL Experience Manager] documentazione](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"}
 * [Integrazione con servizi di terze parti](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
