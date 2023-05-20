@@ -1,36 +1,37 @@
 ---
-title: Professionista di certificazione professionale
-description: Scopri come diventare un certificato [!DNL Adobe Target] Professionista di Business Practice.
+title: Certificazione professionale per professionisti del business
+description: Scopri come ottenere la certificazione [!DNL Adobe Target] Professionista di business.
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E408" type="positivo"
+badge: label="Esame AD0-E408" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: e67e66a3-d3cc-4907-beb4-956940181279
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '966'
 ht-degree: 7%
 
 ---
 
-# Percorso di certificazione per [!DNL Adobe Target] Professionista
+# Percorso di certificazione per [!DNL Adobe Target] Professionista professionista
 
-Scopri come diventare un professionista Adobe Business Practitioner Professional certificato.
+Scopri come diventare un professionista Adobe di business certificato.
 
 ## Esperienza minima
 
 Dovresti avere:
 
-* Esperienza da 0 a 12 mesi con piattaforme di ottimizzazione, tra cui [!DNL Adobe Target]
+* Esperienza di 0-12 mesi con le piattaforme di ottimizzazione, tra cui [!DNL Adobe Target]
 * Esperienza pratica supervisionata con [!DNL Adobe Target]
 * 0-12 mesi di esperienza che portano/contribuiscono ai programmi di ottimizzazione
 * Possibilità di identificare le attività amministrative di base di Target/Adobe Marketing Cloud (preferenze, ruoli utente e autorizzazioni, impostazioni)
-* Una conoscenza di base del flusso di lavoro in tre fasi (esperienze, targeting, obiettivi e impostazioni, comprese tutte le origini di reporting)
+* Conoscenza di base del flusso di lavoro in tre fasi (esperienze, targeting, obiettivi e impostazioni, incluse tutte le origini di reporting)
 * Capacità di leggere e comprendere i risultati dei rapporti sulle attività
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -41,76 +42,76 @@ Dovresti avere:
 * Ottimizzazione
 * Personalizzazione
 * Analytics
-* Digital e marketing di prodotti
+* Marketing digitale e di prodotto
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Professionale (esperienza da 0 a 12 mesi)
-* Punteggio di passaggio: 01/03/1950
-* Ora: 100 min
-* Consegna: Eseguita online (richiede l&#39;accesso alla telecamera)
-* Lingue disponibili: Inglese
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 31/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E408
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
-Sezione 1: Pianificazione e strategia (26%)
+Sezione 1: pianificazione e strategia (26%)
 
-* Identificare i KPI (Key Performance Indicator) aziendali
-* In uno scenario di KPI (Key Performance Indicator) e analisi dei dati aziendali, individuare le opportunità di ottimizzazione
-* Descrivere l’impatto delle variabili su un’attività
-* Costruire ipotesi di test basate su uno scenario specifico
+* Identificare i KPI aziendali
+* Considerato uno scenario di KPI aziendali e analisi dei dati, identifica le opportunità di ottimizzazione
+* Descrivere in che modo le variabili influiscono su un’attività
+* Costruire ipotesi di test in base a un dato scenario
 * Identificare gli elementi delle ipotesi
-* Descrizione delle metriche di successo principali e secondarie basate su KPI
-* In uno scenario, valuta i requisiti del pubblico
-* Descrivi le origini di reporting di analytics appropriate (ad es. Target o Adobe Analytics)
+* Descrivere le metriche di successo primarie e secondarie basate sui KPI
+* Considerato uno scenario, valuta i requisiti del pubblico
+* Descrivi le origini di reporting di Analytics appropriate (ad esempio, Target o Adobe Analytics)
 
-Sezione 2: Configurazione, esecuzione e gestione (50%)
+Sezione 2: configurazione, esecuzione e gestione (50%)
 
-* Spiegare l’uso del Compositore esperienza basato su moduli e del Compositore esperienza visivo
-* Descrivere le procedure per creare un’esperienza tramite VEC
-* Descrivere le procedure per creare un’esperienza utilizzando il Compositore basato su moduli
-* Descrivere le procedure per gestire le esperienze in un compositore esperienza
-* Descrizione del flusso di lavoro che si applica alla creazione di attività Target
-* In uno scenario, applica le procedure per creare un’attività di test A/B
-* In uno scenario, applica le procedure per creare un’attività XT
-* In uno scenario, applica le procedure per creare un’attività MVT
-* Identificare il modo in cui l&#39;AP viene utilizzato per le soluzioni
+* Spiegare l’utilizzo del Compositore esperienza basato su moduli rispetto al Compositore esperienza visivo
+* Descrivere le procedure per creare un’esperienza utilizzando il Compositore esperienza visivo
+* Descrivi le procedure per creare un’esperienza utilizzando il Compositore basato su moduli
+* Descrivere le procedure per gestire le esperienze all’interno di un Compositore esperienza
+* Descrivi il flusso di lavoro per la creazione di attività Target
+* Considerato uno scenario, applica le procedure per creare un’attività di test A/B
+* Considerato uno scenario, applica le procedure per creare un’attività Targeting esperienza
+* Considerato uno scenario, applica le procedure per creare un’attività MVT
+* Identificare come AP viene utilizzato per le soluzioni
 * Identificare quando utilizzare l’attività Consigli
-* Descrizione delle procedure per creare un pubblico in Target
+* Descrivere le procedure per creare un pubblico in Target
 * Descrizione delle procedure per impostare obiettivi e impostazioni
-* Descrizione delle procedure per condurre il controllo qualità delle attività
-* Descrizione delle procedure per gestire attività e pubblico in Target
+* Descrivere le procedure per effettuare il controllo qualità delle attività
+* Descrivere le procedure per gestire attività e tipi di pubblico in Target
 
-Sezione 3: Analisi e reporting (16%)
+Sezione 3: analisi e reporting (16%)
 
-* Descrizione delle impostazioni per impostare gli elementi visualizzati in un rapporto
-* Descrivi la differenza in [!DNL Adobe Target] Impostazioni del Calcolatore dimensioni campione tra pianificazione e convalida
+* Descrivere le impostazioni per aiutare a impostare gli elementi visualizzati in un rapporto
+* Descrivi la differenza in [!DNL Adobe Target] Impostazioni del Calcolatore dimensioni campione tra la pianificazione e la convalida
 * Descrivere i problemi comuni associati ai test A/B
 * Identificare le differenze tra i rapporti di riepilogo di Automated Personalization e gli altri rapporti
 * Descrizione delle funzioni dei rapporti Prestazioni esperienza (MVT)
-* Descrivere le best practice da seguire nell’esecuzione di test A/B
+* Descrivi le best practice da seguire nell’esecuzione dei test A/B
 
 Sezione 4: Risoluzione dei problemi (8%)
 
-* In uno scenario, identifica i problemi di qualificazione delle attività
-* Identificare le funzioni degli strumenti di debug del browser (incluso il Experience Cloud Debugger)
-* Identificare metriche e reporting
+* Dato uno scenario, identifica i problemi di qualificazione dell’attività
+* Identificare le funzionalità degli strumenti di debug del browser (incluso il Experience Cloud Debugger)
+* Identificare metriche e rapporti
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Domande di esempio**
 
-Le domande di esempio ti consentono di vedere il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario alcun accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
 
-[Domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
 
-**Sezione 1: Pianificazione e strategia**
+**Sezione 1: pianificazione e strategia**
 
 * Guida di [[!DNL Adobe Target]  per professionisti aziendali](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=it){target="_blank"}
 * Documentazione di [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
@@ -123,52 +124,52 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 
 * [Compositore esperienza visivo (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=en){target="_blank"}
 * [[!DNL Adobe Target] kit di benvenuto](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [Panoramica del test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Panoramica sui test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
 * [Creare un’attività Targeting esperienze](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
 * [Panoramica sul test multivariato](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
+* [Consigli](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
 * [Creare tipi di pubblico](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=it){target="_blank"}
 * [Controllo di qualità delle attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
 
-**Sezione 3: Analisi e reporting**
+**Sezione 3: analisi e reporting**
 
 * [Impostazioni dei rapporti](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
-* [Panoramica del test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Panoramica sui test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
 
 **Sezione 4: Risoluzione dei problemi**
 
 * Guida di [[!DNL Adobe Target]  per professionisti aziendali](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=it){target="_blank"}
 * [Panoramica di Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E408
+### Numero esame: AD0-E408
 
-[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408 newtab=true"}
+[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

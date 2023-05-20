@@ -1,5 +1,5 @@
 ---
-title: Rinnovo della certificazione
+title: Rinnovo certificazione
 description: Scopri come rinnovare l’Adobe [!DNL Marketo Engage] certificazione prima della scadenza.
 solution: Marketo Engage
 product: Marketo
@@ -14,19 +14,19 @@ ht-degree: 4%
 
 ---
 
-# Rinnova il tuo Adobe [!DNL Marketo Engage] certificazione
+# Rinnovare l’Adobe [!DNL Marketo Engage] certificazione
 
-La tua certificazione Adobe è valida per due anni. Se ti avvicini a questa soglia di due anni, è il momento di rinnovare la certificazione per mantenerla attiva.
+Il tuo Adobe di certificazione è valido per due anni. Se ti avvicini a questo periodo di due anni, è ora di rinnovare la certificazione per mantenerla attiva.
 
-Innanzitutto, seleziona il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la tua certificazione.
+Selezionare innanzitutto il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la certificazione.
 
-Assicurati di avere un ampio tempo per completare tutti i requisiti prima della scadenza della certificazione.
+Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti prima della scadenza della certificazione.
 
-È importante notare che se la tua certificazione scade, dovrai ripetere l&#39;esame di certificazione, che NON è gratuito.
+È importante notare che se la certificazione scade, dovrai sostenere nuovamente l&#39;esame di certificazione, che NON è gratuito.
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only** dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,140 +34,140 @@ Assicurati di avere un ampio tempo per completare tutti i requisiti prima della 
 
 >[!NOTE]
 >
->Rinnovo professionale in arrivo.
+>Prossimamente il rinnovo professionale.
 
 >[!TAB Esperto]
 
-Al momento devi essere certificato (non scaduto) in:
+Al momento dovresti essere certificato (non scaduto) in:
 
-* Esperto di Adobe Marketo Engage Business Practices
+* Esperto di Adobe Marketo Engage Business Practitioner
 
 ## Istruzioni per il rinnovo della certificazione:
 
-* **Passaggio 1**: Accesso eseguito a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: Rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: Prendere e superare l&#39;esame
+* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
+* **Passaggio 3**: sostenere e superare l’esame
 
 ### Preparati
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Esperto (esperienza da 1 a 3 anni)
-* Punteggio di passaggio: 04/03/2004
-* Ora: 80 min
-* Consegna: On-demand/non processato
-* Lingue disponibili: Inglese
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 30/40
+* Tempo: 80 minuti
+* Distribuzione: on-demand/non protetto
+* Lingue disponibili: inglese
 * Costo: GRATUITO
-* ID esame: AD5-E824 - Adobe [!DNL Marketo Engage] Esame per il rinnovo di un esperto di Business Practices
+* ID esame: AD5-E824 - Adobe [!DNL Marketo Engage] Esame di rinnovo esperto di professionisti aziendali
 
-**Ambito di applicazione e obiettivi:**
+**Ambito di applicazione e obiettivi**
 
-Sezione 1: Amministrazione e manutenzione (12%)
+Sezione 1: somministrazione e manutenzione (12%)
 
 * Determinare il processo di mappatura tra Marketo e CRM
-* Identificare l’evento di una risorsa utilizzando la traccia di audit
+* Identificare cosa è successo a una risorsa utilizzando Audit Trail
 * Riconoscere le differenze tra utenti e ruoli
-* In uno scenario, identificare l&#39;adattamento ottimale per l&#39;utilizzo di workspace e partizioni
-* Identificare le piattaforme di gestione delle relazioni con i clienti con la sincronizzazione nativa di Marketo
-* In uno scenario, individuare il punto in cui si fa riferimento alle informazioni
+* Considerato uno scenario, identifica il più adatto per l’utilizzo di workspace e partizioni
+* Identificare le piattaforme CRM con la sincronizzazione nativa di Marketo
+* Dato uno scenario, individua dove si fa riferimento alle informazioni
 
-Sezione 2: Attività di marketing/Gestione delle campagne (48%)
+Sezione 2: attività di marketing/gestione delle campagne (48%)
 
-* Dimostrare di comprendere meglio campagne avanzate, logica, vincoli e passaggi di flusso
-* In uno scenario, definisci il passaggio successivo
+* Dimostrare di comprendere le campagne intelligenti, la logica, i vincoli e i passaggi di flusso
+* Dato uno scenario, definisci il passaggio successivo
 * Identificare la causa principale di un problema
 * Interpretare la relazione tra programmi, canali, tag e costo del periodo
 * Dimostrare/applicare la configurazione corretta ai programmi di coinvolgimento
-* Fornire esempi di utilizzo per diversi tipi di token
-* Riepilogare l&#39;utilità di Webhook in Marketo e come sono utilizzati
-* Identificare e applicare l&#39;uso appropriato del PMCF
+* Fornisci esempi di utilizzo per diversi tipi di token
+* Riepilogare l’utilità dei webhook in Marketo e come vengono utilizzati
+* Identificare e applicare l’uso appropriato del PMCF
 * Spiegare i vantaggi delle risorse globali e come utilizzarle
-* Dimostrare le capacità dei moduli
+* Dimostrare le funzionalità dei moduli
 * Eseguire e analizzare una strategia di test A/B
-* Identifica dove è stato fatto riferimento a un programma o a una risorsa con &quot;Utilizzato da&quot;
-* Risoluzione dei problemi dei limiti di comunicazione
-* Utilizzare le informazioni sul provider di webinar in un programma evento
+* Identificare dove è stato fatto riferimento a un programma o a una risorsa con &quot;Usato da&quot;
+* Risolvere i problemi relativi ai limiti di comunicazione
+* Utilizzare le informazioni sul provider del webinar in un programma di eventi
 
 Sezione 3: Gestione dei lead (10%)
 
-* delineare i punti chiave della definizione del modello del ciclo di vita
-* Applicare le best practice sul punteggio del lead
-* Implementare i momenti interessanti appropriati
+* Descrivere i punti decisionali chiave nella definizione del modello del ciclo di vita
+* Applicare le best practice per il punteggio del lead
+* Implementare i momenti di interesse appropriati
 * Interpretare il registro attività lead
-* In uno scenario, identificare l&#39;origine della creazione
+* Dato uno scenario, identifica l’origine della creazione
 
-Sezione 4: Gestione dati (10%)
+Sezione 4: Gestione dei dati (10%)
 
 * Dimostrare come impostare un programma di gestione dati
 * Analizzare la qualità dei dati di un’istanza
-* Identificare alcuni elementi chiave dei criteri di conservazione dei dati di Marketo relativi agli elenchi smart
-* Riepiloga il funzionamento della segmentazione
+* Identifica alcuni elementi chiave dei criteri di conservazione dei dati di Marketo in relazione agli elenchi avanzati
+* Riepilogare il funzionamento della segmentazione
 
-Sezione 5: Reporting (5%)
+Sezione 5: relazioni (5%)
 
-* Dato il risultato di una campagna, determina come impostare un programma per fornire il miglior reporting
+* Dato il risultato di una campagna, determina come impostare un programma per fornire i migliori rapporti
 * In uno scenario, essere in grado di indagare e assegnare il programma di acquisizione appropriato
 
 Sezione 6: Best practice (15%)
 
-* Dimostrare la pertinenza del punteggio principale nella collaborazione di marketing e vendita
-* Illustrare i vantaggi della struttura delle cartelle e delle convenzioni di denominazione
-* Applicare best practice ai test A/B
-* Spiegare il processo per eseguire un controllo di qualità su qualsiasi programma Marketo
-* Spiegare il processo per eseguire un controllo di qualità su un’e-mail
+* Dimostrare la rilevanza del punteggio dei lead nella collaborazione nei settori marketing e vendite
+* Illustrare i vantaggi della struttura di cartelle e delle convenzioni di denominazione
+* Applicare le best practice relative al test A/B
+* Spiegare il processo per eseguire un controllo qualità su qualsiasi programma Marketo
+* Spiegare il processo per eseguire un controllo di qualità su un messaggio e-mail
 
-### Preparato
+### Preparati
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
-**Sezione 1: Amministrazione e manutenzione**
+**Sezione 1: somministrazione e manutenzione**
 
-* [Experience League - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Gestione dei campi, sincronizzazione CRM, traccia di audit, amministrazione utente, aree di lavoro e partizioni, elenchi smart, campo personalizzato)
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Sincronizzazione con Salesforce, integrazioni CRM)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Gestione dei campi, Sincronizzazione CRM, Audit Trail, Amministrazione utenti, Aree di lavoro e partizioni, Elenchi smart, Campo personalizzato)
+* [Nazione Marketo Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Sincronizzazione con Salesforce, integrazioni CRM)
 
-**Sezione 2: Attività di marketing/Gestione campagne**
+**Sezione 2: attività di marketing/gestione delle campagne**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Esempio casuale, Campagna avanzata con valore dati attivato, Passaggi di attesa, URL membro.webinar, Ispettore campagna, Logica filtro, Utilizzo dei token nelle e-mail, Creazione di lead tramite compilazione modulo, Risorse e aree di lavoro, Gestione Forms)
-* [Experience League - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Elenchi avanzati, Campagne avanzate, Forms di generazione della domanda, Eventi di generazione della domanda, Marketing e-mail, Creazione di programmi, eventi, Audit Trail, Utilizzo di programmi, Tag di amministrazione, Sviluppo di pagine di destinazione, Token, Amministrazione di integrazioni aggiuntive, Webhook, Campi personalizzati dei membri del programma, Area di lavoro e partizioni di persone)
+* [Nazione Marketo Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Campione casuale, Smart Campaign con valori di dati attivati, Passaggi di attesa, url member.webinar, Ispettore campagna, Logica di filtro, Utilizzo di token nelle e-mail, Creazione di lead tramite compilazione modulo, Risorse e aree di lavoro, Gestione di Forms)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (elenchi avanzati, campagne intelligenti, Forms per la generazione della domanda, eventi per la generazione della domanda, marketing via e-mail, creazione di programmi, eventi, audit trail, utilizzo di programmi, tag di amministrazione, creazione di gocce, pagine di destinazione, token, amministrazione - integrazioni aggiuntive, webhook, campi personalizzati per i membri del programma, partizioni per area di lavoro e persone)
 
-**Sezione 3: Gestione lead**
+**Sezione 3: Gestione dei lead**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Crea un video del programma del ciclo di vita lead, Annulla sottoscrizione a e-mail)
-* [Experience League - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Campagne intelligenti, Approfondimenti vendite Marketo, Momenti interessanti, Gestione delle persone negli elenchi avanzati, Campi gestiti dal sistema)
+* [Nazione Marketo Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Crea un video sul Programma di ciclo di vita dei lead, Annulla iscrizione all’e-mail)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (campagne avanzate, approfondimenti sulle vendite di Marketo, momenti di interesse, gestione di persone in elenchi avanzati, campi gestiti dal sistema)
 
-**Sezione 4: Gestione dati**
+**Sezione 4: Gestione dei dati**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Manutenzione di una directory di lead rimbalzando e-mail articolo, Come gestire il tuo database Marketo per il supporto del recapito messaggi blog, Marketo Attività Data Retention Policy - Sotto l&#39;articolo Hood)
-* [Experience League - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Segnalazioni rigide e morbide di e-mail marketing, tipi di rapporti, personalizzazione, contenuto dinamico)
+* [Nazione Marketo Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (articolo sulla gestione di una directory di messaggi e-mail non recapitabili di lead, blog di supporto sulla gestione del database Marketo per il recapito messaggi, politica di conservazione dei dati delle attività Marketo, nell’articolo Hood)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (e-mail marketing non recapitate, tipi di rapporto, personalizzazione, contenuti dinamici)
 
-**Sezione 5: Reporting**
+**Sezione 5: relazioni**
 
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Articolo sulle best practice per l’acquisizione)
-* [Experience League - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Reporting, informazioni sulle prestazioni, rapporto sulle prestazioni del programma, rapporti sulla modifica, iscrizione al programma)
+* [Nazione Marketo Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (articolo sulle best practice per l’impostazione di acquisizioni)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Reporting, Performance Insights, Rapporto sulle prestazioni del programma, Modifica dei rapporti, Iscrizione al programma)
 
 **Sezione 6: Best practice**
 
 * [Guida definitiva al punteggio lead](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Utilizzo di programmi, marketing e-mail, test A/B)
-* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Mind your QA Process)
+* [EXPERIENCE LEAGUE - [!DNL Marketo Engage] Documentazione del prodotto](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it){target="_blank"} (Utilizzo di programmi, E-mail marketing, Test A/B)
+* [Nazione Marketo Adobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Attenzione al processo di controllo qualità)
 
-### Rinnova la certificazione
+### Rinnovare la certificazione
 
-Assicurati di aver seguito il passaggio 1 precedente e di aver effettuato l&#39;accesso a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la tua certificazione, fai clic sul link di rinnovo Marketi Engage Business Practitioner Expert qui sotto.
+Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul collegamento di rinnovo Marketi Engage Business Practitioner Expert di seguito.
 
-[!BADGE Prendi l&#39;Adobe [!DNL Marketo Engage] Esame per il rinnovo di un esperto di Business Practitioner AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Prendi l’Adobe [!DNL Marketo Engage] Esame di rinnovo da esperto di professionisti aziendali AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
+>Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
 
 >[!ENDTABS]
 
 
 ### Domande
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

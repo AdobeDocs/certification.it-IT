@@ -12,7 +12,7 @@ ht-degree: 30%
 
 **Advertising**
 
-* [Business Practitioner (Ricerca)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [Professionista (ricerca)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [Professionista (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
@@ -40,7 +40,7 @@ ht-degree: 30%
 
 * [Professionista](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [Sviluppatore (risorse)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [Sviluppatore (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Sviluppatore back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [Fondamenti tecnici](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
@@ -60,10 +60,10 @@ ht-degree: 30%
 
 * [Sviluppatore (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Project Manager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [Sviluppatore (core)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [Sviluppatore (Core)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]
 >
->* [Certificazioni tecniche esperte](expert.md)
+>* [Certificazioni tecniche specialistiche](expert.md)
 >* [Certificazioni tecniche principali](master.md)
 

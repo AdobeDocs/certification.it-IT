@@ -1,10 +1,10 @@
 ---
-title: Certificazione di esperto di Business Practices
-description: Scopri come diventare un esperto Adobe Business Practitioner con [!DNL Campaign Classic].
+title: Certificazione esperto di professionisti aziendali
+description: Scopri come diventare un Adobe esperto di professionisti aziendali certificato con [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E327" type="positivo"
+badge: label="Esame AD0-E327" type="positivo"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,24 +14,24 @@ ht-degree: 11%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Campaign Classic] Professionista di Business Practices
+# Percorso di certificazione per Adobe [!DNL Campaign Classic] Esperto di professionisti aziendali
 
-Scopri come diventare un esperto Adobe Business Practitioner.
+Scopri come diventare un esperto Adobe di professionisti aziendali certificato.
 
 ## Esperienza minima
 
 Dovresti avere:
 
-* Almeno 2 anni di estensione [!DNL Campaign Classic] esperienza software
-* Esperienza pluriennale nello sviluppo di campagne di marketing e tattiche tramite omnicanale digitale
-* Interpretazione/traduzione dei requisiti aziendali in prodotti actionable Campaign
-* Esperienza con metriche di marketing come ROI, tassi click-through e conversione
-* Informazioni sulle applicazioni di tipologia, la gestione degli accessi, le tecnologie web e il marketing dei database
-* Una consapevolezza delle linee guida legali ed etiche per il marketing
+* Almeno 2 anni di estensivo [!DNL Campaign Classic] esperienza software
+* Esperienza pluriennale nello sviluppo di campagne e tattiche di marketing utilizzando l’omnicanale digitale
+* Esperienza nell’interpretazione/traduzione dei requisiti di business in materiali realizzabili per Campaign
+* Esperienza con metriche di marketing quali ROI, tassi di click-through e conversione
+* Conoscenza delle applicazioni di tipologia, della gestione degli accessi, delle tecnologie web e del marketing di database
+* Conoscenza delle linee guida legali ed etiche per il marketing
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -41,76 +41,76 @@ Dovresti avere:
 
 * Consulente aziendale
 * Analista aziendale
-* Gestore dell’interazione
-* Campaign Manager
-* Addetto al marketing del database
+* Gestione interazione
+* Gestione campagne
+* Addetto marketing del database
 * Professionista
 * Gestione progetti CRM
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Esperto (esperienza da 1 a 3 anni)
-* Punteggio di passaggio: 02/03/1950
-* Ora: 100 min
-* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
-* Lingue disponibili: Inglese
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 32/50
+* Tempo: 100 minuti
+* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
+* Lingue disponibili: inglese
 * Costo: $225 (globale) / $150 (India)
 * ID esame: AD0-E327
 
 **Autovalutazione della preparazione**
 
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica di candidato minimo consigliata.
+Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
 Sezione 1: Gestione delle campagne (20%)
 
 * Applicare le best practice per creare una campagna
-* In uno scenario, determina il modello di campagna corretto
-* Spiegare l&#39;importanza delle tipologie
-* Descrizione delle mappature di destinazione
-* Spiegare come configurare app web e moduli web
+* Dato uno scenario, determina il modello di campagna corretto
+* Spiegare l’importanza delle tipologie
+* Descrivere le mappature di destinazione
+* Spiegare come configurare le app web e i moduli web
 
-Sezione 2: Gestione del flusso di lavoro (22%)
+Sezione 2: Gestione dei flussi di lavoro (22%)
 
-* Valutare un determinato insieme di requisiti della campagna e raccomandare il corso dell&#39;azione
-* In uno scenario, analizzare gli errori del flusso di lavoro
-* In base a un insieme di requisiti della campagna, determina la progettazione corretta di un flusso di lavoro di marketing
-* Applicare le pratiche consigliate all’esecuzione dei flussi di lavoro
+* Valuta un determinato set di requisiti della campagna e consiglia la linea d’azione
+* Dato uno scenario, analizzare gli errori del flusso di lavoro
+* Dato un set di requisiti per la campagna, determina la progettazione corretta di un flusso di lavoro di marketing
+* Applicare le procedure consigliate nell’esecuzione dei flussi di lavoro
 
-Sezione 3: Gestione dati (24%)
+Sezione 3: Gestione dei dati (24%)
 
-* Spiegare i concetti di base dei database relazionali
-* Determinare le diverse origini di dati a cui un flusso di lavoro può accedere
+* Spiegare i concetti principali dei database relazionali
+* Determinare le diverse origini di dati a cui può accedere un flusso di lavoro
 * Identificare il metodo corretto per esportare i dati
-* In uno scenario, determinare il metodo di indagine dei dati da utilizzare
-* Applicare le best practice per creare elenchi
+* In uno scenario, determina il metodo di indagine dei dati da utilizzare
+* Applicare le best practice per creare gli elenchi
 * Applicare i passaggi per configurare un filtro predefinito
-* Dati i requisiti aziendali, identificare il modulo di input appropriato
+* Dato un requisito aziendale, identificare il modulo di input appropriato
 
-Sezione 4: Gestione delle consegne (14%)
+Sezione 4: Gestione della consegna (14%)
 
-* Applica i passaggi per creare/configurare consegne
-* In uno scenario, seleziona e imposta il pubblico di prova appropriato per le approvazioni
+* Applicare i passaggi per creare/configurare le consegne
+* Dato uno scenario, seleziona e imposta il pubblico di bozze appropriato per le approvazioni
 * Analizzare e interpretare i controlli di consegna
 
-Sezione 5: Reporting (12%)
+Sezione 5: relazioni (12%)
 
-* In uno scenario, determina i report appropriati da generare
+* Dato uno scenario, determina i rapporti appropriati da generare
 * Interpretare i rapporti incorporati
-* Spiegare l’impatto della pulizia/eliminazione dei registri sul reporting
+* Spiegare l’impatto della pulizia/eliminazione dei registri sui rapporti
 
-Sezione 6: Amministrazione (8%)
+Sezione 6: somministrazione (8%)
 
-* In uno scenario, spiegare l&#39;impatto dell&#39;eliminazione dei registri nei report
-* Dati i requisiti aziendali, concedere le autorizzazioni e gli accessi appropriati
-* Applica i passaggi per abilitare SFTP tramite il pannello di controllo
+* Dato uno scenario, spiega l’impatto dell’eliminazione dei registri sui rapporti
+* Determinati requisiti aziendali, concedi le autorizzazioni e gli accessi giusti
+* Applica i passaggi per abilitare SFTP tramite il pannello di controllo Campaign
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1: Gestione delle campagne**
 
@@ -118,21 +118,21 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 * [Introduzione alle campagne di marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=it){target="_blank"}
 * [Informazioni sugli indirizzi seed](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=en)
 * [Introduzione alle campagne di marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=it)
-* [Adobe [!DNL Campaign Classic] Esercitazioni su V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=it)
+* [Adobe [!DNL Campaign Classic] Tutorial su V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=it)
 * [Utilizzare una tabella dei destinatari personalizzata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
 
-**Sezione 2: Gestione del flusso di lavoro**
+**Sezione 2: Gestione dei flussi di lavoro**
 
 * [Introduzione ai test A/B](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html?lang=en){target="_blank"}
-* [Guida introduttiva al tracciamento dei messaggi](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
+* [Introduzione al tracciamento dei messaggi](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
 * [Introduzione ai flussi di lavoro](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=en){target="_blank"}
 * [Attività di targeting nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
 * [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html?lang=en){target="_blank"}
 
-**Sezione 3: Gestione dati**
+**Sezione 3: Gestione dei dati**
 
 * [Schemi di dati](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
-* [Attività azione nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
+* [Attività di azione nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
 * [Guida introduttiva ai processi e alla gestione dei dati](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html?lang=en){target="_blank"}
 * [Identificare un modulo](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html?lang=en){target="_blank"}
 * [Informazioni sulla gestione dei contenuti](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=en){target="_blank"}
@@ -146,7 +146,7 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 * [Informazioni sui passaggi di creazione delle consegne](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=en){target="_blank"}
 * [Introduzione al monitoraggio della consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
 
-**Sezione 5: Reporting**
+**Sezione 5: relazioni**
 
 * [Informazioni sui report sulle consegne](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html?lang=en){target="_blank"}
 * [Introduzione alla generazione di rapporti](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en){target="_blank"}
@@ -158,46 +158,46 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 * [Informazioni sulla gestione SFTP](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=en){target="_blank"}
 
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Fai un test pratico**
+**Esegui un test di esercitazione**
 
-Prima di iniziare, consigliamo di effettuare il test gratuito. Avrai accesso illimitato a tutti i test di esercitazione disponibili per gli esami a livello di esperti di Adobe.
+Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
 
-I nostri test sono tutti sviluppati partendo dallo stesso modello degli esami in diretta. Il test di esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
+I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
 
-Ricordare che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
+Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
 
-Vai a [Portale di preparazione all&#39;esame di certificazione di Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E327
+### Numero esame: AD0-E327
 
-[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327 newtab=true"}
+[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

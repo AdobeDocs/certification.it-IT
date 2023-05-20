@@ -1,19 +1,20 @@
 ---
 title: Certificazione professionale
-description: Scopri come diventare un certificato [!DNL Experience Platform] Ingresso professionale [!DNL Real-Time Customer Data Platform]
+description: Scopri come ottenere la certificazione [!DNL Experience Platform] Professionale in [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
-badge: label="Exam AD0-E602" type="positivo"
+badge: label="Esame AD0-E602" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '932'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Real-Time CDP] Professionista
+# Percorso di certificazione per Adobe [!DNL Real-Time CDP] Professionista professionista
 
 Scopri come diventare un Adobe certificato [!DNL Experience Platform] professionale.
 
@@ -22,23 +23,23 @@ Scopri come diventare un Adobe certificato [!DNL Experience Platform] profession
 Dovresti avere:
 
 * Esperienza con uno o più ambienti Real-Time CDP
-* Familiarità con gli stack tecnologici di marketing digitale e diverse integrazioni di piattaforme
-* Informazioni sui flussi di dati (tipi di ID, sincronizzazioni ID, tipi di pubblico, segmenti, modelli di dati)
-* 6-12 mesi di esperienza nella creazione e attivazione di tipi di pubblico tramite una CDP
+* Familiarità con gli stack di tecnologie di marketing digitale e varie integrazioni di piattaforme
+* Comprensione dei flussi di dati (tipi di ID, sincronizzazioni ID, tipi di pubblico, segmenti, modelli di dati)
+* 6-12 mesi di esperienza nella creazione e attivazione di tipi di pubblico tramite CDP
 
 Esperienza con attività che includono:
 
-* Creazione di tipi di pubblico in Real-Time CDP (segmenti) mappatura di tali tipi di pubblico sulle destinazioni (attivazione)
-* Comprensione e applicazione dei concetti di unione dei profili, funzionamento dell’unione dei dati in Real-Time CDP
+* Creazione di tipi di pubblico in Real-Time CDP (segmenti) mappatura di tali tipi di pubblico su destinazioni (attivazione)
+* Informazioni e applicazione dei concetti di unione profili, funzionamento dell’unione dati in Real-Time CDP
 * Navigazione nell’interfaccia utente
-* Comprendere le politiche (DULE) e applicarle secondo i casi
-* Concetti di spazi dei nomi identità e grafici di identità
-* Comprendere le funzionalità e le caratteristiche di alto livello di AEP e dei suoi servizi
+* Informazioni sui criteri (DULE) e relativa applicazione
+* Concetti degli spazi dei nomi e dei grafici delle identità
+* Comprendere le funzionalità di alto livello di AEP e dei suoi servizi
 * Configurazione di nuove destinazioni
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -51,127 +52,127 @@ Esperienza con attività che includono:
 * Marketing Manager
 * Analista marketing di Campaign
 * Analista aziendale
-* Campaign Manager
+* Gestione campagne
 * Consulente CDP
-* Consulente di conversione/ottimizzazione
-* Proprietario del prodotto di marketing
+* Consulente conversione/ottimizzazione
+* Proprietario prodotto marketing
 * Analista marketing
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Professionale (esperienza da 0 a 12 mesi)
-* Punteggio di passaggio: 08/02/1950
-* Ora: 100 min
-* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
-* Lingue disponibili: Inglese
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 28/50
+* Tempo: 100 minuti
+* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
+* Lingue disponibili: inglese
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E602
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
 Sezione 1: Segmenti e attivazione (32%)
 
-* Creare segmenti e attivarli nella destinazione
+* Creare un segmento e attivarlo nella destinazione
 * Configurare nuove destinazioni
-* Applicare i concetti richiesti alle identità di destinazione nelle destinazioni
-* Identificare le mappature degli attributi e la pianificazione dei segmenti sulla destinazione
+* Applicare i concetti necessari per eseguire il targeting delle identità nelle destinazioni
+* Identificare le mappature degli attributi e la pianificazione dei segmenti nella destinazione
 
 Sezione 2: Privacy e governance dei dati (20%)
 
-* Dimostrare di comprendere le politiche DULE e il loro impatto sulla disponibilità dei dati nelle destinazioni
-* Assicurare il rispetto delle misure relative alla privacy e alla conformità dei dati
+* Dimostrare una comprensione delle politiche DULE e del loro impatto sulla disponibilità dei dati nelle destinazioni
+* Garantire il rispetto delle misure relative alla privacy e alla conformità dei dati
 
-Sezione 3: Analisi aziendale (30%)
+Sezione 3: analisi aziendale (30%)
 
-* Identificare i casi d’uso che si legano ai KPI aziendali
-* Eseguire analisi dei dati sui segmenti di clienti in Platform
-* Dimostrare la comprensione dei concetti relativi al flusso di dati
+* Identificare i casi d’uso che si ricollegano ai KPI aziendali
+* Eseguire l’analisi dei dati sui segmenti dei clienti in Platform
+* Dimostrare una comprensione dei concetti del flusso di dati
 
 Sezione 4: Schemi e profili (18%)
 
-* Dimostrare di comprendere l&#39;Adobe [!DNL Experience Platform] concetti
-* Utilizzare le funzionalità del profilo
+* Dimostrare la comprensione di Adobe [!DNL Experience Platform] concetti
+* Utilizzare le funzioni del profilo
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Domande di esempio**
 
-Le domande di esempio ti consentono di vedere il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario alcun accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
 
-[Domande di esempio](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
+[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
 **Sezione 1: Segmenti e attivazione**
 
 * [Panoramica del servizio di segmentazione](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
 * [Creare segmenti sequenziali](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
 * [Valutare e accedere ai risultati dei segmenti](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=en){target="_blank"}
-* [Guida all’interfaccia utente del servizio di segmentazione](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
+* [Guida dell’interfaccia utente di Segmentation Service](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
 * [Panoramica sulle destinazioni](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [Tipi di destinazione e categorie](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [Attivare i dati del pubblico nelle destinazioni di esportazione del profilo in streaming](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
+* [Tipi e categorie di destinazione](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
+* [Attivare i dati del pubblico nelle destinazioni di esportazione del profilo di streaming](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
 * [Creazione di una nuova connessione di destinazione](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
 
 **Sezione 2: Identità e governance dei dati**
 
-* [Panoramica dello spazio dei nomi identità](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=it){target="_blank"}
+* [Panoramica sullo spazio dei nomi delle identità](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=it){target="_blank"}
 * [Panoramica sulla governance dei dati](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=it){target="_blank"}
 
-**Sezione 3: Analisi aziendale**
+**Sezione 3: analisi aziendale**
 
 * [Panoramica sull’acquisizione dei dati](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=it){target="_blank"}
 * [Monitorare i flussi di dati in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
 * [Applicazioni Privacy Service e Experience Cloud](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
-* [Panoramica sull&#39;applicazione dei criteri](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
+* [Panoramica sull’applicazione dei criteri](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
 
 **Sezione 4: Schemi e profili**
 
 * [Panoramica del sistema XDM](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=it){target="_blank"}
 * [Panoramica del profilo cliente in tempo reale](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
-* [Guida all’interfaccia utente dello schema dell’unione](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=it){target="_blank"}
+* [Guida dell’interfaccia utente dello schema di unione](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Fai un test pratico**
+**Esegui un test di esercitazione**
 
-Prima di iniziare, consigliamo di effettuare il test gratuito. Avrai accesso illimitato a tutti i test di esercitazione disponibili per gli esami a livello di esperti di Adobe.
+Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
 
-I nostri test sono tutti sviluppati partendo dallo stesso modello degli esami in diretta. Il test di esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
+I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
 
-Ricordare che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
+Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
 
-Vai a [Portale di preparazione all&#39;esame di certificazione di Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E602
+### Numero esame: AD0-E602
 
-[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602 newtab=true"}
+[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

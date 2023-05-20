@@ -4,7 +4,7 @@ description: Scopri come diventare un Adobe certificato Doc Cloud Professional.
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Adobe Doc Cloud disponibile a maggio 2023" type="positivo"
+badge: label="Adobe Doc Cloud in arrivo maggio 2023" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
@@ -23,4 +23,4 @@ Scopri come diventare un Adobe certificato Doc Cloud Professional.
 
 >[!NOTE]
 >
->Disponibile a partire da maggio 2023
+>In arrivo a maggio 2023

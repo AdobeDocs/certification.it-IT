@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione Real-Time CDP
+title: Panoramica certificazione Real-Time CDP
 description: Panoramica delle opzioni di certificazione per Adobe Real-Time CDP
 solution: Real-time Customer Data Platform
 exl-id: 389377d8-5a73-418a-afb4-9428d3aef990
@@ -10,7 +10,7 @@ ht-degree: 7%
 
 ---
 
-# Panoramica sulla certificazione Real-Time CDP
+# Panoramica certificazione Real-Time CDP
 
 **Professionale**
 
@@ -18,6 +18,6 @@ ht-degree: 7%
 
 **Esperto**
 
-* [Tecnico](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
+* [Professionista](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

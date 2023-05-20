@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione di Analytics
+title: Panoramica della certificazione di Analytics
 description: Panoramica delle opzioni di certificazione per Adobe Analytics
 solution: Analytics
 product: Analytics
@@ -11,7 +11,7 @@ ht-degree: 12%
 
 ---
 
-# Panoramica sulla certificazione di Analytics
+# Panoramica della certificazione di Analytics
 
 **Professionale**
 
@@ -27,4 +27,4 @@ ht-degree: 12%
 
 * [Architetto](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

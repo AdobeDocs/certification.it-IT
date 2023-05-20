@@ -1,6 +1,6 @@
 ---
-title: Rinnovo della certificazione
-description: Scopri come rinnovare il tuo [!DNL Experience Platform] certificazione [!DNL Real-Time Customer Data Platform].
+title: Rinnovo certificazione
+description: Scopri come rinnovare il [!DNL Experience Platform] certificazione in [!DNL Real-Time Customer Data Platform].
 solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
@@ -14,19 +14,19 @@ ht-degree: 1%
 
 ---
 
-# Rinnova il tuo Adobe [!DNL Real-Time CDP] certificazione
+# Rinnovare l’Adobe [!DNL Real-Time CDP] certificazione
 
-La tua certificazione Adobe è valida per due anni. Se ti avvicini a questa soglia di due anni, è il momento di rinnovare la certificazione per mantenerla attiva.
+Il tuo Adobe di certificazione è valido per due anni. Se ti avvicini a questo periodo di due anni, è ora di rinnovare la certificazione per mantenerla attiva.
 
-Innanzitutto, seleziona il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la tua certificazione.
+Selezionare innanzitutto il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la certificazione.
 
-Assicurati di avere un ampio tempo per completare tutti i requisiti prima della scadenza della certificazione.
+Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti prima della scadenza della certificazione.
 
-È importante notare che se la tua certificazione scade, dovrai ripetere l&#39;esame di certificazione, che NON è gratuito.
+È importante notare che se la certificazione scade, dovrai sostenere nuovamente l&#39;esame di certificazione, che NON è gratuito.
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only** dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,18 +34,18 @@ Assicurati di avere un ampio tempo per completare tutti i requisiti prima della 
 
 >[!NOTE]
 >
->Rinnovo professionale in arrivo.
+>Prossimamente il rinnovo professionale.
 
 >[!TAB Esperto]
 
 >[!NOTE]
 >
->Prossimamente verrà rinnovato un esperto.
+>Il rinnovo degli esperti sarà presto disponibile.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

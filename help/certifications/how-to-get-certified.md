@@ -1,5 +1,5 @@
 ---
-title: Ottieni la certificazione all'Adobe
+title: Ottieni la certificazione Adobe
 description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse necessarie prima, durante e dopo la certificazione.
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -19,140 +19,140 @@ Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse neces
 
 >[!TAB Registrazione]
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati: [!DNL PSI] e [!DNL Examity].
+L&#39;Adobe utilizza due fornitori per l&#39;amministrazione degli esami controllati: [!DNL PSI] e [!DNL Examity].
 
-* **[!DNL PSI]:** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **[!DNL PSI]:** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]:** offre un&#39;opzione online remota
 
-**Segui questi passaggi per registrarti all’esame di certificazione:**
+**Per registrarti all’esame di certificazione, segui la procedura riportata di seguito:**
 
-* **Passaggio 1:** Accesso al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
-* **Passaggio 2:** Torna a questo sito e fai clic sulle certificazioni tecniche.
+* **Passaggio 1:** Accesso riuscito a [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Passaggio 2:** Torna a questo sito e fai clic su Certificazioni tecniche.
 * **Passaggio 3:** Scegli la soluzione di Adobe, il livello di certificazione e il ruolo
-* **Passaggio 4:** Segui i passaggi forniti in **Ottieni certificato** sezione .
+* **Passaggio 4:** Segui i passaggi descritti in **Ottieni certificazione** sezione.
 
 **Risorse**
 
 **PSI:**
 
-* [Come registrarsi per un esame in un centro di test](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
+* [Come registrarsi a un esame presso un Centro di prova](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
-Esperienza:
+Esempio:
 
-* [Come registrarsi per un esame online registrato](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
-* [Come avviare l&#39;esame e connettersi al processore](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Come registrarsi a un esame online in cerca di competenza](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
+* [Come avviare l&#39;esame e connettersi al proiettore](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
 
->[!TAB Prendere il tuo esame]
+>[!TAB Sostegno all&#39;esame]
 
-Le [profilo](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Il nome nel sistema di gestione delle credenziali Adobe deve corrispondere esattamente all&#39;ID governativo. Se non si dispone di informazioni identiche o di eventuali disallineamenti, il processore interromperà l&#39;esame e sarà necessario riprogrammare l&#39;appuntamento oltre a pagare una tassa di esame aggiuntiva.
+Il tuo [profilo](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Il nome nell&#39;Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
 
-Le cancellazioni e le ripianificazioni sono possibili se avviate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare direttamente questo appuntamento.
+Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
-Né il supporto Adobe né i fornitori di esami possono elaborare le richieste di riprogrammazione e cancellazione. Le cancellazioni inferiori a 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa di esame.
+Né il Supporto Adobe né i fornitori di esami possono elaborare richieste di riprogrammazione e annullamento. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
 
-Una volta completato un esame, si riceve un pass provvisorio o un errore. Il punteggio finale può richiedere fino a 72 ore per essere compilato. Troverai il rapporto dei risultati e dei punteggi nella scheda Cronologia nella sezione [Gestione credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+Una volta completato un esame, si riceve un pass provvisorio o si fallisce. Il punteggio finale può richiedere fino a 72 ore per essere popolato. Troverai il rapporto sui risultati e il punteggio nella scheda Cronologia della sezione [Gestione credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
 
-Se non passi un esame di certificazione Adobe al primo tentativo, devi aspettare almeno 24 ore prima di ripetere l&#39;esame. Il mancato superamento di un esame sul secondo o su qualsiasi tentativo successivo richiede un periodo di attesa di 14 giorni di calendario prima di ripetere l&#39;esame. Ogni tentativo sarà soggetto a una tassa di esame separata.
+Se non riesci a superare un esame di certificazione di Adobe al primo tentativo, devi attendere almeno 24 ore prima di ripetere l&#39;esame. Il mancato superamento di un esame al secondo o ad ogni tentativo successivo richiede un periodo di attesa di 14 giorni di calendario prima di ripetere l&#39;esame. Ogni tentativo sarà soggetto a una tassa d&#39;esame separata.
 
->[!TAB Costo degli esami]
+>[!TAB Costo esami]
 
 Questi sono i costi correnti per gli esami di certificazione.
 
-![Badge costo esame](/help/certifications/assets/exam_costs_new.png)
+![Distintivo costo esame](/help/certifications/assets/exam_costs_new.png)
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, viene applicato al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, questo viene applicato al momento del pagamento.
 
-**Sconti dei partner**
+**Sconti partner**
 
-Bronze e i partner superiori ricevono sconti su tutti gli esami e le lezioni di certificazione Adobe. Per saperne di più su questo sconto e su come accedere ai vantaggi per i partner, consulta [Portale dei partner della soluzione](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
+I partner Bronze e superiori ottengono sconti su tutti gli esami e le classi di certificazione Adobi. Per ulteriori informazioni su questi sconti e su come accedere ai vantaggi per i partner, vedere [Portale per i partner delle soluzioni](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
 
 **Altri sconti**
 
-Inoltre, tutti i candidati possono ricevere uno sconto sugli acquisti in massa di 10 o più esami quando acquistano tramite il [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Inoltre, tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite il [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 **Livelli di sconto in blocco**
 
-Nota: Gli sconti in blocco non possono essere combinati con qualsiasi altra offerta o sconto.
+Nota: gli sconti collettivi non possono essere combinati con altre offerte o sconti.
 
-| Quantità | Sconto percentuale |
+| Quantità | % sconto |
 | ------- | ------- |
 | 10-24 | 20% |
 | 25-49 | 25% |
 | 50+ | 33% |
 
->[!TAB Fornitori di attestazioni]
+>[!TAB Fornitori certificazione]
 
 Il team Adobe Credential collabora con i fornitori per supportare le iniziative e gli obiettivi del programma.  Di seguito sono elencati i fornitori e le relative informazioni di contatto:
 
-| Nome fornitore | Descrizione | Pagina di supporto/e-mail |
+| Nome fornitore | Descrizione | Pagina di supporto/E-mail |
 | ------- | ------- | ------- |
-| Fidanzato | Sistema di gestione dei badge | [- Supporto](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Estrema | Fornitore di servizi di distribuzione di test (solo monitoraggio online) | [E-mail](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
-| PSI | Produttore di consegna del test per esami protetti in un luogo o in giapponese | [E-mail](mailto:adobe.psisupport@psionline.com){target="_blank"} |
-| Xvoucher - Adobe di certificazione Voucher Center | Centro voucher per l&#39;acquisto di voucher individuali o di massa | [E-mail](mailto:support@xvoucher.com){target="_blank"} o [Guida in linea](https://help.xvoucher.com/hc/en-us) |
+| Credendo | Sistema di gestione dei badge | [- Supporto](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+| Esamina | Fornitore consegna di prova (solo Online Proctoring) | [E-mail](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
+| PSI | Fornitore di test consegna per gli esami gestiti in una località o in giapponese | [E-mail](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher - Adobe Certification Voucher Center | Centro voucher per l&#39;acquisto di voucher singoli o in blocco | [E-mail](mailto:support@xvoucher.com){target="_blank"} o [Guida in linea](https://help.xvoucher.com/hc/en-us) |
 
 Altre risorse fornitore:
 
-**Estrema**
+**Esamina**
 
-* [Guida alla protezione online di Examity](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
+* [Guida all’esplorazione di Examity Online](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
 * [Domande frequenti](https://www.examity.com/faq/test-takers/){target="_blank"}
-* [Requisiti del sistema del soggetto che effettua la prova di esame](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [Requisiti del sistema della prova d&#39;esame](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
 >
->Adobe su Examity Classic
+>L’Adobe è su Examity Classic
 
 Video utili:
 
-* [Primo banco di prova](https://vimeo.com/394506654){target="_blank"}
-* [Come programmare l&#39;appuntamento del test](https://vimeo.com/394506786){target="_blank"}
-* [Come riprogrammare l&#39;appuntamento del test](https://vimeo.com/394507149){target="_blank"}
-* [Come annullare l&#39;appuntamento del test](https://vimeo.com/394507135){target="_blank"}
+* [Esecuzione del primo test](https://vimeo.com/394506654){target="_blank"}
+* [Come pianificare l’appuntamento per il test](https://vimeo.com/394506786){target="_blank"}
+* [Come riprogrammare l’appuntamento per il test](https://vimeo.com/394507149){target="_blank"}
+* [Annullare l’appuntamento del test](https://vimeo.com/394507135){target="_blank"}
 * [Come effettuare il test online](https://vimeo.com/394506686){target="_blank"}
 
 Domande frequenti su Adobe Certification Voucher Center (Xvoucher)
 
-+++Quando scadono i buoni d&#39;esame? Per quanto tempo fanno bene?
++++Quando scadono i giustificativi per gli esami? Per quanto tempo sono buoni?
 
-I voucher per gli esami di Adobe scadono 12 mesi dopo l&#39;acquisto. I voucher non possono essere estesi oltre la data di scadenza. Le registrazioni degli esami devono essere pianificate, pagate e prese prima della data di scadenza del voucher degli esami.
+I buoni Adobe scadono 12 mesi dopo l&#39;acquisto. I voucher non possono essere estesi oltre la data di scadenza. Le iscrizioni all&#39;esame devono essere programmate, pagate e prese prima della data di scadenza del voucher dell&#39;esame.
 
 +++
 
-+++È possibile restituire buoni per il credito o il rimborso?
++++I voucher possono essere restituiti per il credito o il rimborso?
 
-_Tutte le vendite sono finali._ Restituzioni e rimborsi non accettati. I buoni Adobi per gli esami sono acquistati a livello di esame, non per gli esami specifici, e questo offre flessibilità.
+_Tutte le vendite sono definitive._ Non sono accettati restituzioni e restituzioni. I voucher per gli esami Adobi vengono acquistati a livello di esame, non per esami specifici, e ciò offre flessibilità.
 
-* Esempio: Quando acquisti 10 voucher per esami a livello di Adobe Certified Expert e li distribuisci, non devi sapere in anticipo o pianificare chi prenderà quale esame di Expert.
-* Gli amministratori possono assegnare il voucher a un utente e vedere se il voucher è stato visualizzato, riscattato o quando l&#39;esame è pianificato o ha avuto luogo.
+* Esempio: quando si acquistano 10 buoni per esami di livello Adobe Certified Expert e li si distribuisce, non è necessario sapere in anticipo o pianificare chi prenderà quale esame Expert.
+* Gli amministratori possono assegnare il voucher a un utente per verificare se è stato visualizzato, riscattato o quando è stato programmato o svolto l&#39;esame.
 
 +++
 
 +++Che tipo di pagamenti sono accettati?
 
-Il pagamento può essere effettuato da (tutte le principali) carte di credito. I pagamenti tramite carta di credito richiedono l&#39;accettazione di un contratto online di click-wrap. Le diverse opzioni di pagamento sono:
+Il pagamento può essere effettuato con (tutte le principali) carte di credito. I pagamenti tramite carta di credito richiedono l’accettazione di un contratto di click-wrap online. Le diverse opzioni di pagamento sono:
 
-* Cavo, ordine di acquisto o ACH: Crea un ordine di acquisto nel sistema Xvoucher che può essere stampato e inviato al reparto contabilità fornitori. Tale ordine sarà approvato al ricevimento del bonifico o controllo via cavo.
-* Carta di credito: Tutte le principali carte di credito accettate.
-* Portafoglio: Questo sottrarrà l&#39;importo dell&#39;ordine dal tuo pool Xwallet.
-
-+++
-
-+++ C&#39;è un numero minimo o massimo di buoni che posso acquistare?
-
-No, non c&#39;è un minimo o un massimo. Gli acquisti da parte dei clienti sono limitati solo sulla base dei fondi disponibili, ad esempio un limite di carte di credito o un saldo del conto bancario per i bonifici.
+* Cablaggio, ordine di acquisto o ACH: creare un ordine di acquisto nel sistema Xvoucher che può essere stampato e inviato al reparto contabilità fornitori. Tale ordine sarà approvato al ricevimento del bonifico o dell’assegno.
+* Carta di credito: tutte le principali carte di credito accettate.
+* Xwallet: questo sottrarrà l&#39;importo dell&#39;ordine dal tuo pool Xwallet.
 
 +++
 
-+++Quanto tempo ci vorrà per accedere ai voucher dopo aver effettuato il mio ordine?
++++Esiste un numero minimo o massimo di voucher che posso acquistare?
 
-I voucher saranno disponibili immediatamente dopo l&#39;acquisto se pagano tramite carta di credito o Xwallet.
+No, non esiste un minimo o un massimo. Gli acquisti dei clienti sono limitati solo in base ai fondi disponibili, ad esempio un limite della carta di credito o il saldo del conto bancario per i bonifici.
 
-* Se si acquista per se stessi, i codici voucher verranno forniti sullo schermo e in e-mail.
++++
+
++++Quanto tempo ci vorrà per avere accesso ai voucher dopo aver effettuato l&#39;ordine?
+
+I voucher saranno disponibili subito dopo l&#39;acquisto se si paga tramite carta di credito o Xwallet.
+
+* Se effettui acquisti per conto tuo, i codici dei voucher verranno forniti sullo schermo e via e-mail.
 * Se acquisti per altri, accedi al tuo account Xvoucher e distribuisci i voucher agli utenti finali da lì.
-* Se si effettua il pagamento tramite filo o ordine di acquisto, gli ordini di voucher saranno svincolati quando Xvoucher ha ricevuto i fondi.
+* Se si effettua il pagamento tramite bonifico bancario o ordine di acquisto, gli ordini dei voucher verranno rilasciati quando Xvoucher avrà ricevuto i fondi.
 
 [Guida in linea](https://help.xvoucher.com/){target="_blank"}
 
@@ -160,51 +160,51 @@ I voucher saranno disponibili immediatamente dopo l&#39;acquisto se pagano trami
 
 +++Come posso accedere al mio account Xvoucher?
 
-Accedi semplicemente al tuo account [qui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+Accedi al tuo account [qui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
 
 +++
 
 +++Come posso accedere al mio voucher Adobe?
 
-Dopo aver assegnato un voucher, riceverai un&#39;e-mail da support@xvoucher.com con un codice voucher e istruzioni su come riscattare il voucher. Se non hai ricevuto un’e-mail, controlla la cartella spam. Se non riesci ancora a trovare l&#39;e-mail, puoi accedere al tuo account Xvoucher.
+Dopo aver assegnato un voucher, riceverai un&#39;e-mail da support@xvoucher.com con un codice e istruzioni su come riscattare il voucher. Se non hai ricevuto un’e-mail, controlla la cartella di posta indesiderata. Se non riesci ancora a trovare l’e-mail, puoi accedere al tuo account Xvoucher.
 
 +++
 
-+++È possibile restituire buoni per il credito o il rimborso?
++++I voucher possono essere restituiti per il credito o il rimborso?
 
-Tutte le vendite sono finali. Restituzioni e rimborsi non accettati. I voucher per esami di Adobe vengono acquistati a livello di esame, non per esami specifici, il che offre una grande flessibilità.
+Tutte le vendite sono definitive. Non sono accettati restituzioni e restituzioni. I voucher per esami di Adobe vengono acquistati a livello di esame, non per esami specifici, il che offre grande flessibilità.
 
 +++
 
 >[!TAB Gestione del profilo di certificazione]
 
-Le sezioni e i collegamenti seguenti funzioneranno solo dopo l’accesso al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+Le sezioni e i collegamenti seguenti funzioneranno solo dopo aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 
 | Collegamenti rapidi | Descrizione |
 | ------- | ------- | 
-| Sistema di gestione delle credenziali Adobe | [Accesso iniziale a Gestione credenziali Adobe](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profilo | [Pagina delle informazioni demografiche con la posizione del nome dell’account, l’indirizzo, l’azienda e così via. I nomi possono essere aggiornati solo come amministratore di Adobe](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
-| Identificazione | [Posizione dell’Adobe/ID di accesso. Di solito inizia con ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
-| Cronologia | [Visualizza il rapporto del punteggio e la cronologia degli esami](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
+| Adobe sistema di gestione delle credenziali | [Accesso iniziale ad Adobe Credential Management](https://www.certmetrics.com/adobe){target="_blank"} |
+| Profilo | [Pagina di informazioni demografiche con la posizione del nome dell’account, l’indirizzo, la società e così via. I nomi possono essere aggiornati solo da un amministratore Adobe](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Identificazione | [Posizione dell&#39;Adobe/ID di accesso. Di solito inizia con ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
+| Cronologia | [Visualizza il rapporto di punteggio e la cronologia degli esami](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certificazioni | [Visualizza tutte le certificazioni correnti e scadute](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 
->[!TAB Gestire i badge]
+>[!TAB Gestione dei badge]
 
-Una volta superato l&#39;esame di certificazione, riceverai un badge digitale Adobe Experience Cloud da Creds, un fornitore di servizi di credito digitale.
+Dopo aver superato l&#39;esame di certificazione, riceverai un distintivo digitale Adobe Experience Cloud da Creded, un fornitore di servizi di creazione di credenziali digitali.
 
-Il tuo badge è una prova tangibile della tua competenza con i prodotti Adobe Experience Cloud. Visualizzandola sui profili dei social media o riprendila, puoi dimostrare il tuo successo a potenziali datori di lavoro e clienti e mostrare le tue competenze in queste applicazioni.
+Il tuo badge è una prova tangibile della tua esperienza con i prodotti Adobe Experience Cloud. Visualizzandolo sui profili di social media o riprendendolo, puoi dimostrare il tuo successo a potenziali datori di lavoro e clienti e mostrare le tue competenze in queste applicazioni.
 
-**Per gli utenti esistenti, esistono due modi per accettare il tuo badge di certificazione Adobe:**
+**Per gli utenti esistenti, esistono due modi per accettare il tuo Adobe di badge di certificazione:**
 
-* **Passaggio 1:** Accedi [Fidanzato](https://www.credly.com/users/sign_in){target="_blank"}. _È necessario utilizzare la stessa e-mail utilizzata per ottenere le credenziali Adobi, altrimenti il badge non verrà visualizzato._
-* **Passaggio 2:** Oppure vai all&#39;e-mail che hai ricevuto da Creds per accettare il badge.
-* **Passaggio 3:** Accetta e condividi il tuo badge.
+* **Passaggio 1:** Accedi [Credendo](https://www.credly.com/users/sign_in){target="_blank"}. _Devi usare la stessa e-mail che hai usato per guadagnare le tue credenziali Adobi, altrimenti non vedrai il tuo distintivo._
+* **Passaggio 2:** Oppure vai all’e-mail che hai ricevuto da Creded per accettare il badge.
+* **Passaggio 3:** Accetta e condividi il tuo distintivo.
 
-**Per i nuovi utenti, segui le istruzioni riportate di seguito per accettare il tuo badge di certificazione Adobe:**
+**Per i nuovi utenti, segui le istruzioni riportate di seguito per accettare il distintivo di certificazione di Adobe:**
 
-* **Passaggio 1:** Vai all&#39;e-mail che hai ricevuto da Creds per accettare il badge.
-* **Passaggio 2:** Crea un account. _È necessario utilizzare la stessa e-mail utilizzata per ottenere le credenziali Adobi, altrimenti il badge non verrà visualizzato._
-* **Passaggio 3:** Accetta e condividi il tuo badge.
+* **Passaggio 1:** Vai all’e-mail ricevuta da Creded per accettare il badge.
+* **Passaggio 2:** Crea un account. _Devi usare la stessa e-mail che hai usato per guadagnare le tue credenziali Adobi, altrimenti non vedrai il tuo distintivo._
+* **Passaggio 3:** Accetta e condividi il tuo distintivo.
 
 [Ulteriori informazioni](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
@@ -212,6 +212,6 @@ Il tuo badge è una prova tangibile della tua competenza con i prodotti Adobe Ex
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

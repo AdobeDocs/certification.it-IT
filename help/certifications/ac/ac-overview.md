@@ -29,4 +29,4 @@ ht-degree: 16%
 
 * [Architetto](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

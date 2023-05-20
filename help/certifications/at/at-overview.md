@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione di Target
+title: Panoramica della certificazione di Target
 description: Panoramica delle opzioni di certificazione per Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
@@ -10,7 +10,7 @@ ht-degree: 7%
 
 ---
 
-# Panoramica sulla certificazione di Target
+# Panoramica della certificazione di Target
 
 **Professionale**
 
@@ -24,4 +24,4 @@ ht-degree: 7%
 
 * [Architetto](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

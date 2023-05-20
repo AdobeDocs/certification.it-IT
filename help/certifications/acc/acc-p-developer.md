@@ -4,7 +4,7 @@ description: Scopri come diventare un Adobe Developer Professional certificato i
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E331" type="positivo"
+badge: label="Esame AD0-E331" type="positivo"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -23,13 +23,13 @@ Scopri come diventare un Adobe Developer Professional certificato.
 Dovresti avere:
 
 * Almeno un anno di Adobe [!DNL Campaign Classic] esperienza software
-* Almeno un anno di esperienza combinata nella programmazione JavaScript, nello sviluppo SQL, incluso ETL, e nelle tecnologie web (XML, HTML e servizi web)
-* Informazioni di base sull’automazione del marketing
-* Informazioni sui concetti del database relazionale
+* Almeno un anno di esperienza combinata nella programmazione JavaScript, nello sviluppo SQL, incluso ETL, e nelle tecnologie Web (XML, HTML e servizi Web)
+* Conoscenza di base dell’automazione del marketing
+* Informazioni sui concetti dei database relazionali
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -39,107 +39,107 @@ Dovresti avere:
 
 * Consulente associato
 * Consulente tecnico junior
-* Tecnico di marketing junior
-* Sviluppatore di campagne Junior
+* Junior Marketing Technology Engineer
+* Sviluppatore Junior Campaign
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Professionale (esperienza da 0 a 12 mesi)
-* Punteggio di passaggio: 03/03/50
-* Ora: 100 min
-* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
-* Lingue disponibili: Inglese
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 33/50
+* Tempo: 100 minuti
+* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
+* Lingue disponibili: inglese
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E331
 
 **Autovalutazione della preparazione**
 
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica di candidato minimo consigliata.
+Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
-Sezione 1: Configurazione del sistema (25%)
+Sezione 1: configurazione del sistema (25%)
 
-* Dimostrare la configurazione a livello di sistema delle impostazioni nel nodo Amministrazione
-* Applicare il processo per estendere lo schema Destinatario OOTB
+* Dimostrare la configurazione delle impostazioni a livello di sistema nel nodo Amministrazione
+* Applicare il processo per estendere lo schema destinatario OOTB
 * Definire i dettagli dello schema (chiavi primarie, chiavi primarie automatiche, indici del database)
-* Distinguere gli usi applicabili dei rendering dei moduli
-* Distinguere le impostazioni di configurazione a livello di sistema che influiscono sul livello di area di lavoro/progetto
+* Distinguere gli utilizzi applicabili dei rendering dei moduli
+* Distinguere le impostazioni di configurazione a livello di sistema che influiscono sul livello di workspace/progetto
 * Identificare le impostazioni di configurazione per gli account esterni SFTP
-* Identificare le impostazioni di configurazione per le enumerazioni Apri e Chiuso
-* Tipi di regole di tipologia differenziata
-* Identificare i requisiti per utilizzare una mappa di destinazione personalizzata e i suoi effetti sulla funzionalità OOTB
-* Descrivi in che modo i tipi di pubblico generati esternamente da altre soluzioni Adobe Experience Cloud sono accessibili in Adobe [!DNL Campaign Classic]
-* Descrivere il caso d’uso aziendale per le interazioni e le offerte
-* Descrivere il caso di utilizzo aziendale per Message Center
+* Identificare le impostazioni di configurazione per le enumerazioni Open e Closed
+* Differenziare i tipi di regole di tipologia
+* Identificare i requisiti per utilizzare una mappa di destinazione personalizzata e i relativi effetti sulle funzionalità OOTB
+* In Adobe, descrivi come accedere ai tipi di pubblico generati esternamente da altre soluzioni Adobe Experience Cloud [!DNL Campaign Classic]
+* Descrivi il caso di utilizzo aziendale per interazioni e offerte
+* Descrivi il caso di utilizzo aziendale per il Centro messaggi
 * Identificare la funzionalità di importazione dati API V8
 
 Sezione 2: Personalizzazione (16%)
 
-* Applica il processo di modifica degli schemi di Campaign
+* Applicare il processo per modificare gli schemi di Campaign
 * Identificare le impostazioni per garantire la corretta estensione dello schema o configurare schemi personalizzati
-* Descrivere il caso d&#39;uso per le opzioni personalizzate
-* Descrivere il caso d’uso per gli elenchi di sementi
-* Modificare l’app Web opt-out/annullamento dell’abbonamento OOTB
-* Applicazione del processo per la creazione dei componenti di gestione dei contenuti
+* Descrivi il caso d’uso per le opzioni personalizzate
+* Descrivi il caso d’uso per Seedlist
+* Modificare l’app web per la rinuncia o l’annullamento dell’abbonamento
+* Applicare il processo per creare i componenti Content Management
 * Identificare i casi d’uso per utilizzare la gestione dei contenuti
 * Applica al processo per aggiornare i moduli OOTB
 
 Sezione 3: Sicurezza operativa (10%)
 
-* Descrizione del processo per l&#39;aggiunta di gruppi e ruoli utente
-* Applica il processo per tradurre la matrice di gestione utente con i diritti utente e la gerarchia corretti
+* Descrivere il processo per l’aggiunta di gruppi di utenti e ruoli
+* Applicare il processo per tradurre la matrice di gestione utenti con diritti utente e gerarchia corretti
 * Identificare e definire le autorizzazioni corrette
-* Identificare la zona di sicurezza per un gruppo di utenti
+* Identificare l’area di sicurezza per un gruppo di utenti
 
 Sezione 4: Flussi di lavoro tecnici (29%)
 
 * Applicare il processo di importazione/esportazione
-* Identificare le diverse origini di dati a cui un flusso di lavoro può accedere
-* Applicazione del processo di trasformazione dei dati e manipolazione della tabella di lavoro
-* Enumera le attività del flusso di lavoro applicabili e le relative caratteristiche/proprietà
+* Identificare le diverse origini di dati a cui può accedere un flusso di lavoro
+* Applicare il processo per trasformare i dati e manipolare la tabella di lavoro
+* Enumera le attività del flusso di lavoro applicabili e le relative funzioni/proprietà
 * Applica il processo per configurare le proprietà del flusso di lavoro
-* Estendere la funzionalità dell’attività utilizzando l’editor espressioni
-* Distinguere la differenza tra i flussi di lavoro OOTB e i flussi di lavoro creati dagli utenti
-* Spiegare lo scopo dei flussi di lavoro OOTB
+* Estendere la funzionalità dell’attività tramite l’Editor espressioni
+* Distinguere la differenza tra flussi di lavoro integrati e flussi di lavoro creati dall&#39;utente
+* Spiegare lo scopo dei flussi di lavoro integrati
 * Risolvere i problemi relativi ai flussi di lavoro personalizzati
 * Differenziare tra i tipi di variabili e il loro ambito e utilizzo
 * Identificare le variabili OOTB e il loro utilizzo
-* Applicare il processo per configurare avvisi e approvazioni
+* Applica il processo per configurare avvisi e approvazioni
 * Identificare i tipi di database delle campagne
 
-Sezione 5: Manutenzione istanze (4%)
+Sezione 5: Manutenzione dell’istanza (4%)
 
-* Identificare gli errori dai diversi log di servizio
-* Spiegare le letture del Workflow Heatmap
+* Identificare gli errori da diversi registri del servizio
+* Spiegare le letture della mappa di calore del flusso di lavoro
 
-Sezione 6: Configurazione della campagna (14%)
+Sezione 6: configurazione di Campaign (14%)
 
-* Applica il processo per creare campagne utilizzando i modelli di Campaign
-* Descrizione del processo di creazione delle approvazioni
-* Identificare gli errori analizzando i registri di controllo
-* Identifica l’utilizzo di diverse consegne, in base a uno scenario di campagna
+* Applicare il processo per creare campagne utilizzando i modelli di Campaign
+* Descrivere il processo di creazione delle approvazioni
+* Identificare gli errori analizzando i registri di audit
+* Identifica l’utilizzo di diverse consegne, in base a uno scenario della campagna
 * Definire il processo per creare il processo avanzato nei flussi di lavoro
-* Descrizione dei metodi di esecuzione del flusso di lavoro
+* Descrivere i metodi di esecuzione dei flussi di lavoro
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Domande di esempio**
 
-Le domande di esempio ti consentono di vedere il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario alcun accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
 
-[Domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
-**Sezione 1: Configurazione del sistema**
+**Sezione 1: configurazione del sistema**
 
 * [Schemi di dati](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
 * [Estensione o creazione di schemi](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html?lang=en#extending-or-creating-schemas){target="_blank"}
 * [Struttura dello schema](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html?lang=en){target="_blank"}
-* [Elenco [!DNL Campaign Classic] options](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=it){target="_blank"}
+* [Elenco di [!DNL Campaign Classic] opzioni](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=it){target="_blank"}
 * [Configurare gli account esterni](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html%3Flang%3Dja){target="_blank"}
 * [Regole di tipologia](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en#typology-rules){target="_blank"}
 
@@ -162,16 +162,16 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 
 * [Introduzione all’importazione e l’esportazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=en){target="_blank"}
 * [Come utilizzare i dati dei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/how-to-use-workflow-data.html?lang=en){target="_blank"}
-* [Descrizione del modello dati di Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html?lang=en){target="_blank"}
+* [Descrizione del modello dati della campagna](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-description.html?lang=en){target="_blank"}
 * [Creare un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/building-a-workflow.html?lang=it){target="_blank"}
 * [Monitorare l’esecuzione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=it){target="_blank"}
 * [Impostare e gestire il processo di approvazione](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
 
-**Sezione 5: Manutenzione delle istanze**
+**Sezione 5: Manutenzione dell’istanza**
 
 * [Problemi dei registri di tracciamento](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/tracking-logs-issues.html?lang=en){target="_blank"}
 * [Precisione dei registri](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/working-with-log-toc/log-precision.html?lang=en){target="_blank"}
-* [Workflow HeatMap della campagna](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html?lang=en){target="_blank"}
+* [HeatMap del flusso di lavoro della campagna](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html?lang=en){target="_blank"}
 
 **Sezione 6: Configurazione della campagna**
 
@@ -182,36 +182,36 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 * [Introduzione ai flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
 * [Esecuzione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/troubleshooting-toc/common-general-issues-toc/workflow-execution.html?lang=en){target="_blank"}
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E331
+### Numero esame: AD0-E331
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E331 newtab=true"}[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E331 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

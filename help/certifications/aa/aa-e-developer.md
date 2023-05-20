@@ -1,12 +1,13 @@
 ---
 title: Certificazione Developer Expert
-description: Scopri come diventare certificato come [!DNL Adobe Analytics] Sviluppatore esperto.
+description: Scopri come ottenere la certificazione come [!DNL Adobe Analytics] Sviluppatore esperto.
 solution: Analytics
 product: Analytics
 role: Developer
-badge: label="Exam AD0-E209" type="positivo"
+badge: label="Esame AD0-E209" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1082'
 ht-degree: 9%
@@ -15,40 +16,40 @@ ht-degree: 9%
 
 # Percorso di certificazione per [!DNL Adobe Analytics] Sviluppatore esperto
 
-Scopri come diventare un certificato [!DNL Adobe Analytics] Sviluppatore esperto.
+Scopri come ottenere la certificazione [!DNL Adobe Analytics] Sviluppatore esperto.
 
 ## Esperienza minima
 
-Dovresti avere esperienza come consulente di implementazione in un ruolo ibrido con circa 2 anni di esperienza in [!DNL Adobe Analytics] implementazione. Agisci come ponte tra l’IT e l’azienda, traduce i requisiti aziendali in una soluzione tecnica (SDR) e in base ai requisiti forniti dall’analista, capisce quale tipo di variabile è necessaria, dove e come raccogliere i dati, progettare il modello dati (livello dati), configurare e gestire la soluzione di gestione tag.
+È necessaria un&#39;esperienza di consulente per l&#39;implementazione con un ruolo ibrido, con circa 2 anni di esperienza in [!DNL Adobe Analytics] implementazione. L’utente funge da ponte tra l’IT e l’azienda, traduce i requisiti aziendali in una soluzione tecnica (SDR) e, in base ai requisiti forniti dall’analista, comprende quale tipo di variabile è necessaria, dove e come raccogliere i dati, progetta il modello dati (livello dati), configura e gestisce la soluzione di gestione dei tag.
 
-Gli sviluppatori di Analytics raramente implementano i tag sulla pagina; vengono invece implementati dall&#39;IT o dall&#39;integratore di sistema.
+In qualità di sviluppatore di Analytics, i tag vengono raramente implementati sulla pagina, ma solo da IT o dall’integratore di sistemi.
 
-È necessario avere familiarità con i seguenti strumenti e ambienti:
+Devi acquisire familiarità con i seguenti strumenti e ambienti:
 
 Strumenti:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor pacchetti come Adobe Debugger, strumenti per sviluppatori browser, Charles)
-* [!DNL Adobe Analytics] Impostazioni suite di rapporti di Admin Console
+* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come Adobe Debugger, strumenti per sviluppatori del browser, Charles)
+* [!DNL Adobe Analytics] Impostazioni suite per report di Admin Console
 * Conoscenza di base di Workspace
 * Strumenti di sviluppo web, editor di codice e strumenti di debug per dispositivi mobili
 * Adobe Auditor
 * Regole di elaborazione
 * Regole di classificazione: regole di classificazione basate su regex
 * Errori JavaScript
-* Comprensione di base dei dati disponibili [!DNL Adobe Analytics] API correlate
+* Conoscenza di base delle [!DNL Adobe Analytics] API correlate
 * Integrazione Adobe I/O
 
 Ambienti:
 
 * Ambienti di sviluppo web front-end
-* Conoscenza dell’app mobile (limitazioni e differenze, ad esempio, perché è diversa dal web)
-* Il settore del marketing digitale
-* Conoscenza minima degli ambienti di sviluppo back-end, inclusi i sistemi operativi PC, Mac, Android/iOS (operazioni di base, non di sviluppo)
+* Conoscenza delle applicazioni mobili (limitazioni e differenze, ad esempio, perché sono diverse dal web)
+* Il campo del marketing digitale
+* Conoscenza minima degli ambienti di sviluppo back-end, inclusi i sistemi operativi PC, Mac, Android/iOS (operazioni di base, non sviluppo)
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -60,74 +61,74 @@ Ambienti:
 * Sviluppatori
 * Architetti
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Esperto (esperienza da 1 a 3 anni)
-* Punteggio di passaggio: 01/03/1950
-* Ora: 120 min
-* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
-* Lingue disponibili: Inglese
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 31/50
+* Tempo: 120 minuti
+* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
+* Lingue disponibili: inglese
 * Costo: $225 (globale) e $150 (India)
 * ID esame: AD0-E209
 
 **Autovalutazione della preparazione**
 
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica di candidato minimo consigliata.
+Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
-Sezione 1: Informazioni su Analytics nell’ecosistema Adobe Experience Cloud (10%)
+Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud (10%)
 
-* Dimostrare di conoscere l&#39;utilizzo di Adobe Experience Cloud ID
+* Dimostrare la conoscenza sull’utilizzo di Adobe Experience Cloud ID
 * Dimostrare la comprensione di Adobe Launch
 * Dimostrare la comprensione delle integrazioni comuni nell’ecosistema Adobe Experience Cloud
 
-Sezione 2: Strategia e design basati su un riferimento alla progettazione della soluzione (SDR) (6%)
+Sezione 2: strategia e progettazione basate su un riferimento di progettazione della soluzione (SDR, Solution Design Reference) (6%)
 
-* Interpretare un riferimento alla progettazione della soluzione per sviluppare un codice efficiente per l&#39;acquisizione dei dati
+* Interpretare un Solution Design Reference per sviluppare un codice efficiente per l&#39;acquisizione dei dati
 * Utilizzare le specifiche tecniche per popolare gli oggetti dati
 
 Sezione 3: Implementazione e configurazione di Analytics (36%)
 
-* Determinare quale ambiente distribuire [!DNL Adobe Analytics] Codice
-* Esegui un codice di distribuzione minimo per il tracciamento di Analytics
-* Configura vari componenti in [!DNL Adobe Analytics] Interfaccia
+* Determinare l’ambiente da distribuire [!DNL Adobe Analytics] Codice
+* Esegui un codice di implementazione minimo per il tracciamento di Analytics
+* Configurare vari componenti in [!DNL Adobe Analytics] UI
 * Configura [!DNL Adobe Analytics] impostazioni suite di rapporti e variabili
 * Utilizzare un livello di dati all’interno di una distribuzione
-* Esegui funzioni di tracciamento avanzate, ad esempio tracciamento dei collegamenti e stringhe di prodotti
+* Eseguire funzioni di tracciamento avanzate, come il tracciamento dei collegamenti e le stringhe di prodotto
 
 Sezione 4: Sistemi di gestione dei tag (20%)
 
 * Enumera i requisiti per distribuire Adobe Experience Platform Launch in [!DNL Adobe Analytics]
-* Applicare processi per configurare l’assegnazione tag ai siti web con Adobe Launch
-* Enumera i requisiti per abilitare le estensioni e Adobe Launch
+* Applicare i processi per configurare l’assegnazione tag al sito web con Adobe Launch
+* Enumera i requisiti per abilitare estensioni e Adobe Launch
 * Creare regole ed elementi dati
 
-Sezione 5: Mobile Services (8%)
+Sezione 5: Servizi mobili (8%)
 
-* Applicare processi per configurare ed eseguire un codice di pre-distribuzione di base per dispositivi mobili
+* Applica i processi per configurare ed eseguire un codice di pre-distribuzione di base per dispositivi mobili
 * Dimostrare la comprensione delle regole di elaborazione e dei servizi mobili
 
 Sezione 6: Test, convalida e risoluzione dei problemi (20%)
 
 * Risolvere i problemi relativi agli errori JavaScript
-* Risolvere i problemi [!DNL Adobe Analytics] variables
-* Consiglia di testare e eseguire il debug delle best practice
-* Risolvere i problemi di un [!DNL Adobe Analytics] chiamata al server nel suo ciclo di vita (dalla richiesta al beacon alla visualizzazione nel report)
+* Risoluzione dei problemi [!DNL Adobe Analytics] Variabili
+* Best practice consigliate per il test e il debug
+* Risolvere i problemi di un [!DNL Adobe Analytics] chiamata al server durante il suo ciclo di vita (ad es. dalla richiesta beacon alla visualizzazione nel rapporto)
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
-**Sezione 1: Informazioni su Analytics nell’ecosistema Adobe Experience Cloud**
+**Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud**
 
 * [Note tecniche di Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=it){target="_blank"}
 * [Impostazione degli ID di Analytics ed Experience Cloud](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=it){target="_blank"}
 * [Video e tutorial di Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=it){target="_blank"}
 
-**Sezione 2: Strategia e design basati su un riferimento alla progettazione della soluzione (SDR)**
+**Sezione 2: strategia e progettazione basate su un riferimento di progettazione della soluzione (SDR)**
 
 * [Gestire le risorse](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [[!DNL Adobe Analytics] Documentazione](https://experienceleague.adobe.com/docs/analytics.html?lang=it)
@@ -144,58 +145,58 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 * [Panoramica sui tag](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=it){target="_blank"}
 * [Panoramica](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
-**Sezione 5: Mobile Services**
+**Sezione 5: Servizi mobili**
 
 * [Implementazione di Analytics per dispositivi mobili](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [Migrazione delle regole di elaborazione di Mobile Services a [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
+* [Migrare le regole di elaborazione di Mobile Services in [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **Sezione 6: Test, convalida e risoluzione dei problemi**
 
 * [Panoramica di Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [Abilitazione, debug e personalizzazione del [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
+* [Abilitazione, debug e personalizzazione di [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Ottimizzare le prestazioni di Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=it){target="_blank"}
 
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Fai un test pratico**
+**Esegui un test di esercitazione**
 
-Prima di iniziare, consigliamo di effettuare il test gratuito. Avrai accesso illimitato a tutti i test di esercitazione disponibili per gli esami a livello di esperti di Adobe.
+Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
 
-I nostri test sono tutti sviluppati partendo dallo stesso modello degli esami in diretta. Il test di esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
+I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
 
-Ricordare che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
+Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
 
-Vai a [Portale di preparazione all&#39;esame di certificazione di Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E209
+### Numero esame: AD0-E209
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

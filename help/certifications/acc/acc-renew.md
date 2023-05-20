@@ -1,6 +1,6 @@
 ---
-title: Rinnovo della certificazione
-description: Scopri come rinnovare il tuo [!DNL Campaign Classic] certificazione prima della scadenza.
+title: Rinnovo certificazione
+description: Scopri come rinnovare il [!DNL Campaign Classic] certificazione prima della scadenza.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
@@ -14,19 +14,19 @@ ht-degree: 8%
 
 ---
 
-# Rinnova il tuo Adobe [!DNL Campaign Classic] certificazione
+# Rinnovare l’Adobe [!DNL Campaign Classic] certificazione
 
-La tua certificazione Adobe è valida per due anni. Se ti avvicini a questa soglia di due anni, è il momento di rinnovare la certificazione per mantenerla attiva.
+Il tuo Adobe di certificazione è valido per due anni. Se ti avvicini a questo periodo di due anni, è ora di rinnovare la certificazione per mantenerla attiva.
 
-Innanzitutto, seleziona il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la tua certificazione.
+Selezionare innanzitutto il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la certificazione.
 
-Assicurati di avere un ampio tempo per completare tutti i requisiti prima della scadenza della certificazione.
+Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti prima della scadenza della certificazione.
 
-È importante notare che se la tua certificazione scade, dovrai ripetere l&#39;esame di certificazione, che NON è gratuito.
+È importante notare che se la certificazione scade, dovrai sostenere nuovamente l&#39;esame di certificazione, che NON è gratuito.
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only** dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -34,82 +34,82 @@ Assicurati di avere un ampio tempo per completare tutti i requisiti prima della 
 
 >[!NOTE]
 >
->Rinnovo professionale in arrivo.
+>Prossimamente il rinnovo professionale.
 
->[!TAB Esperto e Maestro]
+>[!TAB Esperto e principale]
 
-Al momento devi essere certificato (non scaduto) in:
+Al momento dovresti essere certificato (non scaduto) in:
 
-* **Adobe [!DNL Campaign Classic] Sviluppatore esperto**
-* **Adobe [!DNL Campaign Classic] Professionista di Business Practices**
-* **Adobe [!DNL Campaign Classic] Architetto**
+* **Adobe [!DNL Campaign Classic] Esperto di sviluppatori**
+* **Adobe [!DNL Campaign Classic] Esperto di professionisti aziendali**
+* **Adobe [!DNL Campaign Classic] Architetto principale**
 
 ## Come rinnovare la certificazione:
 
-* **Passaggio 1**: Accesso eseguito a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: Rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: Prendere e superare l&#39;esame
+* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
+* **Passaggio 3**: sostenere e superare l’esame
 
 ### Preparati
 
-**Dettagli dell&#39;esame**
+**Dettagli esame**
 
-* Punteggio di passaggio: 05/04/1955
-* Ora: 110 min
-* Costo: GRATUITO/non processato
-* Consegna: On-demand
-* Lingue disponibili: Inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Classic] certificazione di esperti e/o master
+* Punteggio minimo: 42/55
+* Tempo: 110 minuti
+* Costo: GRATUITO/non protetto
+* Consegna: on-demand
+* Lingue disponibili: inglese
+* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Classic] certificazione esperto e/o principale
 * ID esame: AD5-E823
 
 **Ambito di applicazione e obiettivi**
 
 Sezione 1: Installazione e configurazione del sistema (23%)
 
-* In uno scenario, determinare quali opzioni utilizzare (ovvero, spostare gli elementi dallo stadio alla produzione)
-* Possibilità di utilizzare i pacchetti per migrare tra le istanze
+* In uno scenario, determina quali opzioni utilizzare (ad esempio, spostare gli elementi dalla fase alla produzione)
+* Possibilità di utilizzare i pacchetti per la migrazione tra le istanze
 * Spiegare in che modo le impostazioni della procedura guidata di distribuzione influiscono sul recapito messaggi
-* Descrivere l&#39;infrastruttura sottostante del modello di hosting disponibile ad Adobe [!DNL Campaign Classic] v8
-* Descrizione delle funzioni OOTB comunemente utilizzate
-* Spiegare l’integrazione con altri prodotti Adobe Experience Cloud
+* Descrive l’infrastruttura sottostante del modello di hosting disponibile, ad Adobe [!DNL Campaign Classic] v8
+* Descrizione delle funzioni OOTB di uso comune
+* Spiegazione dell&#39;integrazione con altri prodotti Adobe Experience Cloud
 * Spiegare l’integrazione utilizzando account esterni standard
 
 Sezione 2: Personalizzazione (18%)
 
 * Descrizione delle best practice per l’utilizzo delle funzioni SQL in Adobe Campaign
-* Descrizione delle best practice per lo sviluppo con JavaScript in Adobe Campaign
-* Dati un insieme di requisiti, applica le best practice intorno a un modello dati
+* Descrivere le best practice per lo sviluppo con JavaScript in Adobe Campaign
+* Considerata una serie di requisiti, applica le best practice intorno a un modello di dati
 * Descrizione dei requisiti e dei processi per la gestione degli accessi
 * Descrizione della gestione della struttura delle cartelle
 
 Sezione 3: Architettura dei dati (22%)
 
-* Identificare le differenze di archiviazione dei dati in v8
+* Identificare le differenze di archiviazione dei dati nella versione 8
 * Identificare i flussi di lavoro incorporati che sincronizzano i dati locali con il Snowflake
-* Spiegare quando utilizzare le tabelle di staging rispetto alle scritture dirette sul Snowflake
-* Identificare i nuovi comandi API nell’elaborazione in batch e quando/come utilizzare
-* In uno scenario, spiega come creare schemi personalizzati (come utilizzare altri schemi come modello, filtri di sistema, blocco dei dati, collegamenti).
-* Spiegare l’integrazione tra diverse soluzioni e Campaign come Adobe Experience Platform e Journey Optimizer
+* Spiegare quando utilizzare tabelle di gestione temporanea e scritture dirette nel Snowflake
+* Identificare i nuovi comandi API nell’elaborazione batch e quando e come utilizzare
+* Considerato uno scenario, spiega come creare schemi personalizzati (come utilizzare altri schemi come modello, filtri di sistema, blocco di dati, collegamenti)
+* Spiegare l’integrazione tra diverse soluzioni e Campaign, ad esempio Adobe Experience Platform e Journey Optimizer
 
 Sezione 4: Campagna, flusso di lavoro, consegna e reporting (37%)
 
 * Applicare le best practice per creare una campagna
-* In uno scenario, analizzare gli errori del flusso di lavoro
-* In uno scenario, analizzare gli errori di consegna in relazione alla mappatura del target
-* Descrivere le pratiche del flusso di lavoro che hanno un impatto negativo sulle prestazioni
-* In base a un caso d’uso, consigliamo di eseguire il targeting della progettazione del flusso di lavoro
+* Dato uno scenario, analizzare gli errori del flusso di lavoro
+* Considerato uno scenario, analizza gli errori di consegna relativi alla mappatura del target
+* Descrivere le procedure del flusso di lavoro che hanno un impatto negativo sulle prestazioni
+* Dato un caso d’uso, consiglia di progettare flussi di lavoro di targeting
 * Applicare le impostazioni di consegna e approvazione
-* In uno scenario, determina i report appropriati da generare
-* In uno scenario, seleziona l’approccio migliore per l’integrazione con origini dati esterne
+* Dato uno scenario, determina i rapporti appropriati da generare
+* Dato uno scenario, seleziona l’approccio migliore da integrare con origini dati esterne
 * Applicare tecniche di integrazione dei dati all’interno di un flusso di lavoro
 * Descrizione della funzionalità nella palette attività del flusso di lavoro
-* Risolvere i problemi o configurare un&#39;istanza utilizzando il Pannello di controllo Campaign
+* Risolvere i problemi o configurare un’istanza tramite Pannelli di controllo Campaign
 
-### Preparato
+### Preparati
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1: Installazione e configurazione del sistema**
 
@@ -127,9 +127,9 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 **Sezione 3: Architettura dei dati**
 
-* [Transizione da [!DNL Campaign Classic] v7 a Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
+* [Transizione da [!DNL Campaign Classic] Da v7 a Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
 * [Utilizzare origini e destinazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=it){target="_blank"}
-* [API specifiche della campagna FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
+* [API specifiche per campagne FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
 * [Informazioni su Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
 
 **Sezione 4: Campagna, flusso di lavoro, consegna e reporting**
@@ -139,20 +139,20 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 * [Arricchimento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
 * [Best practice per l’importazione e l’esportazione](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=it){target="_blank"}
 
-### Rinnova la certificazione
+### Rinnovare la certificazione
 
-Assicurati di aver seguito il passaggio 1 precedente e di aver effettuato l&#39;accesso a [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la tua certificazione, fai clic sul link Campaign Classic - AD5-823 qui sotto.
+Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul link Campaign Classic rinnovo - AD5-823 qui sotto.
 
-[Prendi l&#39;Adobe [!DNL Campaign Classic] rinnovo per Business Practitioner, Developer and Architect esame - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Prendi l’Adobe [!DNL Campaign Classic] Rinnovo per l&#39;esame da professionista, sviluppatore e architetto - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non processato. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, devi attendere **30 giorni** per riprovare. Il mancato rispetto potrebbe comportare la revoca della certificazione.
+>Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

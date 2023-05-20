@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione Campaign Standard
+title: Panoramica certificazione Campaign Standard
 description: Panoramica delle opzioni di certificazione per Adobe Campaign Standard
 solution: Campaign, Campaign Standard
 version: Standard
@@ -11,11 +11,11 @@ ht-degree: 5%
 
 ---
 
-# Panoramica sulla certificazione Campaign Standard
+# Panoramica certificazione Campaign Standard
 
 **Esperto**
 
 * [Professionista](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Sviluppatore](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

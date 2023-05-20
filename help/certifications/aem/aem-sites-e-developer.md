@@ -4,7 +4,7 @@ description: Scopri come diventare un Adobe certificato [!DNL Experience Manager
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E134" type="positivo"
+badge: label="Esame AD0-E134" type="positivo"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -22,26 +22,26 @@ Scopri come diventare un esperto Adobe Experience Manager certificato.
 
 Dovresti avere:
 
-* Un minimo di 1-3 anni di esperienza nell’utilizzo della piattaforma AEM
-* Possibilità di eseguire lo sviluppo avanzato dei componenti
-* Una comprensione approfondita del framework MVC (Model View Controller)
-* Conoscenza dei framework e delle biblioteche in AEM
-* Una comprensione del ciclo di vita AEM dello sviluppo
+* Un minimo di 1-3 anni di esperienza lavorativa con la piattaforma AEM
+* Capacità di eseguire lo sviluppo avanzato di componenti
+* Approfondimento del framework MVC (Model View Controller)
+* Conoscenza dei quadri e delle biblioteche dell&#39;AEM
+* Comprensione del ciclo di vita dello sviluppo dell&#39;AEM
 
-Inoltre, conosci le seguenti tecnologie e ambienti:
+Inoltre, hai familiarità con le tecnologie e gli ambienti seguenti:
 
 * JVM
-* Ambienti di pre-produzione/di basso livello
+* Ambienti di pre-produzione/di livello inferiore
 * Diverse funzionalità di hosting AEM
-* Sincronizzazione di contenuti/ambienti
+* Sincronizza contenuti/ambienti
 * Maven
 * Git
-* Strumenti di sviluppo e di imballaggio
-* Strumenti da riga di comando
+* Strumenti di sviluppo e packaging
+* Strumenti della riga di comando
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -50,70 +50,70 @@ Inoltre, conosci le seguenti tecnologie e ambienti:
 **Pubblico previsto:**
 
 * Sviluppatori AEM
-* Sviluppatori AEM
-* Sviluppatori AEM
+* Sviluppatori senior AEM
+* Sviluppatori leader AEM
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Esperto (esperienza da 1 a 3 anni)
-* Punteggio di passaggio: 26/05
-* Ora: 100 min
-* Consegna: Eseguiti online (richiede l&#39;accesso alla telecamera) o al centro di test processati
-* Lingue disponibili: Inglese
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 26/50
+* Tempo: 100 minuti
+* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
+* Lingue disponibili: inglese
 * Costo: $225 (globale) / $150 (India)
 * ID esame: AD0-E134
 
 **Autovalutazione della preparazione**
 
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica di candidato minimo consigliata.
+Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
 Sezione 1: Configurazioni (22%)
 
-* Identifica i passaggi per creare e gestire le configurazioni AEM dispatcher
-* Determinare i passaggi corretti per la configurazione di più tenancy
+* Identificare i passaggi per creare e gestire le configurazioni del dispatcher AEM
+* Determinare i passaggi corretti per configurare la multi-tenancy
 * Spiegare come creare e gestire le configurazioni OSGi
-* In uno scenario, determina il metodo corretto per creare e gestire indici OAK personalizzati
-* Determinare i passaggi corretti per configurare l&#39;integrazione OOTB SAML e LDAP
+* Considerato uno scenario, determina il metodo corretto per creare e gestire indici OAK personalizzati
+* Determinare i passaggi corretti per configurare l’integrazione SAML e LDAP OOTB
 
-Sezione 2: Sviluppo AEM (44%)
+Sezione 2: sviluppo AEM (44%)
 
-* Determinare i passaggi corretti per implementare SPA struttura, modelli e componenti
-* In base a una progettazione, crea componenti personalizzati tra cui HTL, modelli e servizi
-* Determinare il metodo corretto per creare unit test e mappare i dati di simulazione
-* In uno scenario, determina i passaggi corretti per sviluppare flussi di lavoro
-* In uno scenario, determina l’approccio per qualsiasi integrazione di terze parti
+* Determinare i passaggi corretti per implementare struttura, modelli e componenti dell’SPA
+* Data una progettazione, crea componenti personalizzati tra cui HTL, modelli e servizi
+* Determinare il metodo corretto per creare unit test e mappare dati fittizi
+* Considerato uno scenario, determina i passaggi corretti per sviluppare i flussi di lavoro
+* Dato uno scenario, determina l’approccio per qualsiasi integrazione di terze parti
 * Determinare l’approccio per implementare un’implementazione headless o ibrida
 
-Sezione 3: Build e distribuzione (14%)
+Sezione 3: build e implementazione (14%)
 
-* Identificare i passaggi per configurare e mantenere la gestione delle dipendenze front-end e back-end
-* Determinare l’archetipo corretto durante la creazione di progetti
+* Identificare i passaggi per impostare e gestire la gestione delle dipendenze front-end e back-end
+* Determinare l’archetipo corretto durante la creazione dei progetti
 
-Sezione 4: Manutenzione ambientale (22%)
+Sezione 4: Manutenzione dell’ambiente (22%)
 
-* In base a uno scenario, determina i passaggi necessari per gestire gli ambienti AEM
-* Spiegare i passaggi di configurazione relativi alla gestione del rilascio
-* Consiglia e implementa soluzioni per sincronizzare contenuti/configurazioni tra ambienti AEM
-* Determina i passaggi necessari per pianificare e implementare gli aggiornamenti AEM e le attività/attività di migrazione degli archivi
+* Considerato uno scenario, determina i passaggi necessari per gestire gli ambienti AEM
+* Spiegare i passaggi di configurazione per la gestione delle versioni
+* Consigliare e implementare soluzioni per sincronizzare contenuti/configurazioni tra gli ambienti AEM
+* Determinare i passaggi necessari per pianificare e implementare gli aggiornamenti AEM e le attività/attività di migrazione dell’archivio
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1: Configurazione**
 
 * [Introduzione a Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=it){target="_blank"}
 * [Panoramica di Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=it){target="_blank"}
-* [Video ed esercitazioni di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it){target="_blank"}
+* [Video e tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
 * [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 
-**Sezione 2: sviluppo AEM**
+**Sezione 2: Sviluppo dell’AEM**
 
 * [Guida utente allo sviluppo in AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 * [Guida introduttiva ad AEM Sites - Tutorial WKND](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=it){target="_blank"}
@@ -121,7 +121,7 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 
-**Sezione 3: Generazione e distribuzione**
+**Sezione 3: Build e implementazione**
 
 * [Introduzione ai Componenti core ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=it){target="_blank"}
 * [Guida utente allo sviluppo in AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
@@ -133,49 +133,49 @@ Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
 
 * [[!DNL Experience Manager as a Cloud Service] documentazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 * [Video ed esercitazioni di AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
-* [Implementazione e manutenzione](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=en){target="_blank"}
+* [Distribuzione e manutenzione](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=en){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Fai un test pratico**
+**Esegui un test di esercitazione**
 
-Prima di iniziare, consigliamo di effettuare il test gratuito. Avrai accesso illimitato a tutti i test di esercitazione disponibili per gli esami a livello di esperti di Adobe.
+Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
 
-I nostri test sono tutti sviluppati partendo dallo stesso modello degli esami in diretta. Il test di esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
+I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
 
-Ricordare che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
+Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
 
-Vai a [Portale di preparazione all&#39;esame di certificazione di Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E134
+### Numero esame: AD0-E134
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

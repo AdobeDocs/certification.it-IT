@@ -4,9 +4,10 @@ description: Scopri come diventare un professionista Adobe Developer certificato
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E717" type="positivo"
+badge: label="Esame AD0-E717" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 0%
@@ -19,9 +20,9 @@ Scopri come diventare un Adobe Developer Professional certificato.
 
 ## Esperienza minima
 
-Dovrebbe essere comodo lavorare in Adobe [!DNL Commerce] e hanno una comprensione di base dell&#39;Adobe [!DNL Commerce] sviluppo di amministratori, architettura, EAV/database, layout/interfaccia utente, checkout e vendite e catalogo.
+Lavorare in Adobe dovrebbe essere comodo [!DNL Commerce] e hanno una conoscenza di base dell’Adobe [!DNL Commerce] sviluppo, architettura, EAV/database, layout/interfaccia utente, pagamento e vendite e catalogo.
 
-Inoltre, devi avere familiarità con le seguenti tecnologie e ambienti:
+Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 * Adobe [!DNL Commerce] - versione 2.4
 * Buona comprensione del PHP
@@ -31,7 +32,7 @@ Inoltre, devi avere familiarità con le seguenti tecnologie e ambienti:
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -40,116 +41,116 @@ Inoltre, devi avere familiarità con le seguenti tecnologie e ambienti:
 **Pubblico previsto:**
 
 * Sviluppatori
-* Sviluppatori principali
-* Sviluppatore di backend
-* Architetti della soluzione
-* Leader tecnici
+* Sviluppatori Lead
+* Sviluppatore back-end
+* Architetti di soluzioni
+* Responsabili tecnici
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Professionale (esperienza da 0 a 12 mesi)
-* Punteggio di passaggio: 07/05/1977
-* Ora: 154 min
-* Consegna: Eseguita online (richiede l&#39;accesso alla telecamera)
-* Lingue disponibili: Inglese
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 50/77
+* Tempo: 154 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E717
 
 **Autovalutazione della preparazione**
 
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) per verificare se l’esperienza corrente corrisponde alla qualifica di candidato minimo consigliata.
+Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
 Sezione 1: Utilizzo dell’amministratore (5%)
 
-* Descrivi come l&#39;ACL funziona con ruoli e risorse
-* Identificare i componenti da utilizzare durante la creazione o la modifica della griglia/modulo di amministrazione
-* Identificare i file da utilizzare durante la creazione di una configurazione store/admin e voci di menu
+* Descrivi il funzionamento dell’ACL con ruoli e risorse
+* Identificare i componenti da utilizzare durante la creazione o la modifica della griglia o del modulo di amministrazione
+* Identificare i file da utilizzare durante la creazione di una configurazione store/admin e di voci di menu
 
 Sezione 2: Architettura (29%)
 
-* Descrizione [!DNL Magento] struttura del file
-* Descrizione [!DNL Magento] Comandi CLI
+* Descrivere [!DNL Magento] struttura del file
+* Descrivere [!DNL Magento] Comandi CLI
 * Descrizione della funzionalità cron
-* In uno scenario, descrivere l&#39;utilizzo del codice di.xml
-* In uno scenario, crea i controller
+* Dato uno scenario, descrivi l’utilizzo di di di.xml
+* Dato uno scenario, crea i controller
 * Descrizione della struttura del modulo
-* Descrizione della funzionalità dell&#39;indice
+* Descrizione della funzionalità dell’indice
 * Descrizione della localizzazione
-* Descrivere il plugin, le preferenze, gli osservatori dell&#39;evento e gli intercettatori
-* Descrizione dei percorsi dei moduli personalizzati
-* Descrizione delle riscritture URL
-* Descrivi le [!DNL Magento] sistema di memorizzazione in cache
-* Descrizione di negozi, siti web e viste Store (informazioni di base)
+* Descrivi plug-in, preferenze, osservatori di eventi e intercettori
+* Descrivere i percorsi dei moduli personalizzati
+* Descrivi riscritture URL
+* Descrivi la [!DNL Magento] sistema di caching
+* Descrizione di store, siti Web e visualizzazioni di store (informazioni di base)
 
-Sezione 3: EAV/database (13%)
+Sezione 3: EAV/banca dati (13%)
 
-* In uno scenario, modifica/aggiungi/rimuovi set di attributi e/o attributi
-* Descrivere diversi tipi di attributi
-* In uno scenario, utilizzare uno schema DB per modificare una tabella di database
-* Descrizione di modelli, modelli di risorse e raccolte
-* Descrizione delle nozioni di base del valore dell&#39;attributo di entità (EAV)
+* Dato uno scenario, modificare/aggiungere/rimuovere set di attributi e/o attributi
+* Descrivere tipi diversi di attributi
+* Considerato uno scenario, utilizzare uno schema di database per modificare una tabella di database
+* Descrivere modelli, modelli di risorse e raccolte
+* Descrivere le nozioni di base del valore dell&#39;attributo di entità (EAV)
 
-Sezione 4: Layout/interfaccia utente (15%)
+Sezione 4: layout/interfaccia utente (15%)
 
-* Applicare modifiche ai tipi di prodotto esistenti e crearne di nuovi
-* Modificare ed estendere le entità Catalogo esistenti
-* Dimostrare la capacità di gestire gli indici e personalizzare la produzione dei prezzi
-* Spiegare in che modo l’inventario multi-sorgente influisce sulle scorte (a livello di programma)
+* Applica le modifiche ai tipi di prodotto esistenti e creane di nuovi
+* Modificare ed estendere le entità catalogo esistenti
+* Dimostrare la possibilità di gestire gli indici e personalizzare l&#39;output dei prezzi
+* Spiegare in che modo le scorte multiorigine influiscono sulle scorte (a livello di programma)
 
 Sezione 5: Pagamento e vendite (8%)
 
-* Descrizione dei componenti del carrello
-* Descrivi una regola promozionale del carrello
-* In uno scenario, descrivi le modifiche di base al checkout
-* In uno scenario, descrivere l&#39;utilizzo di base dei dati delle virgolette
-* In base a uno scenario, configurare i metodi di pagamento e spedizione
-* In uno scenario, configura regole fiscali, valute, carrello e/o pagamento
+* Descrivere i componenti del carrello
+* Descrivi una regola promozionale per carrello
+* Dato uno scenario, descrivi le modifiche di checkout di base
+* Dato uno scenario, descrivere l&#39;utilizzo di base dei dati delle offerte
+* Dato uno scenario, configura i metodi di pagamento e di spedizione
+* Dato uno scenario, configura regole fiscali, valute, carrello e/o pagamento
 
 Sezione 6: Catalogo (8%)
 
-* Identificare le basi della gestione delle categorie e dei prodotti
+* Identificare le nozioni di base sulla gestione delle categorie e dei prodotti
 * Descrizione dei tipi di prodotto
-* Descrizione delle regole di prezzo
-* Descrizione dei tipi di prezzo
+* Descrivi le regole di prezzo
+* Descrivi tipi di prezzo
 
 Sezione 7: Adobe [!DNL Commerce] Architettura cloud (12%)
 
-* Definisci Adobe [!DNL Commerce] flusso di lavoro architettura/ambiente
-* Descrizione dei file di progetto cloud, delle autorizzazioni e della struttura
-* Elencare servizi disponibili in Adobe [!DNL Commerce] su Cloud
-* Descrivere come accedere a diversi tipi di log
-* Descrivere i passaggi per l&#39;applicazione delle patch (identificare la cartella in cui inserire le patch)
-* Descrivere come mantenere e aggiornare gli strumenti ECE
-* Identificare quando chiamare il supporto *File e limitazioni Yaml (DIY vs ticket di supporto)
+* Definisci Adobe [!DNL Commerce] architettura/flusso di lavoro dell&#39;ambiente
+* Descrizione di file di progetto cloud, autorizzazioni e struttura
+* Elenca i servizi disponibili su Adobe [!DNL Commerce] su cloud
+* Descrivi come accedere a diversi tipi di registri
+* Descrivere i passaggi necessari per applicare le patch (identificare la cartella in cui inserire le patch)
+* Descrizione della manutenzione e dell&#39;aggiornamento degli strumenti ECE
+* Identificare quando chiamare il supporto *File Yaml e limitazioni (DIY vs ticket di supporto)
 
-Sezione 8: Adobe di configurazione/configurazione [!DNL Commerce] Cloud (4%)
+Sezione 8: Adobe di configurazione [!DNL Commerce] Cloud (4%)
 
-* Identificare le modalità di configurazione/configurazione dell’Adobe [!DNL Commerce] Cloud
-* Definire la risoluzione dei problemi di base di Cloud (gerarchia dell’interfaccia utente Web e variabili, precedenza delle configurazioni)
-* Riconoscere le conoscenze di base sulla gestione degli utenti cloud e sull’interfaccia utente di onboarding
+* Identifica come impostare/configurare l’Adobe [!DNL Commerce] Cloud
+* Definizione della risoluzione dei problemi di base di Cloud (gerarchia di variabili e interfaccia utente web, precedenza delle configurazioni)
+* Conoscenza di base della gestione degli utenti cloud e dell’interfaccia utente di onboarding
 * Descrizione della gestione dell’ambiente tramite l’interfaccia utente
-* Descrizione del ramo tramite l’interfaccia utente
-* Identificare le funzionalità di Adobe Commerce Cloud Plan
+* Descrivere la diramazione tramite l’interfaccia utente
+* Identificare le funzionalità di Adobe commerce Cloud Plan
 
-Sezione 9: [!DNL Commerce] Strumento Cloud CLI (Gestione parte) (6%)
+Sezione 9: [!DNL Commerce] Strumento Cloud CLI (gestione parte) (6%)
 
-* Descrizione delle funzioni esclusive di Adobe [!DNL Commerce] Strumento Cloud CLI (funzionalità esclusive di CLI): attivare e-mail, ambienti di rebase, snapshot, dump db, configurazione dell&#39;ambiente locale)
-* Descrivere il ramo utilizzando l’Adobe [!DNL Commerce] Strumento Cloud CLI
+* Descrizione delle funzioni esclusive di Adobe [!DNL Commerce] Strumento Cloud CLI (funzionalità esclusive CLI: attivazione di e-mail, ambienti di rebase, istantanee, dump del database, configurazione dell’ambiente locale)
+* Descrivi la diramazione utilizzando l’Adobe [!DNL Commerce] Strumento Cloud CLI
 * Identificare i modi per connettersi ai servizi cloud? (My SQL, Redis, tunnel:info)
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Domande di esempio**
 
-Le domande di esempio ti consentono di vedere il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario alcun accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
 
-[Domande di esempio](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
+[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
 **Sezione 1: Utilizzo dell’amministratore**
 
@@ -168,15 +169,15 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 * [Introduzione ai sistemi di amministrazione](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
 * [Modelli](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 * [Traduzioni](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [Riscrittura URL](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
+* [Riscritture URL](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
 * [Configurare la memorizzazione in cache](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
-* [Configurare e utilizzare Varnish](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [Archivio e visualizzazioni del sito web](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
-* [Sito, archiviazione e visualizzazione ambito](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
+* [Configurare e utilizzare vernice](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
+* [Archivi e visualizzazioni del sito Web](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
+* [Ambito sito, archivio e visualizzazione](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
 * [Creare categorie](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
-* [Archiviazione e struttura del sito](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
+* [Struttura dello store e del sito](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
 
-**Sezione 3: Principi di base del marketing digitale e dell’e-commerce**
+**Sezione 3: Principi di base del marketing digitale e del commercio elettronico**
 
 * [[!DNL Commerce] Tutorial](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [Eventi e osservatori](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
@@ -184,11 +185,11 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 * [Panoramica degli attributi del prodotto](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
 * [Panoramica dello schema dichiarativo](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
 
-**Sezione 4: Layout/interfaccia**
+**Sezione 4: layout/interfaccia utente**
 
 * [Pagine](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [Fogli di stile a cascata](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
+* [Cascading Style Sheets](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
 * [Temi](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
 * [Introduzione a JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
 * [Standard di codifica](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
@@ -198,10 +199,10 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 
 * [Gestione degli ordini e operazioni](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
 * [Carrello](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [Regole del prezzo del carrello](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [Personalizza checkout](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
+* [Regole prezzi carrello](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
+* [Personalizza estrazione](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
 * [Comune [!DNL Commerce] Tabelle](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
-* [Aggiunta di una nuova integrazione dei pagamenti](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
+* [Aggiunta di una nuova integrazione di pagamento](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
 * [ Valuta](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
 
 **Sezione 6: Catalogo**
@@ -210,60 +211,60 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 * [Creare un prodotto](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
 * [Promozioni](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [Blocchi dinamici](https://docs.magento.com/user-guide/cms/dynamic-blocks.html){target="_blank"}
-* [Regole del prezzo del catalogo](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
-* [Prezzi avanzati](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
+* [Regole prezzo catalogo](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
+* [Advanced Pricing](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
 **Sezione 7: Adobe [!DNL Commerce] Architettura cloud**
 
-* [[!DNL Commerce] sull&#39;infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=it){target="_blank"}
+* [[!DNL Commerce] sull’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=it){target="_blank"}
 * [Architettura cloud per [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
 * [Architettura iniziale](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
 * [Architettura Pro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Architettura scalata](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
 
-**Sezione 8: Adobe di configurazione/configurazione [!DNL Commerce] Cloud**
+**Sezione 8: Adobe di configurazione [!DNL Commerce] Cloud**
 
 * [Panoramica dei file di configurazione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
 * [Proprietà per la configurazione dell&#39;applicazione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
 * [Configurare le variabili di ambiente per la distribuzione](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] sulla descrizione del prodotto Cloud](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
+* [Adobe [!DNL Commerce] Descrizione del prodotto per cloud](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
 
-**Sezione 9: [!DNL Commerce] Strumento Cloud CLI (Gestione parte)**
+**Sezione 9: [!DNL Commerce] Strumento Cloud CLI (gestione parte)**
 
 * [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
 * [Gestire i rami con CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [Configurare i servizi](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E717
+### Numero esame: AD0-E717
 
-[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717 newtab=true"}
+[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

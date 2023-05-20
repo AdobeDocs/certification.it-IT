@@ -1,10 +1,10 @@
 ---
-title: Certificazione professionale per sviluppatori AEM Forms Backend
+title: Certificazione professionale AEM Forms Backend Developer
 description: Scopri come diventare un Adobe certificato AEM Forms Backend Developer Professional.
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E127" type="positivo"
+badge: label="Esame AD0-E127" type="positivo"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
 source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
@@ -14,35 +14,35 @@ ht-degree: 8%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager Forms] Backend Developer Professional
+# Percorso di certificazione per Adobe [!DNL Experience Manager Forms] Sviluppatore back-end Professional
 
-Scopri come diventare un certificato [!DNL Adobe AEM Forms] Backend Developer Professional.
+Scopri come ottenere la certificazione [!DNL Adobe AEM Forms] Sviluppatore professionale back-end.
 
 ## Esperienza minima
 
-È necessario essere uno sviluppatore di moduli di back-end e disporre di:
+Devi essere uno sviluppatore di moduli back-end e disporre di:
 
-* 0-12 mesi di esperienza nell’utilizzo della piattaforma AEM
-* Esperienza di 12 mesi durante l’utilizzo e la configurazione di Adobe Cloud Manager
-* Configurazione, implementazione e gestione di attività di integrazione continua/distribuzione continua per almeno 24 mesi
+* 0-12 mesi di esperienza nell&#39;utilizzo della piattaforma AEM
+* 12 mesi di esperienza nell’utilizzo e nella configurazione di Adobe Cloud Manager
+* Almeno 24 mesi di esperienza nella configurazione, implementazione e gestione di attività di integrazione continua/distribuzione continua
 
-Inoltre, dovresti avere familiarità con l’utilizzo di Adobe Managed Services e Adobe Experience Manager as a Cloud Service. Sono in grado di configurare ambienti e infrastrutture Adobe Experience Manager.
+Inoltre, dovresti avere familiarità con le funzioni di Adobe Managed Services e Adobe Experience Manager as a Cloud Service. È in grado di configurare ambienti e infrastrutture Adobe Experience Manager.
 
-È necessario avere familiarità con le tecnologie e gli ambienti seguenti:
+Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
 * Cloud Manager
-* Adobe IO CLI
-* Git CLI
-* Strumenti di transizione cloud
-* Convertitore del Dispatcher
-* Repository modernizer
-* Sviluppo di staging e produzione
+* CLI I/O Adobe
+* CLI Git
+* Strumenti di transizione verso il cloud
+* Convertitore Dispatcher
+* Modernizzatore dell’archivio
+* Staging e produzione per sviluppo
 * Sandbox di sviluppo
 * Ambiente locale
 
 >[!NOTE]
 >
->La tua certificazione è valida per due anni dal momento del passaggio. È consigliabile adottare la versione più recente quando possibile, in quanto copre le funzionalità di prodotto più recenti.
+>La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
@@ -51,70 +51,70 @@ Inoltre, dovresti avere familiarità con l’utilizzo di Adobe Managed Services 
 **Pubblico previsto:**
 
 * Sviluppatore AEM
-* Tecnico DevOps
+* DevOps Engineer
 * Architetto AEM
 * Ingegnere cloud
-* Tecnico dell&#39;affidabilità del sito
-* Manager tecnico
-* Tecnico delle operazioni dell&#39;applicazione
-* Ingegnere dei sistemi
+* Site Reliability Engineer
+* Responsabile tecnico
+* Ingegnere operativo dell&#39;applicazione
+* Ingegnere di sistema
 
-**Dettagli dell&#39;esame:**
+**Dettagli esame:**
 
-* Livello: Professionale (esperienza da 0 a 12 mesi)
-* Punteggio di passaggio: 09/02/1950
-* Ora: 100 min
-* Consegna: Eseguita online (richiede l&#39;accesso alla telecamera)
-* Lingue disponibili: Inglese
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 29/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E127
 
-**Obiettivi e campo di applicazione dell&#39;esame**
+**Obiettivi e ambito dell&#39;esame**
 
 Sezione 1: Creazione e gestione di Forms (26%)
 
-* In uno scenario, individua i passaggi necessari per generare AEM Forms
-* Descrizione di Forms Data Model
+* Considerato uno scenario, identifica i passaggi necessari per creare AEM Forms
+* Descrizione del modello dati di Forms
 * Identificare i passaggi per personalizzare AEM Forms
-* In uno scenario, identificare i passaggi per utilizzare Javascript ClientLib sfruttando l&#39;API GuideBridge
+* Considerato uno scenario, identifica i passaggi per utilizzare Javascript ClientLib sfruttando l’API GuideBridge
 
-Sezione 2: Processi e flussi di lavoro (34%)
+Sezione 2: processi e flussi di lavoro (34%)
 
-* In uno scenario, identificare i passaggi per un flusso di lavoro di approvazione modulo
-* Identificare le funzionalità di un bundle OSGi utilizzando l&#39;API Document Services
-* Dato uno scenario, pianifica diversi processi batch asincroni utilizzando l&#39;endpoint Watchfolder
-* Identificare uscite diverse dal design XFA/XDP
-* In uno scenario, manipolare un PDF utilizzando i servizi Forms o Assembler
-* Descrivere i modi per implementare i servizi JDBC
+* Considerato uno scenario, identifica i passaggi per un flusso di lavoro di approvazione modulo
+* Identificare le funzioni di un bundle OSGi utilizzando l’API Document Services
+* Considerato uno scenario, pianifica diversi processi batch asincroni utilizzando l’endpoint Watchfolder
+* Identificare diversi output dal design XFA/XDP
+* Dato uno scenario, manipolare un PDF utilizzando i servizi di Forms o Assembler
+* Descrivi come implementare i servizi JDBC
 
 Sezione 3: Amministrazione e risoluzione dei problemi (21%)
 
 * Identificare i problemi generati nei file di registro
-* In uno scenario, identificare i passaggi per eseguire le attività di amministrazione
-* Identificare le caratteristiche dei Service Pack in AEM Forms
-* Descrivi i passaggi per AEM configurazione di Dispatcher per Forms
-* Descrivere i passaggi necessari per navigare tra le diverse console
+* Considerato uno scenario, identificare i passaggi per eseguire le attività di amministrazione
+* Identificare le funzioni dei Service Pack in AEM Forms
+* Descrivi i passaggi per la configurazione di Dispatcher per AEM per Forms
+* Descrivi i passaggi per navigare tra diverse console
 
 Sezione 4: Endpoint e integrazioni API (10%)
 
-* In uno scenario, descrivere il flusso da integrare AEM Form con Adobe Experience Cloud
+* Dato uno scenario, descrivere il flusso per integrare il modulo AEM con Adobe Experience Cloud
 * Identificare i passaggi per generare vari servizi endpoint
 
 Sezione 5: Comunicazione interattiva (9%)
 
 * In uno scenario, dimostrare e implementare i processi per la comunicazione interattiva
 
->[!TAB Preparato]
+>[!TAB Preparati]
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non ti fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e esperienza sul posto di lavoro di successo sono fondamentali per fornire l&#39;archivio necessario per superare l&#39;esame.
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate alcune risorse suggerite per aiutarti a preparare:
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Domande di esempio**
 
-Le domande di esempio ti consentono di vedere il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario alcun accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
 
-[Domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
 
 **Sezione 1: Creazione e gestione di Forms**
 
@@ -131,7 +131,7 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 
 **Sezione 3: Amministrazione e risoluzione dei problemi**
 
-* [Risoluzione dei problemi di installazione dei file di registro | Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
+* [Risoluzione dei problemi di installazione dei file di registro | CREATIVE CLOUD](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
 * [Note sulla versione di Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=en){target="_blank"}
 * [Guida di Adobe Experience Manager 6.5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
@@ -143,35 +143,35 @@ Le domande di esempio ti consentono di vedere il tipo e il formato degli element
 * [Documentazione di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 * [Guida di Adobe Experience Manager 6.4 Forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
 
->[!TAB Ottieni certificato]
+>[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **only**  dopo **accesso riuscito** al [Sistema di gestione delle credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Dopo l’accesso, i seguenti collegamenti saranno direttamente accessibili.**
+**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Prendere l&#39;esame di certificazione**
+**Sostieni l&#39;esame di certificazione**
 
-Adobe utilizza due fornitori per amministrare gli esami elaborati, PSI ed Examity.
+In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
-* **PSI** offre opzioni di test center e di esame giapponese (ove disponibili)
+* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
-Per pianificare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
 
-### Numero dell&#39;esame: AD0-E127
+### Numero esame: AD0-E127
 
-[!BADGE Estrema]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127 newtab=true"}
+[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127 newtab=true"}
 
-Puoi pagare il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un buono di esame vai a: [Centro di assistenza per la certificazione di Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, lo applicherai al pagamento.
+Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 >[!ENDTABS]
 
 **Domande**
 
-Visualizza la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

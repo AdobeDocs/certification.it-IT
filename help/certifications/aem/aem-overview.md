@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione di Experience Manager
+title: Panoramica certificazione Experience Manager
 description: Panoramica delle opzioni di certificazione per Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
@@ -10,19 +10,19 @@ ht-degree: 3%
 
 ---
 
-# Panoramica sulla certificazione di Experience Manager
+# Panoramica certificazione Experience Manager
 
 **Professionale**
 
 * [Professionista](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [Sviluppatore (risorse)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [Sviluppatore (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Sviluppatore back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [Fondamenti tecnici](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Esperto**
 
-* [Business Practioner (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Professionista (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Sviluppatore (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
@@ -32,4 +32,4 @@ ht-degree: 3%
 
 * [Architetto (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

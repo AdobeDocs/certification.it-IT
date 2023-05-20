@@ -15,15 +15,15 @@ ht-degree: 47%
 + [Pagina Home di certificazione](overview.md)
 + [Introduzione](getting-started.md)
 + [Come ottenere la certificazione](how-to-get-certified.md)
-+ [Rinnova la certificazione](renew.md)
-+ [Riavvia il programma](restart-program.md)
++ [Rinnovare la certificazione](renew.md)
++ [Riavvia programma](restart-program.md)
 + [Il mio profilo](my-profile.md)
 + [Domande frequenti](faq.md)
 + Certificazioni tecniche per soluzione {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [Panoramica sulla pubblicità](/help/certifications/aac/aac-overview.md)
       + Professionale {#aac-professional}
-         + [Business Practitioner (Ricerca)](/help/certifications/aac/aac-search-p-business.md)
+         + [Professionista (ricerca)](/help/certifications/aac/aac-search-p-business.md)
          + [Professionista (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
       + [Rinnovo](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
@@ -81,15 +81,15 @@ ht-degree: 47%
          + [Architetto](/help/certifications/ac/ac-m-architect.md)
       + [Rinnovo](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
-      + [Panoramica dell’Experience Manager](/help/certifications/aem/aem-overview.md)
+      + [Panoramica Experience Manager](/help/certifications/aem/aem-overview.md)
       + Professionale {#aem-professional}
          + [Professionista](/help/certifications/aem/aem-p-business.md)
          + [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-p-developer.md)
-         + [Sviluppatore (risorse)](/help/certifications/aem/aem-assets-p-developer.md)
+         + [Sviluppatore (Assets)](/help/certifications/aem/aem-assets-p-developer.md)
          + [Sviluppatore back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md)
          + [Fondamenti tecnici](/help/certifications/aem/aem-p-foundations.md)
       + Esperto {#aem-expert}
-         + [Professore di Business Practice (Siti)](/help/certifications/aem/aem-sites-e-business.md)
+         + [Professionista (Sites)](/help/certifications/aem/aem-sites-e-business.md)
          + [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-e-developer.md)
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
          + [Sviluppatore (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
@@ -116,7 +116,7 @@ ht-degree: 47%
       + Professionale {#rtcdp-professional}
          + [Professionista](/help/certifications/rtcdp/rtcdp-p-business.md)
       + Esperto {#rtcdp-expert}
-         + [Tecnico](/help/certifications/rtcdp/rtcdp-e-technical.md)
+         + [Professionista](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [Rinnovo](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Panoramica di Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
@@ -137,10 +137,10 @@ ht-degree: 47%
       + Professionale {#aw-professional}
          + [Sviluppatore (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [Project Manager](/help/certifications/aw/aw-p-project-manager.md)
-         + [Sviluppatore (core)](/help/certifications/aw/aw-core-p-developer.md)
+         + [Sviluppatore (Core)](/help/certifications/aw/aw-core-p-developer.md)
       + Esperto {#aw-expert}
-         + [Sviluppatore (core)](/help/certifications/aw/aw-core-e-developer.md)
+         + [Sviluppatore (Core)](/help/certifications/aw/aw-core-e-developer.md)
          + [Connettore avanzato AEM](/help/certifications/aw/aw-aem-e-connector.md)
       + [Rinnovo](/help/certifications/aw/aw-renew.md)
 + Nascosto {#hidden}
-   + [Verifica esami di idoneità per il riavvio della certificazione](exam-eligibility-check.md)
+   + [Verifica idoneità riavvio certificazione](exam-eligibility-check.md)

@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione Campaign Classic
+title: Panoramica certificazione Campaign Classic
 description: Panoramica delle opzioni di certificazione per Adobe Campaign Classic
 solution: Campaign, Campaign Classic v7
 version: Classic v7
@@ -11,7 +11,7 @@ ht-degree: 11%
 
 ---
 
-# Panoramica sulla certificazione Campaign Classic
+# Panoramica certificazione Campaign Classic
 
 **Professionale**
 
@@ -27,4 +27,4 @@ ht-degree: 11%
 
 * [Sviluppatore](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

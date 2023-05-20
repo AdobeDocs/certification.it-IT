@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione del Marketo Engage
+title: Panoramica certificazione Marketo Engage
 description: Panoramica delle opzioni di certificazione per Adobe Marketo Engage
 solution: Experience Manager
 exl-id: e86c3ed5-84b1-47d5-a852-d87d3f232c11
@@ -10,7 +10,7 @@ ht-degree: 7%
 
 ---
 
-# Panoramica sulla certificazione del Marketo Engage
+# Panoramica certificazione Marketo Engage
 
 **Professionale**
 
@@ -24,4 +24,4 @@ ht-degree: 7%
 
 * [Architetto](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

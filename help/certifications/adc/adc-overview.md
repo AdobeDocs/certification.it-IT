@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione del Document Cloud
+title: Panoramica certificazione Document Cloud
 description: Panoramica delle opzioni di certificazione per Adobe Document Cloud
 solution: Document Cloud
 hide: true
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# Panoramica sulla certificazione del Document Cloud
+# Panoramica certificazione Document Cloud
 
 **Professionale**
 
-* [Business Practitioner (Ricerca)](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
+* [Professionista (ricerca)](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

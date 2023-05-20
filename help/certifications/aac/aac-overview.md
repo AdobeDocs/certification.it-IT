@@ -1,5 +1,5 @@
 ---
-title: Panoramica sulla certificazione della pubblicità
+title: Panoramica di Advertising Certification
 description: Panoramica delle opzioni di certificazione per Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Panoramica sulla certificazione della pubblicità
+# Panoramica di Advertising Certification
 
 **Professionale**
 
-* [Business Practitioner (Ricerca)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [Professionista (ricerca)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [Professionista (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-Visita il [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un’opzione di rinnovo per questo prodotto.
+Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

@@ -1,5 +1,5 @@
 ---
-title: Certificazioni tecniche esperte
+title: Certificazioni tecniche specialistiche
 description: Panoramica delle opzioni di certificazione per gli utenti esperti
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
@@ -8,7 +8,7 @@ ht-degree: 35%
 
 ---
 
-# Certificazioni tecniche esperte
+# Certificazioni tecniche specialistiche
 
 **Analytics**
 
@@ -41,7 +41,7 @@ ht-degree: 35%
 
 **Experience Manager**
 
-* [Business Practioner (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Professionista (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Sviluppatore (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
@@ -61,7 +61,7 @@ ht-degree: 35%
 
 **Workfront**
 
-* [Sviluppatore (core)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [Sviluppatore (Core)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
 * [Connettore avanzato AEM](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 >[!MORELIKETHIS]
