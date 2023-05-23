@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: ffe9c479418f5d7e3d900a17b2d7740474fabfcf
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '889'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Scopri come diventare un professionista Adobe di business certificato.
 Dovresti avere:
 
 * Almeno 0-12 mesi di esperienza in Adobe Document Cloud
+* Essere in grado di identificare e comunicare le esigenze aziendali
+* Essere in grado di eseguire consigli di abilitazione del prodotto sulle soluzioni Adobe Document Cloud.
 
 >[!NOTE]
 >
