@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E307" type="positivo"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
 workflow-type: tm+mt
-source-wordcount: '987'
+source-wordcount: '1055'
 ht-degree: 5%
 
 ---
@@ -107,7 +107,7 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 
 Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
-**Sezione 1: Gestione delle consegne**
+**Sezione 1: Gestione della consegna**
 
 * [Gestione Portfolio](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Informazioni sulla configurazione dei canali](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
@@ -169,6 +169,10 @@ In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami 
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
 Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+
+Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
+
+Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
 ### Numero esame: AD0-E307
 

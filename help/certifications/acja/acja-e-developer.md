@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Esame AD0-E604" type="positivo"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: bf6dae64ce1334611f7a40d14733dba7504fae20
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 16%
+source-wordcount: '796'
+ht-degree: 14%
 
 ---
 
@@ -139,6 +139,10 @@ In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami 
 * **[!DNL Examity]** offre un&#39;opzione online remota
 
 Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+
+Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
+
+Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
 ### Numero esame: AD0-E604
 
