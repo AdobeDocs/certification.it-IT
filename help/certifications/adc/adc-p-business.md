@@ -8,14 +8,14 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '894'
 ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe Doc Cloud Business Practitioner Professional
+# Percorso di certificazione per professionisti Adobe Document Cloud Business Practitioner
 
 Scopri come diventare un professionista Adobe di business certificato.
 
@@ -40,7 +40,6 @@ Dovresti avere:
 * Consulente soluzioni
 * Analista aziendale
 * Vendite
-* Sviluppatore
 
 **Dettagli esame:**
 
@@ -59,7 +58,7 @@ Sezione 1: individuazione dei casi d’uso (36%)
 * Poni le domande appropriate per identificare le opportunità del Document Cloud
 * Definire casi d’uso aziendali di alto livello
 
-Sezione 2: valutazione dei processi aziendali (34)
+Sezione 2: valutazione dei processi aziendali (34%)
 
 * Identificare le aree chiave per il miglioramento dei processi e l&#39;adattamento alle soluzioni
 * Allineare gli obiettivi aziendali alle funzionalità di Document Cloud
