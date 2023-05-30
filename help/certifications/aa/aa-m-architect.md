@@ -7,7 +7,7 @@ role: Data Architect,Developer
 badge: label="Esame AD0-E207" type="positivo"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 19%
@@ -67,7 +67,7 @@ Sezione 1: individuazione (18%)
 * Esaminare le esigenze dei clienti per creare requisiti aziendali
 * Dato uno scenario, crea un framework di misurazione
 
-Sezione 2: Progettazione della soluzione (26%)
+Sezione 2: Progettazione della soluzione (54%)
 
 * Tradurre i requisiti aziendali in variabili e metriche
 * Dimostrare la capacità di gestire le impostazioni delle suite di rapporti
