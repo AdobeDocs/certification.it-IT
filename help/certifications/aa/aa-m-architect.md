@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Esame AD0-E207" type="positivo"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
+source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 19%
+source-wordcount: '940'
+ht-degree: 21%
 
 ---
 
@@ -137,18 +137,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
-
-**Esegui un test di esercitazione**
-
-Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
-
-I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
-
-Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
-
-Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
 
 **Sostieni l&#39;esame di certificazione**
 
