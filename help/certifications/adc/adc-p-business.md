@@ -6,12 +6,11 @@ product: Document Cloud
 role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
+source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
 workflow-type: tm+mt
 source-wordcount: '967'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -96,7 +95,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Adobe Acrobat Sign Web Form](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
 * [API di incorporamento Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF e strumenti di firma elettronica per la tua azienda. Acrobat ha capito.](https://www.adobe.com/acrobat/business.html){target="_blank"}
-* [Guida utente di Adobe Acrobat](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
+* [Guida utente di Adobe Acrobat](https://helpx.adobe.com/it/acrobat/user-guide.html){target="_blank"}
 * [Panoramica sulle integrazioni - Novità](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
 * [Firme online sicure e flessibili](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
