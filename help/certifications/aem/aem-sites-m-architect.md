@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Esame AD0-E117" type="positivo"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1570'
+source-wordcount: '1568'
 ht-degree: 17%
 
 ---
@@ -131,7 +131,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Adobe [!DNL Experience Manager] 6.5 Guida di Communities](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [Video e tutorial su AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
 * [Guida utente alla gestione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [Introduzione a AEM as a Cloud Service](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
+* [Introduzione a AEM as a Cloud Service](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Introduzione a Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=it){target="_blank"}
 * [Video ed esercitazioni di AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Introduzione a HTTP/2](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
@@ -146,7 +146,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Conferenza: configurazione in base al contesto di Sling](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [Video e tutorial su AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
 * [Mostrare/nascondere le proprietà di pagina in base al modello in AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [Condizioni di rendering personalizzate AEM Granite](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
+* [Condizioni di rendering personalizzate AEM Granite](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [Prevenzione di XSS nelle applicazioni React](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Guida utente di AEM 6.4 Mobile](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
@@ -174,7 +174,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Tipi di identità su Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Panoramica di Dispatcher](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Video e tutorial su AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
-* [Introduzione a Cloud Manager](https://docs.adobe.com/content/help/it-IT/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
+* [Introduzione a Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=it){target="_blank"}
 * [Guida di Adobe Target](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Guida utente all’authoring di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
