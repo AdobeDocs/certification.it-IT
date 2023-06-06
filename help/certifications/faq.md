@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Vantaggi individuali: la certificazione è una credenziale che riconosce l’abi
 
 Le certificazioni richiedono impegno, sono legalmente difendibili e la convalida da parte dell&#39;Adobe della tua esperienza. Puoi anche inserire la certificazione nei profili social scaricando il badge da [!DNL Credly].
 
-Per ulteriori informazioni su come gestire i badge in [!DNL Credly], vai [QUI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Per ulteriori informazioni su come gestire i badge in [!DNL Credly], vai [QUI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Le certificazioni sono basate sul ruolo, il che significa che sono disponibili p
 A volte ci sono più versioni di un esame. È meglio prendere l&#39;ultima versione.
 
 * Se un esame va in pensione, nella pagina del percorso di certificazione verrà visualizzata una nota. Ciò significa che questa versione dell&#39;esame sarà presto rimossa perché è disponibile una nuova versione dell&#39;esame. Invitiamo i candidati a prendere la versione più recente, ma puoi prendere la versione ritirata se ti senti più preparato a prenderla. In entrambi i casi, la certificazione durerà due anni.
-* Se la certificazione corrente sta per scadere, è necessario rinnovarla. Le opzioni di rinnovo hanno meno domande e sono GRATUITE. Queste opzioni descrivono le funzionalità dell’applicazione più recenti. Se la certificazione scade, dovrai prendere l&#39;ultima versione dell&#39;esame di certificazione, che pagherai. [Ulteriori informazioni sulle opzioni di rinnovo](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* Se la certificazione corrente sta per scadere, è necessario rinnovarla. Le opzioni di rinnovo hanno meno domande e sono GRATUITE. Queste opzioni descrivono le funzionalità dell’applicazione più recenti. Se la certificazione scade, dovrai prendere l&#39;ultima versione dell&#39;esame di certificazione, che pagherai. [Ulteriori informazioni sulle opzioni di rinnovo](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ A volte, ritiriamo un esame per un ruolo. In tal caso, la certificazione durerà
 
 La certificazione scadrà e verrà visualizzata come scaduta in [!DNL Credly] e uno qualsiasi dei tuoi profili social. Inoltre, se la certificazione scade, non puoi sostenere l’esame di rinnovo più breve o rinnovarla tramite apprendimento continuo.
 
-Per ulteriori informazioni su come gestire i badge in [!DNL Credly], vai [QUI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+Per ulteriori informazioni su come gestire i badge in [!DNL Credly], vai [QUI](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Per ulteriori informazioni su come gestire i badge in [!DNL Credly], vai [QUI](h
 
 Puoi rinnovare la certificazione gratuitamente. Questo offre un modo conveniente per mantenere la certificazione e mantenere aggiornate le competenze della soluzione.
 
-Per ulteriori informazioni su come rinnovare la certificazione, consulta [qui](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+Per ulteriori informazioni su come rinnovare la certificazione, consulta [qui](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -387,7 +387,7 @@ L&#39;ultimo requisito è passare il nuovo [!DNL Marketo Engage] Esame di archit
 
 +++Perché sono Adobi [!DNL Commerce] Le certificazioni non fanno parte del programma di riavvio certificazione Adobe?
 
-Non sono presenti titolari di certificati scaduti per l’Adobe attualmente offerto [!DNL Commerce] Certificazioni al 23 aprile 2023. Pertanto, tutti gli Adobi attivi [!DNL Commerce] I candidati certificati hanno la possibilità di rinnovare l&#39;apprendimento continuo [percorso di rinnovo per la certificazione](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+Non sono presenti titolari di certificati scaduti per l’Adobe attualmente offerto [!DNL Commerce] Certificazioni al 23 aprile 2023. Pertanto, tutti gli Adobi attivi [!DNL Commerce] I candidati certificati hanno la possibilità di rinnovare l&#39;apprendimento continuo [percorso di rinnovo per la certificazione](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

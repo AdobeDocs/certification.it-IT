@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E708" type="positivo"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1649'
 ht-degree: 0%
 
 ---
@@ -133,12 +133,12 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 **Sezione 1: Caratteristiche principali/configurazione generale**
 
 * [[!DNL Commerce] documentazione per esercenti](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [Informazioni sui tipi di prodotto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html?lang=en){target="_blank"}
-* [Gestione clienti](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html?lang=en){target="_blank"}
+* [Informazioni sui tipi di prodotto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
+* [Gestione clienti](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
 * [Creare un prodotto](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [Menu di amministrazione](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html?lang=en){target="_blank"}
-* [Griglie dati](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html?lang=en){target="_blank"}
-* [Impostazioni store](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html?lang=en){target="_blank"}
+* [Menu di amministrazione](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
+* [Griglie dati](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
+* [Impostazioni store](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
 * [Introduzione ai negozi ed esperienza di acquisto](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
 * [Introduzione ai sistemi di amministrazione: gestione delle operazioni](https://docs.magento.com/user-guide/operations.html){target="_blank"}
 * [Importare ed esportare prodotti](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
@@ -158,14 +158,14 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 **Sezione 2: merchandising**
 
 * [Promozioni](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Categorie di prodotti](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html?lang=en){target="_blank"}
+* [Categorie di prodotti](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
 * [Posizionamento categoria](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
 * [Impostazioni prodotto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
 * [Attributi](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
 * [Set di attributi](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
 * [Prodotti semplici](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [Attributi configurabili](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html?lang=en){target="_blank"}
-* [Navigazione a livelli](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html?lang=en){target="_blank"}
+* [Attributi configurabili](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"}
+* [Navigazione a livelli](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"}
 * [Introduzione alla gestione del catalogo](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
 * [Advanced Pricing](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
@@ -191,8 +191,8 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 5: Architettura dei sistemi**
 
-* [Commerce per utenti aziendali: siti, store e visualizzazioni](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
-* [Commerce per utenti aziendali: visualizzazioni dello store e cancellazione della cache](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
+* [Commerce per utenti aziendali: siti, store e visualizzazioni](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
+* [Commerce per utenti aziendali: visualizzazioni dello store e cancellazione della cache](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
 * [Commerce per utenti aziendali - Storefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
 * [Dettagli store](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Menu Rapporti](https://docs.magento.com/user-guide/reports.html){target="_blank"}
@@ -200,8 +200,8 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 6: Conformità/Sicurezza**
 
-* [Utenti e ruoli](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html?lang=en){target="_blank"}
-* [Ambiti dei ruoli e autorizzazioni](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html?lang=en){target="_blank"}
+* [Utenti e ruoli](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
+* [Ambiti dei ruoli e autorizzazioni](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
 * [Autorizzazioni](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
 * [Informativa sulla privacy dello store](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
 * [Sicurezza e conformità](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
@@ -212,7 +212,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
@@ -251,6 +251,6 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 **Domande**
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -4,9 +4,9 @@ description: Scopri la Certificazione  [!DNL Experience Cloud]  in Adobe. Scopri
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '397'
 ht-degree: 8%
 
 ---
@@ -38,4 +38,4 @@ Il nostro programma di certificazione è progettato per professionisti in divers
 
 Allora perché aspettare? Fai il primo passo per liberare il tuo potenziale professionale ed esplora i nostri percorsi di certificazione oggi stesso!
 
-[!BADGE Introduzione]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
+[!BADGE Introduzione]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}

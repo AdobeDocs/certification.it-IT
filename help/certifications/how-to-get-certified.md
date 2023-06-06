@@ -4,9 +4,9 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1462'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ L&#39;Adobe utilizza due fornitori per l&#39;amministrazione degli esami control
 
 **Per registrarti all’esame di certificazione, segui la procedura riportata di seguito:**
 
-* **Passaggio 1:** Accesso riuscito a [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Passaggio 1:** Accesso riuscito a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Passaggio 2:** Torna a questo sito e fai clic su Certificazioni tecniche.
 * **Passaggio 3:** Scegli la soluzione di Adobe, il livello di certificazione e il ruolo
 * **Passaggio 4:** Segui i passaggi descritti in **Ottieni certificazione** sezione.
@@ -50,7 +50,7 @@ Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 or
 
 Né il Supporto Adobe né i fornitori di esami possono elaborare richieste di riprogrammazione e annullamento. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
 
-Una volta completato un esame, si riceve un pass provvisorio o si fallisce. Il punteggio finale può richiedere fino a 72 ore per essere popolato. Troverai il rapporto sui risultati e il punteggio nella scheda Cronologia della sezione [Gestione credenziali Adobe](http://www.certmetrics.com/adobe){target="_blank"}.
+Una volta completato un esame, si riceve un pass provvisorio o si fallisce. Il punteggio finale può richiedere fino a 72 ore per essere popolato. Troverai il rapporto sui risultati e il punteggio nella scheda Cronologia della sezione [Gestione credenziali Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
 Se non riesci a superare un esame di certificazione di Adobe al primo tentativo, devi attendere almeno 24 ore prima di ripetere l&#39;esame. Il mancato superamento di un esame al secondo o ad ogni tentativo successivo richiede un periodo di attesa di 14 giorni di calendario prima di ripetere l&#39;esame. Ogni tentativo sarà soggetto a una tassa d&#39;esame separata.
 
@@ -212,6 +212,6 @@ Il tuo badge è una prova tangibile della tua esperienza con i prodotti Adobe Ex
 
 **Domande**
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

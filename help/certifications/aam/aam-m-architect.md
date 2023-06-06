@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Esame AD0-E454" type="positivo"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 13%
+source-wordcount: '832'
+ht-degree: 11%
 
 ---
 
@@ -110,24 +110,24 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1: Analisi dell’implementazione**
 
-* Guida di [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it){target="_blank"}
+* Guida di [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Integrazione di Analytics](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=it){target="_blank"}
 * [Servizio Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it){target="_blank"}
 
 **Sezione 2: Progettazione della soluzione e Recommendations**
 
-* Guida di [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it){target="_blank"}
-* [[!DNL Audience Manager] Tutorial](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=it){target="_blank"}
+* Guida di [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager] Tutorial](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sezione 3: Segmentazione e attivazione**
 
-* Guida di [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it){target="_blank"}
+* Guida di [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [[!DNL Audience Manager] Tutorial](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=it){target="_blank"}
+* [[!DNL Audience Manager] Tutorial](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sezione 4: Privacy e governance dei dati**
 
-* Guida di [[!DNL Audience Manager] ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it){target="_blank"}
+* Guida di [[!DNL Audience Manager] ](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [[!DNL Audience Manager] API REST](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Guida per l’amministratore di Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=it){target="_blank"}
 
@@ -139,7 +139,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
@@ -165,6 +165,6 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 **Domande**
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

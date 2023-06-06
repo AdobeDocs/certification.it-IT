@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Esame AD0-E207" type="positivo"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 21%
+source-wordcount: '898'
+ht-degree: 17%
 
 ---
 
@@ -124,18 +124,18 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [[!DNL Analytics] Guida per l’amministratore](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=it){target="_blank"}
 * [Livello dati basato su eventi](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [[!DNL Analytics] Guida all’esportazione](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=it){target="_blank"}
-* [Adobe [!DNL Target] Guida per professionisti aziendali](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=it){target="_blank"}
+* [Adobe [!DNL Target] Guida per professionisti aziendali](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Adobe [!DNL Experience Cloud] Servizio identità](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it){target="_blank"}
 * [[!DNL Analytics] Guida all’importazione](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=it){target="_blank"}
 * [[!DNL Analytics] Guida agli strumenti](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=it){target="_blank"}
 * [Processo di inserimento dati](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Implementare l’Experience Cloud nei siti web con l’esercitazione sui tag](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=it){target="_blank"}
+* [Implementare l’Experience Cloud nei siti web con l’esercitazione sui tag](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 >[!TAB Ottieni certificazione]
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](http://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
@@ -164,6 +164,6 @@ Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno s
 
 **Domande**
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? Invia un&#39;e-mail `certif@adobe.com`
