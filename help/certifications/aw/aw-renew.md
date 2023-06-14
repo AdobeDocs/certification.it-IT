@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -220,6 +220,111 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fare clic sul link Workfront Project Manager Professional RENEW - AD5-833 di seguito.
 
 * [Rinnovo professionale Workfront Project Manager - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+
++++
+
++++Workfront Core Developer Professional
+
+## Istruzioni per il rinnovo della certificazione:
+
+* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
+* **Passaggio 3**: sostenere e superare l’esame
+
+### Preparati
+
+**Dettagli esame:**
+
+* Punteggio minimo: 25/35
+* Tempo: 70 minuti
+* Costo: GRATUITO/non protetto
+* Consegna: on-demand
+* Lingue disponibili: inglese
+* Prerequisito: certificazione Adobe Workfront Core Developer Professional corrente (non scaduta)
+* ID esame: AD5-E835
+
+**Ambito di applicazione e obiettivi**
+
+Sezione 1: Strategia e assunzione (20%)
+
+* Utilizzare Portfoli e programmi
+* Usa code di richieste
+* Usa Forms personalizzato
+
+Sezione 2: Bilancio e pianificazione (11%)
+
+* Utilizzare gli strumenti di pianificazione delle risorse
+
+Sezione 3: esperienza utente (26%)
+
+* Illustrare le best practice per la gestione degli utenti nella creazione dell’esperienza utente corretta
+* Considerato uno scenario, applica la configurazione corretta per la condivisione e i diritti di accesso nel sistema
+* Descrivere cos’è una blueprint e riconoscere quando utilizzarla
+* Dimostrare come creare e utilizzare le schede orario
+* Descrivere lo scopo e il valore di connettori, plug-in e componenti aggiuntivi
+
+Sezione 4: Metriche e reporting (14%)
+
+* Descrivere i concetti di base per la creazione, l’invio e la personalizzazione dei rapporti
+* Spiegare come creare e personalizzare le dashboard
+
+Sezione 5: Esecuzione (29%)
+
+* Dimostrare come impostare flussi di lavoro di approvazione e verifica
+* Riconoscere lo scopo della creazione di un problema per un progetto
+* Dimostrare come personalizzare gli stati dei progetti a livello di gruppo
+* Identificare gli attributi necessari per abilitare Agile in Workfront
+* Identificare i modi per immettere l’ora in Workfront
+
+## Preparati
+
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
+
+**Sezione 1: Strategia e assunzione**
+
+* [Panoramica di Portfoli Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [Creare e gestire le code di richieste](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [Fornire l’accesso alle code di richieste](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [Panoramica dei moduli personalizzati](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**Sezione 2: Bilancio e pianificazione**
+
+* [Individuare il Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [Assegnare il lavoro in blocco utilizzando il Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [Gestire le allocazioni utente nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**Sezione 3: esperienza utente**
+
+* [Quando e come disattivare o eliminare gli utenti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [Condividere modelli di progetto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [Azioni da intraprendere dopo l’installazione di una blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [Creare una scheda orario monouso](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**Sezione 4: Metriche e reporting**
+
+* [Integrazioni Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [Utilizza i plug-in di Adobe Workfront per Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [Inviare e condividere i rapporti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [Creare le dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**Sezione 5: Esecuzione**
+
+* [Convertire un problema in un progetto in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [Creare o modificare una bacheca](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [Aggiungere o rimuovere membri da una bacheca](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [Comprendere il layout della scheda orario](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## Rinnovare la certificazione
+
+Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul collegamento Workfront Core Developer Professional RENEW - AD5-835 qui sotto.
+
+* [Rinnovo Workfront Core Developer Professional - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
