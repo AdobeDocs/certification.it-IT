@@ -1,15 +1,14 @@
 ---
-title: Certificazione Front-End Developer Expert
+title: Nuova certificazione Front-End Developer Expert
 description: Scopri come diventare un esperto Adobe Developer certificato in Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Esame AD0-E710" type="positivo"
+badge: label="Esame AD0-E720" type="positivo"
 mini-toc-levels: 1
-exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: ee0b33e8a1cef382fb28926b2b0a69395fe6cc2c
+source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '1307'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,15 @@ Scopri come diventare un esperto Adobe Developer certificato.
 
 >[!NOTE]
 >
->Questo esame Adobe Commerce Front End Developer Expert (AD0-E710) è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 18 agosto 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](ac-e-fedeveloper0623.md).
+>Questo è il più recente esame per esperti di sviluppatori front-end di Adobe Commerce. Se ha già iniziato a studiare o ha programmato [versione precedente](ac-e-fedeveloper.md) hai fino al 18 agosto 2023 per completarlo.
 
 ## Esperienza minima
 
-Deve avere almeno 1-3 anni di esperienza pratica con Adobe [!DNL Commerce] sviluppo di tipo front-end e capacità di tradurre le esigenze espresse dai requisiti dei compiti in una soluzione tecnica.
+Adobe Commerce Frontend Developer è considerato un ruolo di livello Expert e ha almeno 1-3 anni di esperienza pratica con lo sviluppo Adobe Commerce Frontend. Dovrebbero essere in grado di tradurre le esigenze espresse dai requisiti dei compiti in una soluzione tecnica.
 
-Inoltre, dovresti avere familiarità con le seguenti tecnologie:
+Il candidato deve avere familiarità con le seguenti tecnologie:
 
-* Adobe [!DNL Commerce] - versione 2.4.3
+* Adobe Commerce - versione 2.4.6
 * Comprensione di base della struttura e del layout front-end
 * Esperienza e comprensione di HTML, CSS (e preprocessori), LESS, JavaScript e componenti dell’interfaccia utente, jQuery, Underscore, Require.JS, Knockout, anche modelli PHP, conoscenza del database e gestione dei contenuti
 * Familiarità con la piattaforma, i blocchi CMS, i widget, le pagine CMS, le pagine di categorie, le pagine di prodotti, l’area Carrello e pagamento e la dashboard dell’account
@@ -42,6 +41,8 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Informazioni sui pacchetti di codice
 * Implementare la traduzione
 * Come utilizzare i modelli e-mail
+* Informazioni sull&#39;infrastruttura Adobe Commerce Cloud
+* Comprensione di base dello strumento di comando Cloud CLI
 
 >[!BEGINTABS]
 
@@ -52,8 +53,6 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Sviluppatori
 * Sviluppatori Lead
 * Sviluppatori front-end
-* Sviluppatori full stack
-* Sviluppatori PWA
 
 **Dettagli esame:**
 
@@ -63,7 +62,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
 * Lingue disponibili: inglese
 * Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E710
+* ID esame: AD0-E720
 
 **Autovalutazione della preparazione**
 
@@ -73,14 +72,14 @@ Completa il [questionario di preparazione online](https://scorpion.caveon.com/la
 
 Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni) (16%)
 
-* Descrivi Adobe [!DNL Commerce] struttura delle cartelle dei temi e relazioni con i temi basati su cartelle
+* Descrizione della struttura di cartelle di temi Adobe Commerce e della relazione con i temi basati su cartelle
 * Dimostrare la possibilità di creare un nuovo tema (ereditarietà/fallback, eccezioni di progettazione, proprietà del tema)
 * Dimostrare la capacità di estendere i temi esistenti
 * Dimostrare la possibilità di personalizzare le e-mail transazionali
 * Dimostrare la capacità di applicare le traduzioni
 * Considerata una serie di casi d’uso, identifica quando inserire i file in app/codice o in app/progettazione
 
-Sezione 2: XML layout e modelli (modelli phtml) (24%)
+Sezione 2: XML layout e modelli (modelli phtml) (22%)
 
 * Dimostrare la possibilità di utilizzare le istruzioni XML di layout
 * Dimostrare la possibilità di creare nuovi layout di pagina
@@ -114,19 +113,18 @@ Sezione 4: JavaScript (widget immagine, libreria di immagini, modulo dati del cl
 
 Sezione 5: Configurazione amministratore e PageBuilder (12%)
 
-* Dimostrare l’utilizzo della gestione dei contenuti
-* Applicare/pianificare un tema a un ambito specifico (sito Web, store, store-view)
-* Applica modifiche progettuali a categorie, prodotti e pagine CMS utilizzando la configurazione di amministrazione
+* Dimostrare la possibilità di personalizzare il contenuto di Page Builder&quot;
 * Descrizione dell’ottimizzazione front-end
 * Personalizzare le e-mail transazionali
 * Dimostrare l’utilizzo degli strumenti di sviluppo per amministratori
 
-Sezione 6: Strumenti (CLI e Grunt) (8%)
+Sezione 6: Strumenti (CLI e Grunt) (10%)
 
 * Dimostrare l&#39;utilizzo dei comandi di base bin/Magento
 * Descrivere l&#39;utilizzo dei comandi del Compositore (installazione, aggiornamento, richiesta, rimozione)
 * Differenziare il caso d’uso appropriato per le modalità di distribuzione
 * Definire l’impostazione e l’utilizzo dell’indennità
+* Descrivi gli strumenti aggiuntivi forniti dal cloud (Fastly, download del database, distribuzione dei contenuti, diramazione tramite l’interfaccia utente)
 
 >[!TAB Preparati]
 
@@ -136,74 +134,45 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni)**
 
-* [Struttura del tema](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"}
-* [Creare un tema vetrina](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
-* [Ereditarietà tema](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"}
-* [Estendere un layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
-* [Comunicazioni e-mail](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
-* [Personalizzare i modelli e-mail](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"}
-* [Modelli e-mail](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"}
-* [Traduzioni](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [Creare la struttura del file dei componenti](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
+* [Temi](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
+* [Modelli](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
+* [Aggiungere variabili personalizzate](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
+* [Traduzioni](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
 
 **Sezione 2: XML layout e modelli (modelli phtml)**
 
-* [Istruzioni di layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-instructions.html){target="_blank"}
-* [Crea un nuovo layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-create.html){target="_blank"}
-* [Tipi di file di layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-types.html){target="_blank"}
-* [Estendere un layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
-* [Sostituire un layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-override.html){target="_blank"}
+* [Layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
 * [Attività di personalizzazione comuni](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
-* [Concetti di base dei modelli](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-override.html#getter){target="_blank"}
-* [Modelli](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [Esempio di personalizzazione dei modelli](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-sample.html){target="_blank"}
-* [Script tra siti (XSS)](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/xss-protection.html){target="_blank"}
+* [Sviluppo di componenti](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
+* [Sicurezza](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
 
 **Sezione 3: Stili**
 
-* [Includi CSS](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-themes.html){target="_blank"}
-* [Pre-elaborazione CSS e LESS](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-preprocess.html#fedg_css-import){target="_blank"}
-* [Personalizzare gli stili del tema](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_approach.html#simple_override){target="_blank"}
-* [Codifica meno standard](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [Modelli e-mail](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
-* [Struttura del tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-* [Aggiungi preprocessore CSS personalizzato](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/add/){target="_blank"}
-* [Usa preprocessore Sass e Esecuzione attività Gulp](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/gulp-sass/){target="_blank"}
-* [Modalità di compilazione](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/){target="_blank"}
+* [Progettazione web reattiva](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
+* [Personalizzare gli stili del tema](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
+* [Norme di codifica](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
+* [Fogli di stile CSS](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
 
 **Sezione 4: JavaScript (widget immagine, libreria di immagini, modulo dati del cliente, modelli di foratura)**
 
-* [Chiamare e inizializzare JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-* [Debug dei componenti JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/debug/){target="_blank"}
-* [RequireJS in [!DNL Commerce]](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/){target="_blank"}
-* [Mixin JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_mixins.html){target="_blank"}
-* [Stringhe di tema](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/){target="_blank"}
+* [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
 * [Introduzione ai componenti dell’interfaccia](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
-* [Flusso di configurazione](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/configuration-flow/){target="_blank"}
-* [Associazioni Knockout.js personalizzate](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
-* [Sintassi di binding](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
-* [widget jQuery](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
-* [Aggiungere un modulo JavaScript](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=it){target="_blank"}
+* [Personalizza estrazione](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
+* [Array osservabili](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
 
 **Sezione 5: Configurazione amministratore e PageBuilder**
 
-* [Elementi contenuto](https://docs.magento.com/user-guide/v2.3/cms/content-elements.html){target="_blank"}
-* [Configurazione progettazione](https://docs.magento.com/user-guide/design/configuration.html){target="_blank"}
-* [Layout di pagina](https://docs.magento.com/user-guide/design/page-layout.html){target="_blank"}
-* [Aggiungi stili](https://devdocs.magento.com/page-builder/docs/content-types/create/add-styles.html){target="_blank"}
-* [Strumenti per sviluppatori](https://docs.magento.com/user-guide/system/file-optimization.html){target="_blank"}
-* [Raggruppamento JavaScript](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/js-bundling.html){target="_blank"}
-* [Modelli e-mail](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-email.html){target="_blank"}
+* [Pagine](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
+* [Cos’è Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
+* [Raggruppamento JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
+* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
 
 **Sezione 6: Strumenti (CLI e Grunt)**
 
-* [Strumento da riga di comando](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
-* [[!DNL Commerce] per sviluppatori: base di codice](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
-* [Disinstalla moduli](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
-* [Gestione estensioni](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
-* [Impostare la modalità operativa](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
-* [Grunt](https://developer.adobe.com/commerce/frontend-core/guide/tools/grunt/){target="_blank"}
-* [Compila MENO con Grunt](https://developer.adobe.com/commerce/frontend-core/guide/css/debug/){target="_blank"}
+* [Guida alla configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
+* [Panoramica sull’installazione in loco](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
+* [Variabili di build](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
+* [Commerce su infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
 >[!TAB Ottieni certificazione]
 
@@ -236,9 +205,9 @@ Il nome del profilo in Adobe Credential Management System deve corrispondere esa
 
 Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
-### Numero esame: AD0-E710
+### Numero esame: AD0-E720
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710 newtab=true"}
+[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E720 newtab=true"}
 
 Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
