@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Esame AD0-E721" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '1057'
 ht-degree: 0%
 
 ---
@@ -169,15 +169,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Esegui un test di esercitazione**
-
-Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
-
-I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
-
-Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
-
-Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+**Test di esercitazione in arrivo**
 
 **Sostieni l&#39;esame di certificazione**
 
