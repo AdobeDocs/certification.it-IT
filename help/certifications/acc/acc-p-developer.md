@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E331" type="positivo"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: d48e094e6aafac4e74b38bbe7440e6d2955231be
 workflow-type: tm+mt
-source-wordcount: '1321'
+source-wordcount: '1317'
 ht-degree: 9%
 
 ---
@@ -140,14 +140,14 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Estensione o creazione di schemi](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html#extending-or-creating-schemas){target="_blank"}
 * [Struttura dello schema](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
 * [Elenco di [!DNL Campaign Classic] opzioni](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=it){target="_blank"}
-* [Configurare gli account esterni](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html%3Flang%3Dja){target="_blank"}
+* [Configurare gli account esterni](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html){target="_blank"}
 * [Regole di tipologia](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html#typology-rules){target="_blank"}
 
 **Sezione 2: Personalizzazione**
 
 * [Modifica di uno schema](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/edit-schema.html){target="_blank"}
 * [Estendere uno schema](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/extending-a-schema.html){target="_blank"}
-* [Personalizzare l’istanza](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html%3Flang%3Den){target="_blank"}
+* [Personalizzare l’istanza](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/customize.html){target="_blank"}
 * [Caso d’uso: selezionare gli indirizzi seed in base ai criteri](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/use-case--selecting-seed-addresses-on-criteria.html){target="_blank"}
 * [Informazioni su consenso e rinuncia in Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/understanding-opt-in-and-opt-out-processes/about-opt-in-and-opt-out-in-campaign.html){target="_blank"}
 
