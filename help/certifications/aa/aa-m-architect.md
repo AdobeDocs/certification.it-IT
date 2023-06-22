@@ -7,9 +7,9 @@ role: Data Architect,Developer
 badge: label="Esame AD0-E207" type="positivo"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '900'
 ht-degree: 17%
 
 ---
@@ -136,10 +136,15 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >[!IMPORTANT]
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Sostieni l&#39;esame di certificazione**
+## Riguardo all&#39;esame
+
+{{about-certification-exam}}
+
+## sostenere l&#39;esame
 
 In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
@@ -152,17 +157,31 @@ Il nome del profilo in Adobe Credential Management System deve corrispondere esa
 
 Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
-### Numero esame: AD0-E207
+## sostenere l&#39;esame (AD0-E207);
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
+### Opzioni disponibili
 
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
+
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Domande**
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

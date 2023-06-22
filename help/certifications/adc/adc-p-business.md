@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---
@@ -123,8 +123,9 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 >[!IMPORTANT]
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
 **Test di esercitazione in arrivo!**
 
@@ -134,34 +135,26 @@ I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami l
 
 Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
 
-**Sostieni l&#39;esame di certificazione**
+## Riguardo all&#39;esame
 
-In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
+{{about-certification-exam}}
 
-* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]** offre un&#39;opzione online remota
+## sostenere l&#39;esame (AD0-D106);
 
-Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+### Opzioni disponibili
 
-Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
+**[!DNL Examity]** ( *online* )
 
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
-
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
-
-### Numero esame: AD0-D106
-
-[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106 newtab=true"}
-
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Domande**
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E123" type="positivo"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 7a1c1e69c6451e485fecca587a70f15aa9991f95
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
-source-wordcount: '850'
-ht-degree: 11%
+source-wordcount: '732'
+ht-degree: 12%
 
 ---
 
@@ -131,34 +131,31 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >[!IMPORTANT]
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
+## Riguardo all&#39;esame
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
+{{about-certification-exam}}
 
-**Sostieni l&#39;esame di certificazione**
+## sostenere l&#39;esame (AD0-E123);
 
-In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
+### Opzioni disponibili
 
-* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]** offre un&#39;opzione online remota
+**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
-Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+**[!DNL Examity]** ( *online* )
 
-Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
-
-### Numero esame: AD0-E123
-
-[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123 newtab=true"}
-
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Domande**
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Esame AD0-E454" type="positivo"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 11%
+source-wordcount: '733'
+ht-degree: 12%
 
 ---
 
@@ -142,28 +142,36 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 >Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Sostieni l&#39;esame di certificazione**
+## Riguardo all&#39;esame
 
-In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
+{{about-certification-exam}}
 
-* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]** offre un&#39;opzione online remota
+## sostenere l&#39;esame (AD0-E454);
 
-Per pianificare, riprogrammare o annullare l&#39;esame, selezionare un fornitore e seguire le istruzioni visualizzate. È così semplice!
+### Opzioni disponibili
 
-### Numero esame: AD0-E454
+**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Domande**
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

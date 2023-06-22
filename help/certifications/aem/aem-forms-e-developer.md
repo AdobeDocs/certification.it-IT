@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E125" type="positivo"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e18ce1be4ed5241de5429583a5caa5ed1c9bab01
 workflow-type: tm+mt
-source-wordcount: '1079'
-ht-degree: 4%
+source-wordcount: '821'
+ht-degree: 5%
 
 ---
 
@@ -159,43 +159,39 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 
+## Esegui un test di esercitazione
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
+{{practice-test}}
 
-**Esegui un test di esercitazione**
+## Riguardo all&#39;esame
 
-Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
+{{about-certification-exam}}
 
-I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
+## sostenere l&#39;esame (AD0-E125);
 
-Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
+### Opzioni disponibili
 
-Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
-**Sostieni l&#39;esame di certificazione**
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
-* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]** offre un&#39;opzione online remota
+**[!DNL Examity]** ( *online* )
 
-Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
-
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
-
-### Numero esame: AD0-E125
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E125 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125 newtab=true"}
-
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Domande**
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

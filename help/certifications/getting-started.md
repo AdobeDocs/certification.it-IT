@@ -4,9 +4,9 @@ description: Introduzione alle certificazioni.  [!DNL Experience Cloud]  Scopri 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Questi livelli riflettono una progressione di competenze e conoscenze, con la ce
 | Badge | Descrizione |
 | ------- | ------- |
 | ![Badge professionale](/help/certifications/assets/professional-badge-Xsmall.png) | **Certificazioni professionali** verifica che un candidato abbia una conoscenza di base delle soluzioni di marketing digitale di Adobe. L&#39;esame di certificazione riguarda i concetti e le funzionalità di base dell&#39;Adobe [!DNL Experience Cloud]. |
-| ![Badge esperti](/help/certifications/assets/expert-badge-Xsmall.png) | **Certificazioni specialistiche** sono per i professionisti che hanno una conoscenza più avanzata delle soluzioni di marketing digitale di Adobe. L&#39;esame di certificazione riguarda concetti e funzionalità più complessi di Adobe [!DNL Experience Cloud], incluse l&#39;implementazione e la risoluzione dei problemi. |
+| ![Badge esperti](/help/certifications/assets/expert-badge-Xsmall.png) | **Certificazioni specialistiche** sono per i professionisti che hanno una conoscenza più avanzata delle soluzioni di marketing digitale di Adobe. L&#39;esame di certificazione copre concetti e funzionalità più complessi di Adobe [!DNL Experience Cloud], incluse l&#39;implementazione e la risoluzione dei problemi. |
 | ![Badge principale](/help/certifications/assets/master-badge-Xsmall.png) | **Certificazioni principali** sono per professionisti che hanno una conoscenza approfondita delle soluzioni di marketing digitale di Adobe e hanno dimostrato di possedere esperienza in diverse aree di Adobe [!DNL Experience Cloud]. L’esame di certificazione tratta argomenti e scenari avanzati, incluse integrazioni complesse, personalizzazioni e risoluzione di problemi. |
 
 {style="table-layout:auto"}
@@ -72,9 +72,14 @@ La Guida al Percorso di certificazione è uno strumento completo progettato per 
 
 >[!ENDTABS]
 
-[!BADGE Ottieni certificazione]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**Domande**
+<span class="spectrum-Button-label has-no-wrap">
+   Ottieni certificazione
+</span>
+</a>
+
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

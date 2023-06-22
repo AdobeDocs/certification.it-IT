@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E209" type="positivo"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1148'
-ht-degree: 8%
+source-wordcount: '1063'
+ht-degree: 9%
 
 ---
 
@@ -29,7 +29,7 @@ Devi acquisire familiarità con i seguenti strumenti e ambienti:
 Strumenti:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come Adobe Debugger, strumenti per sviluppatori del browser, Charles)
+* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come Adobe Debugger, strumenti per sviluppatori di browser, Charles)
 * [!DNL Adobe Analytics] Impostazioni suite per report di Admin Console
 * Conoscenza di base di Workspace
 * Strumenti di sviluppo web, editor di codice e strumenti di debug per dispositivi mobili
@@ -162,21 +162,18 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 >[!IMPORTANT]
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
+## Esegui un test di esercitazione
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
+{{practice-test}}
 
-**Esegui un test di esercitazione**
+## Riguardo all&#39;esame
 
-Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
+{{about-certification-exam}}
 
-I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
-
-Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
-
-Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
-
-**Sostieni l&#39;esame di certificazione**
+## sostenere l&#39;esame
 
 In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
 
@@ -189,17 +186,31 @@ Il nome del profilo in Adobe Credential Management System deve corrispondere esa
 
 Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
-### Numero esame: AD0-E209
+## sostenere l&#39;esame (AD0-E209);
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
+### Opzioni disponibili
 
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
+
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Domande**
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

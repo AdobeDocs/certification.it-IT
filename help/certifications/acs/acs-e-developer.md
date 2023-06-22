@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E306" type="positivo"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 10%
+source-wordcount: '1096'
+ht-degree: 12%
 
 ---
 
@@ -134,7 +134,7 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 * [Attività Subscription services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
 * [Passaggi fondamentali per l’invio di un messaggio](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
 * [Tracciare e monitorare](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [Riepilogo consegne](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Riepilogo delle consegne](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
 * [E-mail Designer di Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 * [Introduzione ai rapporti dinamici](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 
@@ -156,44 +156,42 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 >[!IMPORTANT]
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
+## Esegui un test di esercitazione
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
+{{practice-test}}
 
-**Esegui un test di esercitazione**
+## Riguardo all&#39;esame
 
-Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
+{{about-certification-exam}}
 
-I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
+## sostenere l&#39;esame (AD0-E306);
 
-Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
+### Opzioni disponibili
 
-Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
-**Sostieni l&#39;esame di certificazione**
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
-* PSI offre il centro di prova e le opzioni di esame per il giapponese (se disponibili)
-* Examity offre un’opzione online remota
+**[!DNL Examity]** ( *online* )
 
-Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
-
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
-
-### Numero esame: AD0-E306
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306 newtab=true"}[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306 newtab=true"}
-
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<span class="spectrum-Button-label has-no-wrap">
+   Sostieni l'esame
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Domande**
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
