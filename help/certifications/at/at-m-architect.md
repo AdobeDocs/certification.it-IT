@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Esame AD0-E407" type="positivo"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1149'
 ht-degree: 20%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 20%
 # Percorso di certificazione per [!DNL Adobe Target] Architect Master
 
 Scopri come ottenere la certificazione di Adobe Architect Master.
+
+>[!NOTE]
+>
+>Questo esame, Adobe Target Architect Master (AD0-E407), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 18 agosto 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](at-m-architect0623.md).
 
 ## Esperienza minima
 
@@ -52,10 +56,6 @@ Ambienti:
 * Ambienti web e mobili
 * Ambiente in hosting AMS
 * Adobe I/O Runtime
-
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
 
 >[!BEGINTABS]
 
