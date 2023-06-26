@@ -6,10 +6,10 @@ product: Target
 role: Data Architect
 badge: label="Esame AD0-E409" type="positivo"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Scopri come ottenere la certificazione di Adobe Architect Master.
 
 >[!NOTE]
 >
->Questo è il più recente esame master per architetti di Adobe Target. Se ha già iniziato a studiare o ha programmato [versione precedente](at-m-architect.md) hai fino al 25 agosto 2023 per completarlo.
+>Questo è il più recente esame master per architetti di Adobe Target. Se ha già iniziato a studiare o ha programmato [versione precedente](at-m-architect.md) hai fino all’8 settembre 2023 per completarlo.
 
 ## Esperienza minima
 

@@ -3,10 +3,10 @@ title: Panoramica della certificazione di Target
 description: Panoramica delle opzioni di certificazione per Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ La versione corrente è:
 
 * [Master Architect di Adobe Target (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
-Se hai già programmato o iniziato a studiare per l&#39;esame attuale, assicurati di pianificare e completare l&#39;esame **prima del 25 agosto 2023**.
+Se hai già programmato o iniziato a studiare per l&#39;esame attuale, assicurati di pianificare e completare l&#39;esame **prima dell’8 settembre 2023**.
 
 Tuttavia, se hai appena iniziato a lavorare sulla certificazione, ti consigliamo di prendere **NUOVO** versione dell&#39;esame.
 
