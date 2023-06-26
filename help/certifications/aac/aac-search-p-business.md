@@ -3,11 +3,12 @@ title: Certificazione professionale per professionisti del business
 description: Scopri come ottenere la certificazione come Adobe [!DNL Advertising Search] Professionista di business.
 solution: Advertising
 product: Advertising Cloud
+level: Experienced
 role: User
 badge: label="Esame AD0-E501" type="positivo"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 4%

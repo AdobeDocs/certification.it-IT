@@ -4,10 +4,11 @@ description: Scopri come diventare un master Adobe Architect certificato in Adob
 solution: Commerce
 product: Magento
 role: Data Architect
+level: Experienced
 badge: label="Esame AD0-E718" type="positivo"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '881'
 ht-degree: 1%
