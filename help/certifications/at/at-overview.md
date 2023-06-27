@@ -3,10 +3,10 @@ title: Panoramica della certificazione di Target
 description: Panoramica delle opzioni di certificazione per Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 5%
 
 ---
 
@@ -36,7 +36,7 @@ Tuttavia, se hai appena iniziato a lavorare sulla certificazione, ti consigliamo
 
 **Principale**
 
-* [Architetto - in scadenza il 25 agosto 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [Architetto - scadenza 8 settembre 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [Architetto NEW](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
 Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
