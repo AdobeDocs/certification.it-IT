@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E123" type="positivo"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 12%
+source-wordcount: '708'
+ht-degree: 13%
 
 ---
 
@@ -49,10 +49,6 @@ Devi essere uno sviluppatore di applicazioni e disporre di:
 * Lingue disponibili: inglese
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E123
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
 
 **Obiettivi e ambito dell&#39;esame**
 
