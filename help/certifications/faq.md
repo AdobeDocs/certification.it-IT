@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Poiché è necessario assicurarsi che gli utenti Adobi certificati siano aggiorn
 +++
 
 +++Gli esami sono disponibili in lingue diverse dall&#39;inglese?
+
+{{PSI-note}}
 
 Ci sono alcuni esami disponibili in giapponese tramite PSI (uno dei nostri fornitori). Se l&#39;esame è disponibile in giapponese, sarà annotato nei dettagli dell&#39;esame per quell&#39;esame. I dettagli degli esami si trovano nella scheda &quot;Preparati&quot; delle pagine del percorso di certificazione.
 
