@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E208" type="positivo"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 13%
@@ -38,7 +38,7 @@ Dovresti avere:
 
 * Client FTP
 * Corrente [!DNL Adobe Analytics] Funzioni di Workspace e altre opzioni di reporting al di fuori di Workspace (ad es. progetti programmati e rapporti programmati)
-* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come un Adobe Debugger, strumenti per sviluppatori del browser, Charles)
+* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come un Adobe Debugger, strumenti di sviluppo del browser, Charles)
 * Admin Console (Analytics Reports Suite Admin Console e Experience Cloud Admin Console)
 * Nozioni di base su Launch Adobe
 * App, SPA, informazioni di base sul sito web
@@ -181,7 +181,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 ### Opzioni disponibili
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

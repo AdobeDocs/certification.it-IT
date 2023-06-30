@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E307" type="positivo"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '813'
 ht-degree: 8%
@@ -107,7 +107,7 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 
 Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
-**Sezione 1: Gestione della consegna**
+**Sezione 1: Gestione delle consegne**
 
 * [Gestione Portfolio](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [Informazioni sulla configurazione dei canali](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
@@ -163,7 +163,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 ### Opzioni disponibili
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

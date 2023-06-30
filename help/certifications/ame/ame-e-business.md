@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E559" type="positivo"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1428'
 ht-degree: 0%
@@ -224,7 +224,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 ### Opzioni disponibili
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E124" type="positivo"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 5%
@@ -171,7 +171,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 ### Opzioni disponibili
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

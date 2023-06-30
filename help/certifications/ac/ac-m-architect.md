@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Esame AD0-E718" type="positivo"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '881'
 ht-degree: 1%
@@ -177,7 +177,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 ### Opzioni disponibili
 
-{#PSI-note}
+{{PSI-note}}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
