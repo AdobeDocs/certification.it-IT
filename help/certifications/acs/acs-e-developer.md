@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E306" type="positivo"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1096'
 ht-degree: 12%
@@ -170,6 +170,8 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 ## sostenere l&#39;esame (AD0-E306);
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

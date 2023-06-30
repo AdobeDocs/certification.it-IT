@@ -6,10 +6,10 @@ role: Developer
 badge: label="Esame AD0-E905" type="positivo"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1034'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -142,7 +142,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Best practice: onboarding e adozione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [Creare un singolo profilo utente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Configurazione del sistema: gruppi e utenti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [Condividere un progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Condividere un progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=it){target="_blank"}
 * [Funzionamento congiunto dei livelli di accesso e delle autorizzazioni](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [Importare dati in Adobe [!DNL Workfront] utilizzo di un modello di Kick-Start](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
@@ -177,6 +177,8 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 ## sostenere l&#39;esame (AD0-E905)
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

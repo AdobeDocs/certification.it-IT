@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E502" type="positivo"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 0%
@@ -138,6 +138,8 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 ## sostenere l&#39;esame (AD0-E502)
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

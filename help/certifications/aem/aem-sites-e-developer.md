@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E134" type="positivo"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 11%
+ht-degree: 13%
 
 ---
 
@@ -110,7 +110,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Panoramica di Dispatcher](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Video e tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 
 **Sezione 2: Sviluppo dell’AEM**
@@ -127,7 +127,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Guida utente allo sviluppo in AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Adobe [!DNL Experience Manager as a Cloud Service] Video e Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 
 **Sezione 4: Manutenzione dell&#39;ambiente**
 
@@ -135,7 +135,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Video ed esercitazioni di AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Distribuzione e manutenzione](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=it){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 
 >[!TAB Ottieni certificazione]
 
@@ -156,6 +156,8 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 ## sostenere l&#39;esame (AD0-E134);
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

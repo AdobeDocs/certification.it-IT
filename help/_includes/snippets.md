@@ -1,7 +1,7 @@
 ---
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,9 @@ Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente seleziona
 Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
 Paga per il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+
+## Nota PSI {#PSI-note}
+
+>[!IMPORTANT]
+>
+>A partire dal 1° agosto 2023, la pianificazione degli esami non sarà più disponibile con PSI. Se hai già programmato un esame con PSI, devi sostenerlo prima del 1° agosto 2023. Se hai programmato un esame con PSI dopo il 1° agosto 2023, riprogramma l’esame per svolgerlo prima di tale data. Se non sei in grado o non sei preparato a sostenere l’esame prima del 1° agosto 2023, invia un’e-mail <certif@adobe.edu> in modo che possiamo aiutarti a trasferire il tuo esame all&#39;Examity. Questo include esami di lingua giapponese.

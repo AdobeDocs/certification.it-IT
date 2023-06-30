@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Esame AD0-E407" type="positivo"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1149'
+ht-degree: 20%
 
 ---
 
@@ -212,6 +212,8 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 ## sostenere l&#39;esame (AD0-E407);
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

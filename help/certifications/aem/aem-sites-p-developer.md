@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E123" type="positivo"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '708'
-ht-degree: 13%
+ht-degree: 14%
 
 ---
 
@@ -94,13 +94,13 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 **Sezione 1: Configurazioni**
 
 * [Guida utente all’amministrazione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=it){target="_blank"}
 * [Panoramica di Dispatcher](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **Sezione 2: Sviluppo dell’AEM**
 
 * [Guida utente all’amministrazione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 * [Guida utente allo sviluppo in AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Introduzione ai Componenti core](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=it){target="_blank"}
 * [Nozioni di base sui componenti](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
@@ -137,6 +137,8 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 ## sostenere l&#39;esame (AD0-E123);
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

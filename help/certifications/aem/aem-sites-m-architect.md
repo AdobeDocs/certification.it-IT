@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Esame AD0-E117" type="positivo"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1449'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
@@ -163,11 +163,11 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [[!DNL Experience Manager as a Cloud Service] Panoramica](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 * [Guida di HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=it){target="_blank"}
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=it){target="_blank"}
 
 **Sezione 3: Attuazione**
 
-* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 * [Documentazione di Adobe Enterprise](https://experienceleague.adobe.com/docs/?lang=it){target="_blank"}
 * [Adobe [!DNL Experience Manager] panoramica dell’app desktop](https://experienceleague.adobe.com/?lang=itdocs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
 * [Video e tutorial su AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
@@ -179,7 +179,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Guida utente all’authoring di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [Video e tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=it){target="_blank"}
 * [Panoramica di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 
 
@@ -215,6 +215,8 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 ## sostenere l&#39;esame (AD0-E117);
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 

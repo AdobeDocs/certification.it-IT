@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E600 & AD7-E601" type="positivo"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: b9231e1a3b80440862b5004f42acf10b704b91a7
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1686'
 ht-degree: 6%
@@ -288,6 +288,8 @@ Sezione 3: Destinazioni (27%)
 ## sostenere l&#39;esame (AD0-E601);
 
 ### Opzioni disponibili
+
+{#PSI-note}
 
 **PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
 
