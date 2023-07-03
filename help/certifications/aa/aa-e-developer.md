@@ -30,7 +30,7 @@ Devi acquisire familiarità con i seguenti strumenti e ambienti:
 Strumenti:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come Adobe Debugger, strumenti per sviluppatori del browser, Charles)
+* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come Adobe Debugger, strumenti per sviluppatori di browser, Charles)
 * [!DNL Adobe Analytics] Impostazioni suite per report di Admin Console
 * Conoscenza di base di Workspace
 * Strumenti di sviluppo web, editor di codice e strumenti di debug per dispositivi mobili
