@@ -2,9 +2,9 @@
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
 user-guide-description: Scopri la Certificazione  [!DNL Experience Cloud]  in Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: 623fd77e77f955d57d779b2f0b746ddb5ef01b5b
+source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '261'
 ht-degree: 45%
 
 ---
@@ -39,6 +39,8 @@ ht-degree: 45%
       + [Rinnovo](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
       + [Panoramica del Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + Professionale {#acja-professional}
+         + [Professionista](/help/certifications/acja/acja-p-business.md)
       + Esperto {#acja-expert}
          + [Sviluppatore](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
