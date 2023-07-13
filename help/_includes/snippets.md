@@ -1,5 +1,5 @@
 ---
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Paga per il tuo esame di certificazione tramite voucher o carta di credito. Per 
 
 >[!IMPORTANT]
 >
->A partire dal 1° agosto 2023, la pianificazione degli esami non sarà più disponibile con PSI. Se hai già programmato un esame con PSI, devi sostenerlo prima del 1° agosto 2023. Se hai programmato un esame con PSI dopo il 1° agosto 2023, riprogramma l’esame per svolgerlo prima di tale data. Se non sei in grado o non sei preparato a sostenere l’esame prima del 1° agosto 2023, invia un’e-mail <certif@adobe.edu> in modo che possiamo aiutarti a trasferire il tuo esame all&#39;Examity. Questo include esami di lingua giapponese.
+>A partire dal 1° agosto 2023, la pianificazione degli esami non sarà più disponibile con PSI. Se hai già programmato un esame con PSI, devi sostenerlo prima del 1° agosto 2023. Se hai programmato un esame con PSI dopo il 1° agosto 2023, riprogramma l’esame per svolgerlo prima di tale data. Se non sei in grado o non sei preparato a sostenere l’esame prima del 1° agosto 2023, invia un’e-mail <certif@adobe.com> in modo che possiamo aiutarti a trasferire il tuo esame all&#39;Examity. Questo include esami di lingua giapponese.
