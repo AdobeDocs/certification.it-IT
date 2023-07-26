@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 116ab244444823c3290f5e054e44fb9c6816cbc0
+source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
 workflow-type: tm+mt
-source-wordcount: '5199'
+source-wordcount: '5347'
 ht-degree: 8%
 
 ---
@@ -120,13 +120,19 @@ Per essere idoneo, la certificazione deve soddisfare **tutto** dei seguenti crit
 * **Passaggio 2**: studia i corsi in Experience League
 * **Passaggio 3**: scegli una delle opzioni di seguito.
 
-**Opzione 1:** Seleziona **tre attività** completare e superare le valutazioni del corso associate a ciascuna con un punteggio pari o superiore all’80%. Le valutazioni del corso sono gratuite, su richiesta e non protette. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
+  **Opzione A:**
 
-**Opzione 2:** Seleziona **due attività** completare e superare le valutazioni del corso associate a ciascuna con un punteggio pari o superiore all’80%. Le valutazioni del corso sono gratuite, su richiesta e non protette. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%. Allora, **invia un modulo di riferimento cliente** la convalida del coinvolgimento in un progetto per un totale di almeno 100 ore negli ultimi 12 mesi.
+  Seleziona **tre corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
 
-[Modulo di riferimento cliente per Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Opzione B:**
 
-Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista.
+  Seleziona innanzitutto **due corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
+
+  Secondo, **invia un modulo di riferimento cliente** convalida del lavoro continuo come singolo Adobe certificato, responsabile, gestione e/o partecipazione a un progetto di implementazione Adobe Experience Cloud. In questo modulo si afferma che il cliente ha partecipato ad almeno 100 ore di progetti dimostrati negli ultimi 12 mesi.
+
+  [Modulo di riferimento cliente per Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+
+  Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista. Se il tuo riferimento non viene accettato, puoi inviare di nuovo fino a quando non avrai avuto successo, purché ciò avvenga prima della scadenza della certificazione.
 
 ### Corsi e valutazioni del corso per esperto e master:
 
@@ -149,13 +155,19 @@ Riceverai una notifica dal team Adobe Credential quando la referenza del cliente
 * **Passaggio 2**: studia i corsi in Experience League
 * **Passaggio 3**: scegli una delle opzioni di seguito.
 
-**Opzione 1:** Seleziona **tre attività** completare e superare le valutazioni del corso associate a ciascuna con un punteggio pari o superiore all’80%. Le valutazioni del corso sono gratuite, su richiesta e non protette. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
+  **Opzione A:**
 
-**Opzione 2:** Seleziona **due attività** completare e superare le valutazioni del corso associate a ciascuna con un punteggio pari o superiore all’80%. Le valutazioni del corso sono gratuite, su richiesta e non protette. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%. Allora, **invia un modulo di riferimento cliente** la convalida del coinvolgimento in un progetto per un totale di almeno 100 ore negli ultimi 12 mesi.
+  Seleziona **tre corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
 
-[Modulo di riferimento cliente per Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100){target="_blank"}
+  **Opzione B:**
 
-Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista.
+  Seleziona innanzitutto **due corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
+
+  Secondo, **invia un modulo di riferimento cliente** convalida del lavoro continuo come singolo Adobe certificato, responsabile, gestione e/o partecipazione a un progetto di implementazione Adobe Experience Cloud. In questo modulo si afferma che il cliente ha partecipato ad almeno 100 ore di progetti dimostrati negli ultimi 12 mesi.
+
+  [Modulo di riferimento cliente per Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+
+  Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista. Se il tuo riferimento non viene accettato, puoi inviare di nuovo fino a quando non avrai avuto successo, purché ciò avvenga prima della scadenza della certificazione.
 
 ### Corsi e valutazioni del corso per esperto e master:
 
@@ -176,13 +188,19 @@ Riceverai una notifica dal team Adobe Credential quando la referenza del cliente
 * **Passaggio 2**: studia i corsi in Experience League
 * **Passaggio 3**: scegli una delle opzioni di seguito.
 
-**Opzione 1:** Seleziona **tre attività** completare e superare le valutazioni del corso associate a ciascuna con un punteggio pari o superiore all’80%. Le valutazioni del corso sono gratuite, su richiesta e non protette. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
+  **Opzione A:**
 
-**Opzione 2:** Seleziona **due attività** completare e superare le valutazioni del corso associate a ciascuna con un punteggio pari o superiore all’80%. Le valutazioni del corso sono gratuite, su richiesta e non protette. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%. Allora, **invia un modulo di riferimento cliente** la convalida del coinvolgimento in un progetto per un totale di almeno 100 ore negli ultimi 12 mesi.
+  Seleziona **tre corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
 
-[Modulo di riferimento cliente per Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA100)
+  **Opzione B:**
 
-Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista.
+  Seleziona innanzitutto **due corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
+
+  Secondo, **invia un modulo di riferimento cliente** convalida del lavoro continuo come singolo Adobe certificato, responsabile, gestione e/o partecipazione a un progetto di implementazione Adobe Experience Cloud. In questo modulo si afferma che il cliente ha partecipato ad almeno 100 ore di progetti dimostrati negli ultimi 12 mesi.
+
+  [Modulo di riferimento cliente per Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+
+  Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista. Se il tuo riferimento non viene accettato, puoi inviare di nuovo fino a quando non avrai avuto successo, purché ciò avvenga prima della scadenza della certificazione.
 
 ### Corsi e valutazioni del corso per esperto e master:
 
