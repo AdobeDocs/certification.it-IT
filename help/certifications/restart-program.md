@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -27,7 +27,7 @@ La certificazione è una risorsa preziosa per chi cerca di rimanere competitivo 
 
 Le persone con certificazioni scadute idonee per questo programma devono aver ricevuto un’e-mail dal programma di certificazione Adobe con il tema &quot;Diventa Adobe certificato di nuovo gratuitamente&quot;.
 
-Se non sei sicuro di essere idoneo, controlla [qui](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+Se non sei sicuro di essere idoneo, controlla [qui](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 Per essere idoneo, la certificazione deve soddisfare **tutto** dei seguenti criteri:
 
@@ -198,7 +198,7 @@ Per essere idoneo, la certificazione deve soddisfare **tutto** dei seguenti crit
 
   Secondo, **invia un modulo di riferimento cliente** convalida del lavoro continuo come singolo Adobe certificato, responsabile, gestione e/o partecipazione a un progetto di implementazione Adobe Experience Cloud. In questo modulo si afferma che il cliente ha partecipato ad almeno 100 ore di progetti dimostrati negli ultimi 12 mesi.
 
-  [Modulo di riferimento cliente per Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Modulo di riferimento cliente per Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista. Se il tuo riferimento non viene accettato, puoi inviare di nuovo fino a quando non avrai avuto successo, purché ciò avvenga prima della scadenza della certificazione.
 
@@ -272,7 +272,7 @@ Per essere idoneo, la certificazione deve soddisfare **tutto** dei seguenti crit
 
 Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
-Di seguito sono riportate le risorse suggerite,
+Di seguito sono riportate le risorse suggerite:
 
 * [Esame di esempio](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Documentazione del prodotto](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
