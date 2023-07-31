@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -38,7 +38,7 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!TAB Esperto e principale]
 
-## Al momento dovresti essere certificato (non scaduto) in:
+## È necessario disporre di almeno uno dei seguenti elementi **attivo** certificazioni da rinnovare:
 
 * [!DNL Adobe Target] Esperto di professionisti aziendali
 * [!DNL Adobe Target] Architect Master
@@ -50,8 +50,7 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 * **Passaggio 3:** Per completare il rinnovo, scegli tra le opzioni seguenti.
 
   **Opzione A:**
-
-  Seleziona **tre corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
+Seleziona **tre corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
 
   **Opzione B:**
 Seleziona innanzitutto **due corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
@@ -64,7 +63,7 @@ Seleziona innanzitutto **due corsi** completare e superare ogni valutazione del 
 
 >[!NOTE]
 >
->Se si tiene premuto più [!DNL Adobe Target] Certificazioni specialistiche e di livello superiore, completano i requisiti di rinnovo per una sola certificazione e il resto verrà rinnovato automaticamente.
+>Se si tiene premuto più [!DNL Adobe Target] Certificazioni specialistiche e master, completa i requisiti di rinnovo per una sola certificazione e il resto verrà rinnovato automaticamente.
 
 ## Corsi e valutazioni del corso per esperto e master:
 

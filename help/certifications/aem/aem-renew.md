@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
 workflow-type: tm+mt
-source-wordcount: '612'
-ht-degree: 4%
+source-wordcount: '627'
+ht-degree: 3%
 
 ---
 
@@ -37,7 +37,7 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!TAB Esperto e principale]
 
-Al momento dovresti essere certificato (non scaduto) in:
+## È necessario disporre di almeno uno dei seguenti elementi **attivo** certificazioni da rinnovare:
 
 * Adobe [!DNL Experience Manager Sites] Sviluppatore esperto
 * Adobe [!DNL Experience Manager Sites] Esperto di professionisti aziendali
@@ -48,28 +48,30 @@ Al momento dovresti essere certificato (non scaduto) in:
 
 ## Istruzioni per il rinnovo dell&#39;Adobe [!DNL Experience Manager] certificazione
 
-Seleziona **tre attività** completare e superare le valutazioni del corso associate a ciascuno di essi.
+* **Passaggio 1:** Accesso riuscito a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2:** Studia i corsi in Experience League
+* **Passaggio 3:** Per completare il rinnovo, scegli tra le opzioni seguenti.
 
-* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: studia i corsi in Experience League
-* **Passaggio 3**: completare e superare ogni valutazione del corso con almeno l’80%
+  **Opzione A:**
+Seleziona **tre corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
 
-In alternativa, puoi studiare due corsi, superare due valutazioni del corso e inviare un modulo di riferimento per il cliente che convalida il tuo coinvolgimento in un progetto per un totale di 100 ore negli ultimi 12 mesi.
+  **Opzione B:**
+Seleziona innanzitutto **due corsi** completare e superare ogni valutazione del corso con un punteggio pari o superiore all’80%. Le valutazioni del corso sono libere, su richiesta, non protette e open book. Puoi ripetere i corsi fino a quando non avrai superato con successo le valutazioni all’80%.
 
-Per alcune certificazioni Adobe Experience Cloud, il programma Adobe Credential accetta **riferimenti cliente** che convalidano il tuo lavoro continuo come Adobe certificato individuale, responsabile, gestione e/o partecipazione a un progetto di implementazione Adobe Experience Cloud.
+  Secondo, **invia un modulo di riferimento cliente** convalida del lavoro continuo come singolo Adobe certificato, responsabile, gestione e/o partecipazione a un progetto di implementazione Adobe Experience Cloud. In questo modulo si afferma che hai partecipato ad almeno 100 ore di dimostrata partecipazione al progetto durante il rinnovo della certificazione, con un intervallo di 2 anni.
 
-In questi casi è possibile fornire una referenza del cliente che confermi di aver partecipato ad almeno 100 ore di dimostrata partecipazione al progetto durante il periodo di 2 anni di rinnovo della certificazione.
+  [Modulo di riferimento cliente per Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
-**Dopo aver esaminato la referenza del cliente, riceverai una notifica dal team Adobe Credential.**
+  Riceverai una notifica dal team Adobe Credential quando la referenza del cliente sarà stata rivista. Se il tuo riferimento non viene accettato, puoi inviare di nuovo fino a quando non avrai avuto successo, purché ciò avvenga prima della scadenza della certificazione.
 
-Le valutazioni del corso sono gratuite. Non è necessario pianificarli e non sono protetti. Se possiedi più certificazioni Adobe Experience Manager Expert e Master, dovrai solo completare i requisiti riportati di seguito e tutte le certificazioni AEM a questo livello verranno rinnovate.
+>[!NOTE]
+>
+>Se si tiene premuto più [!DNL Adobe Experience Manager] Certificazioni specialistiche e master, completa i requisiti di rinnovo per una sola certificazione e il resto verrà rinnovato automaticamente.
 
-[Modulo di riferimento cliente per Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
-
-### Corsi e valutazioni del corso per esperto e maestro:
+## Corsi e valutazioni del corso per Esperto e Master:
 
 
-| Corso | Valutazione del corso |
+| Corsi per esperto e master | Valutazione del corso |
 | ------- | ------- |
 | [Passaggio all&#39;Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA101){target="_blank"} |
 | [Pianificazione della migrazione all&#39;Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA102){target="_blank"} |
@@ -79,10 +81,6 @@ Le valutazioni del corso sono gratuite. Non è necessario pianificarli e non son
 | [ [!DNL Experience Manager Forms Cloud Service] Integrare con [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA106){target="_blank"} |
 | [Adobe [!DNL Experience Manager Cloud Manager] Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA107){target="_blank"} |
 | [Adobe [!DNL Experience Manager Sites] per architetti](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA108){target="_blank"} |
-
->[!NOTE]
->
->Puoi ripetere questa operazione fino a quando non avrai completato correttamente tre attività o due attività, oltre al modulo di riferimento per i clienti.
 
 >[!ENDTABS]
 
