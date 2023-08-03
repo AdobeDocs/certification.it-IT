@@ -4,17 +4,28 @@ description: Scopri come ottenere la certificazione di Architect Master in Exper
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Esame AD0-E117" type="positivo"
+badge: label="Esame AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
+source-wordcount: '1514'
 ht-degree: 19%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Experience Manager Sites] Architect Master
+
+>[!NOTE]
+>
+>Questo esame (AD0-E117) è in corso di manutenzione ed è temporaneamente non disponibile. Ci scusiamo sinceramente per l&#39;inconveniente. Utilizza il pulsante qui sotto per registrarti e ricevere una notifica quando sarà nuovamente disponibile.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Notificami
+</span>
+</a>
 
 Scopri come diventare un Architect Master certificato.
 
@@ -28,7 +39,7 @@ Dovresti avere:
 
 Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
-* Progettare un processo di modifica del software per i clienti (on-premise e cloud)
+* Progettazione di un processo di modifica del software per i clienti (on-premise e cloud)
 * Definisci un modello di contenuto per contenuti/risorse che possa soddisfare i requisiti futuri
 * Definisce i modelli e i componenti necessari in base ai requisiti aziendali
 * Identificare quando utilizzare i componenti predefiniti/funzionalità/core rispetto ai componenti personalizzati
@@ -216,23 +227,14 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 ### Opzioni disponibili
 
-{{PSI-note}}
+>[!NOTE]
+>
+>Questo esame (AD0-E117) è in corso di manutenzione ed è temporaneamente non disponibile. Ci scusiamo sinceramente per l&#39;inconveniente. Utilizza il pulsante qui sotto per registrarti e ricevere una notifica quando sarà nuovamente disponibile.
 
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Notificami
 </span>
 </a>
 
