@@ -4,9 +4,9 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1414'
 ht-degree: 1%
 
 ---
@@ -19,25 +19,16 @@ Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse neces
 
 >[!TAB Registrazione]
 
-L&#39;Adobe utilizza due fornitori per l&#39;amministrazione degli esami controllati: [!DNL PSI] e [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]:** offre un&#39;opzione online remota
+L&#39;Adobe utilizza Examity per amministrare gli esami protetti online.
 
 **Per registrarti all’esame di certificazione, segui la procedura riportata di seguito:**
 
 * **Passaggio 1:** Accesso riuscito a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Passaggio 2:** Torna a questo sito e fai clic su Certificazioni tecniche.
-* **Passaggio 3:** Scegli la soluzione di Adobe, il livello di certificazione e il ruolo
+* **Passaggio 3:** Scegli l’applicazione di Adobe, il livello di certificazione e il ruolo
 * **Passaggio 4:** Segui i passaggi descritti in **Ottieni certificazione** sezione.
 
 **Risorse**
-
-**PSI:**
-
-* [Come registrarsi a un esame presso un Centro di prova](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 Esempio:
 
@@ -50,7 +41,7 @@ Il tuo [profilo](https://www.certmetrics.com/adobe/candidate/demographics.aspx){
 
 Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
-Né il Supporto Adobe né i fornitori di esami possono elaborare richieste di riprogrammazione e annullamento. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
+Né il Supporto Adobe né Examity sono in grado di elaborare richieste di riprogrammazione e cancellazione. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
 
 Una volta completato un esame, si riceve un pass provvisorio o si fallisce. Il punteggio finale può richiedere fino a 72 ore per essere popolato. Troverai il rapporto sui risultati e il punteggio nella scheda Cronologia della sezione [Gestione credenziali Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -88,13 +79,10 @@ Nota: gli sconti collettivi non possono essere combinati con altre offerte o sco
 
 Il team Adobe Credential collabora con i fornitori per supportare le iniziative e gli obiettivi del programma.  Di seguito sono elencati i fornitori e le relative informazioni di contatto:
 
-{{PSI-note}}
-
 | Nome fornitore | Descrizione | Pagina di supporto/E-mail |
 | ------- | ------- | ------- |
 | Credendo | Sistema di gestione dei badge | [- Supporto](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Esamina | Fornitore consegna di prova (solo Online Proctoring) | [E-mail](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
-| PSI | Fornitore di test consegna per gli esami gestiti in una località o in giapponese | [E-mail](mailto:adobe.psisupport@psionline.com){target="_blank"} |
 | Xvoucher - Adobe Certification Voucher Center | Centro voucher per l&#39;acquisto di voucher singoli o in blocco | [E-mail](mailto:support@xvoucher.com){target="_blank"} o [Guida in linea](https://help.xvoucher.com/hc/en-us) |
 
 Altre risorse fornitore:

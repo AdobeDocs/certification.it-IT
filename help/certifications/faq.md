@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '2655'
+source-wordcount: '2643'
 ht-degree: 1%
 
 ---
@@ -49,15 +49,13 @@ A volte ci sono più versioni di un esame. È meglio prendere l&#39;ultima versi
 
 +++Cosa succede se ho problemi tecnici durante il mio esame proctored?
 
-PSI [!DNL Examity] dispongono del supporto disponibile tramite chat, e-mail e telefono. Il supporto Adobe non è utile per i problemi tecnici che si verificano durante l&#39;esame.
+[!DNL Examity] dispone del supporto disponibile tramite chat, e-mail e telefono. Il supporto Adobe non è utile per i problemi tecnici che si verificano durante l&#39;esame.
 
-[!DNL Examity] Supporto - `adobepartnersupport@examity.com`
-
-Supporto PSI - `psisupport@psionline.com`
+[!DNL Examity] Supporto: `adobepartnersupport@examity.com`
 
 La risorsa di aiuto più rapida è tramite la chat. Prima di sostenere l&#39;esame, tutti i candidati devono assicurarsi che il computer disponga dei requisiti di sistema appropriati.
 
-Per ulteriori dettagli, vedere: PSI e [!DNL Examity] pagine per la gestione di esami e impostazioni tecniche.
+Per ulteriori dettagli, vedi [!DNL Examity] pagina per la gestione degli esami e della configurazione tecnica.
 
 +++
 
@@ -117,9 +115,7 @@ Poiché è necessario assicurarsi che gli utenti Adobi certificati siano aggiorn
 
 +++Gli esami sono disponibili in lingue diverse dall&#39;inglese?
 
-{{PSI-note}}
-
-Ci sono alcuni esami disponibili in giapponese tramite PSI (uno dei nostri fornitori). Se l&#39;esame è disponibile in giapponese, sarà annotato nei dettagli dell&#39;esame per quell&#39;esame. I dettagli degli esami si trovano nella scheda &quot;Preparati&quot; delle pagine del percorso di certificazione.
+Alcuni esami sono disponibili in giapponese. Se l&#39;esame è disponibile in giapponese, sarà annotato nei dettagli dell&#39;esame per quell&#39;esame. I dettagli degli esami si trovano nella scheda &quot;Preparati&quot; delle pagine del percorso di certificazione.
 
 +++
 
@@ -129,7 +125,7 @@ Le certificazioni sono offerte in alcuni eventi sponsorizzati dagli Adobi.
 
 +++
 
-+++Le certificazioni sono legate a versioni specifiche delle applicazioni (ad esempio, Adobe Experience Manager 6.5)?
++++Le certificazioni sono associate a versioni specifiche delle applicazioni (ad esempio, Adobe Experience Manager 6.5)?
 
 Non direttamente, no. Tuttavia, poiché ora la certificazione richiede un rinnovo ogni 2 anni, la certificazione ti assicura di rimanere aggiornato sull’ultima versione di un’applicazione di Adobe.
 

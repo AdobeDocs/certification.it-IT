@@ -4,12 +4,12 @@ description: Scopri come ottenere la certificazione di Adobe esperto di professi
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Esame AD0-E208" type="positivo"
+badge: label="Esame AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1001'
 ht-degree: 13%
 
 ---
@@ -167,37 +167,22 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 >
 >Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 >
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+>Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
 
 ## Esegui un test di esercitazione
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E208);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E208
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

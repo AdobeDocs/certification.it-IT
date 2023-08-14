@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6c78640fc33f8e0d0aa7057265844b810a403d13
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -19,16 +19,13 @@ Vai a [Adobe portale per la preparazione all’esame di certificazione](https://
 
 ## Informazioni sull’esame di certificazione {#about-certification-exam}
 
-L&#39;Adobe utilizza due fornitori per l&#39;amministrazione degli esami controllati, PSI e [!DNL Examity].
+L&#39;Adobe utilizza Examity per amministrare gli esami protetti online. Nel portale Examity puoi effettuare le seguenti operazioni:
 
-* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]** offre un&#39;opzione online remota
+* **Pianifica, riprogramma o annulla l’esame.** Si prega di notare che l&#39;annullamento e la riprogrammazione devono essere iniziati prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
-Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente selezionare il fornitore desiderato e seguire le istruzioni fornite sullo schermo. È così semplice!
+* **Pagate il vostro esame.** Paga il tuo esame di certificazione tramite voucher o carta di credito nel portale Examity. Per acquistare un voucher d&#39;esame vai a: [Adobe sistema di voucher certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
-
-Paga per il tuo esame di certificazione tramite voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+* **Sostieni il tuo esame.**
 
 ## Nota PSI {#PSI-note}
 
