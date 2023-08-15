@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Esame AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 10%
 
 ---
@@ -24,7 +24,7 @@ Scopri come ottenere la certificazione [!DNL Analytics] Sviluppatore professiona
 Dovresti avere:
 
 * 6-12 mesi di esperienza in [!DNL Adobe Analytics] implementazione (web e app mobile)
-* Esperienza nel ruolo di lettore che supporta i team di implementazione di Analytics nel collegamento tra l’IT e l’azienda per comprendere come i requisiti di business si traducono in una soluzione tecnica (SDR) e in base ai requisiti forniti dall’analista
+* Esperienza che supporta i team di implementazione di Analytics nel collegamento tra l’IT e l’azienda per comprendere come i requisiti di business si traducono in una soluzione tecnica (SDR) e in base ai requisiti forniti dall’analista
 * Informazioni sul tipo di variabile necessaria, su dove e come raccogliere i dati, progettare il modello di dati (livello dati), configurare e gestire la soluzione di gestione dei tag
 
 Esperienza con le seguenti attività:
