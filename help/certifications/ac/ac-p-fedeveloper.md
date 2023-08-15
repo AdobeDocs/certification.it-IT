@@ -4,23 +4,23 @@ description: Scopri come diventare un professionista Adobe Developer certificato
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Esame AD0-E719" type="positivo"
+badge: label="Esame AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Commerce] Sviluppatore professionale front-end
 
-Scopri come diventare un Adobe Developer Professional certificato.
+Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore professionale.
 
 >[!NOTE]
 >
->Questo esame Adobe Commerce Front End Developer Professional (AD0-E719) è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 18 agosto 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](ac-p-fedeveloper0623.md).
+>Questo esame, [!DNL Adobe Commerce] Front End Developer Professional (AD0-E719) è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 18 agosto 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](ac-p-fedeveloper0623.md).
 
 ## Esperienza minima
 
@@ -182,31 +182,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E719);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E719
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

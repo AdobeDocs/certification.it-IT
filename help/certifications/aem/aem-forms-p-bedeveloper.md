@@ -4,19 +4,19 @@ description: Scopri come diventare un Adobe certificato AEM Forms Backend Develo
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Esame AD0-E127" type="positivo"
+badge: label="Esame AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 7%
+source-wordcount: '825'
+ht-degree: 8%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Experience Manager Forms] Sviluppatore back-end Professional
 
-Scopri come ottenere la certificazione [!DNL Adobe AEM Forms] Sviluppatore professionale back-end.
+Scopri come diventare un Adobe certificato [!DNL Experience Manager Forms] Sviluppatore professionale back-end.
 
 ## Esperienza minima
 
@@ -152,20 +152,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E127);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E127
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

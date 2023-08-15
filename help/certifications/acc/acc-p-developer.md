@@ -4,19 +4,19 @@ description: Scopri come diventare un Adobe Developer Professional certificato i
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Esame AD0-E331" type="positivo"
+badge: label="Esame AD0-E331" type="positive"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1198'
+source-wordcount: '1174'
 ht-degree: 10%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Campaign Classic] Sviluppatore professionale
 
-Scopri come diventare un Adobe Developer Professional certificato.
+Scopri come diventare un Adobe certificato [!DNL Campaign Classic] Sviluppatore professionale.
 
 ## Esperienza minima
 
@@ -192,31 +192,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E331)
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E331
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

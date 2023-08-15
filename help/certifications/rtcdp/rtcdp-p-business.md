@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="Esame AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 4%
+source-wordcount: '750'
+ht-degree: 6%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Real-Time CDP] Professionista professionista
 
-Scopri come diventare un Adobe certificato [!DNL Experience Platform] professionale.
+Scopri come diventare un Adobe certificato [!DNL Experience Platform] Professionista.
 
 ## Esperienza minima
 
@@ -108,7 +108,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 **Sezione 1: Segmenti e attivazione**
 
-* [Panoramica del servizio di segmentazione](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Panoramica del servizio di segmentazione](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=it){target="_blank"}
 * [Creare segmenti sequenziali](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
 * [Valutare e accedere ai risultati dei segmenti](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 * [Guida dell’interfaccia utente di Segmentation Service](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
@@ -147,31 +147,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E602);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E602
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

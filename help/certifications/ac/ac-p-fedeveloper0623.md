@@ -4,22 +4,22 @@ description: Scopri come diventare un professionista Adobe Developer certificato
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Esame AD0-E721" type="positivo"
+badge: label="Esame AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1057'
+source-wordcount: '888'
 ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Commerce] Sviluppatore professionale front-end
 
-Scopri come diventare un Adobe Developer Professional certificato.
+Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore professionale.
 
 >[!NOTE]
 >
->Questo è il più recente esame Adobe Commerce Front End Developer Professional. Se ha già iniziato a studiare o ha programmato [versione precedente](ac-p-fedeveloper.md) hai fino al 18 agosto 2023 per completarlo.
+>Questa è la più recente [!DNL Adobe Commerce] Esame per sviluppatori professionisti front-end. Se ha già iniziato a studiare o ha programmato [versione precedente](ac-p-fedeveloper.md) hai fino al 18 agosto 2023 per completarlo.
 
 ## Esperienza minima
 
@@ -171,26 +171,18 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Test di esercitazione in arrivo**
 
-**Sostieni l&#39;esame di certificazione**
+## Informazioni sull’esame di certificazione
 
-In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
+{{about-certification-exam}}
 
-* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]** offre un&#39;opzione online remota
+## Programmare o sostenere l&#39;esame AD0-E721
 
-Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
-
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
-
-### Numero esame: AD0-E721
-
-[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721 newtab=true"}
-
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<span class="spectrum-Button-label has-no-wrap">
+   Vai al portale di esempio
+</span>
+</a>
 
 >[!ENDTABS]
 

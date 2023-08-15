@@ -4,13 +4,13 @@ description: Scopri come diventare un Adobe certificato [!DNL Experience Manager
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Esame AD0-E132 type="positivo"
+badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 9%
+source-wordcount: '600'
+ht-degree: 10%
 
 ---
 
@@ -107,7 +107,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 **Sezione 1: Creazione di contenuti**
 
 
-* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=it){target="_blank"}
 * [Guida utente all’authoring di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
@@ -140,20 +140,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 >Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E132);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E132
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

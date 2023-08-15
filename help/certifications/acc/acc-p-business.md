@@ -4,19 +4,19 @@ description: Scopri come diventare un professionista Adobe di business certifica
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Esame AD0-E329" type="positivo"
+badge: label="Esame AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1215'
 ht-degree: 12%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Campaign Classic] Professionista professionista
 
-Scopri come diventare un professionista Adobe di business certificato.
+Scopri come diventare un Adobe certificato [!DNL Campaign Classic] Professionista di business.
 
 ## Esperienza minima
 
@@ -104,7 +104,7 @@ Sezione 4: configurazione della consegna (28%)
 * Considerati i requisiti aziendali, determina come creare i modelli
 * Dati i requisiti aziendali, determina le proprietà di consegna corrette
 * Identifica e applica le opzioni di personalizzazione OOTB disponibili per una consegna (collegamento a pagina speculare, saluto, collegamento non secondario)
-* Dato uno scenario, determina la regola di tipologia appropriata (controllo, filtro, pressione, capacità)
+* In uno scenario, determina la regola di tipologia appropriata (controllo, filtro, pressione, capacità)
 * Identifica la causa dell’esclusione di una consegna da parte dei destinatari nel registro e verifica la diagnostica della consegna
 * Indica dove e come testare il contenuto e la personalizzazione della consegna
 * Differenziare tra i vari stati di consegna che si verificano durante l’elaborazione e l’applicazione di azioni
@@ -180,20 +180,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E329);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E329
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

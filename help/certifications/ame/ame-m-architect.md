@@ -4,28 +4,28 @@ description: Scopri come diventare un Adobe Architect Master certificato in Adob
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
-badge: label="Esame AD0-E556" type="positivo"
+badge: label="Esame AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '983'
 ht-degree: 1%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Marketo Engage] Architect Master
 
-Scopri come ottenere la certificazione di Adobe Architect Master.
+Scopri come diventare un Adobe certificato [!DNL Marketo Engage] Architetto principale.
 
-Il programma Adobe Credential ha lanciato una nuova certificazione Adobe Marketo Engage Architect per i candidati interessati a ottenere il titolo di master certificato. Sostituisce il precedente processo di colloquio per la certificazione Marketo Certified Solution Architect (MCSA). [Maggiori informazioni](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+Il programma Adobe Credential ha avviato un nuovo Adobe [!DNL Marketo Engage] Coinvolgi la certificazione di architetto per i candidati interessati a ottenere il titolo di master certificato. Sostituisce il precedente processo di colloquio per la certificazione Marketo Certified Solution Architect (MCSA). [Ulteriori informazioni](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## Esperienza minima
 
 Dovresti avere:
 
-* Una certificazione corrente in [!DNL Marketo Engage] Esperto certificato professionista aziendale
-* Almeno cinque anni di esperienza, preferibilmente con più istanze di [!DNL Marketo Engage]
+* Una certificazione corrente in Adobe [!DNL Marketo Engage] Esperto certificato professionista aziendale
+* Almeno cinque anni di esperienza preferibilmente con più istanze di Adobe [!DNL Marketo Engage]
 * Comprensione dell&#39;impatto aziendale e spiegazione/comunicazione efficace della propria soluzione alle parti interessate (tecniche e non) a diversi livelli
 * La capacità di concepire una soluzione e tradurla in una [!DNL Marketo Engage] architettura, comprendere i processi aziendali interessati dalle integrazioni
 * Familiarità con i principi di architettura di un’istanza
@@ -97,7 +97,7 @@ Sezione 2: [!DNL Marketo Engage] Progettazione dell&#39;architettura (48%)
 * Definizione di una procedura operativa per il ciclo dei lead in più paesi
 * Considerato uno scenario, valuta l’impatto e i requisiti per incorporare la nuova tecnologia nell’istanza
 * Identificare i diversi tipi di integrazioni e quando utilizzarle
-* Dato uno scenario, delineare le varie fasi del ciclo di vita della persona interessate dalle modifiche e dai requisiti proposti
+* Dato uno scenario, delineare le varie fasi del ciclo di vita della persona interessata dalle modifiche e dai requisiti proposti
 * Valuta una serie di requisiti e consiglia un approccio alla logica della campagna
 
 Sezione 3: Reporting e attribuzione (20%)
@@ -164,31 +164,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E556);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E556
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

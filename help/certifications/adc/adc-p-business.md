@@ -7,24 +7,24 @@ role: User
 badge: label="Esame AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Percorso di certificazione per professionisti Adobe Document Cloud Business Practitioner
+# Percorso di certificazione per [!DNL Adobe Document Cloud] Professionista professionista
 
-Scopri come diventare un professionista Adobe di business certificato.
+Scopri come ottenere la certificazione [!DNL Adobe Document Cloud] Professionista di business.
 
 ## Esperienza minima
 
 Dovresti avere:
 
-* Almeno 0-12 mesi di esperienza in Adobe Document Cloud
+* Almeno 0-12 mesi di esperienza entro [!DNL Adobe Document Cloud]
 * Essere in grado di identificare e comunicare le esigenze aziendali
-* Essere in grado di eseguire consigli di abilitazione del prodotto sulle soluzioni Adobe Document Cloud.
+* Essere in grado di eseguire l’abilitazione del prodotto consigliando su [!DNL Adobe Document Cloud] soluzioni.
 
 >[!NOTE]
 >
@@ -102,7 +102,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 **Sezione 3: Definire le funzionalità di Document Cloud (DC)**
 
 * [Certificazioni, standard e normative di conformità Adobe](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
-* [Adobe Sign per il settore biologico](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
+* [Adobe Sign for Life Sciences](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
 * [Conformità conforme allo standard](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
 * [Che cos&#39;è una firma digitale?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [L&#39;impatto economico totale di Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
@@ -131,20 +131,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-D106);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-D106
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

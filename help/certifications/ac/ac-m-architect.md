@@ -5,51 +5,51 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Esame AD0-E718" type="positivo"
+badge: label="Esame AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 1%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Commerce] Architect Master
+# Percorso di certificazione per [!DNL Adobe Commerce] Architect Master
 
-Scopri come ottenere la certificazione di Adobe Architect Master.
+Scopri come ottenere la certificazione [!DNL Adobe Commerce] Architetto principale.
 
 ## Esperienza minima
 
-Dovresti avere almeno 3-5 anni di esperienza prima [!DNL Commerce] progetti di sviluppo e sono in grado di progettare, integrare, implementare e spiegare soluzioni ai problemi aziendali utilizzando Adobe [!DNL Commerce] insieme ai servizi associati.
+Dovresti avere almeno 3-5 anni di esperienza prima [!DNL Commerce] progetti di sviluppo e sono in grado di progettare, integrare, implementare e spiegare soluzioni ai problemi aziendali utilizzando [!DNL Adobe Commerce] insieme ai servizi associati.
 
 Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
 * Estendere le funzioni core
-* Configura Adobe [!DNL Commerce] completamente
+* Configura [!DNL Adobe Commerce] completamente
 * Crea un blueprint completo sul funzionamento di un’estensione, sui requisiti dell’azienda per il blueprint di come dovrebbe funzionare, senza dover entrare nel codice
 * Comprendere le esigenze e le funzionalità aziendali
 * Implicazioni in termini di prestazioni di soluzioni ed estensioni
 * Logica dei contratti di assistenza
 * GraphQL
 * Comprendere il compositore come strumento di dipendenza
-* Impostare e configurare l’istanza di lavoro di Adobe [!DNL Commerce] da zero
+* Impostare e configurare l’istanza di lavoro di Adobe [!DNL Adobe Commerce] da zero
 * Personalizzare il dashboard di amministrazione, creando griglie e moduli
 * Gestione della cache e dell’indice; creazione di un indice personalizzato
 * Crea nuovo tipo di cache
 * Risolvere ed eseguire il debug di vari problemi nell’ambiente
 * Estendere e gestire lo schema del database
 * Funzioni di sicurezza, installazione sicura ed estensione dello sviluppo
-* Eseguire servizi basati su server che [!DNL Commerce] connessioni (Redis, Gestione configurazione vernice)
+* Eseguire servizi basati su server che [!DNL Adobe Commerce] connessioni (Redis, Gestione configurazione vernice)
 * Consapevole delle migliori pratiche di codifica standard, standard di codifica, PSR, principio SOLID
-* Configurazione e utilizzo [!DNL Commerce] Connettore servizi (e servizi associati)
+* Configurazione e utilizzo [!DNL Adobe Commerce] Connettore servizi (e servizi associati)
 * Gestione dei contenuti di staging
-* Adobe [!DNL Commerce] , quando è disponibile e non disponibile
-* Ampia comprensione di qualsiasi correlato [!DNL Commerce] dominio
+* Informazioni [!DNL Adobe Commerce] , quando è disponibile e non disponibile
+* Ampia comprensione di qualsiasi correlato [!DNL Adobe Commerce] dominio
 * Progettare l’architettura del progetto
-* Ottimizzare le prestazioni di Adobe [!DNL Commerce] predefinito
+* Ottimizzare le prestazioni di [!DNL Adobe Commerce] predefinito
 * Creazione e modifica di B2B
-* Protocollo AMQP e schede in Adobe [!DNL Commerce] (S3)
+* Protocollo AMQP e schede in [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
 **Pubblico previsto:**
 
-* Software principale/[!DNL Commerce] Architetto
+* Software principale/[!DNL Adobe Commerce] Architetto
 * Architetto tecnico
 * Architetto della soluzione
 * Responsabile tecnico
@@ -169,31 +169,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E718);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E718
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

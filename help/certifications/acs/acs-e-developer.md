@@ -4,25 +4,25 @@ description: Scopri come diventare un Adobe Adobe Developer Expert certificato [
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="Esame AD0-E306" type="positivo"
+badge: label="Esame AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1073'
 ht-degree: 12%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Campaign Standard] Sviluppatore esperto
 
-Scopri come diventare un esperto Adobe Developer certificato.
+Scopri come diventare un Adobe certificato [!DNL Campaign Standard] Sviluppatore esperto.
 
 ## Esperienza minima
 
 Dovresti avere:
 
-* Almeno due anni di [!DNL Campaign] esperienza software
+* Adobe di almeno due anni [!DNL Campaign Standard] esperienza software
 * Almeno due anni di esperienza pertinente nelle campagne di marketing digitale multicanale e nello sviluppo web (ad esempio, API REST)
 * Possibilità di eseguire attività in Adobe Campaign, tra cui sviluppo di modelli, flussi di lavoro tecnici, sviluppo di schemi e integrazioni, e di monitorare l’istanza tramite il pannello di controllo Campaign
 * Esperienza di lavoro in un ambiente di consegna canali (e-mail, direct mail, dispositivi mobili e social network)
@@ -163,31 +163,16 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E306);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E306
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

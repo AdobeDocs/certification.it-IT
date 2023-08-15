@@ -4,23 +4,23 @@ description: Scopri come diventare un Adobe certificato [!DNL Experience Manager
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
-badge: label="Esame AD0-E129" type="positivo"
+badge: label="Esame AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '823'
 ht-degree: 4%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Scopri come ottenere la certificazione [!DNL Experience Manager] Professionale.
+Scopri come diventare un Adobe certificato [!DNL Experience Manager] Assets Developer Professional
 
 ## Esperienza minima
 
-Lavorare in Adobe Managed Services e Adobe è molto comodo [!DNL Experience Manager as a Cloud Service], e sono in grado di impostare Adobe [!DNL Experience Manager] ambienti e infrastrutture.
+Dovresti avere familiarità con Adobe Managed Services e Adobe [!DNL Experience Manager as a Cloud Service], e sono in grado di impostare Adobe [!DNL Experience Manager] ambienti e infrastrutture.
 
 Dovresti avere:
 
@@ -108,7 +108,7 @@ Sezione 4: Tipi di attività (18%)
 Sezione 5: Set di funzioni e funzionalità delle risorse (12%)
 
 * Descrivi i casi d’uso comuni e i vantaggi dell’utilizzo di Brand Portal
-* Descrivi i casi d’uso comuni e i vantaggi dell’utilizzo di Dynamic Media
+* Descrivi i casi d’uso comuni e i vantaggi dell’utilizzo di Dynamic Medie
 * Descrivi le opzioni per sfruttare l’AEM con Creative Cloud
 
 >[!TAB Preparati]
@@ -161,20 +161,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E129);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E129
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

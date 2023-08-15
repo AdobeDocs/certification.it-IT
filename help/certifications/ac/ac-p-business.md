@@ -4,12 +4,12 @@ description: Scopri come diventare un professionista Adobe di business professio
 solution: Commerce
 product: Magento
 role: User
-badge: label="Esame AD0-E712" type="positivo"
+badge: label="Esame AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
+source-wordcount: '932'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 * Manager di progetto
 * Proprietari del prodotto
 * Consulenti
-* [!DNL Commerce] strateghi
+* [!DNL Adobe Commerce] strateghi
 * Amministratore eCommerce/Director/Manager/Consulenti
 * Marketing digitale Director/Manager/Sviluppatori
 * Specialisti delle soluzioni
@@ -170,31 +170,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E712);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E712
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

@@ -3,19 +3,19 @@ title: Certificazione Core Developer Professional
 description: Scopri come diventare un Adobe Developer Professional certificato in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Esame AD0-E905" type="positivo"
+badge: label="Esame AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1011'
 ht-degree: 2%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Workfront] Core Developer Professional
 
-Scopri come diventare un professionista Adobe Developer certificato.
+Scopri come diventare un Adobe certificato [!DNL Workfront] Sviluppatore professionista di base.
 
 ## Esperienza minima
 
@@ -170,31 +170,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E905)
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E905
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

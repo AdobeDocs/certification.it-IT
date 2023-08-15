@@ -4,23 +4,23 @@ description: Scopri come diventare un Adobe esperto certificato in [!DNL Custome
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Esame AD0-E604" type="positivo"
+badge: label="Esame AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 12%
+source-wordcount: '628'
+ht-degree: 13%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Customer Journey Analytics] Esperto
 
-Scopri come diventare uno sviluppatore certificato di Percorsi clienti Adobe Analytics.
+Scopri come diventare un Adobe certificato [!DNL Customer Journey Analytics] Sviluppatore esperto.
 
 ## Esperienza minima
 
-Dovresti avere un’esperienza di 12-24 mesi in Adobe Customer Journey Analytics ed essere in grado di eseguire le seguenti attività:
+Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analytics]ed essere in grado di eseguire le seguenti attività:
 
 * Leggi e comprendi lo schema XDM (classi)
 * Dimostrare la familiarità con l’interfaccia della piattaforma
@@ -31,7 +31,7 @@ Dovresti avere un’esperienza di 12-24 mesi in Adobe Customer Journey Analytics
 * Configurare connessioni con le identità primarie (ID persona)
 * Configurare connessioni con più set di dati
 * Configurare una visualizzazione dati (configurazione metrica/dimensione)
-* Configurare CJA
+* Configurare Adobe [!DNL Customer Journey Analytics]
 * Trasformare i dati all’interno di dimensioni e metriche
 * Analisi delle nozioni di base di Workspace (visualizzazioni, impostazioni di attribuzione, filtri, metriche calcolate)
 * Comprendere la governance dei dati in CJA (DULE)
@@ -134,31 +134,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E604);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E604
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

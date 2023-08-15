@@ -5,12 +5,12 @@ solution: Audience Manager
 product: Audience Manager
 role: User
 level: Experienced
-badge: label="Esame AD0-E458" type="positivo"
+badge: label="Esame AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '907'
 ht-degree: 11%
 
 ---
@@ -80,7 +80,7 @@ Sezione 5: tassonomia (12%)
 Sezione 6: unione profili, sincronizzazione ID ed Audience Marketplace
 
 * Organizzare le caratteristiche degli utenti in un unico profilo unificato per creare un pubblico basato su famiglie o dispositivi
-* Identificare l’attivazione tramite Audience Marketplace
+* Identificare l’attivazione tramite Audienci Marketplace
 
 >[!TAB Preparati]
 
@@ -96,7 +96,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 **Sezione 1: Creazione di segmenti e diffusione**
 
-* [Utilizzo dei dati per il caricamento in blocco in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
+* [Utilizzo dei dati per il caricamento in blocco in Audienci Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html){target="_blank"}
 * [Informazioni sui segmenti](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=it){target="_blank"}
 * [Creare una caratteristica di conversione in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html){target="_blank"}
 * [[!DNL Audience Manager] Tutorial](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
@@ -150,20 +150,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E458);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E458
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

@@ -3,14 +3,14 @@ title: Panoramica certificazione Marketo Engage
 description: Panoramica delle opzioni di certificazione per Adobe Marketo Engage
 solution: Experience Manager
 exl-id: e86c3ed5-84b1-47d5-a852-d87d3f232c11
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '40'
 ht-degree: 7%
 
 ---
 
-# Panoramica certificazione Marketo Engage
+# Adobe [!DNL Marketo Engage] Panoramica certificazione
 
 **Professionale**
 

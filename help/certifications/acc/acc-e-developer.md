@@ -4,19 +4,19 @@ description: Scopri come diventare un esperto certificato di Adobe Developer in 
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Esame AD0-E330" type="positivo"
+badge: label="Esame AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1117'
 ht-degree: 14%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Campaign Classic] Sviluppatore esperto
 
-Scopri come diventare un esperto Adobe Developer certificato.
+Scopri come diventare un Adobe certificato [!DNL Campaign Classic] Esperto di sviluppatori.
 
 ## Esperienza minima
 
@@ -42,7 +42,7 @@ Dovresti avere:
 
 * Consulente tecnico
 * Tecnico di marketing
-* [!DNL Campaign Classic] sviluppatore
+* Adobe [!DNL Campaign Classic] sviluppatore
 
 **Dettagli esame**
 
@@ -185,31 +185,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E330);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E330
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

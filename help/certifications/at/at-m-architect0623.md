@@ -4,22 +4,22 @@ description: Scopri come ottenere la certificazione [!DNL Adobe Target] Architet
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Esame AD0-E409" type="positivo"
+badge: label="Esame AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 10%
+source-wordcount: '943'
+ht-degree: 12%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Target] Architect Master
 
-Scopri come ottenere la certificazione di Adobe Architect Master.
+Scopri come ottenere la certificazione [!DNL Adobe Target] Architetto principale.
 
 >[!NOTE]
 >
->Questo è il più recente esame master per architetti di Adobe Target. Se ha già iniziato a studiare o ha programmato [versione precedente](at-m-architect.md) hai fino all’8 settembre 2023 per completarlo.
+>Questa è la più recente [!DNL Adobe Target] Esame di master di architetto. Se ha già iniziato a studiare o ha programmato [versione precedente](at-m-architect.md) hai fino all’8 settembre 2023 per completarlo.
 
 ## Esperienza minima
 
@@ -88,7 +88,7 @@ Sezione 1: [!DNL Adobe Target] fondamentali (13%)
 Sezione 2: Integrazione con [!DNL Adobe Target] (18%)
 
 * Applicare il processo per l&#39;integrazione [!DNL Adobe Target] con Adobe Analytics (A4T)
-* Applicare il processo per l&#39;integrazione [!DNL Adobe Target] ad Adobe Experience Manager
+* Applicare il processo per l&#39;integrazione [!DNL Adobe Target] a ADOBE EXPERIENCE MANAGER
 * Descrizione dell&#39;integrazione con le soluzioni Adobe Experience Cloud e Adobe Experience Platform
 * Descrizione dell’integrazione con i tipi di pubblico di Adobe Experience Cloud
 
@@ -187,26 +187,18 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
 
-**Sostieni l&#39;esame di certificazione**
+## Informazioni sull’esame di certificazione
 
-In Adobe vengono utilizzati due fornitori per l&#39;amministrazione degli esami controllati, PSI e Examity.
+{{about-certification-exam}}
 
-* **PSI** offre opzioni per il centro di prova e l&#39;esame di giapponese (se disponibili)
-* **[!DNL Examity]** offre un&#39;opzione online remota
+## Programmare o sostenere l&#39;esame AD0-E409
 
-Per programmare, riprogrammare o annullare l&#39;esame, è sufficiente fare clic sul fornitore scelto e seguire le istruzioni fornite sullo schermo. È così semplice!
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Il nome del profilo in Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
-
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
-
-### Numero esame: AD0-E409
-
-[!BADGE Esamina]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+<span class="spectrum-Button-label has-no-wrap">
+   Vai al portale di esempio
+</span>
+</a>
 
 >[!ENDTABS]
 

@@ -3,23 +3,23 @@ title: Certificazione esperti sviluppatori core
 description: Scopri come diventare un esperto Adobe Developer certificato in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Esame AD0-E904" type="positivo"
+badge: label="Esame AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1509'
 ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Workfront] Sviluppatore esperto di base
 
-Scopri come diventare un esperto Adobe Developer certificato.
+Scopri come diventare un Adobe certificato [!DNL Workfront] Sviluppatore esperto di base.
 
 ## Esperienza minima
 
-Deve avere almeno 18-24 mesi di esperienza con [!DNL Workfront]e possono:
+Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e possono:
 
 * Navigare nel [!DNL Workfront] sistema, comprendere dove risiede la sua funzionalità
 * Configura tutti gli aspetti del sistema
@@ -199,31 +199,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E904)
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E904
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

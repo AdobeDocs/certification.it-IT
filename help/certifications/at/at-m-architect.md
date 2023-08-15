@@ -4,23 +4,23 @@ description: Scopri come ottenere la certificazione [!DNL Adobe Target] Architet
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Esame AD0-E407" type="positivo"
+badge: label="Esame AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1122'
 ht-degree: 20%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Target] Architect Master
 
-Scopri come ottenere la certificazione di Adobe Architect Master.
+Scopri come ottenere la certificazione [!DNL Adobe Target] Architetto principale.
 
 >[!NOTE]
 >
->Questo esame, Adobe Target Architect Master (AD0-E407), è stato aggiornato. Se hai già iniziato a studiare o prevedi di utilizzare questa versione, assicurati di completarla prima dell’8 settembre 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](at-m-architect0623.md).
+>Questo esame, [!DNL Adobe Target] Architect Master (AD0-E407), è stato aggiornato. Se hai già iniziato a studiare o prevedi di utilizzare questa versione, assicurati di completarla prima dell’8 settembre 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](at-m-architect0623.md).
 
 ## Esperienza minima
 
@@ -91,7 +91,7 @@ Sezione 1: [!DNL Adobe Target] fondamentali (12%)
 Sezione 2: Integrazione con [!DNL Adobe Target] (16%)
 
 * Applicare il processo per l&#39;integrazione [!DNL Adobe Target] con Adobe Analytics (A4T)
-* Applicare il processo per l&#39;integrazione [!DNL Adobe Target] ad Adobe Experience Manager
+* Applicare il processo per l&#39;integrazione [!DNL Adobe Target] a ADOBE EXPERIENCE MANAGER
 * Descrizione dell&#39;integrazione con altre soluzioni Adobe Experience Cloud
 * Descrizione dell’integrazione con i tipi di pubblico di Adobe Experience Cloud
 
@@ -148,7 +148,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Video e tutorial su AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
 * [Opzioni di creazione del pubblico](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=it){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=it){target="_blank"}
-* [Integrare Audience Manager con Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
+* [Integrare Audienci Manager con Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Integrazione Adobe.IO](http://developers.adobetarget.com/api/#introduction){target="_blank"}
 * [Esportazione di frammenti esperienza in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
 * [Integrazione di Experience Platform Launch e AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=it){target="_blank"}
@@ -205,31 +205,16 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 >Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E407);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E407
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

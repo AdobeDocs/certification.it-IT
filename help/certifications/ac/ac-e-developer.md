@@ -4,19 +4,19 @@ description: Scopri come diventare un esperto Adobe Developer certificato in Ado
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="Esame AD0-E716" type="positivo"
+badge: label="Esame AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1854'
+source-wordcount: '1850'
 ht-degree: 2%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Commerce] Sviluppatore esperto
+# Percorso di certificazione per [!DNL Adobe Commerce] Sviluppatore esperto
 
-Scopri come diventare un esperto Adobe Developer certificato.
+Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore esperto.
 
 ## Esperienza minima
 
@@ -282,20 +282,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E716);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+### Programmare o sostenere l&#39;esame AD0-E716
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

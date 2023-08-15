@@ -1,20 +1,20 @@
 ---
 title: Certificazione DevOps Engineer Expert
-description: Scopri come diventare un esperto Adobe Experience Manager DevOps Engineer certificato.
+description: Scopri come diventare un ingegnere Adobe Experience Manager DevOps Expert certificato.
 solution: Experience Manager
 product: Experience Manager
 role: Developer
-badge: label="Esame AD0-E124" type="positivo"
+badge: label="Esame AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '926'
 ht-degree: 5%
 
 ---
 
-# Percorso di certificazione per Adobe Experience Manager DevOps Engineer Expert
+# Percorso di certificazione per tecnici Adobe Experience Manager DevOps
 
 Scopri come diventare un Adobe certificato DevOps Engineer Expert.
 
@@ -25,7 +25,7 @@ Dovresti avere:
 * Almeno 1-3 anni di esperienza nell’utilizzo e nella configurazione di Adobe Cloud Manager
 * Almeno due anni di esperienza nella configurazione, implementazione e gestione di attività di integrazione continua/distribuzione continua
 
-Dovresti avere familiarità con l’utilizzo di Adobe Managed Services e Adobe Experience Manager as a Cloud Service e poter configurare gli ambienti e l’infrastruttura di Adobe Experience Manager.
+Lavorare in Adobe Managed Services e Adobe Experience Manager as a Cloud Service è molto comodo e puoi configurare ambienti e infrastrutture Adobe Experience Manager.
 
 Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
@@ -76,8 +76,8 @@ Completa il [questionario di preparazione online](https://scorpion.caveon.com/la
 
 Sezione 1: Configurare Adobe Experience Manager (18%)
 
-* Determinare il metodo corretto per configurare le impostazioni Adobe Experience Manager fondamentali
-* Dato uno scenario, risolvere i problemi di Adobe Experience Manager
+* Determinare il metodo corretto per configurare le impostazioni fondamentali di Adobe Experience Manager
+* Dato uno scenario, risolvere i problemi relativi a Adobe Experience Manager
 * Determinare il metodo corretto per configurare OSGi
 
 Sezione 2: Gestire l’API di Cloud Manager e Cloud Manager (20%)
@@ -107,7 +107,7 @@ Sezione 5: Monitorare e creare rapporti sulle metriche della qualità (14%)
 Sezione 6: Gestire l&#39;Admin Console (8%)
 
 * Determinare il metodo corretto per inviare una richiesta di supporto nell&#39;Admin Console
-* Determinare il metodo corretto per configurare il SSO federato e sincronizzare utenti e gruppi di Adobe Experience Manager
+* Determinare il metodo corretto per configurare SSO federato e sincronizzare utenti e gruppi di Adobe Experience Manager
 
 >[!TAB Preparati]
 
@@ -163,31 +163,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E124);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E124
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

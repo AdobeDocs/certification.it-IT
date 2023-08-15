@@ -4,25 +4,25 @@ description: Scopri come diventare un Adobe esperto di professionisti aziendali 
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Esame AD0-E327" type="positivo"
+badge: label="Esame AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 15%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Campaign Classic] Esperto di professionisti aziendali
 
-Scopri come diventare un esperto Adobe di professionisti aziendali certificato.
+Scopri come diventare un Adobe certificato [!DNL Campaign Classic] Esperto di professionisti aziendali.
 
 ## Esperienza minima
 
 Dovresti avere:
 
-* Almeno 2 anni di estensivo [!DNL Campaign Classic] esperienza software
+* Adobe esteso di almeno 2 anni [!DNL Campaign Classic] esperienza software
 * Esperienza pluriennale nello sviluppo di campagne e tattiche di marketing utilizzando l’omnicanale digitale
 * Esperienza nell’interpretazione/traduzione dei requisiti di business in materiali realizzabili per Campaign
 * Esperienza con metriche di marketing quali ROI, tassi di click-through e conversione
@@ -170,20 +170,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E327);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

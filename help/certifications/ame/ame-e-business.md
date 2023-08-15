@@ -7,22 +7,22 @@ role: User
 badge: label="Esame AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1425'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Marketo Engage] Esperto di professionisti aziendali
 
-Scopri come diventare un esperto Adobe di professionisti aziendali certificato.
+Scopri come diventare un Adobe certificato [!DNL Marketo Engage] Esperto di professionisti aziendali.
 
 ## Esperienza minima
 
 Dovresti avere:
 
-* Circa 18 mesi di esperienza con [!DNL Marketo] funzionalità necessarie per creare campagne di marketing e utilizzare i dati sul comportamento dei clienti
+* Circa 18 mesi di esperienza con Adobe [!DNL Marketo Engage] funzionalità necessarie per creare campagne di marketing e utilizzare i dati sul comportamento dei clienti
 
 Devi essere un esperto di marketing con esperienza in:
 
@@ -98,7 +98,7 @@ Sezione 2: attività di marketing/Campaign Management (46%)
 * Dimostrare/applicare la configurazione corretta ai programmi di coinvolgimento
 * Fornisci esempi di utilizzo per diversi tipi di token
 * Riepilogare l’utilità dei webhook in Marketo e come vengono utilizzati
-* Identificare e applicare l&#39;uso appropriato del PMCF
+* Identificare e applicare l’uso appropriato del PMCF
 * Spiegare i vantaggi delle risorse globali e come utilizzarle
 * Dimostrare le funzionalità dei moduli
 * Eseguire e analizzare una strategia di test A/B
@@ -216,38 +216,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E559);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prendi l'esame di inglese
-</span>
-</a>
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Prendi l'esame di giapponese
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E559
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

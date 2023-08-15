@@ -4,19 +4,19 @@ description: Scopri come ottenere la certificazione come Adobe [!DNL Audience Ma
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Esame AD0-E457" type="positivo"
+badge: label="Esame AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '940'
 ht-degree: 8%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Audience Manager] Esperto di professionisti aziendali
+# Percorso di certificazione per [!DNL Adobe Audience Manager] Esperto di professionisti aziendali
 
-Scopri come ottenere la certificazione [!DNL Audience Manager] Esperto di professionisti aziendali.
+Scopri come ottenere la certificazione [!DNL Adobe Audience Manager] Esperto di professionisti aziendali.
 
 ## Esperienza minima
 
@@ -118,8 +118,8 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1: Creazione di segmenti e diffusione**
 
-* [Reporting dell’utilizzo di dati di seconde e terze parti in Audience Marketplace a livello di segmento](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
-* [Utilizza filtri e consigli per scegliere dati di terze parti in Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
+* [Reporting dell’utilizzo di dati di seconde e terze parti in Audienci Marketplace a livello di segmento](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [Utilizza filtri e consigli per scegliere dati di terze parti in Audienci Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
 * [Segmentazione](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
 * [Segmenti: finalità, composizione e regole](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
 * [Segmentazione e filtro](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
@@ -166,31 +166,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E457);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E457
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

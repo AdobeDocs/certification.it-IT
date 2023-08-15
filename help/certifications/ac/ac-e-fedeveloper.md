@@ -5,23 +5,23 @@ solution: Commerce
 product: Magento
 role: Developer
 level: Experienced
-badge: label="Esame AD0-E710" type="positivo"
+badge: label="Esame AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Commerce] Sviluppatore esperto front-end
+# Percorso di certificazione per [!DNL Adobe Commerce] Sviluppatore esperto front-end
 
-Scopri come diventare un esperto Adobe Developer certificato.
+Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore esperto.
 
 >[!NOTE]
 >
->Questo esame Adobe Commerce Front End Developer Expert (AD0-E710) è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 18 agosto 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](ac-e-fedeveloper0623.md).
+>Questo esame [!DNL Adobe Commerce] Front End Developer Expert (AD0-E710) aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 18 agosto 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](ac-e-fedeveloper0623.md).
 
 ## Esperienza minima
 
@@ -216,31 +216,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E710);
-
-### Opzioni disponibili
-
-{{PSI-note}}
-
-**PSI** (*centro prove / opzioni esame giapponese (se disponibile)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E710
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 

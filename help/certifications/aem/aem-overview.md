@@ -3,14 +3,14 @@ title: Panoramica certificazione Experience Manager
 description: Panoramica delle opzioni di certificazione per Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 1%
 
 ---
 
-# Panoramica certificazione Experience Manager
+# Adobe [!DNL Experience Manager] Panoramica certificazione
 
 Per ulteriori informazioni sulla certificazione a cui sei interessato, seleziona il tuo livello e la tua mansione.
 

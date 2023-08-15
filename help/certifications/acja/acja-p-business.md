@@ -6,20 +6,20 @@ product: Customer Journey Analytics
 role: User
 badge: label="Esame AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5d7c136e3d38f3fed5443dcb476c8a2af9fad24d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '619'
 ht-degree: 11%
 
 ---
 
-# Percorso di certificazione per professionisti Adobe Customer Journey Analytics Business Practitioner
+# Percorso di certificazione per Adobe [!DNL Customer Journey Analytics] Professionista professionista
 
-Scopri come diventare un professionista Adobe di business certificato.
+Scopri come diventare un Adobe certificato [!DNL Customer Journey Analytics] Professionista di business.
 
 ## Esperienza minima
 
-Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di esperienza nel Customer Journey Analytics e una conoscenza di base del funzionamento di CJA in combinazione con Adobe Experience Platform. Il candidato è in grado di utilizzare le opzioni di reporting e visualizzazione appropriate per eseguire analisi di base e avanzate per una determinata esigenza aziendale.
+Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di esperienza in Adobe [!DNL Customer Journey Analytics] e una conoscenza di base del suo funzionamento in combinazione con [!DNL Adobe Experience Platform]. Il candidato è in grado di utilizzare le opzioni di reporting e visualizzazione appropriate per eseguire analisi di base e avanzate per una determinata esigenza aziendale.
 
 >[!NOTE]
 >
@@ -112,7 +112,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 >Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
 
@@ -121,20 +121,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{practice-test}}
 
-## Riguardo all&#39;esame
+## Informazioni sull’esame di certificazione
 
 {{about-certification-exam}}
 
-## sostenere l&#39;esame (AD0-E608);
-
-### Opzioni disponibili
-
-**[!DNL Examity]** ( *online* )
+## Programmare o sostenere l&#39;esame AD0-E608
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Sostieni l'esame
+   Vai al portale di esempio
 </span>
 </a>
 
