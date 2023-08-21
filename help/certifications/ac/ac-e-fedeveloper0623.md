@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Esame AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 1%
 # Percorso di certificazione per [!DNL Adobe Commerce] Sviluppatore esperto front-end
 
 Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore esperto.
-
->[!NOTE]
->
->Questa è la più recente [!DNL Adobe Commerce] Esame per sviluppatori front-end. Se ha già iniziato a studiare o ha programmato [versione precedente](ac-e-fedeveloper.md) hai fino al 18 agosto 2023 per completarlo.
 
 ## Esperienza minima
 

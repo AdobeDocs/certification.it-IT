@@ -2,10 +2,10 @@
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
 user-guide-description: Scopri la Certificazione  [!DNL Experience Cloud]  in Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 45%
+source-wordcount: '255'
+ht-degree: 47%
 
 ---
 
@@ -74,13 +74,11 @@ ht-degree: 45%
       + Professionale {#ac-professional}
          + [Professionista](/help/certifications/ac/ac-p-business.md)
          + [Sviluppatore](/help/certifications/ac/ac-p-developer.md)
-         + [Sviluppatore front-end](/help/certifications/ac/ac-p-fedeveloper.md)
-         + [Sviluppatore front-end (nuovo)](/help/certifications/ac/ac-p-fedeveloper0623.md)
+         + [Sviluppatore front-end](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + Esperto {#ac-expert}
          + [Professionista](/help/certifications/ac/ac-e-business.md)
          + [Sviluppatore](/help/certifications/ac/ac-e-developer.md)
-         + [Sviluppatore front-end](/help/certifications/ac/ac-e-fedeveloper.md)
-         + [Sviluppatore front-end (nuovo)](/help/certifications/ac/ac-e-fedeveloper0623.md)
+         + [Sviluppatore front-end](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + Principale {#ac-master}
          + [Architetto](/help/certifications/ac/ac-m-architect.md)
       + [Rinnovo](/help/certifications/ac/ac-renew.md)
