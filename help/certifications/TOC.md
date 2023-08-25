@@ -2,10 +2,10 @@
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
 user-guide-description: Scopri la Certificazione  [!DNL Experience Cloud]  in Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 47%
+source-wordcount: '260'
+ht-degree: 46%
 
 ---
 
@@ -112,6 +112,7 @@ ht-degree: 47%
          + [Professionista](/help/certifications/ame/ame-e-business.md)
       + Principale {#ame-master}
          + [Architetto](/help/certifications/ame/ame-m-architect.md)
+         + [Architetto - NUOVO](/help/certifications/ame/ame-m-architect-23-08.md)
       + [Rinnovo](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Panoramica di Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
@@ -143,6 +144,7 @@ ht-degree: 47%
          + [Sviluppatore (Core)](/help/certifications/aw/aw-core-p-developer.md)
       + Esperto {#aw-expert}
          + [Sviluppatore (Core)](/help/certifications/aw/aw-core-e-developer.md)
+         + [Sviluppatore (Core) - NUOVO](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [Connettore avanzato AEM](/help/certifications/aw/aw-aem-e-connector.md)
       + [Rinnovo](/help/certifications/aw/aw-renew.md)
 + [Credenziali per gli utenti finali](https://learning.adobe.com/certification/credentials)
