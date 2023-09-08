@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1238'
 ht-degree: 1%
 
 ---
@@ -195,14 +195,25 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 {{about-certification-exam}}
 
-## Programmare o sostenere l&#39;esame AD0-E406
+## Programmare o sostenere l&#39;esame AD0-E406 (inglese)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   Vai al portale di esempio
+   Vai a Examity Portal - Esame di inglese
 </span>
 </a>
+
+## Programmare o sostenere l&#39;esame AD0-E406-J (giapponese)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Vai a Examity Portal - Esame di giapponese
+</span>
+</a>
+
+[Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
