@@ -6,20 +6,16 @@ product: Target
 role: Data Architect
 badge: label="Esame AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '943'
-ht-degree: 12%
+source-wordcount: '917'
+ht-degree: 15%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Target] Architect Master
 
 Scopri come ottenere la certificazione [!DNL Adobe Target] Architetto principale.
-
->[!NOTE]
->
->Questa è la più recente [!DNL Adobe Target] Esame di master di architetto. Se ha già iniziato a studiare o ha programmato [versione precedente](at-m-architect.md) hai fino all’8 settembre 2023 per completarlo.
 
 ## Esperienza minima
 
@@ -144,9 +140,9 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 3**
 
-* [Host](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html){target="_blank"}
+* [Host](https://experienceleague.adobe.com/docs/target/using/administer/hosts.html?lang=it){target="_blank"}
 * [Utenti](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/users/user-management.html){target="_blank"}
-* [Configurare le autorizzazioni Enterprise](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html){target="_blank"}
+* [Configurare le autorizzazioni Enterprise](https://experienceleague.adobe.com/docs/target/using/administer/manage-users/enterprise/properties-overview.html?lang=it){target="_blank"}
 * [Best practice e limitazioni del Compositore esperienza visivo](https://experienceleague.adobe.com/docs/target/using/experiences/vec/experience-composer-best-practices.html){target="_blank"}
 
 
