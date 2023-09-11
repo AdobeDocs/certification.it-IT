@@ -6,9 +6,9 @@ role: Developer
 badge: label="Esame AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
 workflow-type: tm+mt
-source-wordcount: '1509'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Percorso di certificazione per Adobe [!DNL Workfront] Sviluppatore esperto di base
 
 Scopri come diventare un Adobe certificato [!DNL Workfront] Sviluppatore esperto di base.
+
+>[!NOTE]
+>
+>Questo esame, Adobe [!DNL Workfront] Core Developer Expert (AD0-E904), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 6 novembre 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame (AD0-907)](aw-core-e-developer-23-08.md).
 
 ## Esperienza minima
 
