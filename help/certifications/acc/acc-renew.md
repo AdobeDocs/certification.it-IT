@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 9%
+source-wordcount: '923'
+ht-degree: 8%
 
 ---
 
@@ -34,7 +34,7 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!NOTE]
 >
->Prossimamente il rinnovo professionale.
+>Il rinnovamento professionale è in via di sviluppo. I titolari di certificazioni in scadenza riceveranno un&#39;estensione che consentirà loro di utilizzare questo metodo di rinnovo gratuito quando sarà disponibile.
 
 >[!TAB Esperto e principale]
 
@@ -103,7 +103,7 @@ Sezione 4: Campagna, flusso di lavoro, consegna e reporting (37%)
 * Dato uno scenario, seleziona l’approccio migliore da integrare con origini dati esterne
 * Applicare tecniche di integrazione dei dati all’interno di un flusso di lavoro
 * Descrizione della funzionalità nella palette attività del flusso di lavoro
-* Risolvere i problemi o configurare un’istanza tramite Pannelli di controllo Campaign
+* Risolvere i problemi o configurare un’istanza tramite Pannello di controllo Campaign
 
 ### Preparati
 
