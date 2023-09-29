@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
 workflow-type: tm+mt
-source-wordcount: '2643'
+source-wordcount: '3097'
 ht-degree: 1%
 
 ---
@@ -243,6 +243,69 @@ No, devi solo completare i requisiti elencati per la soluzione. Le certificazion
 +++Devo rivedere i corsi o posso semplicemente iniziare a fare valutazioni?
 
 Le valutazioni si basano sui Corsi in Experience League e la loro revisione preparerà i candidati a superarli con successo. Tuttavia, il requisito fondamentale per il rinnovo è solo quello di superare le valutazioni.
+
++++
+
+>[!TAB  Voucher]
+
++++Quando scadono i giustificativi per gli esami? Per quanto tempo sono buoni?
+
+I buoni Adobe scadono 12 mesi dopo l&#39;acquisto. I voucher non possono essere estesi oltre la data di scadenza. Le iscrizioni all&#39;esame devono essere programmate, pagate e prese prima della data di scadenza del voucher dell&#39;esame.
+
++++
+
++++I voucher possono essere restituiti per il credito o il rimborso?
+
+_Tutte le vendite sono definitive._ Non sono accettati restituzioni e restituzioni. I voucher per gli esami Adobi vengono acquistati a livello di esame, non per esami specifici, e ciò offre flessibilità.
+
+* Esempio: quando si acquistano 10 buoni per esami di livello Adobe Certified Expert e li si distribuisce, non è necessario sapere in anticipo o pianificare chi prenderà quale esame Expert.
+* Gli amministratori possono assegnare il voucher a un utente per verificare se è stato visualizzato, riscattato o quando è stato programmato o svolto l&#39;esame.
+
++++
+
++++Che tipo di pagamenti sono accettati?
+
+Il pagamento può essere effettuato con (tutte le principali) carte di credito. I pagamenti tramite carta di credito richiedono l’accettazione di un contratto di click-wrap online. Le diverse opzioni di pagamento sono:
+
+* Cablaggio, ordine di acquisto o ACH: creare un ordine di acquisto nel sistema Xvoucher che può essere stampato e inviato al reparto contabilità fornitori. Tale ordine sarà approvato al ricevimento del bonifico o dell’assegno.
+* Carta di credito: tutte le principali carte di credito accettate.
+* Xwallet: questo sottrarrà l&#39;importo dell&#39;ordine dal tuo pool Xwallet.
+
++++
+
++++Esiste un numero minimo o massimo di voucher che posso acquistare?
+
+No, non esiste un minimo o un massimo. Gli acquisti dei clienti sono limitati solo in base ai fondi disponibili, ad esempio un limite della carta di credito o il saldo del conto bancario per i bonifici.
+
++++
+
++++Quanto tempo ci vorrà per avere accesso ai voucher dopo aver effettuato l&#39;ordine?
+
+I voucher saranno disponibili subito dopo l&#39;acquisto se si paga tramite carta di credito o Xwallet.
+
+* Se effettui acquisti per conto tuo, i codici dei voucher verranno forniti sullo schermo e via e-mail.
+* Se acquisti per altri, accedi al tuo account Xvoucher e distribuisci i voucher agli utenti finali da lì.
+* Se si effettua il pagamento tramite bonifico bancario o ordine di acquisto, gli ordini dei voucher verranno rilasciati quando Xvoucher avrà ricevuto i fondi.
+
+[Guida in linea](https://help.xvoucher.com/){target="_blank"}
+
++++
+
++++Come posso accedere al mio account Xvoucher?
+
+Accedi al tuo account [qui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+
++++
+
++++Come posso accedere al mio voucher Adobe?
+
+Dopo aver assegnato un voucher, riceverai un&#39;e-mail da support@xvoucher.com con un codice e istruzioni su come riscattare il voucher. Se non hai ricevuto un’e-mail, controlla la cartella di posta indesiderata. Se non riesci ancora a trovare l’e-mail, puoi accedere al tuo account Xvoucher.
+
++++
+
++++I voucher possono essere restituiti per il credito o il rimborso?
+
+Tutte le vendite sono definitive. Non sono accettati restituzioni e restituzioni. I voucher per esami di Adobe vengono acquistati a livello di esame, non per esami specifici, il che offre grande flessibilità.
 
 +++
 
