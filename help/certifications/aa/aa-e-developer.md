@@ -5,21 +5,47 @@ solution: Analytics
 product: Analytics
 role: Developer
 level: Experienced
-badge: label="Esame AD0-E209" type="positive"
+badge: label="Esame AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 10%
+source-wordcount: '809'
+ht-degree: 12%
 
 ---
 
-# Percorso di certificazione per [!DNL Adobe Analytics] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Analytics] Sviluppatore esperto
 
-Scopri come ottenere la certificazione [!DNL Adobe Analytics] Sviluppatore esperto.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 31/50
+* Tempo: 120 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese, giapponese
+* Costo: $225 (globale) e $150 (India)
+* ID esame: AD0-E209 (inglese), AD0-E209-J (giapponese)
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Specialisti/ingegneri dell&#39;implementazione
+* Sviluppatori
+* Architetti
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 È necessaria un&#39;esperienza di consulente per l&#39;implementazione con un ruolo ibrido, con circa 2 anni di esperienza in [!DNL Adobe Analytics] implementazione. L’utente funge da ponte tra l’IT e l’azienda, traduce i requisiti aziendali in una soluzione tecnica (SDR) e, in base ai requisiti forniti dall’analista, comprende quale tipo di variabile è necessaria, dove e come raccogliere i dati, progetta il modello dati (livello dati), configura e gestisce la soluzione di gestione dei tag.
 
@@ -48,48 +74,24 @@ Ambienti:
 * Il campo del marketing digitale
 * Conoscenza minima degli ambienti di sviluppo back-end, inclusi i sistemi operativi PC, Mac, Android/iOS (operazioni di base, non sviluppo)
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!BEGINTABS]
-
->[!TAB Preparati]
-
-**Pubblico previsto:**
-
-* Specialisti/ingegneri dell&#39;implementazione
-* Sviluppatori
-* Architetti
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 31/50
-* Tempo: 120 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) e $150 (India)
-* ID esame: AD0-E209
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
+{{exam-objectives}}
 
 **Obiettivi e ambito dell&#39;esame**
 
-Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud (10%)
+**Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud (10%)**
 
 * Dimostrare la conoscenza sull’utilizzo di Adobe Experience Cloud ID
 * Dimostrare la comprensione di Adobe Launch
 * Dimostrare la comprensione delle integrazioni comuni nell’ecosistema Adobe Experience Cloud
 
-Sezione 2: strategia e progettazione basate su un riferimento di progettazione della soluzione (SDR, Solution Design Reference) (6%)
+**Sezione 2: strategia e progettazione basate su un riferimento di progettazione della soluzione (SDR, Solution Design Reference) (6%)**
 
 * Interpretare un Solution Design Reference per sviluppare un codice efficiente per l&#39;acquisizione dei dati
 * Utilizzare le specifiche tecniche per popolare gli oggetti dati
 
-Sezione 3: Implementazione e configurazione di Analytics (36%)
+**Sezione 3: Implementazione e configurazione di Analytics (36%)**
 
 * Determinare l’ambiente da distribuire [!DNL Adobe Analytics] Codice
 * Esegui un codice di implementazione minimo per il tracciamento di Analytics
@@ -98,30 +100,52 @@ Sezione 3: Implementazione e configurazione di Analytics (36%)
 * Utilizzare un livello di dati all’interno di una distribuzione
 * Eseguire funzioni di tracciamento avanzate, come il tracciamento dei collegamenti e le stringhe di prodotto
 
-Sezione 4: Sistemi di gestione dei tag (20%)
+**Sezione 4: Sistemi di gestione dei tag (20%)**
 
 * Enumera i requisiti per distribuire Adobe Experience Platform Launch in [!DNL Adobe Analytics]
 * Applicare i processi per configurare l’assegnazione tag al sito web con Adobe Launch
 * Enumera i requisiti per abilitare estensioni e Adobe Launch
 * Creare regole ed elementi dati
 
-Sezione 5: Servizi mobili (8%)
+**Sezione 5: Servizi mobili (8%)**
 
 * Applica i processi per configurare ed eseguire un codice di pre-distribuzione di base per dispositivi mobili
 * Dimostrare la comprensione delle regole di elaborazione e dei servizi mobili
 
-Sezione 6: Test, convalida e risoluzione dei problemi (20%)
+**Sezione 6: Test, convalida e risoluzione dei problemi (20%)**
 
 * Risolvere i problemi relativi agli errori JavaScript
 * Risoluzione dei problemi [!DNL Adobe Analytics] Variabili
 * Best practice consigliate per il test e il debug
 * Risolvere i problemi di un [!DNL Adobe Analytics] chiamata al server durante il suo ciclo di vita (ad es. dalla richiesta beacon alla visualizzazione nel rapporto)
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud**
 
@@ -157,20 +181,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Abilitazione, debug e personalizzazione di [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Ottimizzare le prestazioni di Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=it){target="_blank"}
 
+<br>
 
->[!TAB Ottieni certificazione]
-
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -194,7 +231,24 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 [Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
+
 
 ## Domande
 

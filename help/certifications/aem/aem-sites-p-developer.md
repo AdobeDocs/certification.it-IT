@@ -4,43 +4,27 @@ description: Scopri come diventare un Adobe certificato esperto di professionist
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Esame AD0-E123" type="positive"
+badge: label="Esame AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 15%
+source-wordcount: '518'
+ht-degree: 20%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Experience Manager Sites] Sviluppatore professionale
 
-Scopri come diventare un Adobe certificato [!DNL Experience Manager Sites] Sviluppatore professionale.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
 
-Devi essere uno sviluppatore di applicazioni e disporre di:
+{{exam-description}}
 
-* 0-12 mesi di esperienza lavorativa con l’AEM [!DNL Platform]
-* Capacità di eseguire lo sviluppo di componenti
-* Conoscenza di base del framework MVC, dei framework del ciclo di vita e delle librerie in AEM
+<br>
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
-
->[!BEGINTABS]
-
->[!TAB Preparati]
-
-**Pubblico previsto:**
-
-* Sviluppatori AEM
-* Sviluppatori front-end
-* Ingegneri software
-
-**Dettagli esame:**
+### Dettagli esame {#exam-details}
 
 * Livello: professionale (0-12 mesi di esperienza)
 * Punteggio minimo: 31/50
@@ -50,9 +34,31 @@ Devi essere uno sviluppatore di applicazioni e disporre di:
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E123
 
-**Obiettivi e ambito dell&#39;esame**
+<br>
 
-Sezione 1: Configurazioni (26%)
+### Pubblico previsto {#intended-audience}
+
+* Sviluppatori AEM
+* Sviluppatori front-end
+* Ingegneri software
+
+<br>
+
+### Esperienza minima {#minimum-experience}
+
+Devi essere uno sviluppatore di applicazioni e disporre di:
+
+* 0-12 mesi di esperienza lavorativa con l’AEM [!DNL Platform]
+* Capacità di eseguire lo sviluppo di componenti
+* Conoscenza di base del framework MVC, dei framework del ciclo di vita e delle librerie in AEM
+
+<br>
+
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sezione 1: Configurazioni (26%)**
 
 * Riconoscere lo scopo delle configurazioni del dispatcher AEM e del caching
 * Determinare i passaggi corretti per configurare più siti in AEM
@@ -60,36 +66,44 @@ Sezione 1: Configurazioni (26%)
 * Determinare i passaggi corretti per la gestione degli indici OAK personalizzati
 * Determinare i passaggi corretti per configurare l’integrazione SAML o IMS OOTB
 
-Sezione 2: sviluppo AEM (40%)
+**Sezione 2: sviluppo AEM (40%)**
 
 * Determinare i passaggi corretti per implementare i componenti basati su core
 * Connettere le funzionalità dei componenti, inclusi HTL, modelli e servizi
 * Considerato uno scenario, determina i passaggi corretti per sviluppare i flussi di lavoro
 * Dato uno scenario, delinea lo scopo dei frammenti di contenuto o di esperienza
 
-Sezione 3: build e implementazione (12%)
+**Sezione 3: build e implementazione (12%)**
 
 * Definire la struttura del progetto Maven
 * Configurare progetti da archetipi
 
-Sezione 4: Manutenzione dell’ambiente (22%)
+**Sezione 4: Manutenzione dell’ambiente (22%)**
 
 * Considerato uno scenario, determina i passaggi necessari per eseguire il debug dei problemi negli ambienti AEM
 * Spiegare le versioni di manutenzione dell’AEM
 * Come configurare l’AEM nelle topologie
 * Determinare i passaggi necessari per la pianificazione e la migrazione a AEM as a Cloud Service
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
 
-**Domande di esempio**
++++Passaggio 1: creare l’account
 
-Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+{{create-your-account}}
 
-[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Configurazioni**
 
@@ -122,15 +136,35 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [[!DNL AEM as Cloud Service] video e tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=it){target="_blank"}
 * [Adobe [!DNL Experience Manager] Aggiornamenti e roadmap delle versioni di](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+**Domande di esempio**
 
-## Informazioni sull’esame di certificazione
+{{sample-questions}}
+
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -143,10 +177,27 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+

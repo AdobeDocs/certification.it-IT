@@ -4,19 +4,44 @@ description: Scopri come diventare un Adobe certificato [!DNL Experience Manager
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Esame AD0-E132" type="positive"
+badge: label="Esame AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 10%
+source-wordcount: '468'
+ht-degree: 13%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Experience Manager] Fondamenti tecnici professionali
 
-Scopri come diventare un Adobe certificato [!DNL Experience Manager] Professionale.
+{{intro}}
+
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 38/60
+* Tempo: 120 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $125 (globale) / $95 (India)
+* ID esame: AD0-E132
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Sviluppatori AEM
+* Lead tecnici
+
+<br>
 
 ## Esperienza minima
 
@@ -39,32 +64,13 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Diverse funzionalità di hosting AEM
 * Sincronizza contenuti/ambienti
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Sviluppatori AEM
-* Lead tecnici
-
-**Dettagli esame:**
-
-* Livello: professionale (0-12 mesi di esperienza)
-* Punteggio minimo: 38/60
-* Tempo: 120 minuti
-* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
-* Lingue disponibili: inglese
-* Costo: $125 (globale) / $95 (India)
-* ID esame: AD0-E132
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Creazione di contenuti (33%)
+**Sezione 1: Creazione di contenuti (33%)**
 
 * Gestire le pagine di contenuto
 * Replica contenuto
@@ -75,7 +81,7 @@ Sezione 1: Creazione di contenuti (33%)
 * Applicare concetti procedurali per tradurre il contenuto
 * Utilizzare più siti e Live Copy
 
-Sezione 2: Attuazione (42%)
+**Sezione 2: Attuazione (42%)**
 
 * Applicare concetti procedurali per creare componenti
 * Creare modelli modificabili
@@ -86,23 +92,37 @@ Sezione 2: Attuazione (42%)
 * Estendere i componenti core
 * Modellazione del contenuto della struttura
 
-Sezione 3: Configurazione e distribuzione (13%)
+**Sezione 3: Configurazione e distribuzione (13%)**
 
 * Installare i bundle
 * Distribuire i pacchetti
 * Installare le istanze AEM
 
-Sezione 4: Manutenzione e amministrazione degli utenti (12%)
+**Sezione 4: Manutenzione e amministrazione degli utenti (12%)**
 
 * Gestire l’accesso degli utenti
 * Modificare le configurazioni OSGI
 * Creare le query
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Creazione di contenuti**
 
@@ -131,16 +151,27 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Amministrazione utenti e sicurezza](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=it){target="_blank"}
 * [Impostazioni configurazione OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
++++
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+<br>
 
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
 
-## Informazioni sull’esame di certificazione
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -153,10 +184,28 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+
+

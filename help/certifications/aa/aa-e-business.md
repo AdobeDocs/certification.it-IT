@@ -1,24 +1,57 @@
 ---
 title: Certificazione per professionisti aziendali
-description: Scopri come ottenere la certificazione di Adobe esperto di professionisti aziendali in [!DNL Adobe Analytics]
+description: Scopri come ottenere la certificazione come [!DNL Adobe Analytics] Esperto di professionisti aziendali
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Esame AD0-E208" type="positive"
+badge: label="Esame AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 13%
+source-wordcount: '883'
+ht-degree: 15%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Analytics] Esperto di professionisti aziendali
 
-Scopri come ottenere la certificazione [!DNL Adobe Analytics] Esperto di professionisti aziendali.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* **Livello:** Esperto (1-3 anni di esperienza)
+* **Punteggio superato:** 31/50
+* **Ora:** 120 minuti
+* **Consegna:** Protetto online (richiede l&#39;accesso alla fotocamera)
+* **Lingue disponibili:** Inglese, giapponese
+* **Costo:** $225 (globale) / $150 (India)
+* **ID esame:** AD0-E208 (inglese), AD0-E208-J (giapponese)
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Marketing digitali
+* Analisti aziendali
+* Consulenti aziendali
+* Analisti di dati
+* Analisti web
+* Analisti digitali
+* Media/analisti di marketing
+* Proprietari e manager del prodotto
+* Analisti dell’interfaccia utente
+* Specialisti in conversione/ottimizzazione
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -34,7 +67,7 @@ Dovresti avere:
 * Nozioni di base su come l’analisi digitale filtra/struttura i dati
 * Una consapevolezza dell&#39;integrazione di [!DNL Adobe Analytics] con altre soluzioni di Adobe
 
-### Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
+Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 * Client FTP
 * Corrente [!DNL Adobe Analytics] Funzioni di Workspace e altre opzioni di reporting al di fuori di Workspace (ad es. progetti programmati e rapporti programmati)
@@ -46,50 +79,19 @@ Dovresti avere:
 * Adobe Help Center
 * Opzioni di esportazione dei dati (ad es. fare clic con il pulsante destro del mouse per esportare, scaricare .csv, feed di dati, estrarre Data Warehouse)
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Marketing digitali
-* Analisti aziendali
-* Consulenti aziendali
-* Analisti di dati
-* Analisti web
-* Analisti digitali
-* Media/analisti di marketing
-* Proprietari e manager del prodotto
-* Analisti dell’interfaccia utente
-* Specialisti in conversione/ottimizzazione
-
-**Dettagli esame:**
-
-* **Livello:** Esperto (1-3 anni di esperienza)
-* **Punteggio superato:** 31/50
-* **Ora:** 120 minuti
-* **Consegna:** Protetto online (richiede l&#39;accesso alla videocamera) o >centro di test protetto
-* **Lingue disponibili:** Inglese
-* **Costo:** $225 (globale) / $150 (India)
-* **ID esame:** AD0-E208
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud (10%)
+**Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud (10%)**
 
 * Dimostrare la conoscenza sull’utilizzo di Adobe Experience Cloud ID
 * Dimostrare la comprensione di Adobe Launch
 * Dimostrare la comprensione delle integrazioni comuni nell’ecosistema Adobe Experience Cloud
 
-Sezione 2: relazioni e dashboard per i progetti (30%)
+**Sezione 2: relazioni e dashboard per i progetti (30%)**
 
 * Valuta i vantaggi dell’utilizzo di uno strumento di reporting basato su un dato scenario
 * Confrontare la visualizzazione dell’abbandono e del flusso e i tipi di variabili appropriati per il reporting
@@ -101,7 +103,7 @@ Sezione 2: relazioni e dashboard per i progetti (30%)
 * Dato uno scenario, determina l’elemento appropriato da utilizzare
 * Applicare il processo per creare, configurare e utilizzare scorecard per dispositivi mobili
 
-Sezione 3: segmentazione e metriche calcolate (22%)
+**Sezione 3: segmentazione e metriche calcolate (22%)**
 
 * Determinare come sviluppare e configurare i segmenti
 * Applicare il processo per condividere i segmenti con altri nell’organizzazione
@@ -109,14 +111,14 @@ Sezione 3: segmentazione e metriche calcolate (22%)
 * Applicare segmenti a progetti e componenti
 * Applicare il processo per generare metriche calcolate e/o segmentate
 
-Sezione 4: conoscenza generale degli strumenti e risoluzione dei problemi (12%)
+**Sezione 4: conoscenza generale degli strumenti e risoluzione dei problemi (12%)**
 
 * Analizzare i rapporti e identificare i problemi relativi alla qualità dei dati
 * Definite diversi tipi di quote e parametri esistenti in [!DNL Adobe Analytics] (eVar, prop ed eventi)
 * Determinare come inserire e estrarre i dati [!DNL Adobe Analytics]
 * Identificare le informazioni dagli URL di marketing
 
-Sezione 5: somministrazione (10%)
+**Sezione 5: somministrazione (10%)**
 
 * Applica il processo per configurare [!UICONTROL Canale di marketing] rapporti con [!UICONTROL Canale di marketing] regole di elaborazione
 * Applica il processo per configurare Importazione classificazioni e Generatore regole
@@ -124,11 +126,33 @@ Sezione 5: somministrazione (10%)
 * Utilizza il [!UICONTROL Feed dati] Interfaccia utente amministratore manager
 * Informazioni sulla governance dei dati
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: analisi aziendale**
 
@@ -161,19 +185,31 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Domande frequenti](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [Flusso di lavoro del Generatore regole di classificazione](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificazione]
-
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -197,7 +233,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 [Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

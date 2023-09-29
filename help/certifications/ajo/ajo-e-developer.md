@@ -4,20 +4,50 @@ description: Scopri come diventare un Adobe certificato [!DNL Journey Optimizer]
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Esame AD0-E603" type="positive"
+badge: label="Esame AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 12%
+source-wordcount: '581'
+ht-degree: 16%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Journey Optimizer] Sviluppatore esperto
 
-Scopri come diventare un Adobe certificato [!DNL Journey Optimizer] Sviluppatore esperto.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 31/51
+* Tempo: 110 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E603
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Architetto dati
+* Ingegnere dati
+* Architetto della soluzione
+* Architetto Enterprise
+* Sviluppatore di automazione marketing
+* Sviluppatore CDP
+* Architetto CDP
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di automazione CDP e marketing ed essere in grado di eseguire le seguenti attività:
 
@@ -37,48 +67,20 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 * Rapporti sui percorsi
 * Verifica/convalida dei percorsi
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Architetto dati
-* Ingegnere dati
-* Architetto della soluzione
-* Architetto Enterprise
-* Sviluppatore di automazione marketing
-* Sviluppatore CDP
-* Architetto CDP
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 31/51
-* Tempo: 110 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E603
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Amministrazione e configurazione (17%)
+**Sezione 1: Amministrazione e configurazione (17%)**
 
 * Identificare i ruoli e le autorizzazioni applicabili a ogni ruolo
 * Descrivere come assegnare/reimpostare/eliminare una sandbox
 * Dimostrare di avere familiarità con l’amministrazione dei canali
 * Dimostrare la comprensione di eventi/azioni/origini dati
 
-Sezione 2: Adobe Experience Platform Foundation (33%)
+**Sezione 2: Adobe Experience Platform Foundation (33%)**
 
 * Dimostrare la comprensione di Experience Data Model (XDM)
 * Spiegare come impostare le origini dati e l’acquisizione dei dati
@@ -86,28 +88,50 @@ Sezione 2: Adobe Experience Platform Foundation (33%)
 * Spiegare come configurare gli schemi per AJO
 * Determinare il comportamento del profilo cliente in tempo reale su AJO
 
-Sezione 3: Offer decisioning (11%)
+**Sezione 3: Offer decisioning (11%)**
 
 * Dimostrare di avere familiarità con la creazione e la gestione di offerte e componenti
 * Dimostrare come utilizzare i profili di test per eseguire la simulazione delle offerte
 
-Sezione 4: authoring dei contenuti (20%)
+**Sezione 4: authoring dei contenuti (20%)**
 
 * Dimostrare la comprensione di come creare e-mail, SMS, messaggi in-app e notifiche push
 * Dimostrare di comprendere a fondo la manipolazione e la personalizzazione dei contenuti mediante funzioni di assistenza
 * Dimostrare di comprendere come convalidare, convalidare e pubblicare un messaggio
 
-Sezione 5: Journey Orchestration (19%)
+**Sezione 5: Journey Orchestration (19%)**
 
 * Spiegare il processo di creazione di un percorso multicanale
 * Identificare dove accedere alle dashboard dei rapporti
 * Dimostrare come testare e convalidare un percorso
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Amministrazione e configurazione**
 
@@ -124,7 +148,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 2: Fondazione AEP**
 
-* [Documentazione di Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Documentazione di Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
 
    * Guida di XDM
    * Guida al profilo cliente in tempo reale
@@ -169,19 +193,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
    * Segmenti
    * Profili e identità
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -194,7 +232,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

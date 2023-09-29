@@ -3,21 +3,50 @@ title: Certificazione Developer Professional
 description: Scopri come diventare un professionista Adobe Developer certificato in Adobe [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
-badge: label="Esame AD0-E902" type="positive"
+badge: label="Esame AD0-E902" type="neutral"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Workfront Fusion] Sviluppatore professionale
 
-Scopri come diventare un Adobe certificato [!DNL Workfront] Sviluppatore professionale.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 33/51
+* Tempo: 102 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $125 (globale) / $95 (India)
+* ID esame: AD0-E902
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Sviluppatore, ingegnere di automazione
+* Automator, Process Optimization e Automation Manager
+* Consulenti per l&#39;integrazione, consulenti, partner
+* Integratori di sistemi/partner
+* Analisti aziendali, analisti aziendali applicati
+* Amministratore di sistema (IT, MIS, tecnologia, Knowledge Systems, amministratori di IA)
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -32,36 +61,13 @@ Dovresti avere:
 * Possibilità di gestire team e utenti dell’organizzazione
 * Informazioni sullo scopo e sull’utilizzo dei connettori universali per l’API REST Oauth2
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Sviluppatore, ingegnere di automazione
-* Automator, Process Optimization e Automation Manager
-* Consulenti per l&#39;integrazione, consulenti, partner
-* Integratori di sistemi/partner
-* Analisti aziendali, analisti aziendali applicati
-* Amministratore di sistema (IT, MIS, tecnologia, Knowledge Systems, amministratori di IA)
-
-**Dettagli esame:**
-
-* Livello: professionale (0-12 mesi di esperienza)
-* Punteggio minimo: 33/51
-* Tempo: 102 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $125 (globale) / $95 (India)
-* ID esame: AD0-E902
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: concetti tecnici fondamentali (39%)
+**Sezione 1: concetti tecnici fondamentali (39%)**
 
 * Dato un [!DNL Fusion] con un formato di campo che deve essere in un altro formato, fornisci le possibili funzioni che possono essere utilizzate per trasformare correttamente i dati
 * Dato un [!DNL Fusion] scenario che richiede che una funzione sia nidificata all&#39;interno di un&#39;altra funzione, seleziona l&#39;espressione formattata correttamente
@@ -77,7 +83,7 @@ Sezione 1: concetti tecnici fondamentali (39%)
 * Identificare le diverse opzioni in [!DNL Fusion] impostazioni dello scenario per soddisfare le esigenze dello scenario
 * Dato un [!DNL Fusion] scenario, selezionare il controllo di flusso appropriato e/o determinare la combinazione corretta dei moduli di controllo di flusso
 
-Sezione 2: Progettazione e architettura dello scenario (35%)
+**Sezione 2: Progettazione e architettura dello scenario (35%)**
 
 * Dato un elenco di passaggi, scegli la sequenza corretta per analizzare JSON e convertirlo in bundle
 * Dato un set di requisiti, identifica il metodo di ricerca dei dati corretto
@@ -92,7 +98,7 @@ Sezione 2: Progettazione e architettura dello scenario (35%)
 * Data una descrizione della necessità di archiviare uno scenario per più di 60 giorni e selezionare l’unico modo possibile (blueprint di importazione/esportazione)
 * Dato un esempio di errore 403: proibito, seleziona correttamente l’origine del messaggio di errore e causa
 
-Sezione 3: Test e gestione degli errori (16%)
+**Sezione 3: Test e gestione degli errori (16%)**
 
 * Identificare gli elementi di un piano di test
 * Identificare gli elementi di un test case
@@ -101,24 +107,32 @@ Sezione 3: Test e gestione degli errori (16%)
 * Identificare come tenere traccia, leggere e risolvere le esecuzioni incomplete
 * Dato un [!DNL Fusion] scenario con dati richiesti mancanti, seleziona modi per gestire i dati non validi
 
-Sezione 4: Utilizzo delle API (10%)
+**Sezione 4: Utilizzo delle API (10%)**
 
 * Dato un API di terze parti che restituisce un errore 429: Troppe richieste, identifica una soluzione per evitare o gestire l’errore
 * Dato un [!DNL Fusion] scenario in cui non è disponibile una nuova funzionalità nel [!DNL Workfront] identificare il riferimento e il tipo di modulo corretti per utilizzare la nuova funzionalità
 * Dato un sistema di terze parti privo di un’app dedicata, identifica l’app HTTP e seleziona il modulo appropriato
 * Identifica la differenza tra le operazioni CRUD e altre funzionalità comuni delle API REST
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
 
-**Domande di esempio**
++++Passaggio 1: creare l’account
 
-Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+{{create-your-account}}
 
-[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Concetti tecnici fondamentali**
 
@@ -151,16 +165,35 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [App e relativi moduli](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Moduli in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+**Domande di esempio**
 
+{{sample-questions}}
 
-## Informazioni sull’esame di certificazione
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

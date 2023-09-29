@@ -4,21 +4,48 @@ description: Scopri come ottenere la certificazione di Adobe Architect Master in
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Esame AD0-E328" type="positive"
+badge: label="Esame AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 11%
+source-wordcount: '858'
+ht-degree: 13%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Campaign Classic] Architect Master
 
-Scopri come diventare un Adobe certificato [!DNL Campaign Classic] Architetto principale.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: Master (3-5 anni di esperienza)
+* Punteggio minimo: 30/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E328
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Lead tecnico con Adobe [!DNL Campaign Classic] sfondo
+* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Sviluppatore
+* Adobe [!DNL Campaign Classic] ruolo sviluppatore o simile
+* Architetto di soluzioni Martech
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -38,38 +65,13 @@ Dovresti avere:
 * Possibilità di offrire programmi di formazione sul posto (best practice per i prodotti, metriche per la generazione di rapporti e così via)
 * Esperienza nella descrizione delle differenze tra i modelli di distribuzione
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Lead tecnico con Adobe [!DNL Campaign Classic] sfondo
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] Sviluppatore
-* Adobe [!DNL Campaign Classic] ruolo sviluppatore o simile
-* Architetto di soluzioni Martech
-
-**Dettagli esame:**
-
-* Livello: Master (3-5 anni di esperienza)
-* Punteggio minimo: 30/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E328
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: definizione della soluzione (24%)
+**Sezione 1: definizione della soluzione (24%)**
 
 * Dati i requisiti aziendali specifici, determina le informazioni rilevanti per la progettazione della soluzione
 * In uno scenario, fornire suggerimenti su prestazioni, infrastruttura e configurazione
@@ -77,13 +79,13 @@ Sezione 1: definizione della soluzione (24%)
 * Determinare i requisiti aziendali per progettare una soluzione di marketing digitale
 * Dato uno scenario, specifica il metodo di distribuzione del prodotto corretto
 
-Sezione 2: Progettazione dei dati (24%)
+**Sezione 2: Progettazione dei dati (24%)**
 
 * Specificare i parametri di progettazione del modello dati e della mappa di integrazione per una soluzione Campaign con altri strumenti del cliente
 * Dato uno scenario, determinare il progetto di soluzione necessario per conformarsi alle leggi e alle normative
 * Considerato uno scenario, determina la progettazione tecnica ottimale del flusso di lavoro
 
-Sezione 3: Installazione e gestione (16%)
+**Sezione 3: Installazione e gestione (16%)**
 
 * Dato un set di moduli chiave, convalida la configurazione della configurazione del modulo
 * Considerato uno scenario, consiglia soluzioni di integrazione per abilitare integrazioni native e di terze parti con Adobe [!DNL Campaign Classic]
@@ -92,24 +94,46 @@ Sezione 3: Installazione e gestione (16%)
 * In uno scenario, fornire consulenza sull&#39;infrastruttura hardware appropriata necessaria durante la progettazione della soluzione
 * Dato uno scenario, determina il metodo corretto per la promozione della soluzione nel rispettivo ambiente
 
-Sezione 4: direzione del progetto (10%)
+**Sezione 4: direzione del progetto (10%)**
 
 * Dati i requisiti dei clienti, determina le attività e le risorse appropriate necessarie
 * In uno scenario, analizzare la soluzione complessiva per determinare rischi tecnici, ipotesi, problemi e dipendenze
 * Comunicazione delle competenze tecniche ACC a team interni ed esterni
 
-Sezione 5: Personalizzazione (26%)
+**Sezione 5: Personalizzazione (26%)**
 
 * Analizzare e progettare funzioni personalizzate
 * Analizzare e progettare integrazioni personalizzate
 * Determinare il metodo corretto per progettare modelli di campagna e flussi di lavoro complessi
 * Determinare il metodo corretto per progettare soluzioni utilizzando moduli aggiuntivi
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: definizione della soluzione**
 
@@ -151,16 +175,27 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Gestione dell’interazione e dell’offerta](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
 * [Principio di funzionamento](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
++++
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+<br>
 
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
 
-## Informazioni sull’esame di certificazione
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -173,10 +208,28 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+
+

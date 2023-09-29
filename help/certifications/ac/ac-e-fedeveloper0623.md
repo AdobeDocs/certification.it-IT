@@ -4,24 +4,50 @@ description: Scopri come diventare un esperto Adobe Developer certificato in Ado
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Esame AD0-E720" type="positive"
+badge: label="Esame AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '924'
 ht-degree: 1%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Commerce] Sviluppatore esperto front-end
 
-Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore esperto.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
 
-Il [!DNL Adobe Commerce] Lo sviluppatore Frontend è considerato un ruolo di livello Expert e ha almeno 1-3 anni di esperienza pratica con lo sviluppo Frontend di Adobe Commerce. Dovrebbero essere in grado di tradurre le esigenze espresse dai requisiti dei compiti in una soluzione tecnica.
+{{exam-description}}
 
-Il candidato deve avere familiarità con le seguenti tecnologie:
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 33/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E720
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Sviluppatori
+* Sviluppatori Lead
+* Sviluppatori front-end
+
+<br>
+
+### Esperienza minima {#minimum-experience}
+
+Devi avere almeno 1-3 anni di esperienza pratica con lo sviluppo front-end di Adobe Commerce. Dovresti essere in grado di tradurre le esigenze espresse dai requisiti delle attività in una soluzione tecnica.
+
+Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 * [!DNL Adobe Commerce] - versione 2.4.6
 * Comprensione di base della struttura e del layout front-end
@@ -40,33 +66,13 @@ Il candidato deve avere familiarità con le seguenti tecnologie:
 * Informazioni sull&#39;infrastruttura Adobe Commerce Cloud
 * Comprensione di base dello strumento di comando Cloud CLI
 
->[!BEGINTABS]
+<br>
 
->[!TAB Preparati]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
-**Pubblico previsto:**
+{{exam-objectives}}
 
-* Sviluppatori
-* Sviluppatori Lead
-* Sviluppatori front-end
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 33/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E720
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni) (16%)
+**Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni) (16%)**
 
 * Descrizione della struttura di cartelle di temi Adobe Commerce e della relazione con i temi basati su cartelle
 * Dimostrare la possibilità di creare un nuovo tema (ereditarietà/fallback, eccezioni di progettazione, proprietà del tema)
@@ -75,7 +81,7 @@ Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini,
 * Dimostrare la capacità di applicare le traduzioni
 * Considerata una serie di casi d’uso, identifica quando inserire i file in app/codice o in app/progettazione
 
-Sezione 2: XML layout e modelli (modelli phtml) (22%)
+**Sezione 2: XML layout e modelli (modelli phtml) (22%)**
 
 * Dimostrare la possibilità di utilizzare le istruzioni XML di layout
 * Dimostrare la possibilità di creare nuovi layout di pagina
@@ -84,7 +90,7 @@ Sezione 2: XML layout e modelli (modelli phtml) (22%)
 * Dimostrare la capacità di creare e personalizzare modelli
 * Applica protezione modello (output di escape)
 
-Sezione 3: Stili (18%)
+**Sezione 3: Stili (18%)**
 
 * Identificare lo scopo di style-m.less, styles-l.less, print.less
 * Descrivi la differenza tra file parziali specifici (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -95,7 +101,7 @@ Sezione 3: Stili (18%)
 * Dimostrare la capacità di implementare e personalizzare MENO componenti della libreria
 * Identificare le differenze tra la compilazione lato client e lato server e come funziona
 
-Sezione 4: JavaScript (widget immagine, libreria di immagini, modulo dati del cliente, modelli di foratura) (22%)
+**Sezione 4: JavaScript (widget immagine, libreria di immagini, modulo dati del cliente, modelli di foratura) (22%)**
 
 * Dimostrare la capacità di inizializzare e chiamare i componenti JavaScript
 * Distinguere i casi d’uso per i diversi componenti JavaScript
@@ -107,14 +113,14 @@ Sezione 4: JavaScript (widget immagine, libreria di immagini, modulo dati del cl
 * Dimostrare l’utilizzo dei widget jQuery
 * Dimostrare l’utilizzo dei componenti JS utilizzando Layout XML
 
-Sezione 5: Configurazione amministratore e Page Builder (12%)
+**Sezione 5: Configurazione amministratore e Page Builder (12%)**
 
 * Dimostrare la possibilità di personalizzare il contenuto di Page Builder
 * Descrizione dell’ottimizzazione front-end
 * Personalizzare le e-mail transazionali
 * Dimostrare l’utilizzo degli strumenti di sviluppo per amministratori
 
-Sezione 6: Strumenti (CLI e Grunt) (10%)
+**Sezione 6: Strumenti (CLI e Grunt) (10%)**
 
 * Dimostrare l&#39;utilizzo dei comandi di base bin/Magento
 * Descrivere l&#39;utilizzo dei comandi del Compositore (installazione, aggiornamento, richiesta, rimozione)
@@ -122,11 +128,33 @@ Sezione 6: Strumenti (CLI e Grunt) (10%)
 * Definire l’impostazione e l’utilizzo dell’indennità
 * Descrivi gli strumenti aggiuntivi forniti dal cloud (Fastly, download del database, distribuzione dei contenuti, diramazione tramite l’interfaccia utente)
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni)**
 
@@ -170,17 +198,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Variabili di build](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce su infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
-> Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+**Esegui un test di esercitazione**
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
+{{practice-test}}
 
-**Test di esercitazione in arrivo**
++++
 
-## Informazioni sull’esame di certificazione
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -193,9 +237,25 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Domande**
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
+
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

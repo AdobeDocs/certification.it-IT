@@ -4,21 +4,49 @@ description: Scopri come diventare un esperto Adobe Developer certificato in Ado
 solution: Commerce
 role: Developer
 level: Experienced
-badge: label="Esame AD0-E716" type="positive"
+badge: label="Esame AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1707'
 ht-degree: 2%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Commerce] Sviluppatore esperto
 
-Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore esperto.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 41/69
+* Tempo: 138 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E716
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Sviluppatori
+* Sviluppatori Lead
+* Sviluppatore back-end
+* Architetti di soluzioni
+* Responsabili tecnici
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Deve avere almeno 1-3 anni di esperienza con Adobe [!DNL Commerce] e hai familiarità con le tecnologie e gli ambienti seguenti:
 
@@ -33,39 +61,15 @@ Deve avere almeno 1-3 anni di esperienza con Adobe [!DNL Commerce] e hai familia
 * Software di controllo della versione come Git
 * Architettura cloud
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
-
-**Pubblico previsto:**
-
-* Sviluppatori
-* Sviluppatori Lead
-* Sviluppatore back-end
-* Architetti di soluzioni
-* Responsabili tecnici
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 41/69
-* Tempo: 138 minuti
-* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E716
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
+{{exam-objectives}}
 
 **Obiettivi e ambito dell&#39;esame**
 
-Sezione 1: Adobe [!DNL Commerce] Architettura e tecniche di personalizzazione (36%)
+**Sezione 1: Adobe [!DNL Commerce] Architettura e tecniche di personalizzazione (36%)**
 
 * Dimostrare come utilizzare in modo efficace la cache in Adobe [!DNL Commerce]
 * Creare, utilizzare e manipolare attributi di estensione personalizzati
@@ -85,40 +89,40 @@ Sezione 1: Adobe [!DNL Commerce] Architettura e tecniche di personalizzazione (3
 * Dimostrare la capacità di caricare e manipolare i dati
 * Dimostrare la capacità di utilizzare l’emulazione app
 
-Sezione 2: Utilizzo di database ed EAV (10%)
+**Sezione 2: Utilizzo di database ed EAV (10%)**
 
 * Manipolare gli attributi e i set di attributi EAV a livello di programmazione
 * Dimostrare la capacità di estendere lo schema del database
 * Dimostrare la capacità di importare/esportare dati da Adobe Commerce
 * Descrivere come utilizzare patch e impostazioni ricorrenti per modificare il database
 
-Sezione 3: Sviluppo con l’Amministratore (6%)
+**Sezione 3: Sviluppo con l’Amministratore (6%)**
 
 * Dimostrare la capacità di aggiornare e creare griglie e moduli
 * Estendi azioni griglia
 * Dimostrare la possibilità di creare classi di modificatori
 * Dimostrare la possibilità di limitare l’accesso ad ACL
 
-Sezione 4: Personalizzazione del catalogo (6%)
+**Sezione 4: Personalizzazione del catalogo (6%)**
 
 * Applica le modifiche ai tipi di prodotto esistenti e creane di nuovi
 * Modificare ed estendere le entità catalogo esistenti
 * Dimostrare la possibilità di gestire gli indici e personalizzare l&#39;output dei prezzi
 * Spiegare in che modo le scorte multiorigine influiscono sulle scorte (a livello di programma)
 
-Sezione 5: personalizzazione delle operazioni di vendita (6%)
+**Sezione 5: personalizzazione delle operazioni di vendita (6%)**
 
 * Dimostrare la capacità di sviluppare nuovi metodi di pagamento o personalizzare quelli esistenti
 * Dimostrare la possibilità di aggiungere e personalizzare metodi di spedizione
 * Dimostrare la possibilità di personalizzare le operazioni di vendita
 * Spiegare come personalizzare i totali
 
-Sezione 6: API e servizi (4%)
+**Sezione 6: API e servizi (4%)**
 
 * Dimostrare la capacità di creare nuove API o estendere quelle esistenti
 * Dimostrare la capacità di utilizzare il sistema di accodamento
 
-Sezione 7: Adobe [!DNL Commerce] Architettura cloud (16%)
+**Sezione 7: Adobe [!DNL Commerce] Architettura cloud (16%)**
 
 * Dimostrare la conoscenza degli Adobi [!DNL Commerce] architettura/flusso di lavoro dell&#39;ambiente
 * Dimostrare una conoscenza operativa dei file di progetto cloud, delle autorizzazioni e della struttura
@@ -132,7 +136,7 @@ Sezione 7: Adobe [!DNL Commerce] Architettura cloud (16%)
 * Distinguere quando contattare il supporto *File e limitazioni Yaml (DIY e ticket di supporto)
 * Dimostrare la conoscenza di base della configurazione e dell&#39;installazione delle funzioni FASTLY OOTB
 
-Sezione 8: Adobe di configurazione [!DNL Commerce] Cloud (10%)
+**Sezione 8: Adobe di configurazione [!DNL Commerce] Cloud (10%)**
 
 * Descrivi come impostare/configurare l’Adobe [!DNL Commerce] Cloud
 * Applica conoscenze di base sulla risoluzione dei problemi cloud (gerarchia di variabili e interfaccia utente web, precedenza configurazioni)
@@ -142,18 +146,40 @@ Sezione 8: Adobe di configurazione [!DNL Commerce] Cloud (10%)
 * Dimostrare la comprensione del branching mediante l’interfaccia utente
 * Identificare le funzionalità di Adobe commerce Cloud Plan
 
-Sezione 9: [!DNL Commerce] Strumento Cloud CLI (gestione parte) (6%)
+**Sezione 9: [!DNL Commerce] Strumento Cloud CLI (gestione parte) (6%)**
 
 * Dimostrare la comprensione dell’aggiornamento delle variabili cloud tramite CLI
 * Dimostrare la conoscenza della gestione dell’ambiente utilizzando CLI (funzionalità esclusive di CLI: attivazione di e-mail, ambienti di rebase, istantanee, dump del database, configurazione dell’ambiente locale)
 * Dimostrare la comprensione dei rami utilizzando CLI
 * Dimostrare come risolvere i problemi in Cloud Services? (My SQL, Redis, tunnel:info)
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Adobe [!DNL Commerce] architettura e tecniche di personalizzazione**
 
@@ -255,7 +281,6 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [[!DNL Commerce] sull’infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=it){target="_blank"}
 * [Pacchetto utensili ECE](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
-
 **Sezione 8: Adobe di configurazione [!DNL Commerce] Cloud**
 
 * [Gestire l’accesso degli utenti](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
@@ -263,26 +288,38 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Progetto infrastruttura cloud](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
 * [Gestire i rami con CLI](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
-
 **Sezione 9: [!DNL Commerce] Strumento Cloud CLI (gestione parte)**
 
 * [Snapshot e gestione dei backup](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
 * [Gestione dello spazio su disco](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
 
+<br>
 
->[!TAB Ottieni certificazione]
-
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -295,7 +332,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

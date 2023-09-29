@@ -5,21 +5,54 @@ solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
-badge: label="Esame AD0-E602" type="positive"
+badge: label="Esame AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 6%
+source-wordcount: '563'
+ht-degree: 9%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Real-Time CDP] Professionista professionista
 
-Scopri come diventare un Adobe certificato [!DNL Experience Platform] Professionista.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 28/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $125 (globale) / $95 (India)
+* ID esame: AD0-E602
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Consulente soluzioni
+* Analista dati
+* Marketing Manager
+* Analista marketing di Campaign
+* Analista aziendale
+* Gestione campagne
+* Consulente CDP
+* Consulente conversione/ottimizzazione
+* Proprietario prodotto marketing
+* Analista marketing
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -38,73 +71,54 @@ Esperienza con attività che includono:
 * Comprendere le funzionalità di alto livello di AEP e dei suoi servizi
 * Configurazione di nuove destinazioni
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Consulente soluzioni
-* Analista dati
-* Marketing Manager
-* Analista marketing di Campaign
-* Analista aziendale
-* Gestione campagne
-* Consulente CDP
-* Consulente conversione/ottimizzazione
-* Proprietario prodotto marketing
-* Analista marketing
-
-**Dettagli esame:**
-
-* Livello: professionale (0-12 mesi di esperienza)
-* Punteggio minimo: 28/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $125 (globale) / $95 (India)
-* ID esame: AD0-E602
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Segmenti e attivazione (32%)
+**Sezione 1: Segmenti e attivazione (32%)**
 
 * Creare un segmento e attivarlo nella destinazione
 * Configurare nuove destinazioni
 * Applicare i concetti necessari per eseguire il targeting delle identità nelle destinazioni
 * Identificare le mappature degli attributi e la pianificazione dei segmenti nella destinazione
 
-Sezione 2: Privacy e governance dei dati (20%)
+**Sezione 2: Privacy e governance dei dati (20%)**
 
 * Dimostrare una comprensione delle politiche DULE e del loro impatto sulla disponibilità dei dati nelle destinazioni
 * Garantire il rispetto delle misure relative alla privacy e alla conformità dei dati
 
-Sezione 3: analisi aziendale (30%)
+**Sezione 3: analisi aziendale (30%)**
 
 * Identificare i casi d’uso che si ricollegano ai KPI aziendali
 * Eseguire l’analisi dei dati sui segmenti dei clienti in Platform
 * Dimostrare una comprensione dei concetti del flusso di dati
 
-Sezione 4: Schemi e profili (18%)
+**Sezione 4: Schemi e profili (18%)**
 
 * Dimostrare la comprensione di Adobe [!DNL Experience Platform] concetti
 * Utilizzare le funzioni del profilo
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
 
-**Domande di esempio**
++++Passaggio 1: creare l’account
 
-Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+{{create-your-account}}
 
-[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Segmenti e attivazione**
 
@@ -135,19 +149,36 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Panoramica del profilo cliente in tempo reale](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [Guida dell’interfaccia utente dello schema di unione](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+**Domande di esempio**
 
-## Esegui un test di esercitazione
+{{sample-questions}}
 
-{{practice-test}}
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## Informazioni sull’esame di certificazione
+
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -160,7 +191,23 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

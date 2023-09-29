@@ -4,23 +4,51 @@ description: Scopri come ottenere la certificazione come Adobe [!DNL Audience Ma
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Esame AD0-E457" type="positive"
+badge: label="Esame AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '940'
-ht-degree: 8%
+source-wordcount: '815'
+ht-degree: 10%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Audience Manager] Esperto di professionisti aziendali
 
-Scopri come ottenere la certificazione [!DNL Adobe Audience Manager] Esperto di professionisti aziendali.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
 
-La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 36/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) e $150 (India)
+* ID esame: AD0-E457
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Specialista di marketing digitale
+* Consulente Tecnologico Marketing
+* Audience Strategist
+* Consulente comportamentale
+* Analista digital marketing
+* Analista dati marketing
+* Data Platform Manager
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -47,74 +75,68 @@ Ambienti:
 * Marketing digitale
 * Dati e analisi
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Specialista di marketing digitale
-* Consulente Tecnologico Marketing
-* Audience Strategist
-* Consulente comportamentale
-* Analista digital marketing
-* Analista dati marketing
-* Data Platform Manager
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 36/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) e $150 (India)
-* ID esame: AD0-E457
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Creazione di segmenti e sindacazione (25%)
+**Sezione 1: Creazione di segmenti e sindacazione (25%)**
 
 * Determinare il metodo appropriato per creare segmenti utilizzando dati di prime, seconde e terze parti a scopo di targeting e analisi
 * Considerato uno scenario, consiglia segmenti per l’attivazione in linea con gli obiettivi aziendali o della campagna
 * Determinare il metodo appropriato per distribuire i segmenti nelle destinazioni per l’attivazione
 * Differenziare tra i diversi tipi di destinazioni
 
-Sezione 2: Creazione di caratteristiche (17%)
+**Sezione 2: Creazione di caratteristiche (17%)**
 
 * Consigliare caratteristiche per una determinata strategia di pubblico
 * Determinare il metodo corretto per creare e aggiornare caratteristiche basate su regole e/o onboarded
 
-Sezione 3: relazioni e misurazioni (22%)
+**Sezione 3: relazioni e misurazioni (22%)**
 
 * Considerato uno scenario, analizza i rapporti per fornire i passaggi successivi utilizzabili per soddisfare gli obiettivi aziendali
 * Dato uno scenario, analizza l’ottimizzazione del pubblico
 
-Sezione 4: Risoluzione dei problemi e amministrazione (26%)
+**Sezione 4: Risoluzione dei problemi e amministrazione (26%)**
 
 * Considerato uno scenario, verifica le informazioni di consegna del pubblico per garantire le esigenze di consegna pianificate
 * Determinare la procedura appropriata per convalidare i file in entrata non in linea
 * Dato uno scenario, determinare il metodo corretto per eseguire il controllo qualità sulla sincronizzazione ID
 * Determina il metodo appropriato per navigare e attivare dall’Audience Marketplace di Adobe
 
-Sezione 5: tassonomia (10%)
+**Sezione 5: tassonomia (10%)**
 
 * Determina la struttura appropriata per creare caratteristiche e segmenti che utilizzano una nomenclatura chiara e coerente
 * Determinare la tecnica corretta per mantenere una piattaforma organizzata utilizzando una chiara struttura di cartelle
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Creazione di segmenti e diffusione**
 
@@ -156,17 +178,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Classificazione delle caratteristiche con una tassonomia comune](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [Informazioni sulle caratteristiche cartella](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -179,10 +217,28 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

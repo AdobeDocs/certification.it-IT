@@ -5,21 +5,51 @@ solution: Commerce
 product: Magento
 role: User
 level: Experienced
-badge: label="Esame AD0-E708" type="positive"
+badge: label="Esame AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Commerce] Esperto di professionisti aziendali
 
-Scopri come ottenere la certificazione [!DNL Adobe Commerce] Esperto di professionisti aziendali.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 31/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E708
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Analista aziendale
+* Stratega Commerce
+* Consulente
+* Responsabile del progetto tecnico/Responsabile dell’account tecnico
+* Architetto dell&#39;applicazione/Architetto della soluzione/Specialista
+* Amministratore agenzia/Director/Manager/Consultant
+* Marketing digitale Director/Manager/Developer
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Deve avere circa 1-3 anni di pratica [!DNL Commerce] esperienza e un’ampia comprensione dell’esperienza di e-commerce.
 
@@ -33,48 +63,20 @@ Dovresti avere esperienza in:
 * Conoscenza di base delle applicazioni personalizzabili, del cloud e dell&#39;infrastruttura server
 * Terminologia moderna per l’e-commerce
 
-Inoltre, dovresti avere familiarità con l’utilizzo delle seguenti tecnologie:
+Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 * Adobe [!DNL Commerce] - versione 2.4
 * Strumenti di analisi e prestazioni: Google Analytics, gestore di tag, SWAT, New Relic, Fastly, Google Lighthouse
 * Strumenti di sicurezza: conformità PCI, ADA, RGPD e così via
 * Architettura cloud o on-premise
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Analista aziendale
-* Stratega Commerce
-* Consulente
-* Responsabile del progetto tecnico/Responsabile dell’account tecnico
-* Architetto dell&#39;applicazione/Architetto della soluzione/Specialista
-* Amministratore agenzia/Director/Manager/Consultant
-* Marketing digitale Director/Manager/Developer
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 31/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E708
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Caratteristiche principali/Configurazione generale (46%)
+**Sezione 1: Caratteristiche principali/Configurazione generale (46%)**
 
 * Identificare le funzioni di Adobe [!DNL Commerce] Open Source Edition e [!DNL Commerce] Edizione
 * Distinguere le differenze tra tutte le edizioni di Adobe [!DNL Commerce] products
@@ -90,18 +92,18 @@ Sezione 1: Caratteristiche principali/Configurazione generale (46%)
 * Configurazione e modifica delle e-mail transazionali
 * Spiegare le funzioni native del programma fedeltà e self-service del cliente in B2B
 
-Sezione 2: merchandising (10%)
+**Sezione 2: merchandising (10%)**
 
 * Dimostrare la capacità di creare promozioni per soddisfare specifici criteri aziendali e determinare i prezzi finali
 * Dimostrare la capacità di gestire categorie e prodotti
 * Comprendere le diverse configurazioni di prezzo e come influiscono sul prezzo finale
 
-Sezione 3: Marketing digitale (4%)
+**Sezione 3: Marketing digitale (4%)**
 
 * Consigliare best practice per SEO (Search Engine Optimization) utilizzando funzioni native
 * Valutare le metriche comuni in Google Analytics e BI
 
-Sezione 4: Moduli aggiuntivi e prodotti aggiuntivi (18%)
+**Sezione 4: Moduli aggiuntivi e prodotti aggiuntivi (18%)**
 
 * Descrivere la funzionalità B2B e come si relaziona agli scenari B2B comuni
 * Applicare i requisiti aziendali per suggerire una soluzione utilizzando MSI
@@ -111,25 +113,47 @@ Sezione 4: Moduli aggiuntivi e prodotti aggiuntivi (18%)
 * Come applicare prezzi personalizzati a un cliente B2B
 * Comprendere le differenze tra gli Adobi [!DNL Commerce] prodotti nativi e consigli sui prodotti Adobe Sensei
 
-Sezione 5: Architettura dei sistemi (10%)
+**Sezione 5: Architettura dei sistemi (10%)**
 
 * Valuta i requisiti per determinare quali siti web, archivi e visualizzazioni dello store sono necessari
 * Identificare e analizzare le metriche delle prestazioni per apportare miglioramenti
 * Comprendere i metodi disponibili per integrare il sistema esterno con Adobe [!DNL Commerce]
 * Differenziare tra approcci headless e tradizionali
 
-Sezione 6: conformità/sicurezza (12%)
+**Sezione 6: conformità/sicurezza (12%)**
 
 * Dimostrare come proteggere l’Adobe [!DNL Commerce] accesso ai dati con ruoli e autorizzazioni
 * Nozioni di base sulla conformità per le leggi sulla privacy e la sicurezza dei pagamenti
 * Spiegare gli aspetti comuni di sicurezza di un Adobe [!DNL Commerce] progetto
 * Comprendere le nozioni di base sulle normative fiscali e come configurarle
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Caratteristiche principali/configurazione generale**
 
@@ -209,19 +233,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Sicurezza](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [Linee guida fiscali per paese](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

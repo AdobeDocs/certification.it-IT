@@ -4,43 +4,27 @@ description: Scopri come diventare un Adobe certificato Doc Cloud Professional.
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Esame AD0-D106" type="positive"
+badge: label="Esame AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '552'
 ht-degree: 1%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Document Cloud] Professionista professionista
 
-Scopri come ottenere la certificazione [!DNL Adobe Document Cloud] Professionista di business.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
 
-Dovresti avere:
+{{exam-description}}
 
-* Almeno 0-12 mesi di esperienza entro [!DNL Adobe Document Cloud]
-* Essere in grado di identificare e comunicare le esigenze aziendali
-* Essere in grado di eseguire l’abilitazione del prodotto consigliando su [!DNL Adobe Document Cloud] soluzioni.
+<br>
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
-
->[!BEGINTABS]
-
->[!TAB Preparati]
-
-**Pubblico previsto:**
-
-* Consulente soluzioni
-* Analista aziendale
-* Vendite
-
-**Dettagli esame:**
+### Dettagli esame {#exam-details}
 
 * Livello: professionale (0-12 mesi di esperienza)
 * Punteggio minimo: 34/50
@@ -50,33 +34,69 @@ Dovresti avere:
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-D106
 
-**Obiettivi e ambito dell&#39;esame**
+<br>
 
-Sezione 1: individuazione dei casi d’uso (36%)
+### Pubblico previsto {#intended-audience}
+
+* Consulente soluzioni
+* Analista aziendale
+* Vendite
+
+<br>
+
+### Esperienza minima {#minimum-experience}
+
+Dovresti avere:
+
+* Almeno 0-12 mesi di esperienza entro [!DNL Adobe Document Cloud]
+* Essere in grado di identificare e comunicare le esigenze aziendali
+* Essere in grado di eseguire l’abilitazione del prodotto consigliando su [!DNL Adobe Document Cloud] soluzioni.
+
+<br>
+
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sezione 1: individuazione dei casi d’uso (36%)**
 
 * Poni le domande appropriate per identificare le opportunità del Document Cloud
 * Definire casi d’uso aziendali di alto livello
 
-Sezione 2: valutazione dei processi aziendali (34%)
+**Sezione 2: valutazione dei processi aziendali (34%)**
 
 * Identificare le aree chiave per il miglioramento dei processi e l&#39;adattamento alle soluzioni
 * Allineare gli obiettivi aziendali alle funzionalità di Document Cloud
 * Dimostrazioni di alto livello incentrate sugli utenti finali dei diversi componenti del Document Cloud
 
-Sezione 3: Definire le funzionalità di Document Cloud (DC) (18%)
+**Sezione 3: Definire le funzionalità di Document Cloud (DC) (18%)**
 
 * Descrivere le implicazioni delle esigenze di conformità e sicurezza del documento e della firma elettronica
 * Descrivere il modo in cui la modifica del processo aggiunge valore
 
-Sezione 4: Soluzione consigliata (12%)
+**Sezione 4: Soluzione consigliata (12%)**
 
 * Consiglia progettazione soluzione di Document Cloud
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: individuazione di casi d’uso**
 
@@ -118,20 +138,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Funzioni E Strumenti Di Adobe Acrobat](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [Configurare i flussi di lavoro di firma](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
-
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -144,11 +177,26 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
-

@@ -4,22 +4,52 @@ description: Scopri come ottenere la certificazione [!DNL Adobe Target] Architet
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Esame AD0-E407" type="positive"
+badge: label="Esame AD0-E407" type="neutral"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 21%
+source-wordcount: '920'
+ht-degree: 25%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Target] Architect Master
 
-Scopri come ottenere la certificazione [!DNL Adobe Target] Architetto principale.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: Master (3-5 anni di esperienza)
+* Punteggio minimo: 34/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E407
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Tecnico/architetto di ottimizzazione del tasso di conversione
+* Ingegnere/architetto della personalizzazione
+* Architetto di soluzioni digitali
+* Consulente per la trasformazione digitale
+* Lead di ottimizzazione dell’esperienza
+* Gestione ottimizzazione
+* Gestore campagne online
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -54,85 +84,73 @@ Ambienti:
 * Ambiente in hosting AMS
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Preparati]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
-**Pubblico previsto:**
+{{exam-objectives}}
 
-* Tecnico/architetto di ottimizzazione del tasso di conversione
-* Ingegnere/architetto della personalizzazione
-* Architetto di soluzioni digitali
-* Consulente per la trasformazione digitale
-* Lead di ottimizzazione dell’esperienza
-* Gestione ottimizzazione
-* Gestore campagne online
-
-**Dettagli esame:**
-
-* Livello: Master (3-5 anni di esperienza)
-* Punteggio minimo: 34/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E407
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: [!DNL Adobe Target] fondamentali (12%)
+**Sezione 1: [!DNL Adobe Target] fondamentali (12%)**
 
 * Identificare la [!DNL Adobe Target] utilizzo per un dato scenario
 * Spiegare le tecnologie fondamentali di un [!DNL Adobe Target] implementazione
 
-Sezione 2: Integrazione con [!DNL Adobe Target] (16%)
+**Sezione 2: Integrazione con [!DNL Adobe Target] (16%)**
 
 * Applicare il processo per l&#39;integrazione [!DNL Adobe Target] con Adobe Analytics (A4T)
 * Applicare il processo per l&#39;integrazione [!DNL Adobe Target] a ADOBE EXPERIENCE MANAGER
 * Descrizione dell&#39;integrazione con altre soluzioni Adobe Experience Cloud
 * Descrizione dell’integrazione con i tipi di pubblico di Adobe Experience Cloud
 
-Sezione 3: [!DNL Adobe Target] amministrazione e governance (13%)
+**Sezione 3: [!DNL Adobe Target] amministrazione e governance (13%)**
 
 * Definire un’attività [!DNL Adobe Target] strategia di implementazione e governance del sistema
 * Applicare il processo e le best practice per la gestione degli utenti
 * Descrivere gli aspetti amministrativi dell’impostazione di implementazione
 
-Sezione 4: [!DNL Adobe Target] e punti di contatto supportati (15%)
+**Sezione 4: [!DNL Adobe Target] e punti di contatto supportati (15%)**
 
 * Descrizione dell’implementazione della consegna lato client
 * Descrizione dell’implementazione della distribuzione lato server
 * Descrizione dei requisiti di implementazione per dispositivi mobili, targeting e-mail e API
 
-Sezione 5: Leva finanziaria [!DNL Adobe Target] consigli (9%)
+**Sezione 5: Leva finanziaria [!DNL Adobe Target] consigli (9%)**
 
 * Dimostrare di comprendere consigli, cataloghi e ambienti
 * Applicare il processo per configurare i consigli di Target
 
-Sezione 6: Architetto, progettazione e implementazione [!DNL Adobe Target] (15%)
+**Sezione 6: Architetto, progettazione e implementazione [!DNL Adobe Target] (15%)**
 
 * Seleziona l’implementazione mbox corretta
 * Dimostrare la progettazione di un’ [!DNL Adobe Target] implementazione
 * Descrivi l’implementazione di [!DNL Adobe Target] nelle app mobile native
 
-Sezione 7: Risoluzione dei problemi (20%)
+**Sezione 7: Risoluzione dei problemi (20%)**
 
 * Risoluzione dei problemi di mbox
 * Risolvere i problemi relativi agli errori di attività
 * Errori di integrazione
 * Risoluzione dei problemi [!DNL Adobe Target] Errori Recommendations
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
 
-**Domande di esempio**
++++Passaggio 1: creare l’account
 
-Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+{{create-your-account}}
 
-[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: [!DNL Adobe Target] nozioni fondamentali**
 
@@ -193,16 +211,35 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Risolto: perché il mio pubblico storico viene visualizzato come &quot;raccolta di dati&quot;?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+**Domande di esempio**
 
+{{sample-questions}}
 
-## Informazioni sull’esame di certificazione
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

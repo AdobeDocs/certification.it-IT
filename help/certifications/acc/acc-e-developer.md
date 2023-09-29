@@ -4,21 +4,47 @@ description: Scopri come diventare un esperto certificato di Adobe Developer in 
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Esame AD0-E330" type="positive"
+badge: label="Esame AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 14%
+source-wordcount: '961'
+ht-degree: 17%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Campaign Classic] Sviluppatore esperto
 
-Scopri come diventare un Adobe certificato [!DNL Campaign Classic] Esperto di sviluppatori.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 34/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E330
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Consulente tecnico
+* Tecnico di marketing
+* Adobe [!DNL Campaign Classic] sviluppatore
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -30,37 +56,13 @@ Dovresti avere:
 * Possibilità di risolvere i problemi relativi alle implementazioni di Campaign
 * Nozioni di base sulle configurazioni del server correlate a Campaign
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Consulente tecnico
-* Tecnico di marketing
-* Adobe [!DNL Campaign Classic] sviluppatore
-
-**Dettagli esame**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 34/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E330
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: configurazione del sistema (16%)
+**Sezione 1: configurazione del sistema (16%)**
 
 * Applica impostazioni di configurazione e impostazioni predefinite a livello di sistema
 * Dati diversi parametri, seleziona la funzione Adobe Campaign appropriata per implementare un caso d’uso
@@ -68,7 +70,7 @@ Sezione 1: configurazione del sistema (16%)
 * Implementare configurazioni personalizzate
 * Identificare le funzioni di configurazione del Pannello di controllo Campaign Campaign
 
-Sezione 2: Personalizzazione (22%)
+**Sezione 2: Personalizzazione (22%)**
 
 * Considerata una serie di requisiti, applica le best practice per progettare un modello di dati
 * Descrivere l’implementazione delle API in Campaign
@@ -78,14 +80,14 @@ Sezione 2: Personalizzazione (22%)
 * Considerato uno scenario, scopri come utilizzare gli script SQL in Adobe [!DNL Campaign Classic]
 * Descrizione delle funzioni OOTB di uso comune
 
-Sezione 3: gestione degli accessi (8%)
+**Sezione 3: gestione degli accessi (8%)**
 
 * In uno scenario, configura le impostazioni di sicurezza per un operatore
 * Descrivi come configurare le impostazioni di gestione degli accessi in base al documento di progettazione della soluzione
 * Descrizione della gestione degli accessi tramite il pannello di controllo Campaign
 * Identificare i limiti del partizionamento dei dati e quando utilizzare sysfilter
 
-Sezione 4: Integrazione dei dati (16%)
+**Sezione 4: Integrazione dei dati (16%)**
 
 * Dato uno scenario, seleziona l’approccio migliore da integrare con origini dati esterne
 * Implementare best practice per l’elaborazione dei dati dei flussi di lavoro
@@ -93,7 +95,7 @@ Sezione 4: Integrazione dei dati (16%)
 * Identificare le impostazioni di sicurezza e di rete da integrare con Adobe Campaign da un sistema esterno
 * Configurare il processo CRUD su uno schema esterno a Adobe Campaign
 
-Sezione 5: manutenzione dell’istanza (12%)
+**Sezione 5: manutenzione dell’istanza (12%)**
 
 * Comprendere e agire sulla mappa di calore del flusso di lavoro
 * Dimostrare il processo di creazione di un flusso di lavoro o un rapporto personalizzato per il monitoraggio delle istanze
@@ -101,7 +103,7 @@ Sezione 5: manutenzione dell’istanza (12%)
 * Spiegare l&#39;impatto dei servizi e dei processi sul sistema
 * Dimostrare le metriche e i controlli di base per l&#39;audit del sistema
 
-Sezione 6: configurazione di Campaign (25%)
+**Sezione 6: configurazione di Campaign (25%)**
 
 * Applicare tecniche di personalizzazione avanzate
 * Configurare e applicare mappature di destinazione personalizzate
@@ -112,11 +114,33 @@ Sezione 6: configurazione di Campaign (25%)
 * Descrivere le procedure del flusso di lavoro che hanno un impatto negativo sulle prestazioni
 * Dato un caso d’uso, consiglia di progettare flussi di lavoro di targeting complessi
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: configurazione del sistema**
 
@@ -173,19 +197,27 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Informazioni sui modelli](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=it){target="_blank"}
 * [Utilizzare una tabella dei destinatari personalizzata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
++++
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+<br>
 
-## Esegui un test di esercitazione
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

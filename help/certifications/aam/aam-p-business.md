@@ -5,39 +5,27 @@ solution: Audience Manager
 product: Audience Manager
 role: User
 level: Experienced
-badge: label="Esame AD0-E458" type="positive"
+badge: label="Esame AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 11%
+source-wordcount: '804'
+ht-degree: 13%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Audience Manager] Professionista professionista
 
-Scopri come ottenere la certificazione come [!DNL Audience Manager] Professionista di business.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
 
-È necessario avere una conoscenza di base dei flussi di dati, degli obiettivi aziendali e dei KPI, con una certa esperienza in materia di analisi dei dati e strategie
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB Preparati]
-
-**Pubblico previsto:**
-
-* Specialista di marketing digitale
-* Consulente Tecnologico Marketing
-* Audience Strategist
-* Consulente comportamentale
-* Analista digital marketing
-* Analista dati marketing
-* Data Platform Manager
-
-**Dettagli esame:**
+### Dettagli esame {#exam-details}
 
 * Livello: professionale (0-12 mesi di esperienza)
 * Punteggio minimo: 31/50
@@ -47,9 +35,31 @@ Scopri come ottenere la certificazione come [!DNL Audience Manager] Professionis
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E458
 
-**Obiettivi e ambito dell&#39;esame**
+<br>
 
-Sezione 1: Creazione e diffusione di segmenti (32%)
+### Pubblico previsto {#intended-audience}
+
+* Specialista di marketing digitale
+* Consulente Tecnologico Marketing
+* Audience Strategist
+* Consulente comportamentale
+* Analista digital marketing
+* Analista dati marketing
+* Data Platform Manager
+
+<br>
+
+### Esperienza minima {#minimum-experience}
+
+È necessario avere una conoscenza di base dei flussi di dati, degli obiettivi aziendali e dei KPI, con una certa esperienza in materia di analisi dei dati e strategie
+
+<br>
+
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
+
+{{exam-objectives}}
+
+**Sezione 1: Creazione e diffusione di segmenti (32%)**
 
 * Identificare modi per utilizzare dati di prime, seconde e terze parti a scopo di targeting e analisi
 * Descrivi il processo di base per l’attivazione degli obiettivi aziendali o della campagna
@@ -57,42 +67,50 @@ Sezione 1: Creazione e diffusione di segmenti (32%)
 * Identificare i diversi tipi di destinazioni
 * Identificare i diversi tipi di origini
 
-Sezione 2: Creazione di caratteristiche (16%)
+**Sezione 2: Creazione di caratteristiche (16%)**
 
 * Considerato uno scenario, identifica segnali, caratteristiche, segmenti e tipi di pubblico
 * Identificare gli utilizzi di diversi tipi di caratteristiche
 
-Sezione 3: relazioni e misurazioni (16%)
+**Sezione 3: relazioni e misurazioni (16%)**
 
 * Dato uno scenario, genera rapporti per misurare gli obiettivi di attivazione o campagna
 * In uno scenario, confronta i tipi di pubblico in base alle percentuali di corrispondenza
 
-Sezione 4: Risoluzione dei problemi (10%)
+**Sezione 4: Risoluzione dei problemi (10%)**
 
 * In uno scenario, risolvi i problemi dei dati in entrata da origini e tipi di origine diversi
 * Convalida formato per file di dati in entrata
 
-Sezione 5: tassonomia (12%)
+**Sezione 5: tassonomia (12%)**
 
 * Determina la struttura appropriata per creare caratteristiche e segmenti che utilizzano una nomenclatura chiara e coerente
 * Determinare la tecnica corretta per mantenere una piattaforma organizzata utilizzando una chiara struttura di cartelle
 
-Sezione 6: unione profili, sincronizzazione ID ed Audience Marketplace
+**Sezione 6: unione profili, sincronizzazione ID ed Audience Marketplace**
 
 * Organizzare le caratteristiche degli utenti in un unico profilo unificato per creare un pubblico basato su famiglie o dispositivi
 * Identificare l’attivazione tramite Audienci Marketplace
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
 
-**Domande di esempio**
++++Passaggio 1: creare l’account
 
-Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+{{create-your-account}}
 
-[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Creazione di segmenti e diffusione**
 
@@ -142,15 +160,35 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Attivare i segmenti di pubblico on-demand nelle destinazioni batch tramite l’API di attivazione ad hoc](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Attivare profili e segmenti in una destinazione](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+**Domande di esempio**
 
+{{sample-questions}}
 
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+

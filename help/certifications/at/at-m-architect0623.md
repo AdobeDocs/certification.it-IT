@@ -4,20 +4,50 @@ description: Scopri come ottenere la certificazione [!DNL Adobe Target] Architet
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Esame AD0-E409" type="positive"
+badge: label="Esame AD0-E409" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '917'
-ht-degree: 15%
+source-wordcount: '841'
+ht-degree: 17%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Target] Architect Master
 
-Scopri come ottenere la certificazione [!DNL Adobe Target] Architetto principale.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: Master (3-5 anni di esperienza)
+* Punteggio minimo: 32/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E409
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Tecnico/architetto di ottimizzazione del tasso di conversione
+* Ingegnere/architetto della personalizzazione
+* Architetto di soluzioni digitali
+* Consulente per la trasformazione digitale
+* Lead di ottimizzazione dell’esperienza
+* Gestione ottimizzazione
+* Gestore campagne online
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -50,67 +80,47 @@ Ambienti:
 * Ambiente in hosting AMS
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Preparati]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
-**Pubblico previsto:**
+{{exam-objectives}}
 
-* Tecnico/architetto di ottimizzazione del tasso di conversione
-* Ingegnere/architetto della personalizzazione
-* Architetto di soluzioni digitali
-* Consulente per la trasformazione digitale
-* Lead di ottimizzazione dell’esperienza
-* Gestione ottimizzazione
-* Gestore campagne online
-
-**Dettagli esame:**
-
-* Livello: Master (3-5 anni di esperienza)
-* Punteggio minimo: 32/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E409
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: [!DNL Adobe Target] fondamentali (13%)
+**Sezione 1: [!DNL Adobe Target] fondamentali (13%)**
 
 * Identificare la [!DNL Adobe Target] utilizzo per un dato scenario
 * Spiegare le tecnologie fondamentali di un [!DNL Adobe Target] implementazione
 
-Sezione 2: Integrazione con [!DNL Adobe Target] (18%)
+**Sezione 2: Integrazione con [!DNL Adobe Target] (18%)**
 
 * Applicare il processo per l&#39;integrazione [!DNL Adobe Target] con Adobe Analytics (A4T)
 * Applicare il processo per l&#39;integrazione [!DNL Adobe Target] a ADOBE EXPERIENCE MANAGER
 * Descrizione dell&#39;integrazione con le soluzioni Adobe Experience Cloud e Adobe Experience Platform
 * Descrizione dell’integrazione con i tipi di pubblico di Adobe Experience Cloud
 
-Sezione 3: [!DNL Adobe Target] amministrazione e governance (6%)
+**Sezione 3: [!DNL Adobe Target] amministrazione e governance (6%)**
 
 * Definire un’attività [!DNL Adobe Target] strategia di implementazione e governance del sistema
 * Applicare il processo e le best practice per la gestione degli utenti
 * Descrivere gli aspetti amministrativi dell’impostazione di implementazione
 
-Sezione 4: [!DNL Adobe Target] e punti di contatto supportati (6%)
+**Sezione 4: [!DNL Adobe Target] e punti di contatto supportati (6%)**
 
 * Descrizione dell’implementazione della consegna lato client
 * Descrizione dell’implementazione della distribuzione lato server
 * Descrizione dei requisiti di implementazione per dispositivi mobili, targeting e-mail e API
 
-Sezione 5: Leva finanziaria [!DNL Adobe Target] consigli (11%)
+**Sezione 5: Leva finanziaria [!DNL Adobe Target] consigli (11%)**
 
 * Dimostrare di comprendere consigli, cataloghi e criteri
 * Applicare il processo per configurare i consigli di Target
 
-Sezione 6: Architetto, progettazione e implementazione [!DNL Adobe Target] (18%)
+**Sezione 6: Architetto, progettazione e implementazione [!DNL Adobe Target] (18%)**
 
 * Seleziona la corretta implementazione della richiesta Target (globale, conferma ordine, ibrida) Valuta e progetta un [!DNL Adobe Target] implementazione
 * Descrivi l’implementazione di [!DNL Adobe Target] nelle app mobile native
 
-Sezione 7: Risoluzione dei problemi (28%)
+**Sezione 7: Risoluzione dei problemi (28%)**
 
 * Risoluzione dei problemi di mbox
 * Risoluzione dei problemi relativi agli errori di richiesta e risposta di Target
@@ -118,11 +128,25 @@ Sezione 7: Risoluzione dei problemi (28%)
 * Errori di integrazione
 * Risoluzione dei problemi [!DNL Adobe Target] Errori Recommendations
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1**
 
@@ -168,22 +192,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 7**
 
-[Controllo di qualità delle attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-[Risolvere i problemi relativi alla distribuzione dei contenuti](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-[Domande frequenti sulle progettazioni](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[Domande frequenti su Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Registrazione di Adobe Analytics for Target (A4T) in Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+* [Controllo di qualità attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Soluzione di problemi relativi alla distribuzione dei contenuti](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [Domande frequenti sulle progettazioni](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Domande frequenti sui Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Registrazione di Adobe Analytics for Target (A4T) in Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
++++
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
+{{schedule-and-pay}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -196,9 +231,25 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Domande**
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
+
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

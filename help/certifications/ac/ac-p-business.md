@@ -4,21 +4,53 @@ description: Scopri come diventare un professionista Adobe di business professio
 solution: Commerce
 product: Magento
 role: User
-badge: label="Esame AD0-E712" type="positive"
+badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '932'
-ht-degree: 2%
+source-wordcount: '732'
+ht-degree: 3%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Commerce] Professionista professionista
 
-Scopri come diventare un professionista Adobe di business certificato.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 30/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $125 (globale) / $95 (India)
+* ID esame: AD0-E712
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Analisti aziendali
+* Manager di progetto
+* Proprietari del prodotto
+* Consulenti
+* [!DNL Adobe Commerce] strateghi
+* Amministratore eCommerce/Director/Manager/Consulenti
+* Marketing digitale Director/Manager/Sviluppatori
+* Specialisti delle soluzioni
+* Responsabili tecnici dell’account
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere almeno 0-12 mesi di esperienza pratica con [!DNL Magento Open Source] versione 2.4.3 utilizzando il tema LUMA o BLANK e le nozioni di base di Adobe [!DNL Commerce] versione 2.4.3.
 
@@ -33,43 +65,13 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 * Sicurezza e conformità (RGPD, ADA, PCI DSS v3.2.1, PSD2)
 * Prezzi e promozioni
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Analisti aziendali
-* Manager di progetto
-* Proprietari del prodotto
-* Consulenti
-* [!DNL Adobe Commerce] strateghi
-* Amministratore eCommerce/Director/Manager/Consulenti
-* Marketing digitale Director/Manager/Sviluppatori
-* Specialisti delle soluzioni
-* Responsabili tecnici dell’account
-
-**Dettagli esame:**
-
-* Livello: professionale (0-12 mesi di esperienza)
-* Punteggio minimo: 30/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $125 (globale) / $95 (India)
-* ID esame: AD0-E712
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: [!DNL Magento Open Source] caratteristiche principali (49%)
+**Sezione 1: [!DNL Magento Open Source] caratteristiche principali (49%)**
 
 * Identificare le funzionalità di [!DNL Magento Open Source]
 * Distinguere l’ambito corretto e quando utilizzarlo
@@ -80,13 +82,13 @@ Sezione 1: [!DNL Magento Open Source] caratteristiche principali (49%)
 * Descrivi le attività quotidiane coinvolte nella manutenzione dello Store
 * Spiegare i diversi tipi di elementi di contenuto e quando utilizzare
 
-Sezione 2: Adobe [!DNL Commerce] nozioni di base (14%)
+**Sezione 2: Adobe [!DNL Commerce] nozioni di base (14%)**
 
 * Identifica le funzioni chiave disponibili in Adobe [!DNL Commerce]
 * Identificare i componenti aggiuntivi del servizio in Adobe [!DNL Commerce]
 * Identificare le opzioni di hosting per Adobe [!DNL Commerce]
 
-Sezione 3: Principi di base del marketing digitale e del commercio elettronico (24%)
+**Sezione 3: Principi di base del marketing digitale e del commercio elettronico (24%)**
 
 * Identifica gli utilizzi di base degli strumenti di marketing digitale (Google Analytics/Adobe Analytics, Google Tag Manager, Email marketing, Segmentazione, Plug-in per social network)
 * Spiegare i principi di base della SEO
@@ -94,23 +96,39 @@ Sezione 3: Principi di base del marketing digitale e del commercio elettronico (
 * Identificare le funzioni chiave di un sito web eCommerce
 * Identificare i concetti di base dell’eCommerce (comprese le opzioni di vetrina)
 
-Sezione 4: conformità/nozioni di base sulla sicurezza (13%)
+**Sezione 4: conformità/nozioni di base sulla sicurezza (13%)**
 
 * Nozioni di base sulla conformità per le leggi sulla privacy e la sicurezza dei pagamenti
 * Identificare gli aspetti comuni di sicurezza di un Adobe [!DNL Commerce] progetto
 * Identificare le best practice e i requisiti legali per la conformità in materia di accessibilità
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
 
-**Domande di esempio**
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-Le domande di esempio ti consentono di visualizzare il tipo e il formato degli elementi che incontrerai nell&#39;esame effettivo. Non è necessario effettuare l&#39;accesso. I risultati delle domande di esempio non vengono memorizzati e non prevedono i risultati effettivi del test.
+<br>
 
-[Vedi le domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: [!DNL Magento Open Source] funzionalità core**
 
@@ -158,19 +176,35 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 * [Informazioni sulla conformità ADA e su come si relaziona ai siti Web di eCommerce](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] Guida alle best practice per la sicurezza](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+**Domande di esempio**
 
-## Esegui un test di esercitazione
+{{sample-questions}}
 
-{{practice-test}}
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -183,7 +217,23 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

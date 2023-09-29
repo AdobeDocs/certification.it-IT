@@ -3,11 +3,11 @@ title: Certificazione esperti sviluppatori core
 description: Scopri come diventare un esperto Adobe Developer certificato in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Esame AD0-E907" type="positive"
+badge: label="Esame AD0-E907" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 0a6cdf2e970ca534b003425500ca315af1b0add3
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1639'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,41 @@ ht-degree: 0%
 
 # Percorso di certificazione per Adobe [!DNL Workfront] Sviluppatore esperto di base
 
-Scopri come diventare un Adobe certificato [!DNL Workfront] Sviluppatore esperto di base.
+{{intro}}
 
 >[!NOTE]
 >
 >Questo è l’Adobe più recente [!DNL Workfront] Esame di base per esperti di sviluppatori. Se ha già iniziato a studiare o ha programmato [versione precedente](aw-core-e-developer.md), è necessario completarlo entro il 6 novembre 2023.
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 35/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E907
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* [!DNL Workfront] Amministratori di sistema specializzati nell’implementazione e nella configurazione di istanze nuove o aggiornate
+* Progettista/architetto di processi
+* Analista aziendale
+* Consulente tecnico
+* Consulente di configurazione
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono essere in grado di:
 
@@ -32,39 +60,13 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 * Comprendere e applicare i casi di utilizzo di marketing e PMO
 * Consigliare e creare rapporti che supportino i processi dei clienti
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* [!DNL Workfront] Amministratori di sistema specializzati nell’implementazione e nella configurazione di istanze nuove o aggiornate
-* Progettista/architetto di processi
-* Analista aziendale
-* Consulente tecnico
-* Consulente di configurazione
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 35/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E907
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: amministrazione e configurazione del sistema di base (17%)
+**Sezione 1: amministrazione e configurazione del sistema di base (17%)**
 
 * In uno scenario, descrivi come condividere in modo efficace le autorizzazioni e l’accesso.
 * Dato uno scenario, identificare quando utilizzare lo stato di un gruppo rispetto allo stato di un sistema.
@@ -74,7 +76,7 @@ Sezione 1: amministrazione e configurazione del sistema di base (17%)
 * Considerato uno scenario, consiglia una configurazione delle bacheche che soddisfi un requisito personalizzato.
 * Considerato uno scenario, identifica le best practice per l’amministrazione dei gruppi.
 
-Sezione 2: accettazione, moduli personalizzati e avvio del progetto (13%)
+**Sezione 2: accettazione, moduli personalizzati e avvio del progetto (13%)**
 
 * Dato uno scenario, identifica le aree di configurazione necessarie per supportare le allocazioni di lavoro.
 * Considerato uno scenario, identifica il modo in cui un valore viene passato a un modulo personalizzato del progetto.
@@ -83,7 +85,7 @@ Sezione 2: accettazione, moduli personalizzati e avvio del progetto (13%)
 * Dato uno scenario con più moduli, determinare le azioni per controllare l&#39;accesso, la visibilità e la dipendenza.
 * Dato uno scenario con campi calcolati in moduli con più oggetti, identifica la formula corretta.
 
-Sezione 3: Funzionalità strategiche: gestione di portafogli e programmi, gestione delle risorse (13%)
+**Sezione 3: Funzionalità strategiche: gestione di portafogli e programmi, gestione delle risorse (13%)**
 
 * Considerato uno scenario, definisci gli strumenti per acquisire le modifiche nell’ambito del progetto.
 * Dato uno scenario, crea una visualizzazione che identifichi all’interno di un portfolio se un progetto soddisfa il livello medio di criteri richiesti da eseguire.
@@ -92,7 +94,7 @@ Sezione 3: Funzionalità strategiche: gestione di portafogli e programmi, gestio
 * Considerato uno scenario, fornire un meccanismo per garantire che i progetti dispongano di personale completo utilizzando gli strumenti di gestione delle risorse.
 * Considerato uno scenario, utilizzare gli strumenti di gestione delle risorse per determinare il motivo della sovrassegnazione di un utente.
 
-Sezione 4: gestione dei documenti e verifica (13%)
+**Sezione 4: gestione dei documenti e verifica (13%)**
 
 * Dato uno scenario, dimostrare quando utilizzare la gestione dei documenti rispetto alla verifica
 * Considerato uno scenario, identifica le best practice per l’utilizzo del visualizzatore di bozze, delle impostazioni e della funzionalità di markup
@@ -100,7 +102,7 @@ Sezione 4: gestione dei documenti e verifica (13%)
 * In uno scenario, dimostrare come impostare l&#39;archiviazione dei documenti esterni con restrizioni di protezione
 * Considerato uno scenario, imposta una connessione a AEM as a Cloud Service o AEM Assets Essentials.
 
-Sezione 5: relazioni (11%)
+**Sezione 5: relazioni (11%)**
 
 * Dato uno scenario, descrivi come combinare più colonne di dati in una singola colonna.
 * Dato un rapporto o un filtro, dimostra i vantaggi dell’utilizzo di valori jolly.
@@ -109,7 +111,7 @@ Sezione 5: relazioni (11%)
 * Dato uno scenario, illustrare [!DNL Workfront] Generazione di rapporti per monitorare e migliorare l’adozione da parte degli utenti.
 * Considerato uno scenario, determina il rendering di un tipo di campo in un rapporto. I tipi di campo includono: testo formattato, immagini e selezione multipla
 
-Sezione 6: Metodologia/best practice/casi d’uso (22%)
+**Sezione 6: Metodologia/best practice/casi d’uso (22%)**
 
 * Dato uno scenario in [!DNL Workfront], funzionalità dimostrativa per impostare il tracciamento dei risultati finali che fanno parte di una singola campagna.
 * Dato uno scenario in [!DNL Workfront], dimostrare la funzionalità relativa alla definizione delle priorità strategiche e alla giustificazione del lavoro .
@@ -120,7 +122,7 @@ Sezione 6: Metodologia/best practice/casi d’uso (22%)
 * Dato uno scenario utilizzando [!DNL Workfront] Bacheche, identifica le funzioni native per mostrare l’avanzamento.
 * Considerato uno scenario, consiglia un framework per la governance sull’amministrazione di sistemi e gruppi.
 
-Sezione 7: consulenza alle imprese (11%)
+**Sezione 7: consulenza alle imprese (11%)**
 
 * In uno scenario, descrivere il processo necessario per supportare pienamente lo sforzo di implementazione [!DNL Workfront] in un reparto cross-functional.
 * In questo scenario, spiegare come adattare un flusso di lavoro esistente per far fronte a un cambiamento recente in un processo aziendale critico e in piena evoluzione.
@@ -128,11 +130,33 @@ Sezione 7: consulenza alle imprese (11%)
 * Considerato uno scenario, identificare le considerazioni chiave della gestione delle modifiche per un [!DNL Workfront] implementazione
 * Dato uno scenario in cui un cliente ha più team, fornisci un consiglio per aumentare l’efficienza.
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Amministrazione e configurazione dei sistemi core**
 
@@ -207,23 +231,27 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Panoramica di &quot;Può iniziare&quot; per le attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
 * [Best practice: onboarding e adozione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
++++
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+<br>
 
-<!-- Test is coming later
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
 
-## Take a practice test
+{{schedule-and-pay}}
 
-{{practice-test}}
++++
 
--->
+<br>
 
-## Informazioni sull’esame di certificazione
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -236,7 +264,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

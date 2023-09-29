@@ -4,20 +4,47 @@ description: Scopri come diventare un professionista Adobe Developer certificato
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Esame AD0-E721" type="positive"
+badge: label="Esame AD0-E721" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Commerce] Sviluppatore professionale front-end
 
-Scopri come ottenere la certificazione [!DNL Adobe Commerce] Sviluppatore professionale.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 33/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $125 (globale) / $95 (India)
+* ID esame: AD0-E721
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Sviluppatori
+* Sviluppatori front-end
+* Sviluppatori full stack
+* Sviluppatori PWA
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere 0-12 mesi di esperienza pratica con lo sviluppo front-end di Adobe Commerce e la possibilità di lavorare con soluzioni tecniche per fornire singoli componenti.
 
@@ -42,36 +69,19 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 * Nozioni di base sui collegamenti canonici e sull’unione di JavaScript e CSS
 * Conoscenza di base dell’infrastruttura cloud Adobe Commerce
 
->[!BEGINTABS]
+<br>
 
->[!TAB Preparati]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
-**Pubblico previsto:**
+{{exam-objectives}}
 
-* Sviluppatori
-* Sviluppatori front-end
-* Sviluppatori full stack
-* Sviluppatori PWA
-
-**Dettagli esame:**
-
-* Livello: professionale (0-12 mesi di esperienza)
-* Punteggio minimo: 33/50
-* Tempo: 100 minuti
-* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
-* Lingue disponibili: inglese
-* Costo: $125 (globale) / $95 (India)
-* ID esame: AD0-E721
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni) (14%)
+**Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni) (14%)**
 
 * Descrivi Adobe [!DNL Commerce] struttura cartelle tema
 * Dimostrare la capacità di creare nuovi temi o di estendere quelli esistenti
 * Dimostrare la capacità di aggiungere frasi di traduzione personalizzate
 
-Sezione 2: XML layout e modelli (30%)
+**Sezione 2: XML layout e modelli (30%)**
 
 * Dimostrare la capacità di lavorare con istruzioni XML di layout di base
 * Dimostrare la possibilità di utilizzare i layout di pagina esistenti
@@ -79,7 +89,7 @@ Sezione 2: XML layout e modelli (30%)
 * Dimostrare la capacità di creare e personalizzare modelli
 * Descrizione della protezione del modello (output di escape)
 
-Sezione 3: Stili (22%)
+**Sezione 3: Stili (22%)**
 
 * Descrivi lo scopo di styles-m.less, styles-l.less, print.less
 * Descrivi la differenza tra file parziali specifici (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less)
@@ -88,7 +98,7 @@ Sezione 3: Stili (22%)
 * Spiegare la gerarchia di stili ( libreria, moduli, temi)
 * Spiegare la compilazione lato client e lato server
 
-Sezione 4: JavaScript (18%)
+**Sezione 4: JavaScript (18%)**
 
 * Dimostrare la capacità di inizializzare e chiamare i componenti JavaScript
 * Dimostrare l’utilizzo di RequireJS
@@ -97,25 +107,39 @@ Sezione 4: JavaScript (18%)
 * Descrivere l’utilizzo di Knockout JS
 * Descrivere l’utilizzo dei widget jQuery
 
-Sezione 5: configurazione amministratore e PageBuilder (6%)
+**Sezione 5: configurazione amministratore e PageBuilder (6%)**
 
 * Dimostrare la possibilità di personalizzare il contenuto di Page Builder e CMS&quot;
 * Applicare/pianificare un tema a un ambito specifico (sito Web, store, store-view)
 * Applica modifiche progettuali a categorie, prodotti e pagine CMS utilizzando la configurazione di amministrazione
 * Descrivi i passaggi per personalizzare le e-mail transazionali
 
-Sezione 6: Strumenti (CLI e Grunt) (8%)
+**Sezione 6: Strumenti (CLI e Grunt) (8%)**
 
 * Descrivere l&#39;utilizzo dei comandi Bin/Magento di base
 * Descrivere l&#39;utilizzo dei comandi del Compositore (installazione, aggiornamento, richiesta, rimozione)
 * Differenziare il caso d’uso appropriato per le modalità di distribuzione
 * Descrivi gli strumenti aggiuntivi forniti dal cloud (Fastly, download del database, distribuzione dei contenuti)
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni)**
 
@@ -156,18 +180,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Variabili di build](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce su infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+**Esegui un test di esercitazione**
 
+{{practice-test}}
 
-**Dopo aver effettuato l&#39;accesso, i seguenti collegamenti saranno direttamente accessibili.**
++++
 
-**Test di esercitazione in arrivo**
+<br>
 
-## Informazioni sull’esame di certificazione
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -180,9 +219,25 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Domande**
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
+
+## Domande
 
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

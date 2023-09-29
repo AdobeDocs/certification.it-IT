@@ -4,21 +4,52 @@ description: Scopri come diventare un ingegnere Adobe Experience Manager DevOps 
 solution: Experience Manager
 product: Experience Manager
 role: Developer
-badge: label="Esame AD0-E124" type="positive"
+badge: label="Esame AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 5%
+source-wordcount: '769'
+ht-degree: 7%
 
 ---
 
 # Percorso di certificazione per tecnici Adobe Experience Manager DevOps
 
-Scopri come diventare un Adobe certificato DevOps Engineer Expert.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 30/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E124
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Consulenti per le soluzioni
+* Professionisti dell&#39;esperienza del consumatore
+* I proprietari dei prodotti della soluzione sono in fase di progettazione e implementazione
+* Analisti aziendali
+* Architetti di soluzioni
+* Persone nelle organizzazioni partner e freelance che svolgono un ruolo di analista per le soluzioni AEM
+* Specialisti di marketing che conoscono le funzionalità necessarie per coinvolgere gli sviluppatori nella definizione di una soluzione adatta alle esigenze aziendali
+* Clienti che utilizzano il prodotto (ad esempio, utenti esperti)
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -39,81 +70,72 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Sandbox di sviluppo
 * Ambiente locale
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Consulenti per le soluzioni
-* Professionisti dell&#39;esperienza del consumatore
-* I proprietari dei prodotti della soluzione sono in fase di progettazione e implementazione
-* Analisti aziendali
-* Architetti di soluzioni
-* Persone nelle organizzazioni partner e freelance che svolgono un ruolo di analista per le soluzioni AEM
-* Specialisti di marketing che conoscono le funzionalità necessarie per coinvolgere gli sviluppatori nella definizione di una soluzione adatta alle esigenze aziendali
-* Clienti che utilizzano il prodotto (ad esempio, utenti esperti)
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 30/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E124
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Configurare Adobe Experience Manager (18%)
+**Sezione 1: Configurare Adobe Experience Manager (18%)**
 
 * Determinare il metodo corretto per configurare le impostazioni fondamentali di Adobe Experience Manager
 * Dato uno scenario, risolvere i problemi relativi a Adobe Experience Manager
 * Determinare il metodo corretto per configurare OSGi
 
-Sezione 2: Gestire l’API di Cloud Manager e Cloud Manager (20%)
+**Sezione 2: Gestire l’API di Cloud Manager e Cloud Manager (20%)**
 
 * Determinare il metodo corretto per gestire le impostazioni degli ambienti di Cloud Manager tramite l’interfaccia utente
 * Determinare il metodo corretto per il provisioning di programmi e ambienti in Cloud Manager
 * Determinare il metodo corretto per la migrazione ad Adobe Experience Manager as a Cloud Service
 * Determinare il metodo corretto per impostare le integrazioni su Adobe I/O
 
-Sezione 3: configurare l’infrastruttura proxy web (12%)
+**Sezione 3: configurare l’infrastruttura proxy web (12%)**
 
 * Determinare il metodo corretto per gestire le configurazioni di Dispatcher
 * Considerato uno scenario, risolvi i problemi di caching
 
-Sezione 4: Build e implementazioni (28%)
+**Sezione 4: Build e implementazioni (28%)**
 
 * Determinare il metodo corretto per gestire le distribuzioni di Cloud Manager
 * Dato uno scenario, analizzare lo stato di una pipeline di Cloud Manager
 * Determinare il metodo corretto per gestire i pacchetti di contenuti tra più istanze di Adobe Experience Manager
 * Determinare il metodo corretto per apportare modifiche ai file Maven per supportare le pipeline
 
-Sezione 5: Monitorare e creare rapporti sulle metriche della qualità (14%)
+**Sezione 5: Monitorare e creare rapporti sulle metriche della qualità (14%)**
 
 * Determinare il metodo corretto per raccogliere metriche e rapporti sulle prestazioni
 * Determinare il metodo corretto per scalare l&#39;infrastruttura
 
-Sezione 6: Gestire l&#39;Admin Console (8%)
+**Sezione 6: Gestire l&#39;Admin Console (8%)**
 
 * Determinare il metodo corretto per inviare una richiesta di supporto nell&#39;Admin Console
 * Determinare il metodo corretto per configurare SSO federato e sincronizzare utenti e gruppi di Adobe Experience Manager
 
->[!TAB Preparati]
+### Questionario di preparazione
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+{{readiness}}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Configurare Adobe Experience Manager**
 
@@ -151,19 +173,27 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Supporto IMS per AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Gruppi di utenti Adobe IMS e AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificazione]
++++
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
+<br>
 
-## Esegui un test di esercitazione
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -176,7 +206,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

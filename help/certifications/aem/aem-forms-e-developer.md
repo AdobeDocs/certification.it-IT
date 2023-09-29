@@ -4,21 +4,48 @@ description: Scopri come diventare un Adobe certificato [!DNL Experience Manager
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Esame AD0-E125" type="positive"
+badge: label="Esame AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 5%
+source-wordcount: '698'
+ht-degree: 6%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Experience Manager Forms] Sviluppatore esperto
 
-Scopri come diventare un Adobe certificato [!DNL Experience Manager Forms] Sviluppatore esperto.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 27/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E125
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Sviluppatori AEM
+* Sviluppatori AEM senior
+* Consulenti AEM
+* Architetti AEM
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Dovresti avere:
 
@@ -54,45 +81,20 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Maven
 * Strumenti GIT/controllo delle versioni
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Sviluppatori AEM
-* Sviluppatori AEM senior
-* Consulenti AEM
-* Architetti AEM
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 27/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E125
-
-**Autovalutazione della preparazione**
-
-Completa il [questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} per verificare se l’esperienza corrente corrisponde alla qualifica minima consigliata per il candidato.
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Creazione e gestione di Forms (36%)
+**Sezione 1: Creazione e gestione di Forms (36%)**
 
 * Genera Forms
 * Configurare Forms Data Model
 * Personalizzare AEM Forms
 * Sviluppare e utilizzare Javascript ClientLib sfruttando l’API GuideBridge
 
-Sezione 2: processi e flussi di lavoro (34%)
+**Sezione 2: processi e flussi di lavoro (34%)**
 
 * Progettare e orchestrare un flusso di lavoro di approvazione modulo
 * Sviluppare un bundle OSGi utilizzando Document Services API
@@ -101,7 +103,7 @@ Sezione 2: processi e flussi di lavoro (34%)
 * Manipolare PDF utilizzando i servizi di Forms o Assembler
 * Implementazione dei servizi JDBC
 
-Sezione 3: Amministrazione e risoluzione dei problemi (18%)
+**Sezione 3: Amministrazione e risoluzione dei problemi (18%)**
 
 * Risoluzione dei problemi e differenziazione dei file di registro
 * Eseguire attività di amministrazione
@@ -109,20 +111,42 @@ Sezione 3: Amministrazione e risoluzione dei problemi (18%)
 * Eseguire la configurazione del Dispatcher AEM per Forms
 * Navigare tra diverse console
 
-Sezione 4: Endpoint e integrazioni API (8%)
+**Sezione 4: Endpoint e integrazioni API (8%)**
 
 * Integrare con Adobe Experience Cloud
 * Generare e utilizzare vari servizi endpoint
 
-Sezione 5: Comunicazione interattiva (4%)
+**Sezione 5: Comunicazione interattiva (4%)**
 
 * Progettare, dimostrare e implementare i processi per la comunicazione interattiva
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+### Questionario di preparazione
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{readiness}}
+
+[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+
+<br>
+
+## Come ottenere la certificazione {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Creazione e gestione di Forms**
 
@@ -153,17 +177,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Panoramica delle comunicazioni di interazione](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [Condizioni nelle comunicazioni interattive](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 

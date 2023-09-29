@@ -1,24 +1,55 @@
 ---
 title: Certificazione esperto
-description: Scopri come diventare un Adobe esperto certificato in [!DNL Customer Journey Analytics]
+description: Scopri come diventare un esperto certificato in Adobe [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Esame AD0-E604" type="positive"
+badge: label="Esame AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 13%
+source-wordcount: '488'
+ht-degree: 17%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Customer Journey Analytics] Esperto
 
-Scopri come diventare un Adobe certificato [!DNL Customer Journey Analytics] Sviluppatore esperto.
+{{intro}}
 
-## Esperienza minima
+## Descrizione esame {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 33/50
+* Tempo: 100 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingue disponibili: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E604
+
+<br>
+
+### Pubblico previsto {#intended-audience}
+
+* Architetto tecnico
+* Responsabile tecnico
+* Analista dati
+* Architetto/Ingegnere dati
+* Architetto della soluzione
+* Architetto Enterprise
+* Esperto di implementazione
+* Lead di tecnologia di marketing
+
+<br>
+
+### Esperienza minima {#minimum-experience}
 
 Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analytics]ed essere in grado di eseguire le seguenti attività:
 
@@ -39,65 +70,54 @@ Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analyti
 * Distinguere/comprendere le sandbox in AEP
 * Comprendere la pubblicazione di tipi di pubblico (condivisione)
 
->[!NOTE]
->
->La certificazione è valida per due anni a partire dal momento del superamento. Si consiglia di utilizzare la versione più recente, quando possibile, in quanto copre le funzionalità più recenti del prodotto.
+<br>
 
->[!BEGINTABS]
+### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
->[!TAB Preparati]
+{{exam-objectives}}
 
-**Pubblico previsto:**
-
-* Architetto tecnico
-* Responsabile tecnico
-* Analista dati
-* Architetto/Ingegnere dati
-* Architetto della soluzione
-* Architetto Enterprise
-* Esperto di implementazione
-* Lead di tecnologia di marketing
-
-**Dettagli esame:**
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 33/50
-* Tempo: 100 minuti
-* Distribuzione: protetto online (richiede l’accesso alla fotocamera) o centro di test protetto
-* Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E604
-
-**Obiettivi e ambito dell&#39;esame**
-
-Sezione 1: Connessioni (22%)
+**Sezione 1: Connessioni (22%)**
 
 * Progettare connessioni CJA con le impostazioni appropriate
 * Creare connessioni CJA dai set di dati XDM disponibili in AEP tramite sandbox
 
-Sezione 2: Visualizzazioni dati (30%)
+**Sezione 2: Visualizzazioni dati (30%)**
 
 * Configurare le visualizzazioni dati per reporting e analisi
 * Modificare i componenti nelle visualizzazioni dati
 
-Sezione 3: Convalida dei dati e risoluzione dei problemi (34%)
+**Sezione 3: Convalida dei dati e risoluzione dei problemi (34%)**
 
 * Verificare che i dati vengano compilati in modo accurato e completo
 * Risolvere i problemi relativi a connessioni e visualizzazioni dati
 * Creare o risolvere i problemi dei componenti
 * Monitora l’utilizzo per ottenere la licenza
 
-Sezione 4: Reporting e attivazione (14%)
+**Sezione 4: Reporting e attivazione (14%)**
 
 * Utilizza Analysis Workspace per dimostrare ai clienti percorsi cross-channel con visualizzazioni appropriate
 * Inviare i membri di un filtro CJA a un pubblico RTCDP
 * Progettare e creare filtri nei set di dati
 
->[!TAB Preparati]
+<br>
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+## Come ottenere la certificazione {#how-to-get-certified}
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+{{how-to-get-certified-intro}}
+
++++Passaggio 1: creare l’account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Passaggio 2: Prepararsi per l’esame
+
+**Materiale dello studio**
+
+{{study-materials-intro}}
 
 **Sezione 1: Connessioni**
 
@@ -122,19 +142,33 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Panoramica di Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [Panoramica delle visualizzazioni dati](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=it){target="_blank"}
 
->[!TAB Ottieni certificazione]
+<br>
 
->[!IMPORTANT]
->
->Le sezioni e i collegamenti seguenti funzioneranno **solo**  dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
->
->Inoltre, il nome del tuo profilo in [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} deve corrispondere esattamente al tuo documento ufficiale. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e la necessità di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.*
-
-## Esegui un test di esercitazione
+**Esegui un test di esercitazione**
 
 {{practice-test}}
 
-## Informazioni sull’esame di certificazione
++++
+
+<br>
+
++++Passaggio 3: Programmazione e pagamento dell&#39;esame
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Passaggio 4: prima e dopo l&#39;esame
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Passaggio 5: sostenere l&#39;esame
 
 {{about-certification-exam}}
 
@@ -147,7 +181,23 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Passaggio 6: gestire i badge
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Rinnovo della certificazione
+
+{{renewing-intro}}
+
+<br>
 
 ## Domande
 
