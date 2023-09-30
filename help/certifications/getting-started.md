@@ -4,9 +4,9 @@ description: Introduzione alle certificazioni.  [!DNL Experience Cloud]  Scopri 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '732'
 ht-degree: 2%
 
 ---
@@ -58,17 +58,21 @@ Gli esami di certificazione di Adobe sono personalizzati su tre diversi ruoli. L
 
 {style="table-layout:auto"}
 
->[!TAB Percorso di certificazione]
+<!--
 
-La Guida al Percorso di certificazione è uno strumento completo progettato per fornire tutte le informazioni necessarie per preparare un esame di certificazione. La guida è suddivisa in tre sezioni principali: Preparati, Preparati e Ottieni certificazione.
+>[!TAB Certification journey]
 
-| Sezioni | Descrizione |
+The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
+
+| Sections | Description |
 | ------- | ------- |
-| **Preparati** | Intenzione di fornire una panoramica dell&#39;esame, incluse informazioni sul pubblico previsto, dettagli dell&#39;esame, autovalutazione della preparazione, obiettivi dell&#39;esame e ambito di applicazione. Questa sezione ti aiuta a capire l&#39;esame e cosa puoi aspettarti quando lo prendi. L’autovalutazione della preparazione è particolarmente utile, in quanto consente di determinare il livello di conoscenza corrente e identificare le aree in cui potrebbe essere necessario concentrare le attività di studio. |
-| **Prepara** | È dove puoi trovare formazione e risorse per aiutarti a prepararti per l&#39;esame. Questa sezione include informazioni e collegamenti a materiali di studio e corsi di formazione. |
-| **Ottieni certificazione** | Offre informazioni preziose su come registrarsi all&#39;esame di certificazione, inclusi dettagli sul processo di registrazione e sui metodi di pagamento disponibili. Inoltre, questa sezione fornisce anche una chiara panoramica del processo dell&#39;esame. Consulta questa sezione per risorse utili, ad esempio un collegamento al portale Adobe Certification Prep per gli esami che offrono test di pratica, nonché collegamenti per registrarti agli esami di certificazione. |
+|**Get Ready** | Intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts. |
+| **Get Prepped** | Is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. |
+| **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
 
 {style="table-layout:auto"}
+
+-->
 
 >[!ENDTABS]
 
