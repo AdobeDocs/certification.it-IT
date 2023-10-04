@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 2%
@@ -248,54 +248,54 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1**
 
-[Creare una regola di elenco di controllo di accesso (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-[Aggiungere una griglia di amministrazione](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-[riferimento system.xml](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+* [Creare una regola di elenco di controllo di accesso (ACL)](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [Aggiungere una griglia di amministrazione](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [riferimento system.xml](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
 **Sezione 2**
 
-[Indirizzamento](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-[Riscritture URL](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-[Configurazione del tipo di cache](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-[Ambito sito, archivio e visualizzazione](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-[Strumento da riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-[Configurazione dell’iniezione di dipendenza](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-[Creare un modulo](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=it){target="_blank"}
-[Indicizzazione](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-[Traduzioni](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-[Plug-in](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Indirizzamento](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [Riscritture URL](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [Configurazione del tipo di cache](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [Ambito sito, archivio e visualizzazione](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [Strumento da riga di comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Configurazione dell’iniezione di dipendenza](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [Creare un modulo](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=it){target="_blank"}
+* [Indicizzazione](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [Traduzioni](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [Plug-in](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
 **Sezione 3**
 
-[Set di attributi](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-[Attributi EAV ed estensione](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-[Configura schema dichiarativo](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-[Creare la struttura del file dei componenti](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+* [Set di attributi](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [Attributi EAV ed estensione](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [Configura schema dichiarativo](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [Creare la struttura del file dei componenti](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
 **Sezione 4**
 
-[Blocchi di contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-[Visualizza modelli](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-[Istruzioni di layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-[Struttura del tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-[Chiamare e inizializzare JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-[Contenuto privato](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [Blocchi di contenuto](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [Visualizza modelli](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [Istruzioni di layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [Struttura del tema](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [Chiamare e inizializzare JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Contenuto privato](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
 **Sezione 5**
 
-[Configurazione del carrello](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-[Creare una regola di prezzo del carrello](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-[Aggiungere campi personalizzati che influiscono su altri campi di pagamento](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-[Tabella preventivo](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-[Personalizza l&#39;elenco dei metodi di spedizione](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-[Impostazioni di configurazione imposte](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [Configurazione del carrello](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [Creare una regola di prezzo del carrello](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Aggiungere campi personalizzati che influiscono su altri campi di pagamento](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [Tabella preventivo](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [Personalizza l&#39;elenco dei metodi di spedizione](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [Impostazioni di configurazione imposte](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
 **Sezione 6**
 
-[Modificare un catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-[Creare un prodotto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-[Regole prezzo catalogo](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-[Prezzi di gruppo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+* [Modificare un catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [Creare un prodotto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [Regole prezzo catalogo](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [Prezzi di gruppo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
 ### Rinnovare la certificazione
 

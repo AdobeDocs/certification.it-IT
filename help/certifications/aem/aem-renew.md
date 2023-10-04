@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 3%
+source-wordcount: '1292'
+ht-degree: 12%
 
 ---
 
@@ -31,9 +31,100 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!TAB Professionale]
 
+## Dovresti avere quanto segue **attivo** certificazione:
+
+Adobe Experience Manager Developer Professional
+
+## Istruzioni per il rinnovo della certificazione:
+
+* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
+* **Passaggio 3**: sostenere e superare l’esame
+
+### Preparati
+
+**Dettagli esame:**
+
+* Livello: esperto (0-12 mesi di esperienza)
+* Punteggio minimo: 26/34
+* Tempo: 68 minuti
+* Distribuzione: on-demand/non protetto
+* Lingue disponibili: inglese
+* Costo: GRATUITO
+* ID esame: Adobe AD5-E837 [!DNL Experience Manager] Sviluppatore professionale
+
+**Ambito di applicazione e obiettivi**
+
+**Sezione 1: Configurazioni (26%)**
+
+Riconoscere lo scopo delle configurazioni del dispatcher AEM e della memorizzazione in cache Determinare i passaggi corretti per configurare più siti nell’AEM Spiegare come creare e gestire le configurazioni OSGi Determinare i passaggi corretti per gestire gli indici OAK personalizzati Determinare i passaggi corretti per configurare l’integrazione OOTB SAML o IMS
+
+**Sezione 2: Sviluppo AEM (40%)**
+
+Determinare i passaggi corretti per implementare i componenti basati su core Connettere la funzionalità dei componenti, inclusi HTL, modelli e servizi Considerato uno scenario, determinare i passaggi corretti per sviluppare i flussi di lavoro Considerato uno scenario, delineare lo scopo dei frammenti di contenuto o di esperienza
+
+**Sezione 3: Build e implementazione (12%)**
+
+Definire la struttura del progetto Maven Configurare i progetti da archetipi
+
+**Sezione 4: Manutenzione dell&#39;ambiente (22%)**
+
+Dato uno scenario, determinare i passaggi necessari per eseguire il debug dei problemi negli ambienti AEM Spiegare le versioni di manutenzione AEM Identificare come configurare l&#39;AEM tra topologie Determinare i passaggi necessari per la pianificazione e la migrazione a AEM as a Cloud Service
+
+### Preparati
+
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
+
+**Sezione 1**
+
+* [Configurazione di Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=it){target="_blank"}
+* [Informazioni sul caching](https://experienceleague.adobe.com/docs/experience-manager-learn/ams/dispatcher/understanding-cache.html){target="_blank"}
+* [Riutilizzo del contenuto: Multi-Site Manager e Live Copy](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
+* [Configurazione di OSGi](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=it){target="_blank"}
+* [Ricerca e indicizzazione dei contenuti](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html?lang=it){target="_blank"}
+* [Gestore di autenticazione SAML 2.0](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/saml-2-0-authenticationhandler.html?lang=it){target="_blank"}
+
+**Sezione 2**
+
+* [Utilizzo dei Componenti core](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/using.html){target="_blank"}
+* [Componente Teaser](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html){target="_blank"}
+* [Personalizzazione dei Componenti core](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/customizing.html?lang=it){target="_blank"}
+* [Java Use-API per HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/java-use-api.html){target="_blank"}
+* [Nozioni di base sui componenti](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
+* [Modelli Sling](https://sling.apache.org/documentation/bundles/models.html){target="_blank"}
+* [Ciclo di vita del componente OSGi](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/osgi-services/lifecycle.html){target="_blank"}
+* [Specifica HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html){target="_blank"}
+* [Sviluppo ed estensione dei flussi di lavoro](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
+* [Modelli per frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html){target="_blank"}
+* [Frammenti esperienza](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html){target="_blank"}
+* [API GraphQL di AEM per l’utilizzo con Frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html?lang=it){target="_blank"}
+
+**Sezione 3**
+
+* [Struttura dei progetti AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=it){target="_blank"}
+* [Filtro area di lavoro](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
+* [Archetipo del progetto AEM](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html?lang=it){target="_blank"}
+
+**Sezione 4**
+
+* [Credenziali del servizio](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials.html){target="_blank"}
+* [Problemi della coda di replica](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17467.html?lang=it){target="_blank"}
+* [Informazioni sulla versione](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
+* [Distribuzioni consigliate](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/recommended-deploys.html){target="_blank"}
+* [Guida introduttiva del Percorso di migrazione all’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [Utilizzo di Best Practice Analyzer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
+
+### Rinnovare la certificazione
+
+Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante qui sotto.
+
+[!BADGE Prendi l’Adobe [!DNL Experience Manager] Developer Professional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+
 >[!NOTE]
 >
->Prossimamente il rinnovo professionale.
+>Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
 
 >[!TAB Esperto e principale]
 
