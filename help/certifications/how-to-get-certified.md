@@ -4,9 +4,9 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 1%
 
 ---
@@ -37,11 +37,17 @@ Esempio:
 
 >[!TAB Sostegno all&#39;esame]
 
+**Il tuo Adobe ID**
+
 Il tuo [profilo](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Il nome nell&#39;Adobe Credential Management System deve corrispondere esattamente al tuo Government ID. La mancata corrispondenza o l&#39;assenza di informazioni identiche comporterà la chiusura dell&#39;esame da parte del proctor e richiederà di riprogrammare l&#39;appuntamento oltre al pagamento di una tassa di esame aggiuntiva.
+
+**Annullamento e riprogrammazione**
 
 Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
 Né il Supporto Adobe né Examity sono in grado di elaborare richieste di riprogrammazione e cancellazione. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
+
+**Dopo il tuo esame**
 
 Una volta completato un esame, si riceve un pass provvisorio o si fallisce. Il punteggio finale può richiedere fino a 72 ore per essere popolato. Troverai il rapporto sui risultati e il punteggio nella scheda Cronologia della sezione [Gestione credenziali Adobe](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Se non riesci a superare un esame di certificazione di Adobe al primo tentativo,
 
 >[!TAB Costo esami]
 
-Questi sono i costi correnti per gli esami di certificazione.
+**Prezzi per l&#39;esame di certificazione**
 
-![Distintivo costo esame](/help/certifications/assets/exam_costs_new.png)
+| Certificazione Adobe | Prezzo (USD) | Prezzo India (USD) |
+| ------- | ------- | ------- |
+| Professionista certificato Adobe | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Master certificato Adobe | $225 | $150 |
+
+**Rinnovo dei prezzi**
+
+La maggior parte dei rinnovi di certificazione sono **gratuito**. Per le certificazioni che non dispongono di un&#39;opzione di rinnovo gratuito, è necessario ripetere l&#39;esame di certificazione completo per rinnovare la certificazione.
+
+**Pagamento dell&#39;esame**
 
 Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher d&#39;esame vai a: [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
@@ -81,7 +97,7 @@ Il team Adobe Credential collabora con i fornitori per supportare le iniziative 
 
 | Nome fornitore | Descrizione | Pagina di supporto/E-mail |
 | ------- | ------- | ------- |
-| Credendo | Sistema di gestione dei badge | [- Supporto](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+| Credendo | Sistema di gestione dei badge | Supporto per [](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Esamina | Fornitore consegna di prova (solo Online Proctoring) | [E-mail](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
 | Xvoucher - Adobe Certification Voucher Center | Centro voucher per l&#39;acquisto di voucher singoli o in blocco | [E-mail](mailto:support@xvoucher.com){target="_blank"} o [Guida in linea](https://help.xvoucher.com/hc/en-us) |
 
