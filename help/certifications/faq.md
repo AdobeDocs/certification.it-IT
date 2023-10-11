@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 94ee089f972ff95b8ca75c08668e4b5cbacc77ea
+source-git-commit: 5a884e40f89a53c9348359f65b8fd1ac8190b85c
 workflow-type: tm+mt
 source-wordcount: '3097'
 ht-degree: 1%
@@ -327,7 +327,7 @@ Il programma avrà una durata di sei mesi, dal 24 aprile al 20 ottobre 2023.
 
 +++Adobe offrirà nuovamente questo tipo di programma in futuro?
 
-Al momento, non abbiamo intenzione di offrire di nuovo questo. Questa è un&#39;offerta una tantum.
+Non intendiamo offrire nuovamente questo programma. Questa è un&#39;offerta una tantum.
 
 +++
 
