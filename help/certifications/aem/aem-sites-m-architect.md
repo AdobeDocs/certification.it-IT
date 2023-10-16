@@ -7,20 +7,16 @@ role: Data Architect
 badge: label="Esame AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1541'
-ht-degree: 18%
+source-wordcount: '1470'
+ht-degree: 19%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Experience Manager Sites] Architect Master
 
 {{intro}}
-
->[!NOTE]
->
->Questo esame (AD0-E117/AD0-E117-J) è in corso di manutenzione ed è temporaneamente non disponibile. Ci scusiamo sinceramente per l&#39;inconveniente. [Registrati per ricevere notifiche](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando sarà nuovamente disponibile.<br><br>**Domande?** Visualizza la [Domande frequenti](#AEM-FAQ) in fondo alla pagina.
 
 ## Descrizione esame {#exam-description}
 
@@ -253,11 +249,25 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
 {{about-certification-exam}}
 
-## Programmare o sostenere l&#39;esame AD0-E117/AD0-E117-J
+## Programmare o sostenere l&#39;esame AD0-E117 (inglese)
 
->[!NOTE]
->
->Questo esame (AD0-E117/AD0-E117-J) è in corso di manutenzione ed è temporaneamente non disponibile. Ci scusiamo sinceramente per l&#39;inconveniente. [Registrati per ricevere notifiche](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando sarà nuovamente disponibile.<br><br>**Domande?** Visualizza la [Domande frequenti](#AEM-FAQ) in fondo alla pagina.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Vai a Examity Portal - Esame di inglese
+</span>
+</a>
+
+## Programmare o sostenere l&#39;esame AD0-E117-J (giapponese)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Vai a Examity Portal - Esame di giapponese
+</span>
+</a>
+
+[Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
