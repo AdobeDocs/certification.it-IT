@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
+hidefromtoc: true
+source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 8%
@@ -477,7 +478,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Attività Subscription services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
 * [Canali per l’invio di una consegna](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
 * [Tracciamento e monitoraggio di una consegna](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [Riepilogo delle consegne](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Riepilogo della consegna](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
 * [Scopri e-mail designer (video)](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [E-mail Designer di Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 * [Personalizzare i rapporti](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
@@ -737,7 +738,7 @@ Sezione 2: attività di marketing/gestione delle campagne (48%)
 * Dimostrare/applicare la configurazione corretta ai programmi di coinvolgimento
 * Fornisci esempi di utilizzo per diversi tipi di token
 * Riepilogare l’utilità dei webhook in Marketo e come vengono utilizzati
-* Identificare e applicare l&#39;uso appropriato del PMCF
+* Identificare e applicare l’uso appropriato del PMCF
 * Spiegare i vantaggi delle risorse globali e come utilizzarle
 * Dimostrare le funzionalità dei moduli
 * Eseguire e analizzare una strategia di test A/B
