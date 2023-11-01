@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 6790d5bdc7a3a8f77463f917c169f2c202d1438b
+source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 **Dettagli esame:**
 
-* Punteggio minimo: 25/34
+* Punteggio minimo: 26/34
 * Tempo: 68 minuti
 * Costo: GRATUITO/non protetto
 * Consegna: on-demand
@@ -239,7 +239,7 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 **Dettagli esame:**
 
-* Punteggio minimo: 25/35
+* Punteggio minimo: 27/35
 * Tempo: 70 minuti
 * Costo: GRATUITO/non protetto
 * Consegna: on-demand
