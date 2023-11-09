@@ -1,10 +1,10 @@
 ---
 title: Certificazioni tecniche specialistiche
 description: Panoramica delle opzioni di certificazione per gli utenti esperti
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 35%
+ht-degree: 53%
 
 ---
 
@@ -68,4 +68,3 @@ ht-degree: 35%
 >
 >* [Certificazioni tecniche professionali](professional.md)
 >* [Certificazioni tecniche principali](master.md)
-
