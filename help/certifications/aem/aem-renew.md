@@ -6,7 +6,7 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 72c191b0f6c62776b9cd02e1ae504d105ae6b827
+source-git-commit: 11fd762f20fc6f16fe31e919775b0260ebc41b8b
 workflow-type: tm+mt
 source-wordcount: '2066'
 ht-degree: 12%
@@ -92,43 +92,43 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1**
 
-* [Creazione di frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=it)
-* [Informazioni sulla soluzione Adobe Experience Manager Assets as a DAM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html)
-* [Formati supportati in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster)
-* [Panoramica](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html)
-* [Introduzione ad AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html)
-* [Assegnazione di tag alle pagine](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html)
+* [Creazione di frammenti di contenuto](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=it){target="_blank"}
+* [Informazioni sulla soluzione Adobe Experience Manager Assets as a DAM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html){target="_blank"}
+* [Formati supportati in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster){target="_blank"}
+* [Panoramica](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html){target="_blank"}
+* [Introduzione ad AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html){target="_blank"}
+* [Assegnazione di tag alle pagine](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html){target="_blank"}
 
 **Sezione 2**
 
-* [Configurazione dell’accesso a AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.)
-* [Utenti, gruppi e autorizzazioni di AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?lang=it)
-* [Sitemap](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html)
-* [Best practice per l’integrazione di Adobe Experience Manager e Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
-* [Componenti core AEM-CIF e integrazione con Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=it)
-* [Amministrazione utenti e sicurezza](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=it)
-* [Panoramica di Admin Console](https://helpx.adobe.com/it/enterprise/using/admin-console.html)
-* [Pubblicazione AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
+* [Configurazione dell’accesso a AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.){target="_blank"}
+* [Utenti, gruppi e autorizzazioni di AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?lang=it){target="_blank"}
+* [Sitemap](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html){target="_blank"}
+* [Best practice per l’integrazione di Adobe Experience Manager e Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html){target="_blank"}
+* [Componenti core AEM-CIF e integrazione con Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=it){target="_blank"}
+* [Amministrazione utenti e sicurezza](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=it){target="_blank"}
+* [Panoramica di Admin Console](https://helpx.adobe.com/it/enterprise/using/admin-console.html){target="_blank"}
+* [Pubblicazione AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html){target="_blank"}
 
 **Sezione 3**
 
-* [Introduzione a AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html)
-* [Rafforzare la tua esperienza digitale con AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3)
-* [Introduzione ad Adobe Experience Manager come CMS headless](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=it)
-* [Gestione di prodotti, assistenza e contenuti di supporto dalla creazione alla distribuzione.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html)
-* [Panoramica di Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
-* [Ruoli e responsabilità del progetto](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html)
-* [Aggiunta di annotazioni di pagina](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html)
-* [Guida rapida all’authoring delle pagine](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html)
-* [Utilizzo di risorse collegate con AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html)
-* [Pianificazione](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start)
-* [Definizione dei test case](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html)
+* [Introduzione a AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
+* [Rafforzare la tua esperienza digitale con AEM as a Cloud Service](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
+* [Introduzione ad Adobe Experience Manager come CMS headless](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=it){target="_blank"}
+* [Gestione di prodotti, assistenza e contenuti di supporto dalla creazione alla distribuzione.](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
+* [Panoramica di Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [Ruoli e responsabilità del progetto](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
+* [Aggiunta di annotazioni di pagina](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html){target="_blank"}
+* [Guida rapida all’authoring delle pagine](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html){target="_blank"}
+* [Utilizzo di risorse collegate con AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html){target="_blank"}
+* [Pianificazione](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start){target="_blank"}
+* [Definizione dei test case](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html){target="_blank"}
 
 **Sezione 4**
 
-* [Lanci](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=it)
-* [Utilizzare l’Editor flusso di lavoro](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html)
-* [Barra di ricerca per l’amministrazione delle risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.)
+* [Lanci](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=it){target="_blank"}
+* [Utilizzare l’Editor flusso di lavoro](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html){target="_blank"}
+* [Barra di ricerca per l’amministrazione delle risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.){target="_blank"}
 
 ## Rinnovare la certificazione
 
@@ -139,6 +139,8 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 >[!NOTE]
 >
 >Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+
++++
 
 +++Adobe [!DNL Experience Manager] Sviluppatore professionale
 
