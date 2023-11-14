@@ -6,9 +6,9 @@ role: Developer
 badge: label="Esame AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Percorso di certificazione per Adobe [!DNL Workfront] Sviluppatore esperto di base
 
 {{intro}}
-
->[!NOTE]
->
->Questo è l’Adobe più recente [!DNL Workfront] Esame di base per esperti di sviluppatori. Se ha già iniziato a studiare o ha programmato [versione precedente](aw-core-e-developer.md), è necessario completarlo entro il 6 novembre 2023.
 
 ## Descrizione esame {#exam-description}
 
