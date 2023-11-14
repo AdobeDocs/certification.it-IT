@@ -7,10 +7,10 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: d140af31151206451febdfc3aa108b728e772cd6
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 1%
+source-wordcount: '1480'
+ht-degree: 8%
 
 ---
 
@@ -32,9 +32,136 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!TAB Professionale]
 
++++Adobe [!DNL Target] Esame di rinnovo professionale per professionisti del business
+
+## È necessario disporre dei seguenti **attivo** certificazioni da rinnovare:
+
+* [!DNL Adobe Target] Professionista professionista
+
+## Istruzioni per il rinnovo della certificazione:
+
+* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
+* **Passaggio 3**: sostenere e superare l’esame
+
+### Preparati
+
+**Dettagli esame:**
+
+* Livello: professionale (0-12 mesi di esperienza)
+* Punteggio minimo: 24/31
+* Tempo: 62 minuti
+* Distribuzione: on-demand/non protetto
+* Lingue disponibili: inglese
+* Costo: GRATUITO
+* ID esame: AD5-E838 - Adobe [!DNL Target] Professionista professionista
+
+**Ambito di applicazione e obiettivi**
+
+Sezione 1: pianificazione e strategia 26%
+
+* Identificare i KPI aziendali
+* Considerato uno scenario di KPI aziendali e analisi dei dati, identifica le opportunità di ottimizzazione
+* Descrivere in che modo le variabili influiscono su un’attività
+* Costruire ipotesi di test in base a un dato scenario
+* Identificare gli elementi delle ipotesi
+* Descrivere le metriche di successo primarie e secondarie basate sui KPI
+* Considerato uno scenario, valuta i requisiti del pubblico
+* Descrivi le origini di reporting di Analytics appropriate (ad es. [!DNL Target] o ADOBE [!DNL Analytics])
+
+Sezione 2: configurazione, esecuzione e gestione 45%
+
+* Spiegare l’utilizzo del Compositore esperienza basato su moduli rispetto al Compositore esperienza visivo
+* Descrivere le procedure per creare un’esperienza utilizzando il Compositore esperienza visivo
+* Descrivi le procedure per creare un’esperienza utilizzando il Compositore basato su moduli
+* Descrivere le procedure per gestire le esperienze all’interno di un Compositore esperienza
+* Descrivi il flusso di lavoro applicabile alla creazione di [!DNL Target] Attività
+* Considerato uno scenario, applica le procedure per creare un’attività di test A/B
+* Considerato uno scenario, applica le procedure per creare un’attività Targeting esperienza
+* Considerato uno scenario, applica le procedure per creare un’attività MVT
+* Identificare come AP viene utilizzato per le soluzioni
+* Identificare quando utilizzare l’attività Consigli
+* Descrivere le procedure per creare un pubblico in [!DNL Target]
+* Descrizione delle procedure per impostare obiettivi e impostazioni
+* Descrivere le procedure per effettuare il controllo qualità delle attività
+* Descrizione delle procedure per la gestione di attività e tipi di pubblico in [!DNL Target]
+
+* Sezione 3: analisi e reporting 19%
+
+* Descrivere le impostazioni per aiutare a impostare gli elementi visualizzati in un rapporto
+* Descrivi la differenza in Adobe [!DNL Target] Impostazioni del Calcolatore dimensioni campione tra la pianificazione e la convalida
+* Descrivere i problemi comuni associati ai test A/B
+* Identificare le differenze tra i rapporti di riepilogo di Automated Personalization e gli altri rapporti
+* Descrizione delle funzioni dei rapporti Prestazioni esperienza (MVT)
+* Descrivi le best practice da seguire nell’esecuzione dei test A/B
+
+Sezione 4: Controllo qualità e risoluzione dei problemi 10%
+
+* Dato uno scenario, identifica i problemi di qualificazione dell’attività
+* Identificare le funzionalità degli strumenti di debug del browser (incluso il Experience Cloud Debugger)
+* Identificare metriche e rapporti
+
+### Preparati
+
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
+
+**Sezione 1**
+
+* [Success metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=it){target="_blank"}
+* [Criteri](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
+* [QuickStart per test di personalizzazione e creazione di roadmap](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
+* [Best practice per l’ottimizzazione con Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
+* [Impostare le metriche](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
+* [Creare un pubblico per sola attività](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Adobe Analytics come origine per la generazione di rapporti per Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=it){target="_blank"}
+* [Configurare rapporti A4T in Analysis Workspace per le attività di allocazione automatica](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=it){target="_blank"}
+
+**Sezione 2**
+
+* [Crea offerte JSON](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [Compositore esperienza basato su moduli](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Creare un pubblico per sola attività](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Impostazioni avanzate](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
+* [Controllo di qualità attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Creare tipi di pubblico in Target](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
+* [Modifiche](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
+* [Compositore esperienza basato su moduli](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Includere la stessa esperienza in pagine simili](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
+* [Obiettivi e impostazioni](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
+* [Creare un test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
+* [Targeting dell’esperienza (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
+* [Stimare il traffico necessario per il successo dell’attività Test multivariato](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
+* [Gestire le esclusioni](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
+
+**Sezione 3**
+
+* [Impostazioni dei rapporti](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [Per quanto tempo si deve eseguire un test A/B?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
+* Panoramica sulla funzione [Allocazione automatica](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
+* [Rapporto di riepilogo per Automated Personalization](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
+* [Rapporto di riepilogo del Targeting automatico](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
+* [Rapporto Prestazioni Esperienza (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
+* [Dieci insidie frequenti per i test A/B e come evitarle](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
+
+**Sezione 4**
+
+* [Risolvere i problemi relativi agli errori di attività](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
+* [Testare un’implementazione di Adobe Target con Adobi Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
+* [Impostazioni dei rapporti](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+
+### Rinnovare la certificazione
+
+Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sull’Adobe [!DNL Target] Collegamento per l&#39;esame di rinnovo professionale di Business Practitioner qui sotto.
+
+[!BADGE Prendi l’Adobe [!DNL Target]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+
 >[!NOTE]
 >
->Prossimamente il rinnovo professionale.
+>Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+
++++
 
 >[!TAB Esperto e principale]
 

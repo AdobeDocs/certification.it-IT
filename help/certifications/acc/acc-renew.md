@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6dd7acd3d261e0b2b5a4ebab171b02c864d48cd9
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 8%
+source-wordcount: '1979'
+ht-degree: 13%
 
 ---
 
@@ -32,17 +32,11 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!TAB Professionale]
 
->[!NOTE]
->
->Il rinnovamento professionale è in via di sviluppo. I titolari di certificazioni in scadenza riceveranno un&#39;estensione che consentirà loro di utilizzare questo metodo di rinnovo gratuito quando sarà disponibile.
++++Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti del business
 
->[!TAB Esperto e principale]
+## È necessario disporre dei seguenti **attivo** certificazioni da rinnovare:
 
-Al momento dovresti essere certificato (non scaduto) in:
-
-* **Adobe [!DNL Campaign Classic] Esperto di sviluppatori**
-* **Adobe [!DNL Campaign Classic] Esperto di professionisti aziendali**
-* **Adobe [!DNL Campaign Classic] Architetto principale**
+Adobe [!DNL Campaign Classic] Professionista professionista
 
 ## Come rinnovare la certificazione:
 
@@ -50,7 +44,150 @@ Al momento dovresti essere certificato (non scaduto) in:
 * **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
 * **Passaggio 3**: sostenere e superare l’esame
 
-### Preparati
+## Preparati
+
+**Dettagli esame**
+
+* Punteggio minimo: 27/35
+* Tempo: 70 minuti
+* Costo: GRATUITO/non protetto
+* Consegna: on-demand
+* Lingue disponibili: inglese
+* ID esame: AD5-E841 - Adobe [!DNL Campaign Classic] Professionista professionista
+
+**Ambito di applicazione e obiettivi**
+
+Sezione 1: Creare una campagna 31,4%
+
+* Riconoscere i diversi concetti e obiettivi del marketing digitale
+* Identificare e definire le funzioni e la struttura chiave degli strumenti in relazione all&#39;interfaccia
+* Determinare il modello di consegna appropriato con il sottodominio da utilizzare per determinati requisiti aziendali
+* Identifica i requisiti di preparazione o personalizzazione della consegna adeguati in base ai requisiti aziendali
+* Determinare il pubblico target corretto tra i profili e analizzare i risultati dei risultati previsti
+* Consigliare e applicare le impostazioni corrette di approvazione della campagna
+* Determinare la pianificazione in base ai requisiti della campagna
+* Riconoscere dove individuare i risultati o l’output della consegna
+* Differenziare tra diversi tipi di errore e avviso (livello di consegna, campagna e flusso di lavoro)
+
+Sezione 2: Gestione dei flussi di lavoro e funzionalità della piattaforma 11,4%
+
+* In uno scenario, determina le attività del flusso di lavoro da selezionare
+* Differenziare tra flussi di lavoro tecnici e per campagne
+* Considerato uno scenario, determina quale soluzione di flusso di lavoro è ottimale per situazioni continue, di attesa, ricorrenti o interrotte
+* Identificare le nuove funzionalità di Campaign V8 rispetto alle versioni precedenti
+
+Sezione 3: operazioni sui dati 22,9%
+
+* Determina come modificare le colonne all’interno di una vista per testare dati/output
+* Descrivi gli scopi delle attività di targeting di unione, intersezione, esclusione e flusso di lavoro diviso
+* Determinare il metodo appropriato per riconciliare i dati, generare un complemento, deduplicare e importare i dati
+* Dato uno scenario, identifica la regola di arricchimento dei dati da utilizzare
+* Considerato uno scenario, determina come segmentare un pubblico e memorizzarlo come elenco e celle
+* Dato uno scenario, determina il metodo migliore per esportare i dati nelle destinazioni configurandole
+
+Sezione 4: configurazione della consegna 22,9%
+
+* Dato uno scenario, determina il tipo di consegna corretto
+* Considerati i requisiti aziendali, determina come creare i modelli
+* Dati i requisiti aziendali, determina le proprietà di consegna corrette
+* Identifica e applica le opzioni di personalizzazione OOTB disponibili per una consegna (collegamento a pagina speculare, saluto, collegamento non secondario)
+* In uno scenario, determina la regola di tipologia appropriata (controllo, filtro, pressione, capacità)
+* Identifica la causa dell’esclusione di una consegna da parte dei destinatari nel registro e verifica la diagnostica della consegna
+* Indica dove e come testare il contenuto e la personalizzazione della consegna
+* Differenziare tra i vari stati di consegna che si verificano durante l’elaborazione e l’applicazione di azioni
+
+Sezione 5: comunicazione 11,4%
+
+* Identificare i rapporti OOTB comuni e dove accedervi
+* Determinare quale rapporto OOTB è necessario in base ai requisiti di reporting
+* Identificare la funzionalità di analisi descrittiva in Adobe Campaign
+* Considerato uno scenario, applica le autorizzazioni corrette per limitare/consentire l’accesso agli oggetti di Campaign
+
+## Preparati
+
+Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+
+Di seguito sono riportate alcune risorse consigliate per la preparazione:
+
+**Sezione 1**
+
+* [Reportistica di Adobe Campaign Standard](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
+* [Cos’È Un KPI? Definizione ed esempi](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
+* [Introduzione alle campagne di marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=it){target="_blank"}
+* [Utilizzare i modelli](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
+* [Personalizzare le e-mail mediante blocchi di contenuto dinamici](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
+* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
+* [Rapporti di consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html?lang=it#reporting){target="_blank"}
+* [Gestione delle approvazioni in una campagna](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=it){target="_blank"}
+* [Gestire i fusi orari](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
+* [Campagne ricorrenti e periodiche](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html?lang=it){target="_blank"}
+* [Dashboard delle consegne](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
+* [Errori di consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html?lang=it){target="_blank"}
+
+**Sezione 2**
+
+* [Attività del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-activities.html){target="_blank"}
+* [Flussi di lavoro tecnici](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=it){target="_blank"}
+* [Gruppi predefiniti](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en#default-groups){target="_blank"}
+* [Attendi](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
+* [Transizione da Campaign Classic v7 a Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=it){target="_blank"}
+
+**Sezione 3**
+
+* [Utilizzare i dati del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
+* [Attività di targeting nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
+* [Riconciliazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
+* [Introduzione all’importazione e l’esportazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=it){target="_blank"}
+* [Celle](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
+* [Aggiornare un elenco](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html){target="_blank"}
+* [Introduzione all’importazione e l’esportazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=it){target="_blank"}
+* [Importare ed esportare dati tramite flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/import-export-workflows.html?lang=it){target="_blank"}
+* [Estrazione dati (file)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/extraction--file-.html){target="_blank"}
+
+**Sezione 4**
+
+* [Consegna posta diretta](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
+* [Blocchi di personalizzazione](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=it){target="_blank"}
+* [Configurare e inviare la consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
+* [Informazioni sulle tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it){target="_blank"}
+* [Dashboard delle consegne](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
+* [Anteprima e verifica dell’e-mail](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"}
+
+**Sezione 5**
+
+* [Introduzione alla generazione di rapporti](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
+* [Calcolo indicatore](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
+* [Usare la procedura guidata di analisi descrittiva](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
+* [Autorizzazioni dei menu Adobe Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
+* [Utilizzare i diritti denominati per impostare le autorizzazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+
+## Rinnovare la certificazione
+
+Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante **Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti - AD5-E841** link qui sotto.
+
+[Prendi l’Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
+
+>[!NOTE]
+>
+>Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+
++++
+
+>[!TAB Esperto e principale]
+
+## Al momento dovresti essere certificato (non scaduto) in:
+
+* Adobe [!DNL Campaign Classic] Sviluppatore esperto
+* Adobe [!DNL Campaign Classic] Esperto di professionisti aziendali
+* Adobe [!DNL Campaign Classic] Architect Master
+
+## Come rinnovare la certificazione:
+
+* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
+* **Passaggio 3**: sostenere e superare l’esame
+
+## Preparati
 
 **Dettagli esame**
 
@@ -105,7 +242,7 @@ Sezione 4: Campagna, flusso di lavoro, consegna e reporting (37%)
 * Descrizione della funzionalità nella palette attività del flusso di lavoro
 * Risolvere i problemi o configurare un’istanza tramite Pannello di controllo Campaign
 
-### Preparati
+## Preparati
 
 Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
 
@@ -139,7 +276,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Arricchimento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
 * [Best practice per l’importazione e l’esportazione](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=it){target="_blank"}
 
-### Rinnovare la certificazione
+## Rinnovare la certificazione
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul link Campaign Classic rinnovo - AD5-823 qui sotto.
 
