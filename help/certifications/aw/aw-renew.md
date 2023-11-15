@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: ac78ed0e7e27acd7c206d23fe5dda80ff0435208
+source-git-commit: 46fc51ee1e293ba63d09ad2fb39c0763ce9a45b0
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3753'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Sezione 1: Assunzione e pianificazione (29%)
 Sezione 2: Esecuzione (59%)
 
 * Creare approvazioni per singolo utilizzo di Workfront e quando utilizzare un’approvazione. Si considerino le approvazioni di progetti e attività, le approvazioni a percorsi multipli e le approvazioni a più fasi.
-* Dato uno scenario, identifica le informazioni che i tipi di data trasmettono a un project manager. (Considera Date Pianificate, Date Effettive, Date Manuali, Date Impegno, Date Stima)
+* Dato uno scenario, identifica le informazioni che i tipi di data trasmettono a un project manager. (Considera Date Pianificate, Date Effettive, Date Impegno, Date Stimate)
 * Considerato uno scenario, determina in che modo i diversi vincoli attività influiscono sulla sequenza temporale del progetto quando viene utilizzata. Si consideri la comprensione delle operazioni dei diversi vincoli delle attività, la conoscenza dei diversi vincoli delle attività e la tempistica di utilizzo dei diversi vincoli delle attività.
 * Dato uno scenario, dimostrare come trovare i team di progetto e notificare loro le assegnazioni di lavoro, gli aggiornamenti o il completamento degli elementi di lavoro. (Prendi in considerazione tipi di notifica, notifiche del team di progetto, scheda Persone, aggiornamenti a progetti/attività, quando e perché abbonarti a un oggetto di lavoro e come modificare le singole notifiche e-mail)
 * Identifica i diversi modi per gestire un progetto. (Considera cascata, Agile, SCRUM e Kanban.)
 * In uno scenario, descrivi come fornire alle parti interessate le informazioni di cui hanno bisogno. Prendi in considerazione l’esportazione di rapporti, l’esportazione di file, consegne ricorrenti e così via.
-* Dato uno scenario, determinare in che modo i tipi di date e le durate influiscono sulle condizioni del progetto. (Considera l’inizio pianificato, l’inizio previsto, la data di impegno di singoli utenti, ecc.)
+* Dato uno scenario, determinare in che modo i tipi di date e le durate influiscono sulle condizioni del progetto. Considera l’inizio pianificato, l’inizio previsto, la data di commit dell’individuo, ecc.
 * Considerato uno scenario, determinare come implementare o modificare le modifiche negli stati personalizzati a livello di sistema o di gruppo
 * Dato uno scenario, descrivi i passaggi per creare un rapporto e determinane il tipo necessario.
 * Considerato uno scenario, determina quando un problema deve essere utilizzato in un progetto.
