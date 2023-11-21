@@ -6,10 +6,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: a568e3c5d837b5c92ebb4eefdde1f0504c41ab4d
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 3%
+source-wordcount: '375'
+ht-degree: 2%
 
 ---
 
@@ -41,6 +41,9 @@ Adobe offre diverse risorse e strumenti per aiutarti a rinnovare la certificazio
 
 Le certificazioni che si trovano sotto i link qui sotto possono essere rinnovate gratuitamente, sia attraverso l&#39;apprendimento continuo o con un esame di rinnovo on-demand. Se non trovi la certificazione qui, dovrai rinnovarla ripetendo l’esame di certificazione completo.
 
+>[!NOTE]
+>
+>Se desideri condividere il collegamento per un esame di rinnovo o una valutazione con un collega, collega la pagina di rinnovo generale dell’esame, non l’URL dell’esame stesso, per evitare problemi di accesso.
 
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}

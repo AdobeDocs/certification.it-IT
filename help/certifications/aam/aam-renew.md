@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1130'
+source-wordcount: '1171'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,11 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!IMPORTANT]
 >
->Le sezioni e i collegamenti seguenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Per condividere un collegamento:** Se desideri condividere il collegamento per un esame di rinnovo o una valutazione con un collega, collega la pagina di rinnovo generale dell’esame, non l’URL dell’esame stesso, per evitare problemi di accesso.
 
 >[!BEGINTABS]
 
@@ -185,7 +189,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [AAM: Fondamenti tecnici](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
 * [AAM: serie Integration](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
 * [AAM: funzioni avanzate](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Formazione e risorse di Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [Formazione e risorse di Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Rinnovare la certificazione
 

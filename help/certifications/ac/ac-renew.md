@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '2044'
+source-wordcount: '2085'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,11 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!IMPORTANT]
 >
->I seguenti link per la valutazione del corso funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**Per condividere un collegamento:** Se desideri condividere il collegamento per un esame di rinnovo o una valutazione con un collega, collega la pagina di rinnovo generale dell’esame, non l’URL dell’esame stesso, per evitare problemi di accesso.
 
 >[!BEGINTABS]
 

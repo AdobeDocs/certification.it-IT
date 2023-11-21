@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Il tuo badge è una prova tangibile della tua esperienza con i prodotti Adobe Ex
 ## Rinnovo della certificazione {#renewing-intro}
 
 Le certificazioni scadono dopo due anni. Per mantenere la certificazione, devi rinnovarla prima della scadenza. Visita il [Rinnovare la certificazione](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} per ulteriori informazioni.
+
+<!--divider-->
