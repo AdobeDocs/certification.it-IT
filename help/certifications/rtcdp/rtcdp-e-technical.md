@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Esame AD0-E600 e AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1404'
-ht-degree: 8%
+source-wordcount: '1385'
+ht-degree: 9%
 
 ---
 
@@ -22,10 +22,6 @@ ht-degree: 8%
 ## Descrizione esame {#exam-description}
 
 {{exam-description}}
-
->[!IMPORTANT]
->
->L’Adobe [!DNL Real-Time Customer Data Platform] La certificazione degli esperti richiede il superamento di due esami: **Adobe [!DNL Experience Platform] Fondamenti tecnici (AD0-E600)** e **Adobe [!DNL Real-Time CDP] Professionista tecnico (AD7-E601)**.
 
 <br>
 
@@ -278,7 +274,7 @@ Sezione 3: Destinazioni (27%)
 **Sezione 1: convalida**
 
 * [Panoramica del profilo cliente in tempo reale](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=it){target="_blank"}
-* [Dashboard dei profili](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Dashboard profili](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [Guardrail predefiniti per dati Real-Time Customer Profile](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=it)
 * [Abilita Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Panoramica di Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=it){target="_blank"}
@@ -303,7 +299,7 @@ Sezione 3: Destinazioni (27%)
 * [Guida dell’interfaccia utente di Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=it){target="_blank"}
 * [Segmentazione nell’edizione B2B di CDP in tempo reale](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
 * [Generare segmenti](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
-* [Panoramica del Generatore di segmenti](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [Panoramica del generatore di segmenti](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Crea segmento](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Creare segmenti basati su contenuti](https://video.tv.adobe.com/v/333302/){target="_blank"}
 * [Creare segmenti di conversione](https://video.tv.adobe.com/v/333303/){target="_blank"}
@@ -323,7 +319,7 @@ Sezione 3: Destinazioni (27%)
 * [Workspace di destinazione](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [Creare una nuova connessione di destinazione](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 * [Real-time CDP: destinazioni](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [Panoramica sulla destinazione](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [Panoramica sulla destinazione](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=it){target="_blank"}
 * [Creare la destinazione e attivare i dati](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [Panoramica di Activation](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [Panoramica del catalogo di destinazione](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
