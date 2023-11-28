@@ -4,7 +4,7 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
+source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
 workflow-type: tm+mt
 source-wordcount: '1550'
 ht-degree: 1%
@@ -18,9 +18,7 @@ Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse neces
 >[!TIP]
 >
 >**La nostra vendita di fine anno inizia Cyber Lunedì!**<br>
-><br>
 >Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento.<br>
-><br>
 ><i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
 
 >[!BEGINTABS]
