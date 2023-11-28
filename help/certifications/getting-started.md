@@ -4,7 +4,7 @@ description: Introduzione alle certificazioni.  [!DNL Experience Cloud]  Scopri 
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 4de79881e1a06c70a2759b7397f87335cbe8a77c
+source-git-commit: f3c825b8306646b870970f767db9060435865815
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 2%
@@ -17,9 +17,7 @@ Le certificazioni Adobe sono progettate per convalidare le conoscenze e le compe
 
 >[!TIP]
 >
->**La nostra vendita di fine anno inizia Cyber Lunedì!**<br>
->Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento.<br>
-><i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
+>**La nostra vendita di fine anno inizia Cyber Lunedì!** <br><br> Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento. <br><br> <i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
 
 >[!BEGINTABS]
 
