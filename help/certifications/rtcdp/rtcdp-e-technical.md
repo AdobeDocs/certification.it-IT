@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Esame AD0-E600 e AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
+source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1599'
 ht-degree: 7%
 
 ---
@@ -227,7 +227,7 @@ L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle carat
 >
 ><br>
 >
->**Se è già stato superato l&#39;Adobe AD0-E600 [!DNL Experience Platform] Esame delle fondazioni tecniche e si sono preparati all&#39;esame AD7-E601**, si consiglia di mantenere l&#39;appuntamento, in quanto il superamento dell&#39;esame AD7-E601 ti premierà l&#39;Adobe [!DNL Experience Platform] Certificazione degli esperti sulle fondazioni tecniche. Per eventuali domande, contatta [Supporto certificazione](mailto:certif@adobe.com){target="_blank"}.
+>**Se è già stato superato l&#39;Adobe AD0-E600 [!DNL Experience Platform] Esame delle fondazioni tecniche e si sono preparati all&#39;esame AD7-E601**, si consiglia di mantenere l&#39;appuntamento, in quanto il superamento dell&#39;esame AD7-E601 ti premierà l&#39;Adobe [!DNL Real-Time Customer Data Platform] Certificazione di esperto. Per eventuali domande, contatta [Supporto certificazione](mailto:certif@adobe.com){target="_blank"}.
 
 L&#39;esame AD7-E601 tratta la creazione, la gestione e la comprensione del profilo del cliente, la segmentazione, le destinazioni tra le sorgenti e altri argomenti. L’esame convalida le competenze e le conoscenze fondamentali necessarie per utilizzare Real-time CDP per la segmentazione del pubblico, le esportazioni di destinazioni e l’attivazione in tempo reale per profili unificati che rispettano le normative su dati e privacy. I candidati devono avere esperienza con Customer Data Platform (CDP) e conoscenza degli Adobi [!DNL Experience Platform].
 
