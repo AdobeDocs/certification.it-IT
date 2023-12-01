@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Esame AD0-E600 e AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
+source-wordcount: '1748'
 ht-degree: 7%
 
 ---
@@ -73,7 +73,7 @@ Dovresti avere:
 >
 ><br>
 >
->**Se hai già programmato l’esame AD0-E600**, consigliamo vivamente di annullare l’appuntamento e di riprogrammare quando verrà rilasciato il nuovo esame. Per eventuali domande, contatta [Supporto certificazione](mailto:certif@adobe.com){target="_blank"}.
+>**Se hai già programmato l’esame AD0-E600**, si consiglia vivamente di annullare l&#39;appuntamento nel portale Examity (vedere il passaggio 3 di seguito) e di riprogrammare quando il nuovo esame verrà rilasciato. Per eventuali domande, contatta [Supporto certificazione](mailto:certif@adobe.com){target="_blank"}.
 
 L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle caratteristiche di base e alle attività di Adobe eseguite frequentemente [!DNL Experience Platform] a livello di esperti.
 
@@ -176,6 +176,14 @@ L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle carat
 
 +++Passaggio 3: Programmazione e pagamento dell&#39;esame
 
+>[!IMPORTANT]
+>
+>La programmazione dell&#39;esame AD0-E600 è stata sospesa. Questo esame è in corso di aggiornamento e verrà rilasciato il **15 gennaio 2024**. Dopo tale data, questa certificazione richiederà solo il superamento di un esame, anziché i due esami attualmente richiesti.
+>
+><br>
+>
+>**Se hai già programmato l’esame AD0-E600**, consigliamo vivamente di annullare l’appuntamento nel portale di Examity e di riprogrammare quando verrà rilasciato il nuovo esame. Per eventuali domande, contatta [Supporto certificazione](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle carat
 {{about-certification-exam}}
 
 ## Programmare o sostenere l&#39;esame AD0-E600
+
+>[!IMPORTANT]
+>
+>La programmazione dell&#39;esame AD0-E600 è stata sospesa. Questo esame è in corso di aggiornamento e verrà rilasciato il **15 gennaio 2024**. Dopo tale data, questa certificazione richiederà solo il superamento di un esame, anziché i due esami attualmente richiesti.
+>
+><br>
+>
+>**Se hai già programmato l’esame AD0-E600**, consigliamo vivamente di annullare l’appuntamento nel portale di Examity e di riprogrammare quando verrà rilasciato il nuovo esame. Per eventuali domande, contatta [Supporto certificazione](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
