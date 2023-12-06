@@ -7,10 +7,10 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 3%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 ### Pubblico previsto {#intended-audience}
 
 * Analisti aziendali
-* Manager di progetto
+* Project manager
 * Proprietari del prodotto
 * Consulenti
 * [!DNL Adobe Commerce] strateghi
@@ -154,7 +154,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 * [[!DNL Magento] Introduzione al Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
 * [Pagine](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [Guida di riferimento alla configurazione](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Introduzione alla Ricerca in tempo reale](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
+* [Introduzione a Live Search](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
 * [Introduzione a [!DNL Commerce] Merchandising e promozioni](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
 * [Pagamento](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
 * [Adobe [!DNL Commerce] Guida ai sistemi di amministrazione](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
@@ -166,7 +166,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 * [Variabili e comunicazioni per i clienti](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
 * [Panoramica SEO](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
 * [Utilizzo di una mappa del sito](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
-* [Customer Journey](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
+* [Percorso di clienti](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
 * [Strumenti Business Intelligence](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
 
 **Sezione 4: Nozioni di base su conformità/sicurezza**
@@ -182,7 +182,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 {{sample-questions}}
 
-[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad4-e712-adobe-commerce-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++
 

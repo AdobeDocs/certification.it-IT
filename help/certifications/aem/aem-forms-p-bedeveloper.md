@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '645'
-ht-degree: 10%
+source-wordcount: '567'
+ht-degree: 0%
 
 ---
 
@@ -135,7 +135,7 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 * [Guida di Adobe Experience Manager 6.5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Integrazione dei dati di AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
 * [Esercitazioni e video su AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
-* [Guida utente allo sviluppo in AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Guida utente allo sviluppo di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 
 **Sezione 2: Processi e flussi di lavoro**
 
@@ -163,7 +163,7 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
 {{sample-questions}}
 
-[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam){target="_blank"}
 
 +++
 

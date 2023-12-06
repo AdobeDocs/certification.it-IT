@@ -7,10 +7,10 @@ role: User
 badge: label="Esame AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 11%
+source-wordcount: '580'
+ht-degree: 1%
 
 ---
 
@@ -127,8 +127,8 @@ Dovresti avere:
 
 **Sezione 1: pianificazione e strategia**
 
-* Guida di [[!DNL Adobe Target]  per professionisti aziendali](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* Documentazione di [[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
+* [[!DNL Adobe Target] Guida per professionisti aziendali](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Adobe Target] Documentazione](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
 * [Profili dei visitatori](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=it){target="_blank"}
 * [[!DNL Adobe Target] kit di benvenuto](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
 * [Metriche di successo](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=it){target="_blank"}
@@ -136,14 +136,14 @@ Dovresti avere:
 
 **Sezione 2: Configurazione, esecuzione e gestione**
 
-* [Compositore esperienza visivo (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
+* [Compositore esperienza visivo](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
 * [[!DNL Adobe Target] kit di benvenuto](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
 * [Panoramica sui test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 * [Creare un’attività Targeting esperienze](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [Panoramica sul test multivariato](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Consigli](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
+* [Panoramica del test multivariato](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
 * [Creare tipi di pubblico](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=it){target="_blank"}
-* [Controllo di qualità attività](https://experienceleague.adobe.com/docs/?lang=ittarget/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Controllo di qualità delle attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **Sezione 3: analisi e reporting**
 
@@ -152,16 +152,8 @@ Dovresti avere:
 
 **Sezione 4: Risoluzione dei problemi**
 
-* Guida di [[!DNL Adobe Target]  per professionisti aziendali](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Adobe Target] Guida per professionisti aziendali](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Panoramica di Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-<br>
-
-**Domande di esempio**
-
-{{sample-questions}}
-
-[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
 
 +++
 
