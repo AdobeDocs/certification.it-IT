@@ -6,16 +6,20 @@ role: Developer
 badge: label="Esame AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 3%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>Questo esame, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 26 febbraio 2024. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame (AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## Descrizione esame {#exam-description}
 
@@ -211,6 +215,10 @@ Inoltre, dovresti avere:
 {{about-certification-exam}}
 
 ## Programmare o sostenere l&#39;esame AD0-E905
+
+>[!NOTE]
+>
+>Questo esame, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 26 febbraio 2024. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

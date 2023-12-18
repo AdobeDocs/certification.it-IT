@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="Esame AD0-E600 e AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 7%
+source-wordcount: '1464'
+ht-degree: 0%
 
 ---
 
@@ -155,8 +155,8 @@ L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle carat
 **Sezione 3: unificazione dei profili**
 
 * [Grafici di identità e identità](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
-* [Mappare le identità](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
-* [Etichettare, inserire e verificare i dati delle identità](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
+* [Mappa identità](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
+* [Etichettare, acquisire e verificare i dati di identità](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
 * [Creare un set di dati per esportare un segmento di pubblico](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [Creare segmenti acquisiti da computer utilizzando Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
@@ -314,15 +314,14 @@ Sezione 3: Destinazioni (27%)
 **Sezione 1: convalida**
 
 * [Panoramica del profilo cliente in tempo reale](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=it){target="_blank"}
-* [Dashboard profili](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Dashboard dei profili](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
 * [Guardrail predefiniti per dati Real-Time Customer Profile](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=it)
 * [Abilita Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html){target="_blank"}
 * [Panoramica di Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=it){target="_blank"}
 * [Servizi applicativi AEP: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Guida introduttiva a Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Home page e dashboard di Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [Monitorare i flussi di dati per le destinazioni nell’interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=it){target="_blank"}
-* [Creare e attivare segmenti in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [Monitorare i flussi di dati per le destinazioni nell’interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [Panoramica sulla privacy](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Governance dei dati in Real-time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [Applicare il framework di governance dei dati](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
@@ -338,8 +337,8 @@ Sezione 3: Destinazioni (27%)
 * [Servizio di segmentazione in Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [Guida dell’interfaccia utente di Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=it){target="_blank"}
 * [Segmentazione nell’edizione B2B di CDP in tempo reale](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
-* [Generare segmenti](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
-* [Panoramica del generatore di segmenti](https://video.tv.adobe.com/v/333301/){target="_blank"}
+* [Creare segmenti](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
+* [Panoramica del Generatore di segmenti](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [Crea segmento](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [Creare segmenti basati su contenuti](https://video.tv.adobe.com/v/333302/){target="_blank"}
 * [Creare segmenti di conversione](https://video.tv.adobe.com/v/333303/){target="_blank"}
@@ -349,7 +348,6 @@ Sezione 3: Destinazioni (27%)
 * [Creare segmenti a più voci](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [Creare segmenti con dati B2B](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [Demo della segmentazione in streaming](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Creare e attivare segmenti in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Valutare un segmento](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **Sezione 3: Destinazioni**

@@ -1,11 +1,11 @@
 ---
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
-user-guide-description: Scopri la Certificazione  [!DNL Experience Cloud]  in Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
+user-guide-description: Informazioni su [!DNL Experience Cloud] Certificazione all'Adobe. Scopri cosa vuol dire ottenere una certificazione.
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 47%
+ht-degree: 32%
 
 ---
 
@@ -141,6 +141,7 @@ ht-degree: 47%
          + [Sviluppatore (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [Project Manager](/help/certifications/aw/aw-p-project-manager.md)
          + [Sviluppatore (Core)](/help/certifications/aw/aw-core-p-developer.md)
+         + [Sviluppatore (Core) - NUOVO](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + Esperto {#aw-expert}
          + [Sviluppatore (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [Connettore avanzato AEM](/help/certifications/aw/aw-aem-e-connector.md)
@@ -149,4 +150,4 @@ ht-degree: 47%
 + Nascosto {#hidden}
    + [Verifica idoneità riavvio certificazione](exam-eligibility-check.md)
    + [Panoramica di Experience Platform](/help/certifications/aep/aep-overview.md)
-   + [Sviluppatore)](/help/certifications/aep/aep-e-foundations.md)
+   + [Developer)](/help/certifications/aep/aep-e-foundations.md)
