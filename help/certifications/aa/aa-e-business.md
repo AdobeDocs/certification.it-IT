@@ -7,10 +7,10 @@ role: User
 badge: label="Esame AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '779'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -224,14 +224,14 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Programmare o sostenere l&#39;esame AD0-E208-J (giapponese)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Vai a Examity Portal - Esame di giapponese
 </span>
 </a>
-
-[Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

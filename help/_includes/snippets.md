@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -220,3 +220,9 @@ Il tuo badge è una prova tangibile della tua esperienza con i prodotti Adobe Ex
 Le certificazioni scadono dopo due anni. Per mantenere la certificazione, devi rinnovarla prima della scadenza. Visita il [Rinnovare la certificazione](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} per ulteriori informazioni.
 
 <!--divider-->
+
+## Dettagli esame giapponese {#Japanese-exam-details}
+
+Per favore programmate il vostro esame tra domenica - giovedì 5 pm - 2 AM ET per assicurarci di essere in grado di assegnare un proctor di lingua giapponese. Se si pianifica al di fuori di queste ore, non possiamo garantire un proctor di lingua giapponese.
+
+[Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)

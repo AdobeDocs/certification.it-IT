@@ -7,10 +7,10 @@ role: User
 badge: label="Esame AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '981'
-ht-degree: 12%
+source-wordcount: '716'
+ht-degree: 2%
 
 ---
 
@@ -67,7 +67,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Frammenti di esperienza e frammenti di contenuto
 * Screens
 * Flussi di lavoro
-* Lanci
+* Avvii
 * CRXDE Lite
 * Amministrazione utenti
 * Gestione multisito
@@ -75,7 +75,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Controllo delle versioni
 * Hub di personalizzazione e contesto
 * Editor SPA
-* Assegnazione tag
+* Assegnazione dei tag
 * Utilizzo browser
 * Comprensione generale del Web
 * Concetti di progettazione web reattiva
@@ -143,7 +143,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 **Sezione 1: Istruzione**
 
-* [Guida utente allo sviluppo in AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Guida utente allo sviluppo di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Scopri le funzionalità di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] video e tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
 * [Lanci](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=it){target="_blank"}
@@ -172,7 +172,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 **Sezione 3: analisi aziendale**
 
 * [Sviluppare siti web globali in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
-* [Concetti fondamentali dell’AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=it){target="_blank"}
+* [Concetti fondamentali dell’AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html){target="_blank"}
 * [Panoramica dei componenti](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
 * [Architettura dei contenuti](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
 * [Gestione dei progetti - Elenco di controllo delle best practice](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
@@ -189,7 +189,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 **Sezione 4: Configurazione e implementazione**
 
-* [Guida utente allo sviluppo in AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [Guida utente allo sviluppo di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 * [Sviluppo AEM - Linee guida e best practice](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=it){target="_blank"}
 * [Panoramica dei componenti](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
 * [Linee guida per i componenti](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html){target="_blank"}
@@ -238,14 +238,14 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Programmare o sostenere l&#39;esame AD0-E121-J (giapponese)
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Vai a Examity Portal - Esame di giapponese
 </span>
 </a>
-
-[Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
