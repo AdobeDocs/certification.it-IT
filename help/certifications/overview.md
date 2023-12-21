@@ -1,13 +1,13 @@
 ---
 title: Pagina Home di certificazione
-description: Scopri la Certificazione  [!DNL Experience Cloud]  in Adobe. Scopri cosa vuol dire ottenere una certificazione.
+description: Informazioni su [!DNL Experience Cloud] Certificazione all'Adobe. Scopri cosa vuol dire ottenere una certificazione.
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 9%
+source-wordcount: '498'
+ht-degree: 5%
 
 ---
 
@@ -17,9 +17,14 @@ Scopri la Certificazione in Adobe e cosa puoi ottenere ottenendola.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
->[!TIP]
+>[!NOTE]
 >
->**La nostra vendita di fine anno inizia Cyber Lunedì!** <br><br> Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento. <br><br> <i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
+>L’Adobe è chiuso dal 22 dicembre 2023 al 1° gennaio 2024. Si prevede un ritardo nella risposta alle richieste di supporto durante questo periodo. Apprezziamo la vostra pazienza.
+
+>[!BEGINSHADEBOX]
+>
+>**50% di sconto sulla vendita del voucher!** <br><br> Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento. <br><br> <i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
+>[!ENDSHADEBOX]
 
 Il programma Adobe Digital Experience Credential è stato creato per aiutarti a dimostrare le tue competenze nell’Adobe [!DNL Experience Cloud] prodotti. La certificazione Adobe consente di mettere in mostra le proprie competenze e di impressionare clienti e datori di lavoro.
 

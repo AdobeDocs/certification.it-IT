@@ -4,10 +4,10 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: f3c825b8306646b870970f767db9060435865815
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1550'
-ht-degree: 1%
+source-wordcount: '1503'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 1%
 
 Scopri come ottenere la certificazione all’Adobe. Trova tutte le risorse necessarie prima, durante e dopo la certificazione.
 
->[!TIP]
+>[!NOTE]
 >
->**La nostra vendita di fine anno inizia Cyber Lunedì!** <br><br> Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento. <br><br> <i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
+>L’Adobe è chiuso dal 22 dicembre 2023 al 1° gennaio 2024. Si prevede un ritardo nella risposta alle richieste di supporto durante questo periodo. Apprezziamo la vostra pazienza.
+
+>[!BEGINSHADEBOX]
+>
+>**50% di sconto sulla vendita del voucher!** <br><br> Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento. <br><br> <i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
+>[!ENDSHADEBOX]
 
 >[!BEGINTABS]
 
@@ -63,9 +68,9 @@ Se non riesci a superare un esame di certificazione di Adobe al primo tentativo,
 
 | Certificazione Adobe | Prezzo (USD) | Prezzo India (USD) |
 | ------- | ------- | ------- |
-| Professionista certificato Adobe | $125 | $95 |
-| Adobe Certified Expert | $225 | $150 |
-| Master certificato Adobe | $225 | $150 |
+| Professionista certificato Adobe | $ 125 | $ 95 |
+| Adobe Certified Expert | $ 225 | $ 150 |
+| Master certificato Adobe | $ 225 | $ 150 |
 
 **Rinnovo dei prezzi**
 
@@ -101,7 +106,7 @@ Il team Adobe Credential collabora con i fornitori per supportare le iniziative 
 
 | Nome fornitore | Descrizione | Pagina di supporto/E-mail |
 | ------- | ------- | ------- |
-| Credendo | Sistema di gestione dei badge | Supporto per [](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+| Credendo | Sistema di gestione dei badge | [Supporto](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Esamina | Fornitore consegna di prova (solo Online Proctoring) | [E-mail](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
 | Xvoucher - Adobe Certification Voucher Center | Centro voucher per l&#39;acquisto di voucher singoli o in blocco | [E-mail](mailto:support@xvoucher.com){target="_blank"} o [Guida in linea](https://help.xvoucher.com/hc/en-us) |
 
