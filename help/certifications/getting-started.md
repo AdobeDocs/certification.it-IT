@@ -4,7 +4,7 @@ description: Introduzione a [!DNL Experience Cloud] certificazioni. Scopri il pr
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
+source-git-commit: fa645594bc1c3996182282abfede63267de5d238
 workflow-type: tm+mt
 source-wordcount: '825'
 ht-degree: 1%
@@ -20,8 +20,13 @@ Le certificazioni Adobe sono progettate per convalidare le conoscenze e le compe
 >L’Adobe è chiuso dal 22 dicembre 2023 al 1° gennaio 2024. Si prevede un ritardo nella risposta alle richieste di supporto durante questo periodo. Apprezziamo la vostra pazienza.
 
 >[!BEGINSHADEBOX]
->
->**50% di sconto sulla vendita del voucher!** <br><br> Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento. <br><br> <i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
+
+**50% di sconto sulla vendita del voucher!**
+
+Ottieni il 50% di sconto sui voucher per gli esami di certificazione dal programma Adobe Digital Experience Credential, a partire dal 27 novembre fino al 31 dicembre. Questa offerta è valida solo quando effettui acquisti tramite [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe). Usa codice promozionale **Vacanze2023** al momento del pagamento.
+
+<i>Questa offerta è disponibile solo per il periodo di tempo indicato e si applica solo ai nuovi ordini e non può essere applicata agli acquisti effettuati in precedenza. I codici voucher sono validi per un anno dalla data di acquisto.</i>
+
 >[!ENDSHADEBOX]
 
 >[!BEGINTABS]
