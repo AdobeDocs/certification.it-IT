@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="Esame AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questo è l’Adobe più recente [!DNL Workfront] Esame di base per sviluppatori professionisti (ADO-E908). Se ha già iniziato a studiare o ha programmato [versione precedente (ADO-E905)](aw-core-p-developer.md), è necessario completarlo entro il 26 febbraio 2024.
+>Questo è l’Adobe più recente [!DNL Workfront] Esame di base per sviluppatori professionisti (ADO-E908). Se ha già iniziato a studiare o ha programmato [versione precedente (ADO-E905)](aw-core-p-developer.md), è necessario completarlo entro il 26 febbraio 2024. Se devi riprogrammare, devi sostenere il nuovo esame.
 
 ## Descrizione esame {#exam-description}
 
