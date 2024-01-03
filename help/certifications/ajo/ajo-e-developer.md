@@ -6,10 +6,11 @@ product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
+hidefromtoc: true
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 14%
+source-wordcount: '628'
+ht-degree: 4%
 
 ---
 
@@ -139,7 +140,7 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 **Sezione 1: Amministrazione e configurazione**
 
-* [Documentazione di Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentazione](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
    * Controllo degli accessi
    * Configurazione dei messaggi
@@ -152,7 +153,7 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 **Sezione 2: Fondazione AEP**
 
-* [Documentazione di Adobe  [!DNL Experience Platform] ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
+* [Adobe [!DNL Experience Platform] Documentazione](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
 
    * Guida di XDM
    * Guida al profilo cliente in tempo reale
@@ -166,23 +167,23 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 * [Introduzione a Adobe [!DNL Experience Platform] corso](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=it){target="_blank"}
 * [Guida introduttiva ad Adobe [!DNL Experience Platform] corso per data engineer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=it){target="_blank"}
 * [Corso sull’acquisizione dei dati per data engineer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=it){target="_blank"}
-* [Blueprint di esperienze digitali](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=it){target="_blank"}
+* [Blueprint per esperienze digitali](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=it){target="_blank"}
 
 **Sezione 3: Offer decisioning**
 
-* [Documentazione di Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentazione](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
    * Gestione delle decisioni
 
 * [Adobe [!DNL Journey Optimizer] Video e Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
 
-   * Creare percorsi
+   * Creare i percorsi
 
 **Sezione 4: authoring dei contenuti**
 
-* [Documentazione di Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentazione](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
-   * Creare i contenuti
+   * Progettare i contenuti
    * Percorsi
    * Messaggi
    * Personalizzazione
@@ -190,10 +191,10 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 **Sezione 5: Journey Orchestration**
 
-* [Documentazione di Adobe  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentazione](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
    * Percorsi
-   * Tracciare e monitorare
+   * Tracciamento e monitoraggio
    * Segmenti
    * Profili e identità
 

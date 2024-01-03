@@ -2,9 +2,9 @@
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
 user-guide-description: Informazioni su [!DNL Experience Cloud] Certificazione all'Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 32%
 
 ---
@@ -123,8 +123,7 @@ ht-degree: 32%
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Panoramica di Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
       + Esperto {#ajo-expert}
-         + [Sviluppatore](/help/certifications/ajo/ajo-e-developer.md)
-         + [Sviluppatore - NUOVO](/help/certifications/ajo/ajo-e-developer-23-10.md)
+         + [Sviluppatore](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [Rinnovo](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
       + [Panoramica di Target](/help/certifications/at/at-overview.md)

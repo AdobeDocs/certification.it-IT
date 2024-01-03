@@ -5,20 +5,17 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '591'
+ht-degree: 1%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Journey Optimizer] Sviluppatore esperto
 
 {{intro}}
-
->[!NOTE]
->
->Questo è l’Adobe più recente [!DNL Journey Optimizer] Esame per sviluppatori esperti (AD0-E606). Se ha già iniziato a studiare o ha programmato [versione precedente](ajo-e-developer.md), è necessario completarlo entro il 22 dicembre 2023.
 
 ## Descrizione esame {#exam-description}
 
@@ -143,7 +140,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 **Sezione 4: authoring dei contenuti**
 
 * [Guida AJO, canale SMS, privacy, configurazione, Percorsi, espressioni, gestione dei contenuti, tracciamento e monitoraggio, canale di notifica push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Tutorial su Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
+* [Tutorials Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
 
 **Sezione 5: Modellazione dei dati**
 
@@ -175,10 +172,6 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 {{about-certification-exam}}
 
 ## Programmare o sostenere l&#39;esame AD0-E606
-
->[!NOTE]
->
->Questo è l’Adobe più recente [!DNL Journey Optimizer] Esame per sviluppatori esperti (AD0-E606). Se ha già iniziato a studiare o ha programmato [versione precedente](ajo-e-developer.md), è necessario completarlo entro il 22 dicembre 2023.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
