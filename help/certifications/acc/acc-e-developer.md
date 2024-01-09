@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6196ca57b04cb2c197db3c3dc96eedb89fbf9ccc
 workflow-type: tm+mt
-source-wordcount: '961'
-ht-degree: 17%
+source-wordcount: '727'
+ht-degree: 1%
 
 ---
 
@@ -145,7 +145,7 @@ Dovresti avere:
 **Sezione 1: configurazione del sistema**
 
 * [[!DNL Campaign Classic] Documentazione di v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=it){target="_blank"}
-* [Introduzione alla messaggistica transazionale](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html?lang=it){target="_blank"}
+* [Introduzione alla messaggistica transazionale](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html){target="_blank"}
 * [Architettura generale](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
 * [Guida introduttiva alle integrazioni Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html){target="_blank"}
 * [Progettare ed eseguire campagne di marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
@@ -155,7 +155,7 @@ Dovresti avere:
 
 **Sezione 2: Personalizzazione**
 
-* [Informazioni sulla documentazione sugli schemi](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/about-schema-reference.html){target="_blank"}
+* [Informazioni sul riferimento di schema](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/about-schema-reference.html){target="_blank"}
 * [Progettare ed eseguire campagne di marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [Informazioni sui servizi web](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html){target="_blank"}
 * [Progettare ed eseguire campagne di marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
@@ -165,7 +165,7 @@ Dovresti avere:
 **Sezione 3: Gestione degli accessi**
 
 * [Introduzione alle autorizzazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
-* [Funzionalità chiave](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=it){target="_blank"}
+* [Funzioni principali](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=it){target="_blank"}
 * [Monitorare la capacità del server](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
 * [Informazioni sulla modifica degli schemi](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
 
@@ -184,7 +184,7 @@ Dovresti avere:
 * [Proprietà del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
 * [Casi di utilizzo del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/about-workflow-use-cases.html){target="_blank"}
 * [Guida al monitoraggio - Architettura generale](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/introduction/general-architecture.html){target="_blank"}
-* [Introduzione al Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html){target="_blank"}
+* [Introduzione al Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html){target="_blank"}
 * [Informazioni sul monitoraggio delle prestazioni](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=it){target="_blank"}
 
 **Sezione 6: configurazione di Campaign**
@@ -196,6 +196,12 @@ Dovresti avere:
 * [Utilizzare una tabella dei destinatari personalizzata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 * [Informazioni sui modelli](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=it){target="_blank"}
 * [Utilizzare una tabella dei destinatari personalizzata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+
+<br>
+
+**Esegui un test di esercitazione**
+
+{{practice-test}}
 
 +++
 
