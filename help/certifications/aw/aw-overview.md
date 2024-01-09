@@ -3,10 +3,10 @@ title: Panoramica certificazione Workfront
 description: Panoramica delle opzioni di certificazione per Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 922961fcab8c3cf6745d3239d112625d717b1b82
+source-git-commit: 6242b08cb1ecd63d58bd059dd3b5ac4ccd3f20f9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Il **Adobe [!DNL Workfront] Core Developer Professional** l’esame di certificazione è stato aggiornato.
 
-La versione corrente è: [Adobe Marketo Engage (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
+La versione corrente è: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
 
 Se hai già programmato o iniziato a studiare per l&#39;esame attuale, assicurati di pianificare e completare l&#39;esame **prima del 26 febbraio 2024**.
 
-Tuttavia, se hai appena iniziato a lavorare sulla certificazione, ti consigliamo di prendere **NUOVO** versione dell&#39;esame: [Adobe Marketo Engage (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
+Tuttavia, se hai appena iniziato a lavorare sulla certificazione, ti consigliamo di prendere **NUOVO** versione dell&#39;esame: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## Tutti gli esami disponibili per Adobe [!DNL Workfront]
 
