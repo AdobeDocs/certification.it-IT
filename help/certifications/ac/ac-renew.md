@@ -7,10 +7,10 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: dcad25077afd7883333326939ce8751eee191f36
 workflow-type: tm+mt
-source-wordcount: '2085'
-ht-degree: 2%
+source-wordcount: '1657'
+ht-degree: 0%
 
 ---
 
@@ -101,7 +101,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1**
 
-* [ [!DNL Commerce] Guida ai contenuti e alla progettazione di Adobe ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=it){target="_blank"}
+* [Adobe [!DNL Commerce] Guida ai contenuti e alla progettazione](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=it){target="_blank"}
 * [Widget](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
 * [Adobe [!DNL Commerce] Guida alla gestione del catalogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=it){target="_blank"}
 * [Adobe [!DNL Commerce] Guida ai negozi e all’esperienza di acquisto](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
@@ -122,12 +122,12 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Architettura Pro](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Sicurezza](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
-**Section3**
+**Sezione 3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
 * [Panoramica SEO](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
 * [Esperienze vetrina migliorate](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
-* [Conformità PCI](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
+* [Conformità PCI](https://business.adobe.com/it/products/magento/pci-compliance.html){target="_blank"}
 * [Scopri la differenza tra marketing omnicanale e multicanale](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
 
 **Sezione 4**
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] Sviluppatore professionale
 **Dettagli esame:**
 
 * Livello: professionale (0-12 mesi di esperienza)
-* Punteggio minimo: 228/37
+* Punteggio minimo: 28/37
 * Tempo: 74 minuti
 * Distribuzione: on-demand/non protetto
 * Lingue disponibili: inglese
