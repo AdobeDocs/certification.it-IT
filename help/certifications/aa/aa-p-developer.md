@@ -8,10 +8,10 @@ level: Experienced
 badge: label="Esame AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
+source-git-commit: 63240c83879075315fb13635e06d9c1cbcf2a37d
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 12%
+source-wordcount: '824'
+ht-degree: 1%
 
 ---
 
@@ -149,10 +149,10 @@ Dovresti anche avere esperienza con le seguenti attività:
 
 **Sezione 2: strategia e progettazione di Analytics basati su un riferimento di progettazione della soluzione**
 
-* [Implementare  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=it){target="_blank"}
+* [Implementare [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=it){target="_blank"}
 * [Guida per l’amministratore di Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=it){target="_blank"}
 * [Variabili elenco](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [eVar di merchandising e metodi di ricerca dei prodotti](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
+* [eVar per merchandising e metodi di ricerca dei prodotti](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
 
 **Sezione 3: Implementazione e configurazione di Analytics**
 
@@ -165,15 +165,15 @@ Dovresti anche avere esperienza con le seguenti attività:
 
 * [Panoramica sui tag](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=it){target="_blank"}
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Analizzatore pacchetti](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [Documentazione per gli oggetti Satellite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
+* [Analizzatori di pacchetti](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
+* [Riferimento a un oggetto satellite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
 
 **Sezione 5: servizi mobili e API**
 
 * [[!DNL Adobe Analytics]: caso di studio sull’integrazione di E-mail marketing (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
 * [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Ti diamo il benvenuto nella guida per l’amministratore di Enterprise e Team](https://helpx.adobe.com/it/enterprise/admin-guide.html){target="_blank"}
-* [API di reportistica di Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
+* [API di reporting di Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
 * [Funzionamento delle regole di elaborazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 
 **Sezione 6: Test, convalida e risoluzione dei problemi**
@@ -191,6 +191,12 @@ Dovresti anche avere esperienza con le seguenti attività:
 {{sample-questions}}
 
 [Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**Esegui un test di esercitazione**
+
+{{practice-test}}
 
 <br>
 
