@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -175,14 +175,6 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 * [Sicurezza](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
 * [Informazioni sulla conformità ADA e su come si relaziona ai siti Web di eCommerce](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] Guida alle best practice per la sicurezza](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
-
-<br>
-
-**Domande di esempio**
-
-{{sample-questions}}
-
-[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad4-e712-adobe-commerce-business-practitioner-professional-practice-exam){target="_blank"}
 
 <br>
 
