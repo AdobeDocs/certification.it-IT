@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * Livello: esperto (1-3 anni di esperienza)
 * Punteggio minimo: 32/50
-* Tempo: 110 minuti
+* Tempo: 100 minuti
 * Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
 * Lingue disponibili: inglese, giapponese
 * Costo: $225 (globale) / $150 (India)
