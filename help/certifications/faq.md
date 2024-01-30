@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -84,8 +84,8 @@ Per i candidati che non superano l&#39;esame di certificazione Adobe al primo te
 +++Come posso ottenere una copia del mio rapporto di punteggio?
 
 * Passaggio 1: accedere a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Accedi con il tuo ID o indirizzo e-mail e password.
-* Passaggio 2: fare clic su Trascrizioni.
-* Passaggio 3: scorri la cronologia delle trascrizioni e seleziona il rapporto che desideri visualizzare. Puoi inviare il report tramite e-mail o visualizzarlo sullo schermo.
+* Passaggio 2: fare clic su Cronologia.
+* Passaggio 3: scorri la cronologia e seleziona il rapporto che desideri visualizzare. Puoi inviare il report tramite e-mail o visualizzarlo sullo schermo.
 
 +++
 
