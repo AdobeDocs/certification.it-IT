@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2342'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Per i candidati che non superano l&#39;esame di certificazione Adobe al primo te
 
 * Passaggio 1: accedere a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Accedi con il tuo ID o indirizzo e-mail e password.
 * Passaggio 2: fare clic su Cronologia.
-* Passaggio 3: scorri la cronologia e seleziona il rapporto che desideri visualizzare. Puoi inviare il report tramite e-mail o visualizzarlo sullo schermo.
+* Passaggio 3: scorri la cronologia delle trascrizioni e seleziona il rapporto che desideri visualizzare. Puoi inviare il report tramite e-mail o visualizzarlo sullo schermo.
 
 +++
 
