@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
+source-git-commit: 352e6c3a35bb1429a187800519bedc9495e8f7cd
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '891'
 ht-degree: 0%
 
 ---
@@ -165,13 +165,11 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 **Sezione 1: somministrazione e manutenzione**
 
 * [Comprensione di [!DNL Salesforce] Sincronizza](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]: Amministrazione per professionisti aziendali](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [Esportazione di un elenco di tutti [!DNL Marketo] Nomi campi API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [Glossario dei tipi di campo personalizzati](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [Seleziona la lingua, la lingua e il fuso orario](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
 * [Informazioni sulle aree di lavoro e sulle partizioni delle persone](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Panoramica di Audit Trail](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
-
 
 **Sezione 2: Attività di marketing/gestione delle campagne**
 
@@ -188,7 +186,6 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * [Informazioni sui programmi evento](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
 * [Creare un webhook](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
-
 **Sezione 3: Gestione dei lead**
 
 * [Impostare un valore per il campo modulo nascosto](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
@@ -199,7 +196,6 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * [Attiva token per momenti di interesse](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
 * [Informazioni sui modelli di ricavo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-
 **Sezione 4: Gestione dei dati**
 
 * [Modifica valore dati](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
@@ -207,7 +203,6 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * [Criteri di conservazione dei dati delle attività di Marketo](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [Creare una segmentazione](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Utilizzo dei filtri di segmento in un elenco avanzato](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
-
 
 **Sezione 5: relazioni**
 
