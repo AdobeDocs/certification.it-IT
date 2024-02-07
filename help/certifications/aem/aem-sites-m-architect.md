@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Esame AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 2572f234a1a51667cfc584607c50af6bd14c0c8d
 workflow-type: tm+mt
-source-wordcount: '1470'
-ht-degree: 19%
+source-wordcount: '949'
+ht-degree: 3%
 
 ---
 
@@ -141,7 +141,7 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
 **Sezione 1: individuazione**
 
-* [Guida utente allo sviluppo in AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Guida utente allo sviluppo di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
 * [Guida utente di AEM 6.4 Mobile](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
 * [Video e tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it){target="_blank"}
@@ -168,12 +168,12 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 * [Prevenzione di XSS nelle applicazioni React](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Guida utente di AEM 6.4 Mobile](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
-* [Introduzione ai Componenti core](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=it){target="_blank"}
+* [Introduzione ai componenti core](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=it){target="_blank"}
 * [Guida utente all’authoring di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Video e tutorial su AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
 * [Best practice per AEM Screens](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=it){target="_blank"}
 * [Adobe di documenti della Guida](https://helpx.adobe.com/it/enterprise/using/adobe-asset-link.html){target="_blank"}
-* [Guida Forms di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Guida Forms di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=it){target="_blank"}
 * [Guida utente all’amministrazione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [Panoramica di Dispatcher](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Come cancellare la cache di Dispatcher in AEM](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
@@ -181,23 +181,23 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 * [[!DNL Experience Manager as a Cloud Service] Panoramica](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 * [Guida di HTL](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html?lang=it){target="_blank"}
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=it){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 
 **Sezione 3: Attuazione**
 
 * [Guida utente alla distribuzione di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=it){target="_blank"}
 * [Documentazione di Adobe Enterprise](https://experienceleague.adobe.com/docs/?lang=it){target="_blank"}
-* [Adobe [!DNL Experience Manager] panoramica dell’app desktop](https://experienceleague.adobe.com/?lang=itdocs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
-* [Video e tutorial su AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] panoramica dell’app desktop](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Video e Tutorials di AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html){target="_blank"}
 * [Tipi di identità su Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Panoramica di Dispatcher](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Video e tutorial su AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
+* [Video e Tutorials di AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=it){target="_blank"}
 * [Introduzione a Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=it){target="_blank"}
 * [Guida di Adobe Target](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Guida utente all’authoring di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [Video e tutorial su AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it){target="_blank"}
-* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=it){target="_blank"}
+* [Video e Tutorials di AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=it){target="_blank"}
+* [Guida utente alla distribuzione di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
 * [Panoramica di Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 
 
@@ -213,9 +213,9 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 * [Cloud Manager: Guida introduttiva](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
 * [CQBufferedImageCache consuma l’heap durante il caricamento delle risorse](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
 * [Guida di Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html){target="_blank"}
-* [Tutorial sulla cache di AEM Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
+* [Tutorial sulla cache di Dispatcher per AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html){target="_blank"}
 * [Indice Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
-* [Guida utente allo sviluppo in AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [Guida utente allo sviluppo di AEM 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
 <br>
 
@@ -292,23 +292,3 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
-
-## Domande frequenti per l’esame principale per architetti di Adobe Experience Manager Sites (AD0-E117) {#AEM-FAQ}
-
-L&#39;esame di certificazione AD0-E117 è in corso di manutenzione ed è temporaneamente non disponibile. Ci scusiamo sinceramente per l&#39;inconveniente. [Registrati per ricevere notifiche](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) quando sarà nuovamente disponibile.
-
-**Cosa succede se ho già programmato il mio esame?**
-
-Tutti gli esami AD0-E117 pianificati sono stati annullati. I candidati interessati dovranno pianificare nuovamente l&#39;esame quando sarà disponibile la nuova versione.
-
-**Io ho già pagato l&#39;esame. Riceverò un rimborso?**
-
-* Se hai pagato il tuo esame con una carta di credito tramite Examity, ti verrà rimborsato completamente.  
-* Se hai pagato con un voucher, il tuo codice verrà reimpostato e potrai applicarlo al tuo nuovo appuntamento per l&#39;esame.  
-* Se il voucher scade prima che tu possa utilizzarlo, ti emetteremo un nuovo voucher una volta che sei pronto per la pianificazione.
-
-**Devo rinnovare la mia certificazione prima di ottobre; questo avrà un impatto sul mio rinnovo?**
-
-No. Potrai rinnovarlo tramite apprendimento continuo. Accertati di seguire le istruzioni e la procedura fornite in [Rinnovare la certificazione](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
-
