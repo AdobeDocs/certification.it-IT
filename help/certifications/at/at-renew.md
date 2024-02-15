@@ -7,10 +7,10 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
 workflow-type: tm+mt
-source-wordcount: '1521'
-ht-degree: 8%
+source-wordcount: '1209'
+ht-degree: 0%
 
 ---
 
@@ -113,7 +113,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1**
 
-* [Success metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=it){target="_blank"}
+* [Metriche di successo](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=it){target="_blank"}
 * [Criteri](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
 * [QuickStart per test di personalizzazione e creazione di roadmap](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
 * [Best practice per l’ottimizzazione con Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
@@ -124,18 +124,18 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 2**
 
-* [Crea offerte JSON](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [Creare offerte JSON](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 * [Compositore esperienza basato su moduli](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
 * [Creare un pubblico per sola attività](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
 * [Impostazioni avanzate](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
-* [Controllo di qualità attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Controllo di qualità delle attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 * [Creare tipi di pubblico in Target](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
 * [Modifiche](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
 * [Compositore esperienza basato su moduli](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
 * [Includere la stessa esperienza in pagine simili](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
 * [Obiettivi e impostazioni](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
 * [Creare un test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
-* [Targeting dell’esperienza (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
+* [Targeting esperienza (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
 * [Stimare il traffico necessario per il successo dell’attività Test multivariato](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
 * [Gestire le esclusioni](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
 
@@ -143,8 +143,8 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 * [Impostazioni dei rapporti](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 * [Per quanto tempo si deve eseguire un test A/B?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
-* Panoramica sulla funzione [Allocazione automatica](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
-* [Rapporto di riepilogo per Automated Personalization](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
+* [Panoramica dell’allocazione automatica](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
+* [Rapporti di riepilogo di Automated Personalization](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
 * [Rapporto di riepilogo del Targeting automatico](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
 * [Rapporto Prestazioni Esperienza (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
 * [Dieci insidie frequenti per i test A/B e come evitarle](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
@@ -159,7 +159,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sull’Adobe [!DNL Target] Collegamento per l&#39;esame di rinnovo professionale di Business Practitioner qui sotto.
 
-[!BADGE Prendi l’Adobe [!DNL Target]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE Prendi l’Adobe [!DNL Target] Esame di rinnovo professionale per professionisti AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
 
 >[!NOTE]
 >
