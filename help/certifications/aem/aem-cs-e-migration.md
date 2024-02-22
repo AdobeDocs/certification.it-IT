@@ -7,10 +7,10 @@ role: Developer
 badge: label="Esame AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 14%
+source-wordcount: '611'
+ht-degree: 1%
 
 ---
 
@@ -144,7 +144,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 * [[!DNL Experience Manager] Guida utente as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"}
 * [Guida alla migrazione ad Adobe [!DNL Experience Manager] as a Cloud Service per i partner](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
-* [Modifiche di rilievo apportate ad AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=it){target="_blank"}
+* [Modifiche di rilievo apportate all’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"}
 
 **Sezione 2: Progettazione**
 
@@ -160,13 +160,19 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 **Sezione 4: Migrazione**
 
 * [Esecuzione dello strumento Content Transfer (Trasferimento contenuti) su un’istanza di pubblicazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
-* [Prerequisiti per lo strumento Content Transfer (Trasferimento contenuti)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
+* [Prerequisiti per lo strumento Content Transfer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=it){target="_blank"}
 * [Debug di AEM as a Cloud Service tramite i registri](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=it){target="_blank"}
 
 **Sezione 5: Attuazione**
 
 * [Utilizzare la pipeline CI/CD in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
-* [Implementazione in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=it){target="_blank"}
+* [Distribuzione a AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
+
+<br>
+
+**Esegui un test di esercitazione**
+
+{{practice-test}}
 
 +++
 
