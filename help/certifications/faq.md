@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '2342'
+source-wordcount: '2485'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,16 @@ Per ulteriori dettagli, vedi [!DNL Examity] pagina per la gestione degli esami e
 +++Chi posso contattare per domande o problemi relativi alla certificazione?
 
 Per domande sulla registrazione degli esami, sui pagamenti degli esami, sulla consegna dei test, sui centri di test, sui commenti agli esami, sulle domande agli esami, sull&#39;esperienza di test, sulle strutture per i test o sulle domande sul portale di certificazione, contatta `certif@adobe.com`.
+
++++
+
++++Posso annullare o riprogrammare l&#39;appuntamento per l&#39;esame?
+
+Le cancellazioni e la riprogrammazione sono solitamente possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
+
+Né il Supporto Adobe né Examity sono in grado di elaborare richieste di riprogrammazione e cancellazione. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
+
+Se non si riesce a riprogrammare l&#39;esame, anche se sono più di 48 ore prima dell&#39;esame, questo può essere perché c&#39;è una nuova versione dell&#39;esame. Se l&#39;appuntamento era per la versione precedente dell&#39;esame, non sarà possibile riprogrammare l&#39;appuntamento dell&#39;esame. Ti consigliamo di mantenere l&#39;appuntamento per l&#39;esame, se possibile. In caso contrario, sarà necessario annullare l&#39;esame e programmare un nuovo appuntamento per sostenere il nuovo esame.
 
 +++
 

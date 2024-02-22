@@ -4,9 +4,9 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Esempio:
 
 * [Come registrarsi a un esame online in cerca di competenza](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [Come avviare l&#39;esame e connettersi al proiettore](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Requisiti del sistema della prova d&#39;esame](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Sostegno all&#39;esame]
 
@@ -43,9 +44,11 @@ Il tuo [profilo](https://www.certmetrics.com/adobe/candidate/demographics.aspx){
 
 **Annullamento e riprogrammazione**
 
-Le cancellazioni e la riprogrammazione sono possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
+Le cancellazioni e la riprogrammazione sono solitamente possibili se iniziate prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
 Né il Supporto Adobe né Examity sono in grado di elaborare richieste di riprogrammazione e cancellazione. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
+
+Se non si riesce a riprogrammare l&#39;esame, anche se sono più di 48 ore prima dell&#39;esame, questo può essere perché c&#39;è una nuova versione dell&#39;esame. Se l&#39;appuntamento era per la versione precedente dell&#39;esame, non sarà possibile riprogrammare l&#39;appuntamento dell&#39;esame. Ti consigliamo di mantenere l&#39;appuntamento per l&#39;esame, se possibile. In caso contrario, sarà necessario annullare l&#39;esame e programmare un nuovo appuntamento per sostenere il nuovo esame.
 
 **Dopo il tuo esame**
 
