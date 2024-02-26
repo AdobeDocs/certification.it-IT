@@ -6,9 +6,9 @@ role: Developer
 badge: label="Esame AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Percorso di certificazione per Adobe [!DNL Workfront] Core Developer Professional
 
 {{intro}}
-
->[!NOTE]
->
->Questo è l’Adobe più recente [!DNL Workfront] Esame di base per sviluppatori professionisti (ADO-E908). Se ha già iniziato a studiare o ha programmato [versione precedente (ADO-E905)](aw-core-p-developer.md), è necessario completarlo entro il 26 febbraio 2024. Se devi riprogrammare, devi sostenere il nuovo esame.
 
 ## Descrizione esame {#exam-description}
 
@@ -239,10 +235,6 @@ L’Adobe [!DNL Workfront] Core Developer Certified Professional dispone di:
 {{about-certification-exam}}
 
 ## Programmare o sostenere l&#39;esame AD0-E908
-
->[!NOTE]
->
->Questo è l’Adobe più recente [!DNL Workfront] Esame di base per sviluppatori professionisti (ADO-E908). Se ha già iniziato a studiare o ha programmato [versione precedente (ADO-E905)](aw-core-p-developer.md), è necessario completarlo entro il 26 febbraio 2024.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E908" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
