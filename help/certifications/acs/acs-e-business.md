@@ -7,10 +7,10 @@ role: User
 badge: label="Esame AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 11%
+source-wordcount: '518'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 11%
 * Punteggio minimo: 30/50
 * Tempo: 100 minuti
 * Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
-* Lingue disponibili: inglese e giapponese
+* Lingue disponibili: inglese
 * Costo: $225 (globale) / $150 (India)
 * ID esame: AD0-E307
 
@@ -151,8 +151,8 @@ Inoltre, dovresti disporre di:
 
 **Sezione 4: relazioni**
 
-* [Guida introduttiva al reporting dinamico](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
-* [Introduzione alla generazione di rapporti](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
+* [Introduzione al reporting dinamico](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
+* [Introduzione al reporting](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
 * [Personalizzato Creazione di un rapporto basato su attributi di profilo personalizzati](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
 * [Introduzione ai rapporti dinamici](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
 * [Creazione di un rapporto basato sui segmenti del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
@@ -164,7 +164,7 @@ Inoltre, dovresti disporre di:
 
 **Sezione 6: Gestione e amministrazione dei dati**
 
-* [ [!DNL Campaign Standard] Introduzione al modello dati](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [Introduzione a [!DNL Campaign Standard] modello dati](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Introduzione a [!DNL Campaign Standard] amministrazione](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
