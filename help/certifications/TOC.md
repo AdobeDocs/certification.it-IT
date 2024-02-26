@@ -2,7 +2,7 @@
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
 user-guide-description: Informazioni su [!DNL Experience Cloud] Certificazione all'Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
+source-git-commit: 4ff319790c8be6b9f66f95dcd18709b3536d62d7
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 32%
@@ -16,9 +16,6 @@ ht-degree: 32%
 + [Introduzione](getting-started.md)
 + [Come ottenere la certificazione](how-to-get-certified.md)
 + [Rinnovare la certificazione](renew.md)
-+ [Riavvia programma](restart-program.md)
-+ [Il mio profilo](my-profile.md)
-+ [Domande frequenti](faq.md)
 + Certificazioni tecniche per soluzione {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [Panoramica sulla pubblicità](/help/certifications/aac/aac-overview.md)
@@ -146,7 +143,10 @@ ht-degree: 32%
          + [Connettore avanzato AEM](/help/certifications/aw/aw-aem-e-connector.md)
       + [Rinnovo](/help/certifications/aw/aw-renew.md)
    + [Esami qualificati forniti dall’ADLS](https://learning.adobe.com/certification/credentials)
++ [Domande frequenti](faq.md)
 + Nascosto {#hidden}
    + [Verifica idoneità riavvio certificazione](exam-eligibility-check.md)
    + [Panoramica di Experience Platform](/help/certifications/aep/aep-overview.md)
    + [Developer)](/help/certifications/aep/aep-e-foundations.md)
+   + [Riavvia programma](restart-program.md)
+   + [Il mio profilo](my-profile.md)
