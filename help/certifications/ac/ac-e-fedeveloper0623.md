@@ -6,10 +6,11 @@ product: Magento
 role: Developer
 badge: label="Esame AD0-E720" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
+source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 1%
+source-wordcount: '794'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 1%
 ### Dettagli esame {#exam-details}
 
 * Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 33/50
+* Punteggio minimo: 29/50
 * Tempo: 100 minuti
 * Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
 * Lingue disponibili: inglese
@@ -194,7 +195,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 **Sezione 6: Strumenti (CLI e Grunt)**
 
 * [Guida alla configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [Panoramica sull’installazione in loco](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
+* [Panoramica sull&#39;installazione locale](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
 * [Variabili di build](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce su infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
