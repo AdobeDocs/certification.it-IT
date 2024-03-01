@@ -7,7 +7,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 5d8842eefd4c61966743d52e3eb843890d92648c
+source-git-commit: f4aa50b8d3121567589fb94139bd01b833a6bd04
 workflow-type: tm+mt
 source-wordcount: '1209'
 ht-degree: 0%
@@ -159,7 +159,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sull’Adobe [!DNL Target] Collegamento per l&#39;esame di rinnovo professionale di Business Practitioner qui sotto.
 
-[!BADGE Prendi l’Adobe [!DNL Target] Esame di rinnovo professionale per professionisti AD5-E838]{type=Informative url="https://scorpion.caveon.com/launchpad/ad5-e838-adobe-target-business-practitioner-professional-renewal newtab=true"}
+[!BADGE Prendi l’Adobe [!DNL Target] Esame di rinnovo professionale per professionisti AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
 
 >[!NOTE]
 >
