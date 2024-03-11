@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Pagamento con voucher: per acquistare un voucher d&#39;esame vai a: Centro vouch
 
 **Acquisto di un voucher**
 
-Puoi pagare un esame con un voucher. Per acquistare un voucher d&#39;esame, vai al [Adobe Centro giustificativi certificazione](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=it){target="_blank"}.
+Puoi pagare un esame con un voucher. Per acquistare un voucher d&#39;esame, vai al [Adobe Centro giustificativi certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Per informazioni sullo sconto per il voucher, consulta la sezione sottostante.
 
