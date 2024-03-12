@@ -1,20 +1,20 @@
 ---
 title: Domande frequenti
-description: Ottieni risposte alle domande sul programma credenziali di Adobe Digital Experience. Scopri i vantaggi della certificazione, come registrarti e chi contattare.
+description: Risposte alle domande sul programma di certificazione Adobe Digital Experience. Scopri i vantaggi della certificazione, come registrarti e chi contattare.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
 source-wordcount: '2485'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Domande frequenti sulla certificazione Adobe
 
-Per ulteriori informazioni sul programma Adobe Digital Experience Credential, consulta le domande frequenti riportate di seguito.
+Per ulteriori informazioni sul programma di certificazione Adobe Digital Experience, consulta le domande frequenti riportate di seguito.
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
