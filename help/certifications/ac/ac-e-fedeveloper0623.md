@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '730'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Percorso di certificazione per [!DNL Adobe Commerce] Sviluppatore esperto front-end
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/385) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -157,53 +161,20 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 {{study-materials-intro}}
 
-**Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni)**
-
-* [Temi](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
-* [Modelli](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
-* [Aggiungere variabili personalizzate](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
-* [Traduzioni](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
-
-**Sezione 2: XML layout e modelli (modelli phtml)**
-
-* [Layout](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [Attività di personalizzazione comuni](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
-* [Sviluppo di componenti](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Sicurezza](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**Sezione 3: Stili**
-
-* [Progettazione web reattiva](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
-* [Personalizzare gli stili del tema](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-* [Norme di codifica](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [Fogli di stile CSS](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**Sezione 4: JavaScript (widget immagine, libreria di immagini, modulo dati del cliente, modelli di foratura)**
-
-* [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Introduzione ai componenti dell’interfaccia](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
-* [Personalizza estrazione](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
-* [Array osservabili](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
-
-**Sezione 5: Configurazione amministratore e PageBuilder**
-
-* [Pagine](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [Cos’è Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [Raggruppamento JavaScript](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**Sezione 6: Strumenti (CLI e Grunt)**
-
-* [Guida alla configurazione](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [Panoramica sull&#39;installazione locale](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
-* [Variabili di build](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [Commerce su infrastruttura cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Guida alla preparazione all’esame**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/385" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visualizza Guida alla preparazione esame
+</span>
+</a>
 
 +++
 

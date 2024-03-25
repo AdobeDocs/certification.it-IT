@@ -7,16 +7,20 @@ role: User
 badge: label="Esame AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 16%
+source-wordcount: '505'
+ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per Adobe [!DNL Analytics] Professionista professionista
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/391) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -125,37 +129,27 @@ Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la segue
 
 {{study-materials-intro}}
 
-**Sezione 1: analisi aziendale**
+**Guida alla preparazione all’esame**
 
-* [Guida degli strumenti di Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=it){target="_blank"}
-* [Guida ai componenti di Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=it){target="_blank"}
-* [Implementare  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=it){target="_blank"}
-* [Guida di Data Workbench](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=it){target="_blank"}
+{{exam-prep-guide}}
 
-**Sezione 2: relazioni e dashboard per i progetti**
+<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Guida per l’amministratore di Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=it){target="_blank"}
-* [Guida degli strumenti di Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=it){target="_blank"}
-* [Panoramica della visualizzazione](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
-* [Guida ai componenti di Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=it){target="_blank"}
-* [Guida di Customer Journey Analytics](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-**Sezione 3: Segmentazione e metriche calcolate**
-
-* [Guida ai componenti di Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=it){target="_blank"}
-
-**Sezione 4: conoscenza generale degli strumenti e risoluzione dei problemi**
-
-* [Implementare  [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=it){target="_blank"}
-* [Guida ai componenti di Analytics](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=it){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   Visualizza Guida alla preparazione esame
+</span>
+</a>
 
 **Domande di esempio**
 
 {{sample-questions}}
 
-[Visualizza domande di esempio](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visualizza domande di esempio
+</span>
+</a>
 
 +++
 

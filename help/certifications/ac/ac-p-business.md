@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Percorso di certificazione per Adobe [!DNL Commerce] Professionista professionista
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/383) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -130,57 +134,20 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 {{study-materials-intro}}
 
-**Sezione 1: [!DNL Magento Open Source] funzionalità core**
-
-* [Attributi](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [[!DNL Magento] Sviluppo di 2 moduli - Modulo Hello World semplice](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
-* [Prodotti correlati, up-selling e cross-selling](https://docs.magento.com/user-guide/catalog/related-products-up-sells-cross-sells.html){target="_blank"}
-* [Punto di acquisto](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
-* [Metodi di pagamento offline](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
-* [SEO e ricerca](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Panoramica sui pagamenti](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
-* [Promozioni](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Regole prezzo carrello](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [Guida di riferimento alla configurazione](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Ambito](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [Struttura dello store e del sito](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-* [Visualizzazioni dello store](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
-* [Gestire i termini di ricerca](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
-
-**Sezione 2: Adobe [!DNL Commerce] nozioni di base**
-
-* [Guida a Cloud per [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
-* [[!DNL Magento] Introduzione al Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [Pagine](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Guida di riferimento alla configurazione](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Introduzione a Live Search](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
-* [Introduzione a [!DNL Commerce] Merchandising e promozioni](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
-* [Pagamento](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [Adobe [!DNL Commerce] Guida ai sistemi di amministrazione](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
-
-**Sezione 3: Principi di base del marketing digitale e del commercio elettronico**
-
-* [Promozioni](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Assistenza agli acquisti](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
-* [Variabili e comunicazioni per i clienti](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
-* [Panoramica SEO](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
-* [Utilizzo di una mappa del sito](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
-* [Percorso di clienti](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
-* [Strumenti Business Intelligence](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-
-**Sezione 4: Nozioni di base su conformità/sicurezza**
-
-* [Linee guida per l’accessibilità](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
-* [Sicurezza](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
-* [Informazioni sulla conformità ADA e su come si relaziona ai siti Web di eCommerce](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
-* [Adobe [!DNL Commerce] Guida alle best practice per la sicurezza](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
-
-<br>
-
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Guida alla preparazione all’esame**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Visualizza Guida alla preparazione esame
+</span>
+</a>
 
 +++
 

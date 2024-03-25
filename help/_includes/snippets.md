@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Le certificazioni scadono dopo due anni. Per mantenere la certificazione, devi r
 Per favore programmate il vostro esame tra domenica - giovedì 5 pm - 2 AM ET per assicurarci di essere in grado di assegnare un proctor di lingua giapponese. Se si pianifica al di fuori di queste ore, non possiamo garantire un proctor di lingua giapponese.
 
 [Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Segui un corso gratuito {#take-course}
+
+Questo corso gratuito e on-demand ti aiuta a prepararti per l&#39;esame con spiegazioni di concetti chiave, dimostrazioni pratiche e controlli di conoscenza.
+
+## Guida alla preparazione all’esame {#exam-prep-guide}
+
+La guida gratuita per la preparazione degli esami offre un percorso personalizzato attraverso il processo di preparazione degli esami, inclusi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
