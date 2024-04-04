@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!TAB Professionale]
 
+## Istruzioni per il rinnovo della certificazione:
+
+* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
+* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
+* **Passaggio 3**: sostenere e superare l’esame
+
 ### Adobe [!DNL Audience Manager] Esame di rinnovo professionale per professionisti del business
 
 Al momento dovresti essere certificato (non scaduto) in:
 
 * Adobe [!DNL Audience Manager] Professionista professionista
-
-### Istruzioni per il rinnovo della certificazione:
-
-* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
-* **Passaggio 3**: sostenere e superare l’esame
 
 ### Preparati
 
@@ -163,15 +163,15 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 >[!TAB Esperto]
 
-Al momento dovresti essere certificato (non scaduto) in:
-
-* Esperto di Adobe Audience Manager Business Practitioner
-
-### Istruzioni per il rinnovo della certificazione:
+## Istruzioni per il rinnovo della certificazione:
 
 * **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
 * **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
 * **Passaggio 3**: sostenere e superare l’esame
+
+### Al momento dovresti essere certificato (non scaduto) in:
+
+* Esperto di Adobe Audience Manager Business Practitioner
 
 ### Preparati
 
@@ -244,15 +244,15 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 >[!TAB Principale]
 
-### Al momento dovresti essere certificato (non scaduto) in:
-
-* Master Adobe Audience Manager Architect
-
-### Istruzioni per il rinnovo della certificazione
+## Istruzioni per il rinnovo della certificazione
 
 * **Passaggio 1** - Rivedere gli obiettivi dell&#39;esame
 * **Passaggio 2** - Esaminare le risorse
 * **Passaggio 3** - sostenere e superare l&#39;esame
+
+### Al momento dovresti essere certificato (non scaduto) in:
+
+* Master Adobe Audience Manager Architect
 
 ### Preparati
 
