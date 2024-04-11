@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/375) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
+>
+>**Corso:** Se stai solo iniziando, o hai bisogno di un aggiornamento, prendi il nostro [Corso sui fondamenti di Adobe Experience Platform](https://app.rockinfo.com/courses/216) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>
+>**Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/375) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione.
+>
+>_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -110,6 +116,17 @@ Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di 
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Segui un corso**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Segui il corso sui fondamenti di Adobe Experience Platform
+</span>
+</a>
 
 **Guida alla preparazione all’esame**
 

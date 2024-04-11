@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/383) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
+>
+>**Corso**: se stai iniziando da capo, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
+>
+>**Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/383) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione.
+>
+>_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -137,6 +143,17 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Segui un corso**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Segui il corso sui fondamenti di Adobe Commerce
+</span>
+</a>
 
 **Guida alla preparazione all’esame**
 

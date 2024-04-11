@@ -1,5 +1,5 @@
 ---
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
 source-wordcount: '1800'
 ht-degree: 0%
@@ -227,9 +227,13 @@ Per favore programmate il vostro esame tra domenica - giovedì 5 pm - 2 AM ET pe
 
 [Istruzioni giapponesi per la programmazione](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Segui un corso gratuito {#take-course}
 
 Questo corso gratuito e on-demand ti aiuta a prepararti per l&#39;esame con spiegazioni di concetti chiave, dimostrazioni pratiche e controlli di conoscenza.
+
+<!--divider-->
 
 ## Guida alla preparazione all’esame {#exam-prep-guide}
 
