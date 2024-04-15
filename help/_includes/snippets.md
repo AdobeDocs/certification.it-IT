@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Per favore programmate il vostro esame tra domenica - giovedì 5 pm - 2 AM ET pe
 
 ## Segui un corso gratuito {#take-course}
 
-Questo corso gratuito e on-demand ti aiuta a prepararti per l&#39;esame con spiegazioni di concetti chiave, dimostrazioni pratiche e controlli di conoscenza.
+I nostri corsi gratuiti e on-demand ti aiutano a prepararti per il tuo esame. I corsi possono includere spiegazioni di concetti chiave, procedure guidate sui prodotti, dimostrazioni pratiche e controlli delle conoscenze.
 
 <!--divider-->
 
