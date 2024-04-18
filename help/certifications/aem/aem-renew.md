@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 0ed57ea2810ffabed39e9bfd9612b3df43c4cea4
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2123'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante qui sotto.
 
-[!BADGE Prendi l’Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+[!BADGE Prendi l’Adobe [!DNL Experience Manager] Esame di rinnovo professionale per professionisti AD5-E843]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
 
 >[!NOTE]
 >
@@ -248,7 +248,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante qui sotto.
 
-[!BADGE Prendi l’Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
+[!BADGE Prendi l’Adobe [!DNL Experience Manager] Esame di rinnovo Sites Developer Professional AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
@@ -356,7 +356,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante qui sotto.
 
-[!BADGE Prendi l’Adobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
+[!BADGE Prendi l’Adobe [!DNL Experience Manager] Esame di rinnovo professionale per sviluppatori di risorse AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E850 newtab=true"}
 
 >[!NOTE]
 >
@@ -371,7 +371,6 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 * Adobe [!DNL Experience Manager Sites] Sviluppatore esperto
 * Adobe [!DNL Experience Manager Sites] Esperto di professionisti aziendali
 * Adobe [!DNL Experience Manager Sites] Architect Master
-* Adobe [!DNL Experience Manager Assets] Sviluppatore esperto
 * Adobe [!DNL Experience Manager] Tecnico Dev/Ops
 * Adobe [!DNL Experience Manager Forms] Sviluppatore esperto
 

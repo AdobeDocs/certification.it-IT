@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->**Corso**: se stai iniziando da capo, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
+>* **Corsi**: prendi il [Corso professionale Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/105) per la spiegazione dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai solo iniziando, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
 >
->**Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/383) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/383) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione.
 >
 >_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
@@ -148,23 +148,15 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[Segui il corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148)
 
-<span class="spectrum-Button-label has-no-wrap">
-   Segui il corso sui fondamenti di Adobe Commerce
-</span>
-</a>
+[Segui il corso Adobe Commerce Business Practitioner Professional](https://app.rockinfo.com/courses/105)
 
 **Guida alla preparazione all’esame**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Visualizza Guida alla preparazione esame
-</span>
-</a>
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/383)
 
 +++
 

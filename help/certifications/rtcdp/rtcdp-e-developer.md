@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Esame AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 16ffac2b0619d0cdce85e6f73a45cff84a5e306b
+source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
 workflow-type: tm+mt
 source-wordcount: '877'
 ht-degree: 3%
@@ -21,6 +21,18 @@ ht-degree: 3%
 ## Descrizione esame {#exam-description}
 
 {{exam-description}}
+
+<br>
+
+### Dettagli esame {#exam-details}
+
+* Livello: esperto (1-3 anni di esperienza)
+* Punteggio minimo: 45/68
+* Tempo: 136 minuti
+* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
+* Lingua: inglese
+* Costo: $225 (globale) / $150 (India)
+* ID esame: AD0-E605
 
 <br>
 
@@ -66,18 +78,6 @@ Dovresti essere a tuo agio in questi ambienti:
 
 * AEP
 * Rete Edge
-
-<br>
-
-### Dettagli esame {#exam-details}
-
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 45/68
-* Tempo: 136 minuti
-* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
-* Lingua: inglese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E605
 
 <br>
 
@@ -178,7 +178,7 @@ Dovresti essere a tuo agio in questi ambienti:
 **Sezione 3**
 
 * [Configurare un flusso di dati per acquisire dati batch da un’origine di archiviazione cloud nell’interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Panoramica API del server di rete Edge](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=it){target="_blank"}
+* [Panoramica dell’API di Edge Network Server](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=it){target="_blank"}
 * [Inserire dati tramite Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
 * [Trasmettere i dati con API HTTP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=it){target="_blank"}
 * [Guida introduttiva all’inoltro degli eventi](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
@@ -200,7 +200,7 @@ Dovresti essere a tuo agio in questi ambienti:
 * [Panoramica sulla segmentazione con più entità](https://experienceleague.adobe.com/docs/experience-platform/segmentation/multi-entity-segmentation.html){target="_blank"}
 * [Comportamento di esportazione del profilo](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/cloud-storage/azure-event-hubs.html#profile-export-behavior){target="_blank"}
 * [Connessione Amazon S3](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/cloud-storage/amazon-s3.html){target="_blank"}
-* [Segmentazione in streaming](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Segmentazione in streaming](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=it){target="_blank"}
 
 **Sezione 5**
 
