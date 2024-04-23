@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: d50dfa88269e422b67613528efaa9057205a8a44
+source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -115,14 +115,14 @@ I candidati dovrebbero inoltre essere in grado di:
 
 {{exam-objectives}}
 
-**Sezione 1: Ottimizzazione di campagne e Percorsi**
+**Sezione 1: Ottimizzazione di campagne e Percorsi (48%)**
 
 * Considerato uno scenario, identifica come creare un Percorso di clienti
 * Dato uno scenario, determinare come convalidare un Percorso di clienti
 * Dato uno scenario relativo all&#39;esecuzione di un Percorso, identificare la modalità di valutazione del Percorso di clienti
 * Dato uno scenario, identifica quando utilizzare un evento unitario o un evento di business
 
-**Sezione 2: Offer decisioning**
+**Sezione 2: Offer decisioning (12%)**
 
 * Identificare come creare una raccolta di offerte
 * Identificare le fasi di offer decisioning
@@ -131,7 +131,7 @@ I candidati dovrebbero inoltre essere in grado di:
 * Considerato uno scenario, identifica quando utilizzare offer decisioning o la personalizzazione su larga scala
 * Considerato uno scenario, distinguere tra offerte statiche e dinamiche
 
-**Sezione 3: authoring dei contenuti**
+**Sezione 3: authoring dei contenuti (20%)**
 
 * Identificare come utilizzare asset essentials
 * Considerato uno scenario, identifica come aggiungere campi personalizzati nelle e-mail
@@ -141,7 +141,7 @@ I candidati dovrebbero inoltre essere in grado di:
 * Identificare i tipi di frammenti
 * Identificare come creare un modello e-mail
 
-**Sezione 4: Fondamenti di AEP**
+**Sezione 4: Fondamenti di AEP (20%)**
 
 * Considerato uno scenario, determina quando utilizzare diversi tipi di dati
 * Identificare dove rivedere gli attributi dei profili e l’iscrizione al pubblico
