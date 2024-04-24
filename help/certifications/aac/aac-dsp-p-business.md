@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E502" type="neutral"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,6 @@ ht-degree: 0%
 <br>
 
 ### Pubblico previsto {#intended-audience}
-
-**Pubblico previsto:**
 
 * Operatore a livello di programmazione
 * Specialista dei media a pagamento
@@ -137,7 +135,7 @@ Dovresti anche avere familiarità con i seguenti strumenti e tecnologie:
 
 **Sezione 3: Reporting e analisi**
 
-* [Console Web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
+* [Console web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
 **Sezione 4: Fornitura di raccomandazioni per le campagne**
 
