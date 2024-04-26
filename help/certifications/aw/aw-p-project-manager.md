@@ -6,9 +6,9 @@ role: Developer
 badge: label="Esame AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # Percorso di certificazione per Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Nuovo corso disponibile:** Il [Adobe Workfront Project Manager - Corso professionale](https://app.rockinfo.com/courses/230) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. _Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -181,6 +185,12 @@ Dovresti avere:
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Segui un corso**
+
+{{take-course}}
+
+[Partecipa al corso Adobe Workfront Project Manager - Professional](https://app.rockinfo.com/courses/230)
 
 +++
 
