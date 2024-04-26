@@ -8,16 +8,20 @@ level: Experienced
 badge: label="Esame AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 1%
+source-wordcount: '717'
+ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Analytics] Sviluppatore professionale
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/532) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -140,49 +144,11 @@ Dovresti anche avere esperienza con le seguenti attività:
 
 {{study-materials-intro}}
 
-**Sezione 1: analisi nell’ecosistema Adobe Experience Cloud**
+**Guida alla preparazione all’esame**
 
-* [Servizio Adobe Experience Cloud Identity](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it){target="_blank"}
-* [Domande frequenti](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
-* [Guida utente all’authoring di AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
-* [Panoramica sui tag](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=it){target="_blank"}
+{{exam-prep-guide}}
 
-**Sezione 2: strategia e progettazione di Analytics basati su un riferimento di progettazione della soluzione**
-
-* [Implementare [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=it){target="_blank"}
-* [Guida per l’amministratore di Analytics](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=it){target="_blank"}
-* [Variabili elenco](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [eVar per merchandising e metodi di ricerca dei prodotti](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
-
-**Sezione 3: Implementazione e configurazione di Analytics**
-
-* [Guida allo strumento Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=it){target="_blank"}
-* [Suggerimento rapido: passaggio di dati nelle regole di Launch](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
-* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [Raccolta dei dati in Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
-
-**Sezione 4: Sistemi di gestione dei tag**
-
-* [Panoramica sui tag](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=it){target="_blank"}
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Analizzatori di pacchetti](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [Riferimento a un oggetto satellite](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
-
-**Sezione 5: servizi mobili e API**
-
-* [[!DNL Adobe Analytics]: caso di studio sull’integrazione di E-mail marketing (ESP)](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
-* [[!DNL Adobe Analytics] API](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
-* [Ti diamo il benvenuto nella guida per l’amministratore di Enterprise e Team](https://helpx.adobe.com/it/enterprise/admin-guide.html){target="_blank"}
-* [API di reporting di Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
-* [Funzionamento delle regole di elaborazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-
-**Sezione 6: Test, convalida e risoluzione dei problemi**
-
-* [Riferimento errore JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Note tecniche di Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=it){target="_blank"}
-* [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html?lang=it){target="_blank"}
-* [Tracciare il componente su cui è stato fatto clic con [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html?lang=it){target="_blank"}
-* [[!DNL Adobe Analytics] Debug dell’implementazione: strumenti](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
+[Visualizza la Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/532)
 
 <br>
 

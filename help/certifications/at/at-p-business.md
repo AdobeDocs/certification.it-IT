@@ -7,16 +7,20 @@ role: User
 badge: label="Esame AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbb1cccdcf51f5d5ac7635e558fcf7e9dd012842
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '593'
-ht-degree: 1%
+source-wordcount: '563'
+ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per [!DNL Adobe Target] Professionista professionista
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/593) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -127,41 +131,18 @@ Dovresti avere:
 
 {{study-materials-intro}}
 
-**Sezione 1: pianificazione e strategia**
-
-* [[!DNL Adobe Target] Guida per professionisti aziendali](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [[!DNL Adobe Target] Documentazione](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
-* [Profili dei visitatori](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=it){target="_blank"}
-* [[!DNL Adobe Target] kit di benvenuto](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [Metriche di successo](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=it){target="_blank"}
-* [Categorie di pubblico](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
-
-**Sezione 2: Configurazione, esecuzione e gestione**
-
-* [Compositore esperienza visivo](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
-* [[!DNL Adobe Target] kit di benvenuto](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [Panoramica sui test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-* [Creare un’attività Targeting esperienze](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [Panoramica del test multivariato](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=it){target="_blank"}
-* [Creare tipi di pubblico](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=it){target="_blank"}
-* [Controllo di qualità delle attività](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-
-**Sezione 3: analisi e reporting**
-
-* [Impostazioni dei rapporti](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [Panoramica sui test A/B](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-
-**Sezione 4: Risoluzione dei problemi**
-
-* [[!DNL Adobe Target] Guida per professionisti aziendali](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Panoramica di Adobe Experience Cloud Debugger](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-<br>
 
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Guida alla preparazione all’esame**
+
+{{exam-prep-guide}}
+
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/593)
+
+<br>
 
 +++
 
