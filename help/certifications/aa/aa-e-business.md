@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 1f2b18bdcf9e6903e68b99ad81d5aa35a4e19a29
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
@@ -235,3 +235,4 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+
