@@ -6,7 +6,7 @@ role: Developer
 badge: label="Esame AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 092884a61dd0c439f6fb80be271eb28db6399049
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Corso:** Il [Adobe Workfront Project Manager - Corso professionale](https://app.rockinfo.com/courses/230) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/551) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/609) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
 >
 >_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
@@ -157,7 +157,7 @@ Dovresti avere:
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/551)
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/609)
 
 +++
 
