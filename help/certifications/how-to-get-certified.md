@@ -4,9 +4,9 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Nota: gli sconti collettivi non possono essere combinati con altre offerte o sco
 
 >[!TAB Fornitori certificazione]
 
-Il team Adobe Credential collabora con i fornitori per supportare le iniziative e gli obiettivi del programma.  Di seguito sono elencati i fornitori e le relative informazioni di contatto:
+Il programma di certificazione di esperienza digitale Adobe collabora con i fornitori per supportare le iniziative e gli obiettivi del programma. Di seguito sono elencati i fornitori e le relative informazioni di contatto:
 
 | Nome fornitore | Descrizione | Pagina di supporto/E-mail |
 | ------- | ------- | ------- |
