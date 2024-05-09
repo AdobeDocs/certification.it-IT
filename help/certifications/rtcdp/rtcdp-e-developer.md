@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Esame AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '537'
 ht-degree: 0%
 
 ---
@@ -146,7 +146,7 @@ Dovresti essere a tuo agio in questi ambienti:
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 

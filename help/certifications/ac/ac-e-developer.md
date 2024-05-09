@@ -7,9 +7,9 @@ level: Experienced
 badge: label="Esame AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '858'
 ht-degree: 0%
 
 ---
@@ -179,7 +179,7 @@ Deve avere almeno 1-3 anni di esperienza con Adobe [!DNL Commerce] e hai familia
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 

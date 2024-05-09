@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: f77041d17437d9e42deeef7ffbe42155b6089043
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '836'
 ht-degree: 1%
 
 ---
@@ -142,7 +142,7 @@ Dovresti avere:
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 

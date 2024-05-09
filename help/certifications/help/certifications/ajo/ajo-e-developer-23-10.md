@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E606" type="neutral"
 exl-id: null
-source-git-commit: b114bb411e6881bea4fc3f8cd90720fe0f695bc1
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '650'
+ht-degree: 1%
 
 ---
 
@@ -122,7 +122,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 
@@ -145,7 +145,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 **Sezione 4: authoring dei contenuti**
 
 * [Guida AJO, canale SMS, privacy, configurazione, Percorsi, espressioni, gestione dei contenuti, tracciamento e monitoraggio, canale di notifica push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Tutorial su Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
+* [Tutorials Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
 
 **Sezione 5: Modellazione dei dati**
 

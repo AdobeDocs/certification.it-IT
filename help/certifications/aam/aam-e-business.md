@@ -7,10 +7,10 @@ role: User,Developer
 badge: label="Esame AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '815'
-ht-degree: 10%
+source-wordcount: '654'
+ht-degree: 1%
 
 ---
 
@@ -132,7 +132,7 @@ Ambienti:
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 
@@ -149,7 +149,7 @@ Ambienti:
 
 **Sezione 2: Creazione di caratteristiche**
 
-* [Raccomandazioni sulle caratteristiche](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
+* [Recommendations delle caratteristiche](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
 * [Riferimenti per la qualifica di caratteristiche e segmenti](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
 * [Segnali, caratteristiche e segmenti](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
 * [Gestione delle regole delle caratteristiche](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
@@ -157,11 +157,11 @@ Ambienti:
 
 **Sezione 3: relazioni e misurazioni**
 
-* [Rapporto sulle tendenze dei segmenti](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
+* [Rapporto sull’andamento dei segmenti](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
 * [Monitorare e creare rapporti sull’utilizzo delle attività](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
 * [Rapporti sulle tendenze](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
-* [Utilizzo dei rapporti Audience Optimization per comprendere le prestazioni dei contenuti multimediali](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [Ottimizzazione del pubblico per gli editori](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
+* [Utilizzo dei rapporti Audienci Optimization per comprendere le prestazioni dei contenuti multimediali](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* [Audience Optimization per editori](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
 
 **Sezione 4: Risoluzione dei problemi e amministrazione**
 
@@ -176,7 +176,7 @@ Ambienti:
 * [Limiti di utilizzo](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
 * [Creare una tassonomia delle caratteristiche](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=it){target="_blank"}
 * [Classificazione delle caratteristiche con una tassonomia comune](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
-* [Informazioni sulle caratteristiche cartella](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
+* [Caratteristiche cartella: informazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
 <br>
 

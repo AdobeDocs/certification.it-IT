@@ -6,9 +6,9 @@ role: Developer
 badge: label="Esame AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '950'
 ht-degree: 0%
 
 ---
@@ -152,7 +152,7 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 

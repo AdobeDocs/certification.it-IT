@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Esame AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 0%
 * Determina la struttura appropriata per creare caratteristiche e segmenti che utilizzano una nomenclatura chiara e coerente
 * Determinare la tecnica corretta per mantenere una piattaforma organizzata utilizzando una chiara struttura di cartelle
 
-**Sezione 6: unione profili, sincronizzazione ID ed Audience Marketplace**
+**Sezione 6: unione profili, sincronizzazione ID e Audience Marketplace (14%)**
 
 * Organizzare le caratteristiche degli utenti in un unico profilo unificato per creare un pubblico basato su famiglie o dispositivi
 * Identificare l’attivazione tramite Audienci Marketplace
@@ -106,7 +106,7 @@ ht-degree: 0%
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 

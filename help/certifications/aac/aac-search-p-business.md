@@ -8,10 +8,10 @@ role: User
 badge: label="Esame AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 5%
+source-wordcount: '585'
+ht-degree: 1%
 
 ---
 
@@ -130,7 +130,7 @@ Dovresti anche avere esperienza nell’utilizzo delle seguenti funzioni:
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Materiale dello studio**
 
@@ -139,7 +139,7 @@ Dovresti anche avere esperienza nell’utilizzo delle seguenti funzioni:
 **Sezione 1: Portfoli e ottimizzazione**
 
 * [Introduzione a Adobe [!DNL Analytics] ad Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
-* [Panoramica di [!DNL Analytics] per [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html){target="_blank"}
+* [Panoramica di [!DNL Analytics] per [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=it){target="_blank"}
 * [Ottimizzazione delle prestazioni](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [Comprendere i KPI in Analisi avanzate](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [Aggiungere un vincolo a un filtro elenco avanzato](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
@@ -169,7 +169,7 @@ Dovresti anche avere esperienza nell’utilizzo delle seguenti funzioni:
 * [Griglie, guide e misure in PDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribuzione e misurazione](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Documentazione di Marketo Measure Help](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
-* [Variabili di conversione (eVar)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
+* [Variabili di conversione (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
 +++
 

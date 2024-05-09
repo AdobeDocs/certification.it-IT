@@ -6,9 +6,9 @@ role: Developer
 badge: label="Esame AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 092884a61dd0c439f6fb80be271eb28db6399049
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '721'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -133,7 +133,7 @@ Dovresti avere:
 
 <br>
 
-+++Passaggio 2: Prepararsi per l’esame
++++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
 
 **Corso di formazione consigliato**
 
