@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: e8af3d80437671df62f99a60f80eecc31c5976bf
 workflow-type: tm+mt
-source-wordcount: '2843'
-ht-degree: 2%
+source-wordcount: '2421'
+ht-degree: 0%
 
 ---
 
@@ -303,7 +303,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sull’Adobe [!DNL Marketo Engage] Collegamento per il rinnovo degli esperti di business practitioner, qui sotto.
 
-[!BADGE Prendi l’Adobe [!DNL Marketo Engage]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGE Prendi l’Adobe [!DNL Marketo Engage] Esame di rinnovo da esperto di professionisti aziendali AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!NOTE]
 >
@@ -326,7 +326,7 @@ Al momento dovresti essere certificato (non scaduto) in:
 **Dettagli esame:**
 
 * Livello: esperto (3-5 anni di esperienza)
-* Punteggio minimo: 27/36
+* Punteggio minimo: 23/36
 * Tempo: 72 minuti
 * Distribuzione: on-demand/non protetto
 * Lingue disponibili: inglese
