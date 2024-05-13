@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
 * Analisti di dati
 * Analisti web
 * Analisti digitali
-* Media/analisti di marketing
+* Analisti di media/marketing
 * Proprietari e manager del prodotto
 * Analisti dell’interfaccia utente
 * Specialisti in conversione/ottimizzazione
@@ -123,7 +123,7 @@ Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la segue
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

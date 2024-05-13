@@ -7,9 +7,9 @@ role: Developer,Data Architect
 badge: label="Esame AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Dovresti avere:
 * Familiarità con i limiti del modello di acquisizione dei dati
 * Informazioni sulle destinazioni e su quali utilizzare
 * Informazioni sul framework di raccolta dati edge
-* Possibilità di determinare quali autorizzazioni AEP devono essere configurate (ad esempio autorizzazioni a livello di attributo) (per consigliare i clienti)
+* Possibilità di determinare quali autorizzazioni AEP devono essere configurate (ovvero, autorizzazioni a livello di attributo) (per fornire consigli ai client)
 * Comprensione di base dei casi di utilizzo del servizio query
 * Informazioni di base sull’SDK di origini/destinazioni
 
@@ -112,7 +112,7 @@ Dovresti essere a tuo agio in questi ambienti:
 
 * Descrivi diversi modi per creare tipi di pubblico e segmenti all’interno di CDP
 * Spiegare i vari tipi di segmentazione e come funzionano
-* Dimostrare come applicare i casi d’uso all’attivazione di segmenti/tipi di pubblico
+* Dimostrare di comprendere come applicare i casi d’uso all’attivazione di segmenti/tipi di pubblico
 
 **Attivazione (12%)**
 
@@ -146,7 +146,7 @@ Dovresti essere a tuo agio in questi ambienti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

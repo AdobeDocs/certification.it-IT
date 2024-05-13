@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Esame AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: 8b103c67e4232498461482ae33937eda7cb2c0f7
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

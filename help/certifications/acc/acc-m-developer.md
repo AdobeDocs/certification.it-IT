@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Esame AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ Dovresti avere:
 * Capacità di fornire la roadmap tecnica, incluse le dipendenze LEO e di task
 * Capacità di fornire informazioni sui requisiti tecnici per l’ambito del progetto e la tempistica
 * Esperienza con workshop sui requisiti aziendali
-* Esperienza nei workshop di progettazione delle soluzioni più importanti
+* Esperienza nei principali workshop di progettazione delle soluzioni
 * Capacità di valutare più approcci alle soluzioni e di fornire consigli
 * Possibilità di rivedere le campagne e i processi esistenti su altre piattaforme per determinare le esigenze di implementazione di Adobe Campaign
 * Possibilità di descrivere e dimostrare le funzionalità del prodotto
@@ -129,7 +129,7 @@ Dovresti avere:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

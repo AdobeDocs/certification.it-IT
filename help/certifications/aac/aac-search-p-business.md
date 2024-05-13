@@ -8,7 +8,7 @@ role: User
 badge: label="Esame AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
 
 * Cerca i manager delle campagne di marketing
 * Cerca professionisti di marketing
-* Individui che utilizzano regolarmente la funzione Ricerca per eseguire e gestire campagne di ricerca
+* Individui che utilizzano regolarmente la funzione di ricerca per eseguire e gestire campagne di ricerca
 
 <br>
 
@@ -130,7 +130,7 @@ Dovresti anche avere esperienza nell’utilizzo delle seguenti funzioni:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

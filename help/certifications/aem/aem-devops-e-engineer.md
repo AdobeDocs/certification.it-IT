@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 * Architetti di soluzioni
 * Persone nelle organizzazioni partner e freelance che svolgono un ruolo di analista per le soluzioni AEM
 * Specialisti di marketing che conoscono le funzionalità necessarie per coinvolgere gli sviluppatori nella definizione di una soluzione adatta alle esigenze aziendali
-* Clienti che utilizzano il prodotto (ad esempio, utenti esperti)
+* Clienti che utilizzano il prodotto (ovvero, utenti esperti)
 
 <br>
 
@@ -135,7 +135,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

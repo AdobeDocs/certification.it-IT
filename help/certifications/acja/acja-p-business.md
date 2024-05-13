@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Se stai solo iniziando, o hai bisogno di un aggiornamento, prendi il nostro [Corso sui fondamenti di Adobe Experience Platform](https://app.rockinfo.com/courses/216) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Platform](https://app.rockinfo.com/courses/216) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
 >
 >* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/375) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione.
 >
@@ -107,7 +107,7 @@ Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di 
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Esame AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 È necessaria un&#39;esperienza di consulente per l&#39;implementazione con un ruolo ibrido, con circa 2 anni di esperienza in [!DNL Adobe Analytics] implementazione. L’utente funge da ponte tra l’IT e l’azienda, traduce i requisiti aziendali in una soluzione tecnica (SDR) e, in base ai requisiti forniti dall’analista, comprende quale tipo di variabile è necessaria, dove e come raccogliere i dati, progetta il modello dati (livello dati), configura e gestisce la soluzione di gestione dei tag.
 
-In qualità di sviluppatore di Analytics, i tag vengono raramente implementati sulla pagina, ma solo da IT o dall’integratore di sistemi.
+In qualità di sviluppatore di Analytics, raramente si implementano i tag nella pagina, ma vengono invece implementati da IT o dall’integratore di sistemi.
 
 Devi acquisire familiarità con i seguenti strumenti e ambienti:
 
@@ -61,7 +61,7 @@ Strumenti:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come Adobe Debugger, strumenti per sviluppatori di browser, Charles)
-* [!DNL Adobe Analytics] Impostazioni suite per report di Admin Console
+* [!DNL Adobe Analytics] Admin Console impostazioni suite di rapporti
 * Conoscenza di base di Workspace
 * Strumenti di sviluppo web, editor di codice e strumenti di debug per dispositivi mobili
 * Adobe Auditor
@@ -121,7 +121,7 @@ Ambienti:
 * Risolvere i problemi relativi agli errori JavaScript
 * Risoluzione dei problemi [!DNL Adobe Analytics] Variabili
 * Best practice consigliate per il test e il debug
-* Risolvere i problemi di un [!DNL Adobe Analytics] chiamata al server durante il suo ciclo di vita (ad es. dalla richiesta beacon alla visualizzazione nel rapporto)
+* Risolvere i problemi di un [!DNL Adobe Analytics] chiamata al server durante il suo ciclo di vita (cioè, dalla richiesta beacon alla visualizzazione nel rapporto)
 
 <br>
 
@@ -145,7 +145,7 @@ Ambienti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

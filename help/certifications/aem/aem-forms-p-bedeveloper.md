@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 * Considerato uno scenario, identifica i passaggi necessari per creare AEM Forms
 * Descrizione del modello dati di Forms
 * Identificare i passaggi per personalizzare AEM Forms
-* Considerato uno scenario, identifica i passaggi per utilizzare Javascript ClientLib sfruttando l’API GuideBridge
+* Considerato uno scenario, identifica i passaggi per utilizzare JavaScript ClientLib sfruttando l’API GuideBridge
 
 **Sezione 2: processi e flussi di lavoro (34%)**
 
@@ -128,7 +128,7 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

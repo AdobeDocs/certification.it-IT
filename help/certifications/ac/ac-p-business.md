@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -102,13 +102,13 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 * Identifica gli utilizzi di base degli strumenti di marketing digitale (Google Analytics/Adobe Analytics, Google Tag Manager, Email marketing, Segmentazione, Plug-in per social network)
 * Spiegare i principi di base della SEO
-* Identificare gli utilizzi di base degli strumenti di eCommerce comuni (ad esempio, i feed di acquisto)
+* Identificare gli utilizzi di base degli strumenti di eCommerce comuni (come i feed di acquisto)
 * Identificare le funzioni chiave di un sito web eCommerce
 * Identificare i concetti di base dell’eCommerce (comprese le opzioni di vetrina)
 
 **Sezione 4: conformità/nozioni di base sulla sicurezza (13%)**
 
-* Nozioni di base sulla conformità per le leggi sulla privacy e la sicurezza dei pagamenti
+* Comprendere le nozioni di base sulla conformità alle normative sulla privacy e sulla sicurezza dei pagamenti
 * Identificare gli aspetti comuni di sicurezza di un Adobe [!DNL Commerce] progetto
 * Identificare le best practice e i requisiti legali per la conformità in materia di accessibilità
 
@@ -134,7 +134,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Applicare concetti procedurali per creare componenti
 * Creare modelli modificabili
 * Creare librerie client
-* Aggiornare il contenuto in CRX-DE Lite
+* Aggiornare il contenuto in CRXDE Liti
 * Utilizza la struttura JCR per passare ai nodi
 * Creare frammenti di esperienza e contenuto
 * Estendere i componenti core
@@ -122,7 +122,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

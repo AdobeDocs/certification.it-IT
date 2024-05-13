@@ -6,7 +6,7 @@ role: Developer
 badge: label="Esame AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **Corso:** Il [Adobe Workfront Project Manager - Corso professionale](https://app.rockinfo.com/courses/230) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/609) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/609) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo del tuo esame.
 >
 >_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 Dovresti avere:
 
-* Conoscenza del processo di lavoro da una richiesta di lavoro iniziale fino al completamento o esposizione alla gestione del progetto o del lavoro
+* Comprensione del processo di lavoro da una richiesta di lavoro iniziale fino al completamento oppure esposizione alla gestione del progetto o del lavoro
 * Completamento di un corso di formazione o di un campo di avvio autonomo o [!DNL Workfront] da 6 a 12 mesi per comprendere le funzionalità di base
 * Informazioni su come configurare, tracciare e monitorare i dati dei rapporti
 
@@ -133,7 +133,7 @@ Dovresti avere:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Corso di formazione consigliato**
 

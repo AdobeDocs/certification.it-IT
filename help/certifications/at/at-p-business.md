@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Dovresti avere:
 * Identificare gli elementi delle ipotesi
 * Descrivere le metriche di successo primarie e secondarie basate sui KPI
 * Considerato uno scenario, valuta i requisiti del pubblico
-* Descrivi le origini di reporting di Analytics appropriate (ad esempio, Target o Adobe Analytics)
+* Descrivi le origini di reporting di Analytics appropriate (ovvero, Target o Adobe Analytics)
 
 **Sezione 2: configurazione, esecuzione e gestione (50%)**
 
@@ -125,7 +125,7 @@ Dovresti avere:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

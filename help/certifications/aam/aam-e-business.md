@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="Esame AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ Dovresti avere:
 * 1-2 anni di esperienza nel campo delle tecnologie di marketing
 * 3-6 mesi di esperienza con attivazione del pubblico
 * Esperienza con logica booleana, gergo di marketing digitale, analisi dei dati e strategie
-* Conoscenza degli obiettivi aziendali e dei KPI, familiarità con gli stack di tecnologie di marketing digitale e varie integrazioni di piattaforme e comprensione dei flussi di dati (tipi di ID, sincronizzazioni ID, tracciamento dei pixel, destinazioni basate su persone)
+* Conoscenza degli obiettivi aziendali e dei KPI
+* Familiarità con gli stack di tecnologie di marketing digitale e varie integrazioni di piattaforme
+* Comprensione dei flussi di dati (tipi di ID, sincronizzazioni ID, tracciamento dei pixel, destinazioni basate su persone)
 
 Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
@@ -63,7 +65,7 @@ Tecnologie:
 
 * Piattaforma DSP (Trade Desk, Double Click Bid Manager e così via)
 * Excel
-* Tableau e strumenti simili (PowerBI, Qlik)
+* Tableau e utensili simili (Power BI, Qlik)
 * Ad Server (doppio clic su Campaign Manager)
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ Ambienti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

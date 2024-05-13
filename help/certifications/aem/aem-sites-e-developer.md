@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -77,10 +77,10 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 **Sezione 1: Configurazioni (22%)**
 
-* Identificare i passaggi per creare e gestire le configurazioni del dispatcher AEM
+* Identificare i passaggi per creare e gestire le configurazioni del Dispatcher AEM
 * Determinare i passaggi corretti per configurare la multi-tenancy
 * Spiegare come creare e gestire le configurazioni OSGi
-* Considerato uno scenario, determina il metodo corretto per creare e gestire indici OAK personalizzati
+* Considerato uno scenario, determina il metodo corretto per creare e gestire indici Oak personalizzati
 * Determinare i passaggi corretti per configurare l’integrazione SAML e LDAP OOTB
 
 **Sezione 2: sviluppo AEM (44%)**
@@ -126,7 +126,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

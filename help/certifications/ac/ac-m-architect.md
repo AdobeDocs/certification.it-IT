@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Esame AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 * Consapevole delle migliori pratiche di codifica standard, standard di codifica, PSR, principio SOLID
 * Configurazione e utilizzo [!DNL Adobe Commerce] Connettore servizi (e servizi associati)
 * Gestione dei contenuti di staging
-* Informazioni [!DNL Adobe Commerce] , quando è disponibile e non disponibile
+* Informazioni [!DNL Adobe Commerce] impostazioni predefinite, quando è disponibile e non disponibile
 * Ampia comprensione di qualsiasi correlato [!DNL Adobe Commerce] dominio
 * Progettare l’architettura del progetto
 * Ottimizzare le prestazioni di [!DNL Adobe Commerce] predefinito
@@ -138,7 +138,7 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

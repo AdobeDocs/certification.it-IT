@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '744'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 0%
 * Analisti di dati
 * Analisti web
 * Analisti digitali
-* Media/analisti di marketing
+* Analisti di media/marketing
 * Proprietari e manager del prodotto
 * Analisti dell’interfaccia utente
 * Specialisti in conversione/ottimizzazione
@@ -59,16 +59,16 @@ ht-degree: 0%
 
 Dovresti avere:
 
-* 2 anni di esperienza in analisi digitale con background di marketing
-* Comprensione approfondita delle metriche e delle dimensioni dell’analisi digitale
-* Comprendere il valore aziendale delle tecnologie web
+* 2 anni di esperienza in Digital Analytics con background di marketing
+* Comprensione approfondita delle metriche e delle dimensioni di Digital Analytics
+* Comprensione del valore aziendale delle tecnologie web
 * Capacità di tradurre i requisiti aziendali in metriche o KPI
 * Capacità di generare e interpretare rapporti
 * Capacità di comunicare i risultati e di proporre una linea d&#39;azione basata sull&#39;analisi delle relazioni
 * Ha aiutato i clienti a capire come estrarre/estrarre le informazioni desiderate (ad esempio, aiutandoli a definire le loro domande di business)
 * Comprendere il funzionamento della tecnologia e comprendere l’implementazione di un cliente (ad esempio, dove si trovano i dati, come possono essere raccolti e tracciati) dal punto di vista funzionale
 * Almeno un anno di [!DNL Adobe Analytics] esperienza pratica
-* Nozioni di base su come l’analisi digitale filtra/struttura i dati
+* Nozioni di base su come Digital Analytics filtra/struttura i dati
 * Una consapevolezza dell&#39;integrazione di [!DNL Adobe Analytics] con altre soluzioni di Adobe
 
 Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
@@ -76,7 +76,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Client FTP
 * Corrente [!DNL Adobe Analytics] Funzioni di Workspace e altre opzioni di reporting al di fuori di Workspace (ad es. progetti programmati e rapporti programmati)
 * Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come un Adobe Debugger, strumenti di sviluppo del browser, Charles)
-* Admin Console (Analytics Reports Suite Admin Console e Experience Cloud Admin Console)
+* Admin Console (Admin Console della suite di rapporti di Analytics e Admin Console dell’Experience Cloud)
 * Nozioni di base su Launch Adobe
 * App, SPA, informazioni di base sul sito web
 * Interfaccia utente di Mobile Services
@@ -152,7 +152,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

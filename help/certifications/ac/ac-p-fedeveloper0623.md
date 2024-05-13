@@ -1,15 +1,15 @@
 ---
 title: Nuova certificazione front-end per sviluppatori Professional
-description: Scopri come diventare un professionista Adobe Developer certificato, ad Adobe [!DNL Commerce] .
+description: Scopri come diventare un professionista Adobe Developer certificato, ad Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="Esame AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso**: se stai solo iniziando a lavorare, o se hai bisogno di un aggiornamento, prendi il nostro [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>* **Corso**: se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo ti offre una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
 >
 >* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/384) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione.
 >
@@ -106,7 +106,7 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 * Descrivi la differenza tra file parziali specifici (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less)
 * In uno scenario, dimostra la capacità di ignorare o estendere [!DNL Magento] MENO
 * Descrivi i concetti di base di LESS
-* Spiegare la gerarchia di stili ( libreria, moduli, temi)
+* Spiegare la gerarchia di stili (libreria, moduli, temi)
 * Spiegare la compilazione lato client e lato server
 
 **Sezione 4: JavaScript (18%)**
@@ -118,7 +118,7 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 * Descrivere l’utilizzo di Knockout JS
 * Descrivere l’utilizzo dei widget jQuery
 
-**Sezione 5: configurazione amministratore e PageBuilder (6%)**
+**Sezione 5: Configurazione dell’amministratore e Page Builder (6%)**
 
 * Dimostrare la possibilità di personalizzare il contenuto di Page Builder e CMS&quot;
 * Applicare/pianificare un tema a un ambito specifico (sito Web, store, store-view)
@@ -127,7 +127,7 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 **Sezione 6: Strumenti (CLI e Grunt) (8%)**
 
-* Descrivere l&#39;utilizzo dei comandi Bin/Magento di base
+* Descrivere l&#39;utilizzo dei comandi di base bin/Magento
 * Descrivere l&#39;utilizzo dei comandi del Compositore (installazione, aggiornamento, richiesta, rimozione)
 * Differenziare il caso d’uso appropriato per le modalità di distribuzione
 * Descrivi gli strumenti aggiuntivi forniti dal cloud (Fastly, download del database, distribuzione dei contenuti)
@@ -146,7 +146,7 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

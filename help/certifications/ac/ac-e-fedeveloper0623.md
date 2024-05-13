@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '735'
 ht-degree: 0%
@@ -102,7 +102,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Dimostrare la possibilità di ignorare o estendere il Magento LESS
 * Spiegare i concetti fondamentali di LESS
 * Dimostrare la capacità di personalizzare lo stile delle e-mail
-* Spiegare la gerarchia di stili ( libreria, moduli, temi)
+* Spiegare la gerarchia di stili (libreria, moduli, temi)
 * Dimostrare la capacità di implementare e personalizzare MENO componenti della libreria
 * Identificare le differenze tra la compilazione lato client e lato server e come funziona
 
@@ -155,7 +155,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

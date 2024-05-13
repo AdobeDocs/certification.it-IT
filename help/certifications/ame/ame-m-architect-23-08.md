@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Esame AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Questa certificazione ha un prerequisito. DEVI avere un Adobe attivo (non scaduto) [!DNL Marketo Engage] Professionista **Esperto** Certificazione per prendere l’Adobe [!DNL Marketo Engage] Esame di master di architetto.
+>Questa certificazione ha un prerequisito. DEVI avere un Adobe attivo (non scaduto) [!DNL Marketo Engage] Professionista **Esperto** Certificazione per prendere l&#39;Adobe [!DNL Marketo Engage] Esame di master di architetto.
 
 * Prerequisito: Adobe attivo (non scaduto) [!DNL Marketo Engage] Certificazione di esperto di professionisti aziendali
 * Livello: Master (3-5 anni di esperienza)
@@ -66,7 +66,7 @@ ht-degree: 0%
 Dovresti avere:
 
 * Certificazione corrente come esperto certificato Marketi Engage Business Practitioner
-* Almeno cinque anni di esperienza preferibilmente con più istanze di Marketo Engage
+* Almeno cinque anni di esperienza, preferibilmente con più istanze di Marketo Engage
 * Comprensione dell&#39;impatto aziendale e spiegazione/comunicazione efficace della propria soluzione alle parti interessate (tecniche e non) a diversi livelli
 * La capacità di concepire una soluzione e tradurla in un’architettura di Marketo Engage, comprendere i processi aziendali interessati dalle integrazioni
 * Familiarità con i principi di architettura di un’istanza
@@ -145,7 +145,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

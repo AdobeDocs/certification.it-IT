@@ -1,12 +1,12 @@
 ---
 title: Certificazione Enhanced Connector Expert
-description: Scopri come diventare un Adobe certificato esperto in Adobe [!DNL Workfront] per [!DNL Experience Manager]
+description: Scopri come diventare un Adobe Certified Expert certificato in Adobe [!DNL Workfront] per [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Esame AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -115,7 +115,7 @@ Inoltre, dovresti avere:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

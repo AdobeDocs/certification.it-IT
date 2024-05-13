@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -74,9 +74,9 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 Tecnologie:
 
-* Marketing Cloud Debugger / chiamato anche Adobe Experience Cloud Debugger
+* Marketing Cloud Debugger o debugger di Adobe Experience Cloud
 * Adobe Analytics come origine per la generazione di rapporti per Target in particolare per l’integrazione A4T
-* Console del browser/Strumenti per gli sviluppatori del browser come console, scheda di rete
+* Strumenti di sviluppo per console/browser del browser come console, scheda di rete
 * Strumenti di rete nel browser
 * Nozioni di base su altri strumenti di Adobe
 * Console per sviluppatori (qualsiasi browser web)
@@ -91,7 +91,7 @@ Tecnologie:
 Ambienti:
 
 * Desktop/sito Web, inclusi desktop e dispositivi mobili
-* App mobile (nozioni di base) / Utilizzo di Target per dispositivi mobili
+* App mobile (nozioni di base)/Utilizzo di Target per dispositivi mobili
 * Staging-sviluppo
 * Produzione
 * Ambienti di produzione su dispositivi mobili, dispositivi tablet e dispositivi desktop
@@ -115,7 +115,7 @@ Ambienti:
 * Analizzare un’ipotesi di test basata su un dato scenario e identificare gli aspetti di un’ipotesi valida
 * Determinare metriche di successo primarie e secondarie basate su KPI
 * Valutare i requisiti del pubblico
-* Determinare le origini di reporting di Analytics appropriate (ad esempio, Target o Adobe Analytics)
+* Determina le origini di reporting di Analytics appropriate (ovvero, Target o Adobe Analytics)
 
 **Sezione 2: configurazione, esecuzione e gestione (42%)**
 
@@ -163,7 +163,7 @@ Ambienti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

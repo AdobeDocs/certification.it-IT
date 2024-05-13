@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
@@ -83,7 +83,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 * In uno scenario, esegui il targeting dei clienti su un percorso multicanale o con più passaggi
 * Interpretare i rapporti e le metriche delle prestazioni di debug
 * Dato uno scenario, determina i casi d’uso appropriati per un tipo di percorso
-* Preparare i casi di prova (ad esempio sperimentazione o percorso multicanale)
+* Prepara i casi di test (ad esempio, sperimentazione o percorso multicanale)
 
 **Sezione 3: Offer decisioning (16%)**
 
@@ -121,7 +121,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

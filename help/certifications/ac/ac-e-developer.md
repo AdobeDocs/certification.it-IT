@@ -7,7 +7,7 @@ level: Experienced
 badge: label="Esame AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '858'
 ht-degree: 0%
@@ -148,14 +148,14 @@ Deve avere almeno 1-3 anni di esperienza con Adobe [!DNL Commerce] e hai familia
 * Descrivi come aggiornare le variabili cloud tramite l’interfaccia utente
 * Descrizione della gestione dell’ambiente tramite l’interfaccia utente
 * Dimostrare la comprensione del branching mediante l’interfaccia utente
-* Identificare le funzionalità di Adobe commerce Cloud Plan
+* Identificare le funzionalità del piano Adobe Commerce Cloud
 
 **Sezione 9: [!DNL Commerce] Strumento Cloud CLI (gestione parte) (6%)**
 
 * Dimostrare la comprensione dell’aggiornamento delle variabili cloud tramite CLI
 * Dimostrare la conoscenza della gestione dell’ambiente utilizzando CLI (funzionalità esclusive di CLI: attivazione di e-mail, ambienti di rebase, istantanee, dump del database, configurazione dell’ambiente locale)
 * Dimostrare la comprensione dei rami utilizzando CLI
-* Dimostrare come risolvere i problemi in Cloud Services? (My SQL, Redis, tunnel:info)
+* Dimostrare come risolvere i problemi relativi ai servizi cloud? (My SQL, Redis, tunnel:info)
 
 <br>
 
@@ -179,7 +179,7 @@ Deve avere almeno 1-3 anni di esperienza con Adobe [!DNL Commerce] e hai familia
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

@@ -8,9 +8,9 @@ level: Experienced
 badge: label="Esame AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,6 @@ ht-degree: 0%
 >[!NOTE]
 >
 >**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/386) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
-
 
 ## Descrizione esame {#exam-description}
 
@@ -88,10 +87,10 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Determinare come utilizzare i tipi di prodotto e le relative caratteristiche per soddisfare i requisiti dei clienti
 * Interpreta i requisiti e i modelli per determinare se possono essere soddisfatti con funzionalità native
 * Dimostrare la conoscenza del pannello di amministrazione e della posizione delle funzioni comuni
-* Dimostrare la capacità dell’Adobe di importazione/esportazione [!DNL Commerce] entità
+* Dimostrare la capacità di importare/esportare Adobi [!DNL Commerce] entità
 * Come configurare in modo nativo il carrello e il pagamento
 * Valuta i metodi di spedizione nativi disponibili in Adobe [!DNL Commerce] e come si applicano ai casi d’uso comuni
-* Informazioni sui modi di creare e pubblicare contenuti formattati utilizzando l’Adobe [!DNL Commerce] Funzioni del CMS tra cui PageBuilder
+* Informazioni sui modi di creare e pubblicare contenuti formattati utilizzando l’Adobe [!DNL Commerce] Funzioni del CMS tra cui Page Builder
 * Utilizzo di strumenti nativi per gestire il ciclo di vita dell&#39;ordine
 * Dimostrare la capacità di configurare le varie opzioni di regalo (gift card, confezione regalo, inviare messaggi)
 * Configurazione e modifica delle e-mail transazionali
@@ -128,7 +127,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 **Sezione 6: conformità/sicurezza (12%)**
 
 * Dimostrare come proteggere l’Adobe [!DNL Commerce] accesso ai dati con ruoli e autorizzazioni
-* Nozioni di base sulla conformità per le leggi sulla privacy e la sicurezza dei pagamenti
+* Comprendere le nozioni di base sulla conformità alle normative sulla privacy e sulla sicurezza dei pagamenti
 * Spiegare gli aspetti comuni di sicurezza di un Adobe [!DNL Commerce] progetto
 * Comprendere le nozioni di base sulle normative fiscali e come configurarle
 
@@ -154,7 +153,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

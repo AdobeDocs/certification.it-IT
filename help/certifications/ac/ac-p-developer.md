@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Corsi:** Prendi il [Corso Adobe Commerce Developer Professional](https://app.rockinfo.com/courses/92) che include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai solo iniziando, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/382) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/382) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo del tuo esame.
 >
 >Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID.
 
@@ -146,7 +146,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Conoscenza di base della gestione degli utenti cloud e dell’interfaccia utente di onboarding
 * Descrizione della gestione dell’ambiente tramite l’interfaccia utente
 * Descrivere la diramazione tramite l’interfaccia utente
-* Identificare le funzionalità di Adobe commerce Cloud Plan
+* Identificare le funzionalità del piano Adobe Commerce Cloud
 
 **Sezione 9: [!DNL Commerce] Strumento Cloud CLI (gestione parte) (6%)**
 
@@ -176,7 +176,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

@@ -6,7 +6,7 @@ role: Developer
 badge: label="Esame AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 0%
@@ -114,7 +114,7 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 **Sezione 6: Metodologia/best practice/casi d’uso (22%)**
 
 * Dato uno scenario in [!DNL Workfront], funzionalità dimostrativa per impostare il tracciamento dei risultati finali che fanno parte di una singola campagna.
-* Dato uno scenario in [!DNL Workfront], dimostrare la funzionalità relativa alla definizione delle priorità strategiche e alla giustificazione del lavoro .
+* Dato uno scenario in [!DNL Workfront], illustrare le funzionalità relative alla definizione delle priorità strategiche e alla giustificazione del lavoro.
 * Dato uno scenario in [!DNL Workfront], funzionalità di dimostrazione su dati finanziari, utilizzo, previsioni, tariffe/record di fatturazione
 * Dato uno scenario in [!DNL Workfront], illustra la funzionalità relativa alla configurazione del flusso di lavoro e alle approvazioni.
 * Considerato uno scenario, durante l’espansione dell’istanza di un client, consiglia un framework per la governance in relazione all’amministrazione del sistema.
@@ -152,7 +152,7 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

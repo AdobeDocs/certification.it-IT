@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Corso:** Prendi un [corso di formazione](https://app.rockinfo.com/courses/105) che include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/381) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/381) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo del tuo esame.
 >
 >Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID.
 
@@ -70,10 +70,10 @@ Devi essere uno sviluppatore di applicazioni e disporre di:
 
 **Sezione 1: Configurazioni (26%)**
 
-* Riconoscere lo scopo delle configurazioni del dispatcher AEM e del caching
+* Riconoscere lo scopo delle configurazioni e del caching del Dispatcher AEM
 * Determinare i passaggi corretti per configurare più siti in AEM
 * Spiegare come creare e gestire le configurazioni OSGi
-* Determinare i passaggi corretti per la gestione degli indici OAK personalizzati
+* Determinare i passaggi corretti per gestire gli indici Oak personalizzati
 * Determinare i passaggi corretti per configurare l’integrazione SAML o IMS OOTB
 
 **Sezione 2: sviluppo AEM (40%)**
@@ -109,7 +109,7 @@ Devi essere uno sviluppatore di applicazioni e disporre di:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

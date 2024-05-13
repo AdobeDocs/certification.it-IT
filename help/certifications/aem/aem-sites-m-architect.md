@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Esame AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '644'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 * Definisci un modello di contenuto per contenuti/risorse che possa soddisfare i requisiti futuri
 * Definisce i modelli e i componenti necessari in base ai requisiti aziendali
 * Identificare quando utilizzare i componenti predefiniti/funzionalità/core rispetto ai componenti personalizzati
-* Progettazione di strategie di caching, bilanciamento del carico e sicurezza (dispatcher, firewall, CDN)
+* Progettazione di strategie di caching, bilanciamento del carico e sicurezza (Dispatcher, firewall, CDN)
 * Fornire stime di alto livello dello sforzo per la configurazione iniziale e la distribuzione delle funzioni
 * Stabilire la funzione e i casi d&#39;uso dell&#39;internazionalizzazione
 * Definire strategie per supportare più siti e più lingue
@@ -137,7 +137,7 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

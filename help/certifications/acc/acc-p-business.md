@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 1%
@@ -61,7 +61,7 @@ Dovresti avere:
 * Esperienza pratica nella configurazione di flussi di lavoro personalizzati e cross-channel e nell’invio di consegne
 * Esperienza nell’analisi e nel monitoraggio di registri ed errori
 * Comprensione dei concetti e delle tattiche di marketing digitale
-* Nozioni di base su automazione, metriche e tattiche delle campagne (funzionalità relative a gestione dei dati, servizi cloud, approvazioni e così via)
+* Conoscenza di base di automazione, metriche e tattiche di campagna (funzionalità relative a gestione dei dati, servizi cloud, approvazioni e così via)
 * Conoscenza dei database relazionali di base e delle query di targeting in una campagna
 * Esperienza con HTML di base e personalizzazione
 * Gestione dei servizi di abbonamento (consenso/rinuncia)
@@ -142,7 +142,7 @@ Dovresti avere:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 

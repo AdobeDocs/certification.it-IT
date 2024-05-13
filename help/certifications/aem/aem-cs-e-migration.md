@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 1%
 
 ---
@@ -59,7 +59,7 @@ Dovresti avere:
 * Comprensione delle modifiche generali apportate all’architettura e alle funzioni quando si passa da qualsiasi servizio AEM (self-managed, AMS o qualsiasi cloud di terze parti) a AEM as a Cloud Service.
 * 1-3 anni di esperienza nello sviluppo di applicazioni web utilizzando Adobe [!DNL Experience Manager]
 * Esperienza pratica con AEM Forms, Assets e Sites
-* Capacità di guidare i clienti attraverso il processo di migrazione fornendo consulenza e partecipando a tutte le fasi di un progetto AEM
+* Capacità di guidare i clienti attraverso il processo di migrazione, consigliando e partecipando a tutte le fasi di un progetto AEM
 
 Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
@@ -105,7 +105,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 **Sezione 3: Distribuzione (16%)**
 
-* Configurare le pipeline di Cloud Manager e collegare gli ambienti a
+* Configurare le pipeline di Cloud Manager e collegarle agli ambienti
 * Eseguire il provisioning degli ambienti AEMaaCS (dev, stage, prod - author, publish, preview)
 * Gestire il processo di distribuzione con l&#39;aiuto di Adobe IO CLI
 
@@ -138,7 +138,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 <br>
 
-+++Fase 2: Prepararsi all&#39;esame con i nostri materiali di studio gratuiti
++++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
 **Materiale dello studio**
 
