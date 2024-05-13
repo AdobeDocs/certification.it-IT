@@ -7,7 +7,7 @@ role: Developer,Data Architect
 badge: label="Esame AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 8e20ec297693b463b2065e70c6f057e03c3cee60
 workflow-type: tm+mt
 source-wordcount: '537'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/515) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/617) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -156,7 +156,7 @@ Dovresti essere a tuo agio in questi ambienti:
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/515)
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/617)
 
 <br>
 
