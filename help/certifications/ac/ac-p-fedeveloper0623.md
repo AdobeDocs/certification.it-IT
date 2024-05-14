@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Corso**: se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo ti offre una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/384) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/384) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
 >_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 

@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '564'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/373) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/373) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 

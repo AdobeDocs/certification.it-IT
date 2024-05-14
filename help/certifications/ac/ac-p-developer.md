@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Corsi:** Prendi il [Corso Adobe Commerce Developer Professional](https://app.rockinfo.com/courses/92) che include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai solo iniziando, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/382) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo del tuo esame.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/382) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, inclusi i materiali necessari per il successo dell&#39;esame.
 >
 >Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID.
 

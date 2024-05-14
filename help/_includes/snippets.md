@@ -1,7 +1,7 @@
 ---
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -237,4 +237,4 @@ I nostri corsi gratuiti e on-demand ti aiutano a prepararti per il tuo esame. I 
 
 ## Guida alla preparazione all’esame {#exam-prep-guide}
 
-La guida gratuita per la preparazione degli esami offre un percorso personalizzato attraverso il processo di preparazione degli esami, inclusi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+La guida gratuita per la preparazione degli esami offre un percorso personalizzato attraverso il processo di preparazione degli esami, inclusi i materiali necessari per il successo dell&#39;esame.
