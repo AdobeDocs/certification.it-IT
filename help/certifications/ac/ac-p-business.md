@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 06625c3d7b0672b42a71e43a62cec7c09eb02abd
+source-git-commit: abdf8a41272838f408ef70fe7fc36f04477a90dd
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corsi**: prendi il [Corso professionale Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/105) per la spiegazione dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai solo iniziando, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
+>* **Corsi**: prendi il [Corso professionale Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/219) per la spiegazione dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai solo iniziando, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
 >
 >* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/620) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
@@ -150,7 +150,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 [Segui il corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148)
 
-[Segui il corso Adobe Commerce Business Practitioner Professional](https://app.rockinfo.com/courses/105)
+[Segui il corso Adobe Commerce Business Practitioner Professional](https://app.rockinfo.com/courses/219)
 
 **Guida alla preparazione all’esame**
 
