@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/366) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
+>
+>* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Manager](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/366) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>
+>_Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -116,6 +122,12 @@ Inoltre, dovresti disporre di:
 **Materiale dello studio**
 
 {{study-materials-intro}}
+
+**Segui un corso**
+
+{{take-course}}
+
+[Segui il corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
 **Guida alla preparazione all’esame**
 

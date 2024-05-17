@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/364) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
+>
+>* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Manager](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/364) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>
+>_Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -140,6 +146,12 @@ Inoltre, dovresti avere esperienza con le tecnologie e gli ambienti seguenti:
 <br>
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
+
+**Segui un corso**
+
+{{take-course}}
+
+[Segui il corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
 **Esegui un test di esercitazione**
 
