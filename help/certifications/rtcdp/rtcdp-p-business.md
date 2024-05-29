@@ -8,7 +8,7 @@ recommendations: disable, exclude
 badge: label="Esame AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **Corso:** Se stai solo iniziando, o hai bisogno di un aggiornamento, prendi il nostro [Corso sui fondamenti di Adobe Experience Platform](https://app.rockinfo.com/courses/216) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso fornisce una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/377) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/637) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
 >_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
@@ -149,7 +149,7 @@ Esperienza con attività che includono:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/377" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/637" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Visualizza Guida alla preparazione esame

@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Percorso di certificazione per Adobe [!DNL Campaign Standard] Esperto di professionisti aziendali
 
 {{intro}}
+
+>[!NOTE]
+>
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/636) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -131,47 +135,15 @@ Inoltre, dovresti disporre di:
 
 {{study-materials-intro}}
 
-**Sezione 1: Gestione delle consegne**
-
-* [Gestione Portfolio](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [Informazioni sulla configurazione dei canali](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [Monitoraggio di una consegna](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=it){target="_blank"}
-* [E-mail Designer di Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
-
-**Sezione 2: Gestione delle campagne**
-
-* [Informazioni sull’esecuzione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
-* [Modifica delle risorse personalizzate per le richieste di privacy](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
-* [Creazione di tipi di pubblico](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
-
-**Sezione 3: Analisi dei requisiti**
-
-* [Creazione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
-* [Gestione utenti](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
-
-**Sezione 4: relazioni**
-
-* [Introduzione al reporting dinamico](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
-* [Introduzione al reporting](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
-* [Personalizzato Creazione di un rapporto basato su attributi di profilo personalizzati](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
-* [Introduzione ai rapporti dinamici](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
-* [Creazione di un rapporto basato sui segmenti del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
-
-**Sezione 5: Risoluzione dei problemi**
-
-* [Best practice per i flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=it){target="_blank"}
-* [Risoluzione dei problemi API](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
-
-**Sezione 6: Gestione e amministrazione dei dati**
-
-* [Introduzione a [!DNL Campaign Standard] modello dati](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
-* [Introduzione a [!DNL Campaign Standard] amministrazione](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
-
-<br>
-
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Guida alla preparazione all’esame**
+
+{{exam-prep-guide}}
+
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/636)
 
 +++
 
