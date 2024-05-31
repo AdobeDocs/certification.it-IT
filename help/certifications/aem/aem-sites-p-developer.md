@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Corso:** Prendi il [Adobe Experience Manager Sites per sviluppatori - Corso professionale](https://app.rockinfo.com/courses/105), che include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Manager](https://app.rockinfo.com/courses/240), che fornisce una base di conoscenze su cui puoi basare il tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/381) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, inclusi i materiali necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/121) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, inclusi i materiali necessari per il successo dell&#39;esame.
 >
 >Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID.
 
@@ -127,7 +127,7 @@ Devi essere uno sviluppatore di applicazioni e disporre di:
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/381)
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/121)
 
 **Domande di esempio**
 

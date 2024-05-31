@@ -7,7 +7,7 @@ role: User
 badge: label="Esame AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: abdf8a41272838f408ef70fe7fc36f04477a90dd
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Corsi**: prendi il [Corso professionale Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/219) per la spiegazione dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai solo iniziando, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/620) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/137) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
 >_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
@@ -156,7 +156,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/620)
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/137)
 
 +++
 
