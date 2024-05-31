@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
+source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/618) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/247) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -85,12 +85,20 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 **Sezione 1: Creazione e gestione dei programmi (39%)**
 
-* Considerata una domanda/esigenza aziendale, identifica una strategia di reporting appropriata per eseguire un&#39;analisi
-* Analizzare i dati per rispondere alle domande aziendali
-* Identificare i funnel di conversione (come concetto per comprendere l’analisi aziendale)
-* Consulta Solution Design Reference (SDR) per determinare quali dati sono disponibili nei rapporti
-* Analizzare i dati del rapporto per riepilogare e trarre conclusioni
-* Riconoscere anomalie e anomalie nei rapporti
+* Identifica quando utilizzare ciascuno dei 4 tipi di programmi.
+* Identifica perché/quando utilizzare il programma dell’evento.
+* Identifica perché/quando utilizzare il programma predefinito.
+* Identifica le caratteristiche speciali del programma di coinvolgimento.
+* Identifica le funzioni speciali del programma e-mail.
+* Riconosci ciò che può essere clonato.
+* Identifica i vantaggi dei tag personalizzati.
+* Identifica lo scopo dei canali.
+* Descrivere l&#39;importanza dei costi del periodo.
+* Riconoscere il concetto di utilizzo del punteggio del lead.
+* Comprendere i limiti di comunicazione.
+* Riconoscere l&#39;iscrizione al programma e l&#39;acquisizione.
+* Informazioni sulle preferenze del cliente (abbonamento, comunicazione).
+* Applica le best practice per la revisione prima del lancio.
 
 **Sezione 2: Immobili (19%)**
 
@@ -159,7 +167,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/618)
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/247)
 
 +++
 
