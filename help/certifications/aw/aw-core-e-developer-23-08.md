@@ -6,7 +6,7 @@ role: Developer
 badge: label="Esame AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/611) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/241) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -162,7 +162,7 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/playScorm/611)
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/241)
 
 <br>
 

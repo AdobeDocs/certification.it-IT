@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Esame AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
 workflow-type: tm+mt
 source-wordcount: '717'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/619) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/248) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -163,7 +163,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{exam-prep-guide}}
 
-[Guida alla preparazione all’esame](https://app.rockinfo.com/courses/playScorm/619)
+[Guida alla preparazione all’esame](https://app.rockinfo.com/courses/248)
 
 +++
 
