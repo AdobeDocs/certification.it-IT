@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 1%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,13 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**Nuovo corso disponibile:** Il servizio gratuito on-demand [Corso Adobe Journey Optimizer Developer Expert](https://app.rockinfo.com/courses/147) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. _Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
+>Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
+>
+>* **Corso:** Il servizio gratuito on-demand [Corso Adobe Journey Optimizer Developer Expert](https://app.rockinfo.com/courses/147) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
+>
+>* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/143) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+>
+>_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Segui il corso per esperti Adobe Journey Optimizer Developer
-</span>
-</a>
-
-**Risorse di studio**
-
-**Sezione 1: Amministrazione e configurazione**
-
-* [Experience Platform, controllo degli accessi, guida alle sandbox](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=it){target="_blank"}
-* [Guida AJO, configurazione, canale SMS, Percorsi](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [API AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**Sezione 2: Journey Orchestration**
-
-* [Guida AJO, Percorsi, espressioni, tracciamento e monitoraggio](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-
-**Sezione 3: Offer decisioning**
-
-* [Guida AJO, gestione delle decisioni, riferimento API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-
-**Sezione 4: authoring dei contenuti**
-
-* [Guida AJO, canale SMS, privacy, configurazione, Percorsi, espressioni, gestione dei contenuti, tracciamento e monitoraggio, canale di notifica push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Tutorials Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
-
-**Sezione 5: Modellazione dei dati**
-
-* [Guida AJO, Configurazione, Tipi di pubblico, Profili e identità, Gestione dati](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Experience Platform, Set di dati, Guida ai connettori di origine, Tutorials API, Guida al servizio Platform Identity, Interfaccia utente di segmentazione, Tutorials di interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
-
-<br>
+[Segui il corso per esperti Adobe Journey Optimizer Developer](https://app.rockinfo.com/courses/147)
 
 **Esegui un test di esercitazione**
 
 {{practice-test}}
+
+**Guida alla preparazione all’esame**
+
+{{exam-prep-guide}}
+
+[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/143)
 
 +++
 
