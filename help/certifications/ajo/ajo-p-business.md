@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: 573a6c2e60a4fe3376f3a567b4e99bf7ccb2a4db
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 * Tempo: 100 minuti
 * Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
 * Lingue disponibili: inglese
-* Costo: $225 (globale) / $150 (India)
+* Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E607
 
 <br>
