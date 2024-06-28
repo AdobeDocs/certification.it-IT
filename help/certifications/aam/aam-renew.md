@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
+source-git-commit: 9724d768dc56c7bb67ae709ab623ca5ae173150f
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Al momento dovresti essere certificato (non scaduto) in:
 **Sezione 6: unione profili, sincronizzazione ID e Audience Marketplace (14%)**
 
 * Organizzare le caratteristiche degli utenti in un unico profilo unificato per creare un pubblico basato su famiglie o dispositivi
-* Identificare l’attivazione tramite Audienci Marketplace
+* Identificare l’attivazione tramite Audience Marketplace
 
 ### Preparati
 
@@ -104,7 +104,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 **Sezione 1**
 
 * [Tipi di dati raccolti](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
-* [Sicurezza dei dati in Audienci Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
+* [Sicurezza dei dati in Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
 * [Richieste sulla privacy dei dati](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
 * [Panoramica Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=it){target="_blank"}
 * [Domande frequenti sui feed di dati cliente](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
@@ -115,7 +115,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 2**
 
-* [Comprendere i segmenti in Analytics e Audienci Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=it){target="_blank"}
+* [Comprendere i segmenti in Analytics e Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=it){target="_blank"}
 * [Informazioni sui segnali](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=it){target="_blank"}
 * [Requisiti di prefisso delle variabili chiave](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
 * [Recommendations delle caratteristiche](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
@@ -316,7 +316,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul collegamento Adobe Audience Manager Architect Master RENEW - AD5-E825, di seguito.
 
-[!BADGE sostenere l&#39;esame di rinnovo del master Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+[!BADGE sostenere l&#39;esame di rinnovo del master Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825&amp;cid=358899 newtab=true"}
 
 >[!NOTE]
 >
