@@ -7,10 +7,10 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
 workflow-type: tm+mt
-source-wordcount: '1445'
-ht-degree: 11%
+source-wordcount: '1195'
+ht-degree: 0%
 
 ---
 
@@ -33,12 +33,6 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 >**Per condividere un collegamento:** Se desideri condividere il collegamento per un esame di rinnovo o una valutazione con un collega, collega la pagina di rinnovo generale dell’esame, non l’URL dell’esame stesso, per evitare problemi di accesso.
 
 >[!BEGINTABS]
-
->[!TAB Professionale]
-
->[!NOTE]
->
->Prossimamente il rinnovo professionale.
 
 >[!TAB Esperto]
 
@@ -207,12 +201,12 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Regole di filtro](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
 * [Modelli di attività di marketing](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
 * [Configurazione di una pagina di destinazione](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
-* [Attività Subscription services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Subscription Services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
 * [Passaggi fondamentali per l’invio di un messaggio](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
-* [Tracciare e monitorare](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [Riepilogo della consegna](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [E-mail Designer di Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
-* [Guida introduttiva al reporting dinamico](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+* [Tracciamento e monitoraggio](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Riepilogo delle consegne](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [E-mail campagna Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Introduzione al reporting dinamico](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
 **Sezione 3: Amministrazione**
 

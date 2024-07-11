@@ -7,7 +7,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 2b18ae63bce685f340fc7075519b7b61904f9056
+source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 1%
@@ -96,7 +96,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Guida dell’interfaccia utente di Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=it){target="_blank"}
 * [Attivare i tipi di pubblico nelle destinazioni di streaming](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
 * [Tipi e categorie di destinazione](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
-* [Segmentazione in streaming](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Segmentazione in streaming](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=it){target="_blank"}
 * [Guardrail per i dati di attivazione](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
 * [Attivare i tipi di pubblico per le destinazioni di esportazione dei profili in batch](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
 * [Panoramica sulle destinazioni](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=it){target="_blank"}
@@ -110,7 +110,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Governance dei dati in Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [Panoramica sui criteri di utilizzo dei dati](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html?lang=it){target="_blank"}
 * [Gestire le etichette di utilizzo dei dati nell’interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=it){target="_blank"}
-* [Applicazione automatica dei criteri](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html){target="_blank"}
+* [Applicazione automatica dei criteri](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html?lang=it){target="_blank"}
 * [Utilizzare Request Builder](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=it#request-builder){target="_blank"}
 
 **Sezione 3**
@@ -120,7 +120,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Panoramica di Customer AI](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
 * [Creare tipi di pubblico sequenziali](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
 * [Creare un segmento con più entità](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
-* [Segmentazione in streaming](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Segmentazione in streaming](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=it){target="_blank"}
 * [Creare tipi di pubblico](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
 * [Monitorare i flussi di dati per le identità nell’interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
 * [Attivare i tipi di pubblico per le destinazioni di esportazione dei profili in batch](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
@@ -140,19 +140,13 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante qui sotto.
 
-[!BADGE Prendi l’Adobe [!DNL Real-Time CDP]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE Prendi l’Adobe [!DNL Real-Time CDP] Esame di rinnovo professionale per professionisti AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
 
 >[!NOTE]
 >
 >Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
 
 +++
-
->[!TAB Esperto]
-
->[!NOTE]
->
->Il rinnovo degli esperti sarà presto disponibile.
 
 >[!ENDTABS]
 
