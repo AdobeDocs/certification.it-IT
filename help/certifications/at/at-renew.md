@@ -7,7 +7,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 6fa02094101684e26a53d63f102bbdb7e6fdd570
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Sezione 2: configurazione, esecuzione e gestione 45%
 * Descrivere le procedure per effettuare il controllo qualità delle attività
 * Descrizione delle procedure per la gestione di attività e tipi di pubblico in [!DNL Target]
 
-* Sezione 3: analisi e reporting 19%
+Sezione 3: analisi e reporting 19%
 
 * Descrivere le impostazioni per aiutare a impostare gli elementi visualizzati in un rapporto
 * Descrivi la differenza in Adobe [!DNL Target] Impostazioni del Calcolatore dimensioni campione tra la pianificazione e la convalida
@@ -113,14 +113,14 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1**
 
-* [Metriche di successo](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=it){target="_blank"}
+* [Metriche di successo](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
 * [Criteri](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
 * [QuickStart per test di personalizzazione e creazione di roadmap](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
 * [Best practice per l’ottimizzazione con Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
 * [Impostare le metriche](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
 * [Creare un pubblico per sola attività](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Adobe Analytics come origine per la generazione di rapporti per Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=it){target="_blank"}
-* [Configurare rapporti A4T in Analysis Workspace per le attività di allocazione automatica](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=it){target="_blank"}
+* [Adobe Analytics come origine per la generazione di rapporti per Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
+* [Configurare rapporti A4T in Analysis Workspace per le attività di allocazione automatica](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
 
 **Sezione 2**
 
@@ -152,7 +152,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 **Sezione 4**
 
 * [Risolvere i problemi relativi agli errori di attività](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
-* [Testare un’implementazione di Adobe Target con Adobi Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
+* [Testare un’implementazione di Adobe Target con Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
 * [Impostazioni dei rapporti](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 
 ### Rinnovare la certificazione
@@ -201,8 +201,8 @@ Seleziona innanzitutto **due corsi** completare e superare ogni valutazione del 
 | Corsi per esperto e master | Valutazione del corso |
 | ------ | ------ |
 | [[!DNL Adobe Target] Panoramica di Decisioning sul dispositivo](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] Innovazioni nel corso di personalizzazione](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [Corso sull’implementazione e la personalizzazione delle app mobili](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
+| [[!DNL Adobe Target] Innovazioni nel corso Personalization](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
+| [Corso sull’implementazione e su Personalization per app mobili](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [Corso di Mobile guidato e IoT Launch per sviluppatori](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
 | [Corso di lancio guidato del sito web per sviluppatori](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
 
