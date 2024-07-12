@@ -1,20 +1,20 @@
 ---
 title: Rinnovo certificazione
-description: Scopri come rinnovare il [!DNL Audience Manager] certificazione prima della scadenza.
+description: Scopri come rinnovare la certificazione  [!DNL Audience Manager]  prima della scadenza.
 solution: Audience Manager
 product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 9724d768dc56c7bb67ae709ab623ca5ae173150f
+source-git-commit: 5124ebdfc298becc8860046209c3e92d6ebb1379
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
 
 ---
 
-# Rinnovare l’Adobe [!DNL Audience Manager] certificazione
+# Rinnova la certificazione di Adobe [!DNL Audience Manager]
 
 Il tuo Adobe di certificazione è valido per due anni. Se ti avvicini a questo periodo di due anni, è ora di rinnovare la certificazione per mantenerla attiva.
 
@@ -26,23 +26,23 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!IMPORTANT]
 >
->**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Per condividere un collegamento:** Se desideri condividere il collegamento per un esame di rinnovo o una valutazione con un collega, collega la pagina di rinnovo generale dell’esame, non l’URL dell’esame stesso, per evitare problemi di accesso.
+>**Per condividere un collegamento:** Se si desidera condividere il collegamento a un esame di rinnovo o a una valutazione con un collega, collegarsi alla pagina di rinnovo generale dell&#39;esame, non all&#39;URL dell&#39;esame stesso, per evitare problemi di accesso.
 
 >[!BEGINTABS]
 
->[!TAB Professionale]
+>[!TAB Professionista]
 
 ## Istruzioni per il rinnovo della certificazione:
 
-* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
-* **Passaggio 3**: sostenere e superare l’esame
+* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
+* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
+* **Passaggio 3**: superare l&#39;esame
 
-### Adobe [!DNL Audience Manager] Esame di rinnovo professionale per professionisti del business
+### Adobe [!DNL Audience Manager] Esame di rinnovo professionale per professionisti professionisti
 
 Al momento dovresti essere certificato (non scaduto) in:
 
@@ -58,7 +58,7 @@ Al momento dovresti essere certificato (non scaduto) in:
 * Distribuzione: on-demand/non protetto
 * Lingue disponibili: inglese
 * Costo: GRATUITO
-* ID esame: Adobe AD5-E852 [!DNL Audience Manager] Esame di rinnovo professionale per professionisti del business
+* ID esame: AD5-E852 Adobe [!DNL Audience Manager] Professionista professionista rinnovamento esame
 
 ### Obiettivi e ambito dell&#39;esame
 
@@ -75,7 +75,7 @@ Al momento dovresti essere certificato (non scaduto) in:
 * Considerato uno scenario, identifica segnali, caratteristiche, segmenti e tipi di pubblico
 * Identificare gli utilizzi di diversi tipi di caratteristiche
 
-**Sezione 3: relazioni e misurazioni (16%)**
+**Sezione 3: Reporting e misurazioni (16%)**
 
 * Dato uno scenario, genera rapporti per misurare gli obiettivi di attivazione o campagna
 * In uno scenario, confronta i tipi di pubblico in base alle percentuali di corrispondenza
@@ -109,43 +109,43 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Panoramica Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=it){target="_blank"}
 * [Domande frequenti sui feed di dati cliente](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
 * [Generatore di destinazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html){target="_blank"}
-* [Definizione delle macro di destinazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
-* [Attivare i tipi di pubblico per le destinazioni di esportazione dei profili in batch](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
-* [Aggiungere nuove destinazioni basate su dispositivi](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
+* [Macro di destinazione definite](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
+* [Attiva i tipi di pubblico nelle destinazioni di esportazione del profilo batch](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
+* [Aggiungi nuove destinazioni basate su dispositivi](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
 
 **Sezione 2**
 
 * [Comprendere i segmenti in Analytics e Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=it){target="_blank"}
 * [Informazioni sui segnali](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=it){target="_blank"}
-* [Requisiti di prefisso delle variabili chiave](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
-* [Recommendations delle caratteristiche](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
-* [Creare caratteristiche algoritmiche](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
+* [Requisiti di prefisso per le variabili chiave](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
+* [Caratteristica Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
+* [Creare Caratteristiche Algoritmiche](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
 
 **Sezione 3**
 
-* [Rapporti sulle conversioni](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
+* [Report conversioni](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
 * [Raggiungimento di utenti univoci](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
-* [Sovrapposizione unità annuncio](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
+* [Sovrapposizione di unità annunci](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
 * [Comprendere i tassi di corrispondenza](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
-* [Cause dei tassi di corrispondenza bassi per i tipi di pubblico utilizzabili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
+* [Cause di bassi tassi di corrispondenza per tipi di pubblico utilizzabili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
 * [Informazioni sulla sincronizzazione degli ID e sulle percentuali di corrispondenza](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
 
 **Sezione 4**
 
-* [Rapporto sullo stato di onboarding: informazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
-* [Elenco e impostazioni delle origini dati](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
+* [Rapporto sullo stato di onboarding: ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
+* [Elenco origini dati e impostazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=en){target="_blank"}
 * [Contenuti dei file di dati in entrata: sintassi, caratteri non validi, variabili ed esempi](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
 
 **Sezione 5**
 
-* [Casi d’uso di Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
+* [Casi di utilizzo Audienci Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
 * [Creare una tassonomia delle caratteristiche](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
 * [Classificazione delle caratteristiche con una tassonomia comune](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
 * [Creare una tassonomia dei segmenti](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
 
 **Sezione 6**
 
-* [Casi d’uso generali per le regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
+* [Casi d&#39;uso generali per le regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
 * [Panoramica delle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
 * [Guida introduttiva alle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
 * [Creare, assegnare un prezzo e gestire feed di dati](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
@@ -153,9 +153,9 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 ### Rinnovare la certificazione
 
-Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul collegamento seguente.
+Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fai clic sul collegamento seguente.
 
-[!BADGE Prendi l’Adobe [!DNL Audience Manager] Esame di rinnovo professionale per professionisti - AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852&amp;cid=358899 newtab=true"}
+[!BADGE Prendi l&#39;Adobe [!DNL Audience Manager] Esame di rinnovo professionale per professionisti professionisti - AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852 newtab=true"}
 
 >[!NOTE]
 >
@@ -165,9 +165,9 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 ## Istruzioni per il rinnovo della certificazione:
 
-* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
-* **Passaggio 3**: sostenere e superare l’esame
+* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
+* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
+* **Passaggio 3**: superare l&#39;esame
 
 ### Al momento dovresti essere certificato (non scaduto) in:
 
@@ -198,7 +198,7 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 * Consigliare caratteristiche per una determinata strategia di pubblico
 * Determinare il metodo corretto per creare e aggiornare caratteristiche basate su regole e/o onboarded
 
-**Sezione 3: relazioni e misurazioni (21%)**
+**Sezione 3: Reporting e misurazioni (21%)**
 
 * Considerato uno scenario, analizza i rapporti per fornire i passaggi successivi utilizzabili per soddisfare gli obiettivi aziendali
 * Dato uno scenario, analizza l’ottimizzazione del pubblico
@@ -226,16 +226,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 ### Risorse:
 
-* [Adobe [!DNL Audience Manager] Documentazione del prodotto](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [Adobe [!DNL Audience Manager] Documentazione Del Prodotto](https://docs.adobe.com/content/help/it-IT/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [Supporto Adobe - Tipi di pubblico Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
-* [Informazioni e supporto per Adobe Experience Cloud](https://helpx.adobe.com/it/support/experience-cloud.html){target="_blank"}
+* [Informazioni e supporto su Adobe Experience Cloud](https://helpx.adobe.com/it/support/experience-cloud.html){target="_blank"}
 * [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
 **Riavvia la certificazione**
 
-Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul collegamento Adobe Audience Manager Business Practitioner Expert - AD5-E826 di seguito.
+Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fai clic sul collegamento Adobe Audience Manager Business Practitioner Expert - AD5-E826 di seguito.
 
-[!BADGE Sostieni l&#39;esame di rinnovo Adobe Audience Manager Business Practitioner Expert AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+[!BADGE sostenere l&#39;esame di rinnovo Adobe Audience Manager Business Practitioner Expert AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
 >[!NOTE]
 >
@@ -246,9 +246,9 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 ## Istruzioni per il rinnovo della certificazione
 
-* **Passaggio 1** - Rivedere gli obiettivi dell&#39;esame
+* **Passaggio 1** - Verifica gli obiettivi dell&#39;esame
 * **Passaggio 2** - Esaminare le risorse
-* **Passaggio 3** - sostenere e superare l&#39;esame
+* **Passaggio 3** - superare l&#39;esame
 
 ### Al momento dovresti essere certificato (non scaduto) in:
 
@@ -268,7 +268,7 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 ## Obiettivi e ambito dell&#39;esame:
 
-**Sezione 1: analisi dell’attuazione (28%)**
+**Sezione 1: Analisi dell&#39;implementazione (28%)**
 
 * Determinare come guidare e supportare l’implementazione dell’AAM come prodotto autonomo o come parte di una soluzione cloud
 * Analizza le opzioni di destinazione in uscita e consiglia un approccio di implementazione AAM
@@ -283,9 +283,9 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 * Identificare attributi e dati comportamentali e mapparli su casi d’uso aziendali specifici
 * Applicare concetti procedurali alla tassonomia delle cartelle di progettazione e alle convenzioni di denominazione
 
-**Sezione 3: Segmentazione e attivazione (31%)**
+**Sezione 3: segmentazione e attivazione (31%)**
 
-* Applicare concetti procedurali per creare destinazioni in [!DNL Audience Manager]
+* Applica concetti procedurali per creare destinazioni in [!DNL Audience Manager]
 * Identifica i segnali per creare caratteristiche basate su regole, onboarded e algoritmiche
 * Applicare concetti procedurali per creare segmenti utilizzando frequenza/attualità
 * Determinare come creare segmenti utilizzando le regole di unione dei profili
@@ -294,7 +294,7 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 **Sezione 4: Privacy e governance dei dati (7%)**
 
-* Consiglia [!DNL Audience Manager] funzionalità relative a governance, privacy e sicurezza
+* Consiglia le funzionalità di [!DNL Audience Manager] in relazione a governance, privacy e sicurezza
 * Identificare le policy dei dati dei clienti in linea con le normative governative
 
 **Sezione 5: prestazioni e reporting (17%)**
@@ -307,16 +307,16 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 
 Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
-* [AAM: Fondamenti tecnici](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM: serie Integration](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
-* [AAM: funzioni avanzate](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [Formazione e risorse di Launch](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+* [AAM: fondamenti tecnici](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM: serie di integrazioni](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM: funzionalità avanzate](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [Avvia formazione e risorse](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Rinnovare la certificazione
 
-Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul collegamento Adobe Audience Manager Architect Master RENEW - AD5-E825, di seguito.
+Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fai clic sul collegamento Adobe Audience Manager Architect Master RENEW - AD5-E825, di seguito.
 
-[!BADGE sostenere l&#39;esame di rinnovo del master Adobe Audience Manager Architect AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825&amp;cid=358899 newtab=true"}
+[!BADGE sostenere l&#39;esame per il rinnovo del Master Architect di Adobe Audience Manager AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
 >[!NOTE]
 >
@@ -327,6 +327,6 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 ### Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
