@@ -3,7 +3,7 @@ title: Informazioni sull’esercitazione
 description: Un numero limitato di certificazioni dispone di test pratici
 source-git-commit: c550ec351b2926db895746457667474d69249c2c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami l
 
 Ricorda che il superamento di un test di pratica non garantisce il superamento dell&#39;esame di certificazione.
 
-Vai a [Adobe portale per la preparazione all’esame di certificazione](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} ora per fare un test di allenamento.
+Vai al [portale per la preparazione dell&#39;esame di certificazione dell&#39;Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} per fare un test dell&#39;esercitazione.

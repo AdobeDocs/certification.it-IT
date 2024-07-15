@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale delle fondazioni tecniche
-description: Scopri come diventare un Adobe certificato [!DNL Experience Manager] Professionale.
+description: Scopri come diventare un Adobe certificato [!DNL Experience Manager] Professionista.
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager] Fondamenti tecnici professionali
+# Percorso di certificazione per Adobe [!DNL Experience Manager] Technical Foundations Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Manager](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>* **Corso:** Se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli di conoscenza. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:**  Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/124) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/124) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
->_Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>_Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -80,7 +80,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: Creazione di contenuti (33%)**
+**Sezione 1: creazione di contenuti (33%)**
 
 * Gestire le pagine di contenuto
 * Replica contenuto
@@ -91,24 +91,24 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Applicare concetti procedurali per tradurre il contenuto
 * Utilizzare più siti e Live Copy
 
-**Sezione 2: Attuazione (42%)**
+**Sezione 2: Implementazione (42%)**
 
 * Applicare concetti procedurali per creare componenti
 * Creare modelli modificabili
 * Creare librerie client
-* Aggiornare il contenuto in CRXDE Liti
+* Aggiornare il contenuto in CRXDE Lite
 * Utilizza la struttura JCR per passare ai nodi
 * Creare frammenti di esperienza e contenuto
 * Estendere i componenti core
 * Modellazione del contenuto della struttura
 
-**Sezione 3: Configurazione e distribuzione (13%)**
+**Sezione 3: installazione e distribuzione (13%)**
 
 * Installare i bundle
 * Distribuire i pacchetti
 * Installare le istanze AEM
 
-**Sezione 4: Manutenzione e amministrazione degli utenti (12%)**
+**Sezione 4: manutenzione e amministrazione degli utenti (12%)**
 
 * Gestire l’accesso degli utenti
 * Modificare le configurazioni OSGI
@@ -130,7 +130,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
@@ -138,13 +138,13 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{take-course}}
 
-[Segui il corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Partecipa al corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/124)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/124)
 
 
 +++
@@ -200,7 +200,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
 

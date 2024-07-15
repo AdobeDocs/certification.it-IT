@@ -1,6 +1,6 @@
 ---
 title: Nuova certificazione front-end per sviluppatori Professional
-description: Scopri come diventare un professionista Adobe Developer certificato, ad Adobe [!DNL Commerce].
+description: Scopri come diventare un professionista Adobe Developer certificato, ad Adobe  [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Commerce] Sviluppatore professionale front-end
+# Percorso di certificazione per Adobe [!DNL Commerce] Sviluppatore front-end Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso**: se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo ti offre una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
+>* **Corso**: se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [corso Adobe Commerce Foundations](https://app.rockinfo.com/courses/148) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo ti offre una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/138) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/138) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
->_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
+>_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -63,7 +63,7 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 * Conoscenza approfondita di Adobe Commerce versione 2.4.6
 * Comprensione di base della struttura e del layout front-end
-* Esperienza e comprensione di HTML, CSS (e preprocessori), LESS, JavaScript e componenti dell’interfaccia utente, jQuery, Underscore, Require.JS, Knockout, anche modelli PHP, conoscenza del database e gestione dei contenuti
+* Esperienza e comprensione di HTML, CSS (e preprocessori), LESS, JavaScript e componenti UI, jQuery, Underscore, Require.JS, Knockout, anche modelli PHP, conoscenza DB e gestione dei contenuti
 * Familiarità con la piattaforma, i blocchi CMS, i widget, le pagine CMS, le pagine di categorie, le pagine di prodotti, l’area Carrello e pagamento e la dashboard dell’account
 * Conoscenza di base delle configurazioni di amministrazione
 * Conoscenza dell’estensione e della sovrascrittura di stili, layout e file JS
@@ -77,7 +77,7 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 * Come utilizzare i modelli e-mail
 * Nozioni di base su XML
 * Conoscenza di base di SEO (Search Engine Optimization), tecniche di ottimizzazione e prestazioni predefinite
-* Nozioni di base sui collegamenti canonici e sull’unione di JavaScript e CSS
+* Comprensione di base dei collegamenti canonici e unione di JavaScript e CSS
 * Conoscenza di base dell’infrastruttura cloud Adobe Commerce
 
 <br>
@@ -86,9 +86,9 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 {{exam-objectives}}
 
-**Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni) (14%)**
+**Sezione 1: gestione tema (gerarchia tema, configurazione immagine, traduzioni) (14%)**
 
-* Descrivi Adobe [!DNL Commerce] struttura cartelle tema
+* Descrivi Adobe [!DNL Commerce] struttura di cartelle tema
 * Dimostrare la capacità di creare nuovi temi o di estendere quelli esistenti
 * Dimostrare la capacità di aggiungere frasi di traduzione personalizzate
 
@@ -100,11 +100,11 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 * Dimostrare la capacità di creare e personalizzare modelli
 * Descrizione della protezione del modello (output di escape)
 
-**Sezione 3: Stili (22%)**
+**Sezione 3: stili (22%)**
 
 * Descrivi lo scopo di styles-m.less, styles-l.less, print.less
 * Descrivi la differenza tra file parziali specifici (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less)
-* In uno scenario, dimostra la capacità di ignorare o estendere [!DNL Magento] MENO
+* Dato uno scenario, dimostrare la capacità di sovrascrivere o estendere [!DNL Magento] di meno
 * Descrivi i concetti di base di LESS
 * Spiegare la gerarchia di stili (libreria, moduli, temi)
 * Spiegare la compilazione lato client e lato server
@@ -118,14 +118,14 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 * Descrivere l’utilizzo di Knockout JS
 * Descrivere l’utilizzo dei widget jQuery
 
-**Sezione 5: Configurazione dell’amministratore e Page Builder (6%)**
+**Sezione 5: Configurazione amministratore e Page Builder (6%)**
 
 * Dimostrare la possibilità di personalizzare il contenuto di Page Builder e CMS&quot;
 * Applicare/pianificare un tema a un ambito specifico (sito Web, store, store-view)
 * Applica modifiche progettuali a categorie, prodotti e pagine CMS utilizzando la configurazione di amministrazione
 * Descrivi i passaggi per personalizzare le e-mail transazionali
 
-**Sezione 6: Strumenti (CLI e Grunt) (8%)**
+**Sezione 6: strumenti (CLI e Grunt) (8%)**
 
 * Descrivere l&#39;utilizzo dei comandi di base bin/Magento
 * Descrivere l&#39;utilizzo dei comandi del Compositore (installazione, aggiornamento, richiesta, rimozione)
@@ -148,11 +148,11 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -167,11 +167,11 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 </span>
 </a>
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/138)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -226,6 +226,6 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

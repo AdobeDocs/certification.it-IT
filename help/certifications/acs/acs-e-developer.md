@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Campaign Standard] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Campaign Standard] sviluppatore esperto
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/256) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/256) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
 Dovresti avere:
 
-* Adobe di almeno due anni [!DNL Campaign Standard] esperienza software
+* Almeno due anni di esperienza software Adobe [!DNL Campaign Standard]
 * Almeno due anni di esperienza pertinente nelle campagne di marketing digitale multicanale e nello sviluppo web (ad esempio, API REST)
 * Possibilità di eseguire attività in Adobe Campaign, tra cui sviluppo di modelli, flussi di lavoro tecnici, sviluppo di schemi e integrazioni, e di monitorare l’istanza tramite il pannello di controllo Campaign
 * Esperienza di lavoro in un ambiente di consegna canali (e-mail, direct mail, dispositivi mobili e social network)
 * Familiarità con le tattiche della campagna di marketing come multi-touch, ciclo di vita e riattivazione
 * Comprensione delle metriche di marketing come ROI, tassi di click-through e conversione.
 * Esperienza nell&#39;amministrazione di una piattaforma di automazione marketing
-* Conoscenza di base di CSS, HTML e e-mail JavaScript
+* Conoscenza di base di CSS, HTML e JavaScript, e-mail
 * Conoscenza di base del database relazionale e della modellazione dei dati
 * Conoscenza dei flussi di lavoro tecnici e della loro configurazione
 * Esperienza: estensione di una tabella o di uno schema dei destinatari e gestione dei dati
@@ -88,7 +88,7 @@ Dovresti avere:
 * Risoluzione dei problemi di modellazione dati
 * Determinare l’approccio corretto per creare flussi di lavoro tecnici
 
-**Sezione 2: Gestione delle campagne (50%)**
+**Sezione 2: gestione campagne (50%)**
 
 * Risoluzione dei problemi degli errori del flusso di lavoro
 * Determinare l’approccio corretto per la creazione delle campagne
@@ -101,7 +101,7 @@ Dovresti avere:
 * Determinare l’approccio corretto per creare e-mail utilizzando il designer creativo
 * Determinare l’approccio corretto per la creazione di rapporti personalizzati
 
-**Sezione 3: somministrazione (24%)**
+**Sezione 3: Amministrazione (24%)**
 
 * Determinare l’approccio corretto per creare gruppi di sicurezza utente e unità organizzative
 * Determinare l&#39;approccio corretto per la gestione e l&#39;implementazione dei pacchetti
@@ -116,7 +116,7 @@ Dovresti avere:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -134,19 +134,19 @@ Dovresti avere:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Guida alla preparazione all’esame](https://app.rockinfo.com/courses/256)
+[Guida alla preparazione degli esami](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ Dovresti avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

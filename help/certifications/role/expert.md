@@ -4,7 +4,7 @@ description: Panoramica delle opzioni di certificazione per gli utenti esperti
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 53%
+ht-degree: 19%
 
 ---
 
@@ -41,11 +41,11 @@ ht-degree: 53%
 
 **Experience Manager**
 
-* [Professionista (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Professionista (Siti)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Sviluppatore (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Migrazione Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Migrazione di Cloud Service](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
 **Marketo Engage**
 

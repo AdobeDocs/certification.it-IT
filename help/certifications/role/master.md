@@ -4,7 +4,7 @@ description: Panoramica delle opzioni di certificazione per gli utenti principal
 source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 44%
+ht-degree: 23%
 
 ---
 
@@ -43,4 +43,3 @@ ht-degree: 44%
 >
 >* [Certificazioni tecniche specialistiche](expert.md)
 >* [Certificazioni tecniche professionali](professional.md)
-

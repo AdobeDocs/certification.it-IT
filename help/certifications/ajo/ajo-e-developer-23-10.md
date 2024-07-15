@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Journey Optimizer] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Journey Optimizer] sviluppatore esperto
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Il servizio gratuito on-demand [Corso Adobe Journey Optimizer Developer Expert](https://app.rockinfo.com/courses/147) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
+>* **Corso:** Il [corso gratuito per esperti Adobe Journey Optimizer Developer](https://app.rockinfo.com/courses/147) include spiegazioni di concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/143) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/143) fornisce un percorso personalizzato per il processo di preparazione degli esami, inclusi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
 >
->_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
+>_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 Come minimo, i candidati pronti a diventare esperti di Adobe Journey Optimizer Developer devono avere almeno un anno di esperienza lavorando con vari sistemi di automazione CDP e di marketing. Devono anche essere in grado di guidare lo sviluppo/l’implementazione da zero; risolvere i problemi dei percorsi, conoscere le limitazioni e i guardrail del prodotto, utilizzare codice avanzato, impostare modelli, creare azioni personalizzate e conoscere le best practice.
 
-Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che desiderano ottenere la qualifica di esperti certificati si consiglia di completare la formazione o un’esperienza precedente su Adobe Experience Platform o Real Time Customer Data Profile, oltre alla formazione su Adobe Journey Optimizer.
+Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che desiderano ottenere la qualifica di esperti certificati si consiglia di completare la formazione o un’esperienza precedente su Adobe Experience Platform o Real Time Customer Data Profile, oltre alla formazione su Adobe Journey Optimizer.
 
 <br>
 
@@ -82,7 +82,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 * Descrivi il concetto di sandbox e come i dati possono essere utilizzati tra le business unit
 * Dimostrare di avere familiarità con l’amministrazione dei canali
 * Determinare l’applicazione appropriata di Eventi/Azioni/Origini dati
-* Identificare quando utilizzare API specifiche per AJO: limitazione, limitazione, soppressione, copia degli oggetti, esecuzione di messaggi interattivi
+* Identificare quando utilizzare API specifiche di AJO: limitazione, limitazione, soppressione, copia degli oggetti, esecuzione di messaggi interattivi
 
 **Sezione 2: Journey Orchestration (22%)**
 
@@ -95,7 +95,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 
 * Dimostrare di avere familiarità con la creazione e la gestione di offerte e componenti
 * Dimostrare come utilizzare i profili di test per eseguire la simulazione delle offerte
-* Spiegare la differenza tra Offer Hub e API Edge
+* Spiegare la differenza tra Offer Hub e API di Edge
 * Applicare il processo per creare decisioni
 * Applicare il processo per aggiungere offerte su canali diversi
 
@@ -105,7 +105,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 * Interpretare le funzioni helper e la sintassi di personalizzazione per mostrare cosa verrà visualizzato
 * Dimostrare la conoscenza di convalida, verifica, debug e pubblicazione di un percorso
 
-**Sezione 5: modellazione dei dati (18%)**
+**Sezione 5: Modellazione dati (18%)**
 
 * Differenziare gli schemi di profilo e di tipo evento
 * Spiegare come impostare le origini dati e l’acquisizione dei dati
@@ -129,7 +129,7 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
@@ -137,17 +137,17 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 
 {{take-course}}
 
-[Segui il corso per esperti Adobe Journey Optimizer Developer](https://app.rockinfo.com/courses/147)
+[Partecipa al corso Adobe Journey Optimizer Developer Expert](https://app.rockinfo.com/courses/147)
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/143)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -202,6 +202,6 @@ Adobe Journey Optimizer è alimentato da Experienci Platform. Ai candidati che d
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Rinnovo certificazione
-description: Scopri come rinnovare il [!DNL Campaign Classic] certificazione prima della scadenza.
+description: Scopri come rinnovare la certificazione  [!DNL Campaign Classic]  prima della scadenza.
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User,Developer,Data Architect
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Rinnovare l’Adobe [!DNL Campaign Classic] certificazione
+# Rinnova la certificazione di Adobe [!DNL Campaign Classic]
 
 Il tuo Adobe di certificazione è valido per due anni. Se ti avvicini a questo periodo di due anni, è ora di rinnovare la certificazione per mantenerla attiva.
 
@@ -26,27 +26,27 @@ Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti
 
 >[!IMPORTANT]
 >
->**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** al [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Per condividere un collegamento:** Se desideri condividere il collegamento per un esame di rinnovo o una valutazione con un collega, collega la pagina di rinnovo generale dell’esame, non l’URL dell’esame stesso, per evitare problemi di accesso.
+>**Per condividere un collegamento:** Se si desidera condividere il collegamento a un esame di rinnovo o a una valutazione con un collega, collegarsi alla pagina di rinnovo generale dell&#39;esame, non all&#39;URL dell&#39;esame stesso, per evitare problemi di accesso.
 
 >[!BEGINTABS]
 
->[!TAB Professionale]
+>[!TAB Professionista]
 
-+++Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti del business
++++Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti
 
-## È necessario disporre dei seguenti **attivo** certificazioni da rinnovare:
+## Per rinnovare le seguenti **certificazioni attive** è necessario disporre di:
 
 Adobe [!DNL Campaign Classic] Professionista professionista
 
 ## Come rinnovare la certificazione:
 
-* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
-* **Passaggio 3**: sostenere e superare l’esame
+* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
+* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
+* **Passaggio 3**: superare l&#39;esame
 
 ## Preparati
 
@@ -57,9 +57,9 @@ Adobe [!DNL Campaign Classic] Professionista professionista
 * Costo: GRATUITO/non protetto
 * Consegna: on-demand
 * Lingue disponibili: inglese
-* ID esame: AD5-E841 - Adobe [!DNL Campaign Classic] Professionista professionista
+* ID esame: AD5-E841 - Professionista Adobe [!DNL Campaign Classic]
 
-**Ambito di applicazione e obiettivi**
+**Ambito e obiettivi**
 
 Sezione 1: Creare una campagna 31,4%
 
@@ -115,16 +115,16 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 1**
 
-* [Reportistica di Adobe Campaign Standard](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
-* [Cos’È Un KPI? Definizione ed esempi](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
+* [Rapporti di Adobe Campaign Standard](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
+* [Cos&#39;È Un KPI? Definizione ed esempi](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
 * [Introduzione alle campagne di marketing](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=it){target="_blank"}
-* [Utilizzare i modelli](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
+* [Usa modelli](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
 * [Personalizzare le e-mail mediante blocchi di contenuto dinamici](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
 * [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
 * [Rapporti di consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html?lang=it#reporting){target="_blank"}
 * [Gestione delle approvazioni in una campagna](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=it){target="_blank"}
 * [Gestire i fusi orari](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
-* [Campagne ricorrenti e periodiche](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html?lang=it){target="_blank"}
+* [Campagne periodiche e ricorrenti](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html?lang=it){target="_blank"}
 * [Dashboard di consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
 * [Errori di consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html?lang=it){target="_blank"}
 
@@ -133,43 +133,43 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Attività del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-activities.html){target="_blank"}
 * [Flussi di lavoro tecnici](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=it){target="_blank"}
 * [Gruppi predefiniti](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en#default-groups){target="_blank"}
-* [Wait](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
+* [Attendi](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
 * [Transizione da Campaign Classic v7 a Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=it){target="_blank"}
 
 **Sezione 3**
 
-* [Utilizzare i dati del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
+* [Utilizza dati flusso di lavoro](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
 * [Attività di targeting nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
-* [Riconciliazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
-* [Introduzione all’importazione e l’esportazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=it){target="_blank"}
+* [Riconciliazione dati](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
+* [Introduzione all&#39;importazione ed esportazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=it){target="_blank"}
 * [Celle](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
 * [Aggiornamento elenco](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html){target="_blank"}
-* [Introduzione all’importazione e l’esportazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=it){target="_blank"}
+* [Introduzione all&#39;importazione ed esportazione dei dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=it){target="_blank"}
 * [Importare ed esportare dati tramite flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/import-export-workflows.html?lang=it){target="_blank"}
 * [Estrazione dati (file)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/extraction--file-.html){target="_blank"}
 
 **Sezione 4**
 
-* [Direct mail delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
+* [Consegna direct mail](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
 * [Blocchi di personalizzazione](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=it){target="_blank"}
-* [Configurare e inviare la consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
+* [Configura e invia la consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
 * [Informazioni sulle tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it){target="_blank"}
 * [Dashboard di consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
-* [Anteprima e verifica dell’e-mail](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"}
+* [Anteprima e verifica dell&#39;e-mail](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"}
 
 **Sezione 5**
 
 * [Introduzione al reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 * [Calcolo indicatore](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
 * [Utilizzare la procedura guidata di analisi descrittiva](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
-* [Autorizzazioni dei menu Adobe Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
+* [Autorizzazioni menu Adobe Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
 * [Utilizzare i diritti denominati per impostare le autorizzazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
 ## Rinnovare la certificazione
 
-Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante **Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti - AD5-E841** link qui sotto.
+Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fare clic sul collegamento **Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti - AD5-E841** di seguito.
 
-[Prendi l’Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
+[Sostieni l&#39;Adobe [!DNL Campaign Classic] Esame di rinnovo professionale per professionisti professionisti - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
 
 >[!NOTE]
 >
@@ -177,17 +177,17 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 +++
 
-+++Adobe [!DNL Campaign Classic] Rinnovo di Developer Professional
++++Rinnovo Adobe [!DNL Campaign Classic] Developer Professional
 
-## È necessario disporre dei seguenti **attivo** certificazioni da rinnovare:
+## Per rinnovare le seguenti **certificazioni attive** è necessario disporre di:
 
-Adobe [!DNL Campaign Classic] Sviluppatore professionale
+Adobe [!DNL Campaign Classic] Developer Professional
 
 ## Come rinnovare la certificazione:
 
-* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
-* **Passaggio 3**: sostenere e superare l’esame
+* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
+* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
+* **Passaggio 3**: superare l&#39;esame
 
 ## Preparati
 
@@ -198,9 +198,9 @@ Adobe [!DNL Campaign Classic] Sviluppatore professionale
 * Costo: GRATUITO/non protetto
 * Consegna: on-demand
 * Lingue disponibili: inglese
-* ID esame: AD5-E851 - Adobe [!DNL Campaign Classic] Sviluppatore professionale
+* ID esame: AD5-E851 - Adobe [!DNL Campaign Classic] Developer Professional
 
-**Ambito di applicazione e obiettivi**
+**Ambito e obiettivi**
 
 Sezione 1: configurazione del sistema 26%
 
@@ -277,10 +277,10 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Domande frequenti sulle impostazioni di Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
 * [Utilizzare una tabella dei destinatari personalizzata](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 * [Importazione ed esportazione di tipi di pubblico](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
-* [Implementare metodi SOAP](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
-* [Utilizzare i pacchetti di dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
-* [Mappatura del database](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
-* [Collegare Campaign alle soluzioni](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
+* [Implementare i metodi SOAP](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
+* [Utilizzare i pacchetti dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Mappatura database](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Connetti Campaign con le tue soluzioni](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
 * [Account esterni specifici per la campagna](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
 * [Applicare una tipologia a una consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
 
@@ -294,7 +294,7 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 3**
 
-* [Creare e gestire gli operatori](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Crea e gestisci operatori](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
 * [Utilizzare i diritti denominati per impostare le autorizzazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
 **Sezione 4**
@@ -304,8 +304,8 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 * [Funzionalità avanzate](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/creating-new-reports/advanced-functionalities.html){target="_blank"}
 * [Consegna](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=it){target="_blank"}
 * [Avviso](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
-* [Mappatura del database](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
-* [Utilizzare gli aggregati](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
+* [Mappatura database](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Usa aggregati](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
 * [Trasferimento file](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
 * [Gestione degli errori](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
 * [Date](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
@@ -316,18 +316,18 @@ Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
 **Sezione 6**
 
-* [Utilizzare i gruppi di controllo](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
-* [Definire le approvazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
-* [Monitorare l’esecuzione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=it){target="_blank"}
+* [Usa gruppi di controllo](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
+* [Definisci approvazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
+* [Monitora esecuzione flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=it){target="_blank"}
 * [Consegna ricorrente](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
 * [Adobe Campaign Standard](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Standard/Issue-with-Mobile-App-Integration-in-Adobe-Campaign/qaq-p/330913/comment-id/8286){target="_blank"}
-* [Avviare un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html?lang=it){target="_blank"}
+* [Avvia un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html?lang=it){target="_blank"}
 
 ## Rinnovare la certificazione
 
-Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul pulsante **Adobe [!DNL Campaign Classic] Esame di rinnovo per sviluppatori professionali - AD5-E851** link qui sotto.
+Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fare clic sul collegamento **Adobe [!DNL Campaign Classic] esame di rinnovo per sviluppatori professionali - AD5-E851** di seguito.
 
-[Prendi l’Adobe [!DNL Campaign Classic] Esame di rinnovo per sviluppatori professionali - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
+[Sostieni l&#39;Adobe [!DNL Campaign Classic] Esame di rinnovo per sviluppatori professionisti - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
 
 >[!NOTE]
 >
@@ -335,19 +335,19 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 +++
 
->[!TAB Esperto e principale]
+>[!TAB Esperto e master]
 
 ## Al momento dovresti essere certificato (non scaduto) in:
 
-* Adobe [!DNL Campaign Classic] Sviluppatore esperto
-* Adobe [!DNL Campaign Classic] Esperto di professionisti aziendali
+* Adobe [!DNL Campaign Classic] esperto sviluppatore
+* Adobe [!DNL Campaign Classic] esperto di professionisti aziendali
 * Adobe [!DNL Campaign Classic] Architect Master
 
 ## Come rinnovare la certificazione:
 
-* **Passaggio 1**: accesso a riuscito [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"}, quindi torna a questa pagina
-* **Passaggio 2**: rivedi gli obiettivi e le risorse dell’esame
-* **Passaggio 3**: sostenere e superare l’esame
+* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
+* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
+* **Passaggio 3**: superare l&#39;esame
 
 ## Preparati
 
@@ -358,17 +358,17 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 * Costo: GRATUITO/non protetto
 * Consegna: on-demand
 * Lingue disponibili: inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Classic] certificazione esperto e/o principale
+* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Classic] certificazione principale e/o esperto
 * ID esame: AD5-E823
 
-**Ambito di applicazione e obiettivi**
+**Ambito e obiettivi**
 
 Sezione 1: Installazione e configurazione del sistema (23%)
 
 * In uno scenario, determina quali opzioni utilizzare (ad esempio, spostare gli elementi dalla fase alla produzione)
 * Possibilità di utilizzare i pacchetti per la migrazione tra le istanze
 * Spiegare in che modo le impostazioni della procedura guidata di distribuzione influiscono sul recapito messaggi
-* Descrive l’infrastruttura sottostante del modello di hosting disponibile, ad Adobe [!DNL Campaign Classic] v8
+* Descrive l&#39;infrastruttura sottostante del modello di hosting disponibile per l&#39;Adobe [!DNL Campaign Classic] v8
 * Descrizione delle funzioni OOTB di uso comune
 * Spiegazione dell&#39;integrazione con altri prodotti Adobe Experience Cloud
 * Spiegare l’integrazione utilizzando account esterni standard
@@ -376,7 +376,7 @@ Sezione 1: Installazione e configurazione del sistema (23%)
 Sezione 2: Personalizzazione (18%)
 
 * Descrizione delle best practice per l’utilizzo delle funzioni SQL in Adobe Campaign
-* Descrivere le best practice per lo sviluppo con JavaScript in Adobe Campaign
+* Descrizione delle best practice per lo sviluppo con JavaScript in Adobe Campaign
 * Considerata una serie di requisiti, applica le best practice intorno a un modello di dati
 * Descrizione dei requisiti e dei processi per la gestione degli accessi
 * Descrizione della gestione della struttura delle cartelle
@@ -410,39 +410,39 @@ Non è necessario completare la formazione prima di sostenere l&#39;esame, e la 
 
 Di seguito sono riportate alcune risorse consigliate per la preparazione:
 
-**Sezione 1: Installazione e configurazione del sistema**
+**Sezione 1: installazione e configurazione del sistema**
 
 * [Gestione dei pacchetti](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [Utilizzare i pacchetti di dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Utilizzare i pacchetti dati](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
 * [Distribuzione di un’istanza](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
-* [Integrazione con Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=it){target="_blank"}
+* [Integrazione con Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
-**Sezione 2: Personalizzazione**
+**Sezione 2: personalizzazione**
 
-* [Script e modelli JavaScript](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
+* [Script e modelli di JavaScript](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Best practice per i modelli di dati](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [Creare e gestire gli operatori](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
-* [Gestire l’accesso alle cartelle](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
+* [Crea e gestisci operatori](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Gestione dell&#39;accesso alle cartelle](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **Sezione 3: Architettura dei dati**
 
-* [Transizione da [!DNL Campaign Classic] Da v7 a Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=it){target="_blank"}
+* [Transizione da [!DNL Campaign Classic] v7 a Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=it){target="_blank"}
 * [Utilizzare origini e destinazioni](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
-* [API specifiche per campagne FFDA](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [API specifiche di FFDA Campaign](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
 * [Informazioni su Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
-**Sezione 4: Campagna, flusso di lavoro, consegna e reporting**
+**Sezione 4: campagna, flusso di lavoro, consegna e reporting**
 
 * [Best practice per i flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
-* [Impostare e gestire il processo di approvazione](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [Imposta e gestisci il processo di approvazione](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
 * [Arricchimento](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
-* [Best practice per l’importazione e l’esportazione](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [Best practice per l&#39;importazione e l&#39;esportazione](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
 ## Rinnovare la certificazione
 
-Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato correttamente l’accesso a [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe){target="_blank"} prima. Quindi, per rinnovare la certificazione, fai clic sul link Campaign Classic rinnovo - AD5-823 qui sotto.
+Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fai clic sul link Campaign Classic rinnovo - AD5-823 qui sotto.
 
-[Prendi l’Adobe [!DNL Campaign Classic] Rinnovo per l&#39;esame da professionista, sviluppatore e architetto - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Sostieni subito l&#39;Adobe [!DNL Campaign Classic] rinnovo per l&#39;esame di professionista aziendale, sviluppatore e architetto - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
@@ -452,6 +452,6 @@ Assicurati di aver seguito il passaggio 1 di cui sopra e di aver effettuato corr
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/126) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/126) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -80,37 +80,37 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: Configurare Adobe Experience Manager (18%)**
+**Sezione 1: configurare Adobe Experience Manager (18%)**
 
 * Determinare il metodo corretto per configurare le impostazioni fondamentali di Adobe Experience Manager
 * Dato uno scenario, risolvere i problemi relativi a Adobe Experience Manager
 * Determinare il metodo corretto per configurare OSGi
 
-**Sezione 2: Gestire l’API di Cloud Manager e Cloud Manager (20%)**
+**Sezione 2: funzionamento dell&#39;API Cloud Manager e Cloud Manager (20%)**
 
-* Determinare il metodo corretto per gestire le impostazioni degli ambienti di Cloud Manager tramite l’interfaccia utente
+* Determinare il metodo corretto per gestire le impostazioni degli ambienti Cloud Manager tramite l’interfaccia utente
 * Determinare il metodo corretto per il provisioning di programmi e ambienti in Cloud Manager
 * Determinare il metodo corretto per la migrazione ad Adobe Experience Manager as a Cloud Service
 * Determinare il metodo corretto per impostare le integrazioni su Adobe I/O
 
-**Sezione 3: configurare l’infrastruttura proxy web (12%)**
+**Sezione 3: configurare l&#39;infrastruttura proxy Web (12%)**
 
 * Determinare il metodo corretto per gestire le configurazioni di Dispatcher
 * Considerato uno scenario, risolvi i problemi di caching
 
 **Sezione 4: Build e implementazioni (28%)**
 
-* Determinare il metodo corretto per gestire le distribuzioni di Cloud Manager
-* Dato uno scenario, analizzare lo stato di una pipeline di Cloud Manager
+* Determinare il metodo corretto per gestire le distribuzioni Cloud Manager
+* Dato uno scenario, analizzare lo stato di una pipeline Cloud Manager
 * Determinare il metodo corretto per gestire i pacchetti di contenuti tra più istanze di Adobe Experience Manager
 * Determinare il metodo corretto per apportare modifiche ai file Maven per supportare le pipeline
 
-**Sezione 5: Monitorare e creare rapporti sulle metriche della qualità (14%)**
+**Sezione 5: monitoraggio e report sulle metriche di qualità (14%)**
 
 * Determinare il metodo corretto per raccogliere metriche e rapporti sulle prestazioni
 * Determinare il metodo corretto per scalare l&#39;infrastruttura
 
-**Sezione 6: Gestire l&#39;Admin Console (8%)**
+**Sezione 6: utilizzare l&#39;Admin Console (8%)**
 
 * Determinare il metodo corretto per inviare una richiesta di supporto nell&#39;Admin Console
 * Determinare il metodo corretto per configurare SSO federato e sincronizzare utenti e gruppi di Adobe Experience Manager
@@ -119,7 +119,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
 
 <br>
 
@@ -137,15 +137,15 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/126)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/126)
 
 +++
 
@@ -211,6 +211,6 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager Sites] Architect Master
+# Percorso di certificazione per l&#39;Adobe [!DNL Experience Manager Sites] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/130) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/130) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -56,7 +56,7 @@ Dovresti avere:
 
 * Almeno 3 anni di esperienza come architetto edile AEM Sites
 * Possibilità di lavorare in Adobe Managed Services e Adobe [!DNL Experience Manager as a Cloud Service]
-* La possibilità di impostare Adobe [!DNL Experience Manager] ambienti e infrastruttura
+* Possibilità di configurare ambienti e infrastrutture Adobe [!DNL Experience Manager]
 
 Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
@@ -93,7 +93,7 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 * Considerato uno scenario, valuta lo stato corrente di un’architettura
 * Determinare i requisiti tecnici non funzionali per la progettazione della soluzione
 
-**Sezione 2: Progettazione della soluzione (44%)**
+**Sezione 2: progettazione della soluzione (44%)**
 
 * Specifici requisiti aziendali, progettazione dettagliata dell&#39;architettura e della soluzione
 * Dato uno scenario, determinare le soluzioni di sicurezza appropriate per una progettazione
@@ -102,14 +102,14 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 * Applicare concetti procedurali per la progettazione di un&#39;architettura scalabile e resiliente
 * Dato uno scenario, consiglia strategie di migrazione
 
-**Sezione 3: Attuazione (22%)**
+**Sezione 3: Implementazione (22%)**
 
 * Dato uno scenario, identificare e risolvere i problemi di progettazione emersi durante la fase di implementazione
 * In uno scenario, consiglia approcci di implementazione basati sui requisiti
 * Determinare i metodi appropriati da utilizzare per creare prototipi delle soluzioni per la verifica dei concetti
 * Considerato uno scenario, diagnostica e risolvi i problemi riscontrati durante l’implementazione
 
-**Sezione 4: Manutenzione (16%)**
+**Sezione 4: manutenzione (16%)**
 
 * Considerato uno scenario, diagnosticare e risolvere i problemi riscontrati nell’ambiente di produzione
 * Applicare concetti procedurali per pianificare l&#39;utilizzo di nuove funzionalità e aggiornamenti
@@ -121,7 +121,7 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -139,15 +139,15 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/130)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/130)
 
 +++
 
@@ -213,6 +213,6 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

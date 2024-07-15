@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Customer Journey Analytics] Professionista professionista
+# Percorso di certificazione per Adobe professionista [!DNL Customer Journey Analytics]
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Platform](https://app.rockinfo.com/courses/216) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>* **Corso:** Se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [Corso sulle nozioni di base di Adobe Experience Platform](https://app.rockinfo.com/courses/216) per accedere alle spiegazioni dei concetti chiave, alle procedure dettagliate sui prodotti e ai controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/131) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/131) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
->_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
+>_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di esperienza in Adobe [!DNL Customer Journey Analytics] e una conoscenza di base del suo funzionamento in combinazione con [!DNL Adobe Experience Platform]. Il candidato è in grado di utilizzare le opzioni di reporting e visualizzazione appropriate per eseguire analisi di base e avanzate per una determinata esigenza aziendale.
+Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di esperienza nell&#39;Adobe [!DNL Customer Journey Analytics] e una conoscenza di base di come funziona in combinazione con [!DNL Adobe Experience Platform]. Il candidato è in grado di utilizzare le opzioni di reporting e visualizzazione appropriate per eseguire analisi di base e avanzate per una determinata esigenza aziendale.
 
 <br>
 
@@ -75,13 +75,13 @@ Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di 
 * Creare un sottoinsieme di dati utilizzando i componenti e i filtri appropriati
 * Creare componenti non amministratori per rispondere a domande aziendali
 
-**Sezione 2: relazioni (32%)**
+**Sezione 2: Reporting (32%)**
 
 * Determinare visualizzazioni o tabelle appropriate per risolvere le domande aziendali
 * Determinare quale visualizzazione dati utilizzare in base a origini dati, identità e intervalli di date
 * Determinare come utilizzare e applicare intervalli di date
 
-**Sezione 3: Distribuzione (12%)**
+**Sezione 3: distribuzione (12%)**
 
 * Pianificare e condividere i rapporti con le principali parti interessate
 * Cura i campi disponibili in un determinato report o dashboard
@@ -109,11 +109,11 @@ Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di 
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -128,11 +128,11 @@ Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di 
 </span>
 </a>
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/131)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/131)
 
 +++
 
@@ -187,6 +187,6 @@ Il candidato ideale minimamente qualificato è un analista con almeno 6 mesi di 
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

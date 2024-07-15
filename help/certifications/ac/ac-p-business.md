@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale per professionisti del business
-description: Scopri come diventare un professionista Adobe di business professionista certificato in Adobe [!DNL Commerce].
+description: Scopri come diventare un professionista Adobe Business Practitioner certificato in Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Commerce] Professionista professionista
+# Percorso di certificazione per Adobe professionista [!DNL Commerce]
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corsi**: prendi il [Corso professionale Adobe Commerce Business Practitioner](https://app.rockinfo.com/courses/219) per la spiegazione dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze. Se stai solo iniziando, il [Corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148) fornisce una base di conoscenze su cui basare il percorso di certificazione.
+>* **Corsi**: segui il [corso Adobe Commerce Business Practitioner Professional](https://app.rockinfo.com/courses/219) per le spiegazioni dei concetti chiave, le dimostrazioni pratiche e i controlli delle conoscenze. Se stai iniziando da poco, il [corso sulle nozioni di base di Adobe Commerce](https://app.rockinfo.com/courses/148) ti offre una base di conoscenze su cui basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/137) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/137) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
->_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
+>_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Dovresti avere almeno 0-12 mesi di esperienza pratica con [!DNL Magento Open Source] versione 2.4.3 utilizzando il tema LUMA o BLANK e le nozioni di base di Adobe [!DNL Commerce] versione 2.4.3.
+Dovresti avere un&#39;esperienza pratica minima di 0-12 mesi con [!DNL Magento Open Source] versione 2.4.3 utilizzando il tema LUMA o BLANK e le nozioni di base sull&#39;Adobe [!DNL Commerce] versione 2.4.3.
 
 Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommerce, nonché una familiarità con i seguenti concetti:
 
-* Marketing digitale (SEO, CMS, e-mail marketing, tecniche di vendita) [cross-selling, upselling], analisi, reporting e monitoraggio)
+* Marketing digitale (SEO, CMS, e-mail marketing, tecniche di vendita [cross-selling, upselling], analisi, reporting e monitoraggio)
 * Terminologia e-commerce (strategie di vendita/marketing come omnicanale e multicanale)
 * Prezzi e promozioni
 * Percorso di acquisto cliente
@@ -81,12 +81,12 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 {{exam-objectives}}
 
-**Sezione 1: [!DNL Magento Open Source] caratteristiche principali (49%)**
+**Sezione 1: [!DNL Magento Open Source] funzionalità principali (49%)**
 
 * Identificare le funzionalità di [!DNL Magento Open Source]
 * Distinguere l’ambito corretto e quando utilizzarlo
 * Dimostrare la conoscenza della gestione del catalogo
-* Manipolare i prezzi utilizzando [!DNL Magento Open Source] funzioni
+* Manipolare i prezzi utilizzando le funzionalità di [!DNL Magento Open Source]
 * Descrizione del percorso cliente standard
 * Descrizione del ciclo di vita standard dell&#39;ordine
 * Descrivi le attività quotidiane coinvolte nella manutenzione dello Store
@@ -94,11 +94,11 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 **Sezione 2: Adobe [!DNL Commerce] nozioni di base (14%)**
 
-* Identifica le funzioni chiave disponibili in Adobe [!DNL Commerce]
-* Identificare i componenti aggiuntivi del servizio in Adobe [!DNL Commerce]
-* Identificare le opzioni di hosting per Adobe [!DNL Commerce]
+* Identificare le funzionalità chiave disponibili nell&#39;Adobe [!DNL Commerce]
+* Identificare i componenti aggiuntivi del servizio nell&#39;Adobe [!DNL Commerce]
+* Identificare le opzioni di hosting per l&#39;Adobe [!DNL Commerce]
 
-**Sezione 3: Principi di base del marketing digitale e del commercio elettronico (24%)**
+**Sezione 3: nozioni di base di marketing digitale ed eCommerce (24%)**
 
 * Identifica gli utilizzi di base degli strumenti di marketing digitale (Google Analytics/Adobe Analytics, Google Tag Manager, Email marketing, Segmentazione, Plug-in per social network)
 * Spiegare i principi di base della SEO
@@ -106,10 +106,10 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 * Identificare le funzioni chiave di un sito web eCommerce
 * Identificare i concetti di base dell’eCommerce (comprese le opzioni di vetrina)
 
-**Sezione 4: conformità/nozioni di base sulla sicurezza (13%)**
+**Sezione 4: nozioni di base su conformità/sicurezza (13%)**
 
 * Comprendere le nozioni di base sulla conformità alle normative sulla privacy e sulla sicurezza dei pagamenti
-* Identificare gli aspetti comuni di sicurezza di un Adobe [!DNL Commerce] progetto
+* Identificare gli aspetti comuni relativi alla sicurezza di un progetto Adobe [!DNL Commerce]
 * Identificare le best practice e i requisiti legali per la conformità in materia di accessibilità
 
 <br>
@@ -118,7 +118,7 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -136,11 +136,11 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -150,13 +150,13 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 [Segui il corso sui fondamenti di Adobe Commerce](https://app.rockinfo.com/courses/148)
 
-[Segui il corso Adobe Commerce Business Practitioner Professional](https://app.rockinfo.com/courses/219)
+[Partecipa al corso Adobe Commerce Business Practitioner Professional](https://app.rockinfo.com/courses/219)
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/137)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -211,6 +211,6 @@ Inoltre, è necessario avere una conoscenza di base dell’esperienza di eCommer
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

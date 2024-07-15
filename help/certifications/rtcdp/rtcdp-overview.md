@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Real-Time CDP] Panoramica certificazione
+# Panoramica certificazione [!DNL Adobe Real-Time CDP]
 
-**Professionale**
+**Professionista**
 
 * [Professionista](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
 
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 * [Sviluppatore](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
-Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
+Visita la pagina [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

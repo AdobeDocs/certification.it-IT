@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Workfront] Sviluppatore esperto di base
+# Percorso di certificazione per Adobe [!DNL Workfront] esperto sviluppatore di base
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/241) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/241) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ### Pubblico previsto {#intended-audience}
 
-* [!DNL Workfront] Amministratori di sistema specializzati nell’implementazione e nella configurazione di istanze nuove o aggiornate
+* [!DNL Workfront] amministratori di sistema specializzati nell&#39;implementazione e nella configurazione di istanze nuove o aggiornate
 * Progettista/architetto di processi
 * Analista aziendale
 * Consulente tecnico
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono essere in grado di:
+È necessario avere almeno 18-24 mesi di esperienza con l&#39;Adobe [!DNL Workfront] ed essere in grado di:
 
-* Navigare nel [!DNL Workfront] sistema, comprendere dove risiede la sua funzionalità
+* Navigare nel sistema [!DNL Workfront] per capire dove risiede la funzionalità
 * Configura tutti gli aspetti del sistema
 * Discutere i requisiti con i clienti e tradurli in una soluzione fattibile
 * Elicizzare e modificare il processo esistente per migliorarlo in modo collaborativo
@@ -72,7 +72,7 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 * Dato uno scenario, identificare quando utilizzare lo stato di un gruppo rispetto allo stato di un sistema.
 * Dato un set di dati, dimostra le funzionalità di kickstart.
 * Considerato uno scenario, identifica le best practice per gli utenti di provisioning automatico.
-* Considerato uno scenario, dimostra come i gruppi e i team all’interno del profilo di un utente possono influenzare ciò che può essere visto o fatto in [!DNL Workfront].
+* Considerato uno scenario, dimostrare in che modo i gruppi e i team all&#39;interno del profilo di un utente possono influire su ciò che è possibile visualizzare o eseguire in [!DNL Workfront].
 * Considerato uno scenario, consiglia una configurazione delle bacheche che soddisfi un requisito personalizzato.
 * Considerato uno scenario, identifica le best practice per l’amministrazione dei gruppi.
 
@@ -85,7 +85,7 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 * Dato uno scenario con più moduli, determinare le azioni per controllare l&#39;accesso, la visibilità e la dipendenza.
 * Dato uno scenario con campi calcolati in moduli con più oggetti, identifica la formula corretta.
 
-**Sezione 3: Funzionalità strategiche: gestione di portafogli e programmi, gestione delle risorse (13%)**
+**Sezione 3: funzionalità strategiche: gestione di portfolio e programmi, gestione delle risorse (13%)**
 
 * Considerato uno scenario, definisci gli strumenti per acquisire le modifiche nell’ambito del progetto.
 * Dato uno scenario, crea una visualizzazione che identifichi all’interno di un portfolio se un progetto soddisfa il livello medio di criteri richiesti da eseguire.
@@ -94,40 +94,40 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 * Considerato uno scenario, fornire un meccanismo per garantire che i progetti dispongano di personale completo utilizzando gli strumenti di gestione delle risorse.
 * Considerato uno scenario, utilizzare gli strumenti di gestione delle risorse per determinare il motivo della sovrassegnazione di un utente.
 
-**Sezione 4: gestione dei documenti e verifica (13%)**
+**Sezione 4: gestione documenti e bozze (13%)**
 
 * Dato uno scenario, dimostrare quando utilizzare la gestione dei documenti rispetto alla verifica
 * Considerato uno scenario, identifica le best practice per l’utilizzo del visualizzatore di bozze, delle impostazioni e della funzionalità di markup
 * Dato uno scenario, dimostrare come modificare e impostare le autorizzazioni su un file
 * In uno scenario, dimostrare come impostare l&#39;archiviazione dei documenti esterni con restrizioni di protezione
-* Considerato uno scenario, imposta una connessione a AEM as a Cloud Service o AEM Assets Essentials.
+* Considerato uno scenario, imposta una connessione ad AEM as a Cloud Service o AEM Assets Essentials.
 
-**Sezione 5: relazioni (11%)**
+**Sezione 5: Reporting (11%)**
 
 * Dato uno scenario, descrivi come combinare più colonne di dati in una singola colonna.
 * Dato un rapporto o un filtro, dimostra i vantaggi dell’utilizzo di valori jolly.
 * Identifica come creare rapporti sulle relazioni padre-figlio utilizzando il reporting nativo.
 * In uno scenario, descrivi in che modo la generazione di rapporti facilita l’esecuzione efficiente del lavoro.
-* Dato uno scenario, illustrare [!DNL Workfront] Generazione di rapporti per monitorare e migliorare l’adozione da parte degli utenti.
+* Dato uno scenario, illustrare [!DNL Workfront] Reporting per monitorare e migliorare l&#39;adozione da parte degli utenti.
 * Considerato uno scenario, determina il rendering di un tipo di campo in un rapporto. I tipi di campo includono: testo formattato, immagini e selezione multipla
 
-**Sezione 6: Metodologia/best practice/casi d’uso (22%)**
+**Sezione 6: Metodologia / Best practice / Casi d&#39;uso (22%)**
 
-* Dato uno scenario in [!DNL Workfront], funzionalità dimostrativa per impostare il tracciamento dei risultati finali che fanno parte di una singola campagna.
-* Dato uno scenario in [!DNL Workfront], illustrare le funzionalità relative alla definizione delle priorità strategiche e alla giustificazione del lavoro.
-* Dato uno scenario in [!DNL Workfront], funzionalità di dimostrazione su dati finanziari, utilizzo, previsioni, tariffe/record di fatturazione
-* Dato uno scenario in [!DNL Workfront], illustra la funzionalità relativa alla configurazione del flusso di lavoro e alle approvazioni.
+* Dato uno scenario entro [!DNL Workfront], dimostrare la funzionalità per impostare il tracciamento dei risultati finali che fanno parte di una singola campagna.
+* Dato uno scenario entro [!DNL Workfront], dimostrare funzionalità relative alla definizione delle priorità strategiche e alla giustificazione del lavoro.
+* Dato uno scenario entro [!DNL Workfront], dimostrare funzionalità relative a dati finanziari, utilizzo, previsioni, tariffe/record di fatturazione
+* Dato uno scenario entro [!DNL Workfront], dimostrare la funzionalità relativa alla configurazione del flusso di lavoro e alle approvazioni.
 * Considerato uno scenario, durante l’espansione dell’istanza di un client, consiglia un framework per la governance in relazione all’amministrazione del sistema.
 * Considerato uno scenario, identifica le aree da considerare quando espandi l’istanza di un cliente per consentire ad altri team di collaborare.
-* Dato uno scenario utilizzando [!DNL Workfront] Bacheche, identifica le funzioni native per mostrare l’avanzamento.
+* Dato uno scenario che utilizza [!DNL Workfront] bacheche, identifica le funzionalità native per mostrare l&#39;avanzamento.
 * Considerato uno scenario, consiglia un framework per la governance sull’amministrazione di sistemi e gruppi.
 
-**Sezione 7: consulenza alle imprese (11%)**
+**Sezione 7: consulenza aziendale (11%)**
 
-* In uno scenario, descrivere il processo necessario per supportare pienamente lo sforzo di implementazione [!DNL Workfront] in un reparto cross-functional.
+* Dato uno scenario, descrivere il processo necessario per supportare completamente lo sforzo di implementazione di [!DNL Workfront] in un reparto cross-functional.
 * In questo scenario, spiegare come adattare un flusso di lavoro esistente per far fronte a un cambiamento recente in un processo aziendale critico e in piena evoluzione.
 * Considerato uno scenario, identifica le impostazioni di configurazione più difficili da modificare in una determinata istanza.
-* Considerato uno scenario, identificare le considerazioni chiave della gestione delle modifiche per un [!DNL Workfront] implementazione
+* Considerato uno scenario, identificare le considerazioni chiave della gestione delle modifiche per un&#39;implementazione [!DNL Workfront]
 * Dato uno scenario in cui un cliente ha più team, fornisci un consiglio per aumentare l’efficienza.
 
 <br>
@@ -136,7 +136,7 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
 
 <br>
 
@@ -154,15 +154,15 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/241)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/241)
 
 <br>
 
@@ -219,6 +219,6 @@ Deve avere almeno 18-24 mesi di esperienza con Adobe [!DNL Workfront]e devono es
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

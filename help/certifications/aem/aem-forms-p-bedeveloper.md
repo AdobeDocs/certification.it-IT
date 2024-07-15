@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager Forms] Sviluppatore back-end Professional
+# Percorso di certificazione per Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Manager](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>* **Corso:** Se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli di conoscenza. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/123) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/123) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
->_Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>_Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -87,7 +87,7 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: Creazione e gestione di Forms (26%)**
+**Sezione 1: creazione e gestione di Forms (26%)**
 
 * Considerato uno scenario, identifica i passaggi necessari per creare AEM Forms
 * Descrizione del modello dati di Forms
@@ -103,20 +103,20 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 * Dato uno scenario, manipolare un PDF utilizzando i servizi di Forms o Assembler
 * Descrivi come implementare i servizi JDBC
 
-**Sezione 3: Amministrazione e risoluzione dei problemi (21%)**
+**Sezione 3: amministrazione e risoluzione dei problemi (21%)**
 
 * Identificare i problemi generati nei file di registro
 * Considerato uno scenario, identificare i passaggi per eseguire le attività di amministrazione
 * Identificare le funzioni dei Service Pack in AEM Forms
-* Descrivi i passaggi per la configurazione di Dispatcher per AEM per Forms
+* Descrivi i passaggi per la configurazione di AEM Dispatcher per Forms
 * Descrivi i passaggi per navigare tra diverse console
 
-**Sezione 4: Endpoint e integrazioni API (10%)**
+**Sezione 4: endpoint e integrazioni API (10%)**
 
 * Dato uno scenario, descrivere il flusso per integrare il modulo AEM con Adobe Experience Cloud
 * Identificare i passaggi per generare vari servizi endpoint
 
-**Sezione 5: Comunicazione interattiva (9%)**
+**Sezione 5: comunicazione interattiva (9%)**
 
 * In uno scenario, dimostrare e implementare i processi per la comunicazione interattiva
 
@@ -136,7 +136,7 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
@@ -144,15 +144,15 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
 {{take-course}}
 
-[Segui il corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Partecipa al corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/123)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/123)
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -209,7 +209,7 @@ Devi acquisire familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
 

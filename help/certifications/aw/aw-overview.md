@@ -10,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Workfront] Panoramica certificazione
+# Panoramica certificazione Adobe [!DNL Workfront]
 
-## Tutti gli esami disponibili per Adobe [!DNL Workfront]
+## Tutti gli esami disponibili per l&#39;Adobe [!DNL Workfront]
 
-**Professionale**
+**Professionista**
 
 * [Sviluppatore (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [Project Manager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
@@ -25,4 +25,4 @@ ht-degree: 0%
 * [Sviluppatore (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [Connettore avanzato AEM](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
+Visita la pagina [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

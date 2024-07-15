@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager] Esperto di migrazione as a Cloud Service
+# Percorso di certificazione per l&#39;Adobe [!DNL Experience Manager] as a Cloud Service esperto di migrazione
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/129) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/129) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ### Pubblico previsto {#intended-audience}
 
-* Sviluppatori che hanno esperienza con Adobe [!DNL Experience Manager]
+* Sviluppatori con esperienza con Adobe [!DNL Experience Manager]
 * Sviluppatori che hanno partecipato ad almeno una migrazione cloud
-* Adobe [!DNL Experience Manager] Sviluppatori di siti
+* Adobe [!DNL Experience Manager] sviluppatori di siti
 * Adobe [!DNL Experience Manager] Architetto Sites
-* Adobe [!DNL Experience Manager] Sviluppatori di risorse
-* Adobe [!DNL Experience Manager] Sviluppatori Forms
-* Sviluppatori/DevOps/Lead/Architetti che hanno partecipato a implementazioni AEM multiple con un minimo di 2-3 anni di esperienza nello sviluppo di applicazioni web utilizzando Adobe [!DNL Experience Manager]
+* Adobe [!DNL Experience Manager] sviluppatori Assets
+* Adobe [!DNL Experience Manager] sviluppatori Forms
+* Sviluppatori/DevOps/Lead/Architetti che hanno partecipato a distribuzioni AEM multiple con un minimo di 2-3 anni di esperienza nello sviluppo di applicazioni web utilizzando l&#39;Adobe [!DNL Experience Manager]
 
 <br>
 
@@ -56,8 +56,8 @@ ht-degree: 0%
 
 Dovresti avere:
 
-* Comprensione delle modifiche generali apportate all’architettura e alle funzioni quando si passa da qualsiasi servizio AEM (self-managed, AMS o qualsiasi cloud di terze parti) a AEM as a Cloud Service.
-* 1-3 anni di esperienza nello sviluppo di applicazioni web utilizzando Adobe [!DNL Experience Manager]
+* Comprensione delle modifiche generali all’architettura e alle funzioni durante il passaggio da qualsiasi servizio AEM (self-managed, AMS o qualsiasi cloud di terze parti) ad AEM as a Cloud Service.
+* 1-3 anni di esperienza nello sviluppo di applicazioni web utilizzando l&#39;Adobe [!DNL Experience Manager]
 * Esperienza pratica con AEM Forms, Assets e Sites
 * Capacità di guidare i clienti attraverso il processo di migrazione, consigliando e partecipando a tutte le fasi di un progetto AEM
 
@@ -65,18 +65,18 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 * Strumenti di conversione dell’indice
 * Strumenti di conversione dei flussi di lavoro
-* Strumenti di Dispatcher
+* Strumenti Dispatcher
 * Rete per la distribuzione dei contenuti (CDN)
 * Best Practices Analyzer
 * Modernizzazione dell’AEM
 * Browser dell’archivio
-* Console per sviluppatori
+* Developer Console
 * Adobe dello strumento di mappatura utenti per IMS
 * Comando I/O, strumento
 * New Relic
 * SDK per cloud locale
-* Servizio di sviluppo, staging, authoring di produzione, pubblicazione e anteprima
-* Configurazione del Dispatcher locale tramite Docker
+* Servizio di sviluppo, staging, authoring di produzione, Publish e anteprima
+* Configurazione locale di Dispatcher tramite Docker
 * Registri di Tailing Cloud nell’ambiente locale
 * Interfacce della console cloud
 
@@ -103,13 +103,13 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Prepara la configurazione per i microservizi per le risorse
 * Spiegare la strategia di caching
 
-**Sezione 3: Distribuzione (16%)**
+**Sezione 3: distribuzione (16%)**
 
 * Configurare le pipeline di Cloud Manager e collegarle agli ambienti
 * Eseguire il provisioning degli ambienti AEMaaCS (dev, stage, prod - author, publish, preview)
 * Gestire il processo di distribuzione con l&#39;aiuto di Adobe IO CLI
 
-**Sezione 4: Migrazione (20%)**
+**Sezione 4: migrazione (20%)**
 
 * Eseguire i test
 * Preparare una strategia di migrazione risorse
@@ -117,12 +117,12 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Eseguire strumenti di migrazione (trasferimento dei contenuti, modernizzazione, refactoring). Report e perfeziona i risultati, in particolare quelli critici non gestiti dagli strumenti
 * Pianifica il supporto post-pubblicazione
 
-**Sezione 5: Attuazione (16%)**
+**Sezione 5: Implementazione (16%)**
 
 * Unisci più progetti in un unico progetto da distribuire tramite la pipeline Adobe
 * Gestione degli script di repointit per le autorizzazioni utente/gruppo
 * Configurare gli SDK locali
-* Aggiorna le configurazioni in base alle modalità di esecuzione disponibili su AEM as a Cloud Service
+* Aggiornare le configurazioni in base alle modalità di esecuzione disponibili in AEM as a Cloud Service
 
 <br>
 
@@ -140,19 +140,19 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/129)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/129)
 
 +++
 
@@ -207,6 +207,6 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

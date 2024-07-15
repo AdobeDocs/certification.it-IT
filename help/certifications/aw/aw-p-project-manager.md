@@ -1,6 +1,6 @@
 ---
 title: Certificazione di Project Manager Professional
-description: Scopri come diventare un Adobe certificato Project Manager Professional in Adobe [!DNL Workfront].
+description: Scopri come diventare un Adobe Project Manager Professional certificato in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Esame AD0-E903" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Workfront] Project Manager Professional
+# Percorso di certificazione per l&#39;Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Il [Adobe Workfront Project Manager - Corso professionale](https://app.rockinfo.com/courses/230) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
+>* **Corso:** Il corso [Adobe Workfront Project Manager - Professional](https://app.rockinfo.com/courses/230) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/229) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, inclusi i materiali necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/229) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami, inclusi i materiali necessari per il successo dell&#39;esame.
 >
->_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
+>_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 Dovresti avere:
 
 * Comprensione del processo di lavoro da una richiesta di lavoro iniziale fino al completamento oppure esposizione alla gestione del progetto o del lavoro
-* Completamento di un corso di formazione o di un campo di avvio autonomo o [!DNL Workfront] da 6 a 12 mesi per comprendere le funzionalità di base
+* Ha completato un corso di formazione o un bootcamp guidato o è stato un utente [!DNL Workfront] per 6-12 mesi, in modo da comprendere le funzionalità di base
 * Informazioni su come configurare, tracciare e monitorare i dati dei rapporti
 
 <br>
@@ -71,7 +71,7 @@ Dovresti avere:
 
 {{exam-objectives}}
 
-**Sezione 1: Assunzione e pianificazione (30%)**
+**Sezione 1: accettazione e pianificazione (30%)**
 
 * Identificare diversi modi per ricevere una notifica di una richiesta di lavoro
 * Data una richiesta, controlla i dati personalizzati per determinare l’azione appropriata
@@ -86,7 +86,7 @@ Dovresti avere:
 **Sezione 2: Esecuzione (50%)**
 
 * Identificare modi per comprendere, applicare e misurare le Milestone in un progetto
-* Crea [!DNL Workfront] Approvazioni per singolo utilizzo e quando utilizzare un’approvazione
+* Crea [!DNL Workfront] approvazioni per singolo utilizzo e quando verrà utilizzata un&#39;approvazione
 * Identifica il modo in cui i diversi tipi di data vengono utilizzati dal sistema
 * Dato uno scenario, identifica le informazioni che i tipi di data trasmettono a un project manager
 * Considerato uno scenario, determina in che modo vincoli attività diversi influiscono sulla sequenza temporale del progetto quando vengono utilizzati
@@ -94,14 +94,14 @@ Dovresti avere:
 * Dato uno scenario, descrivi come caricare un documento e generare una bozza
 * Identificare i diversi modi per gestire un progetto
 * Dato uno scenario, determina la Varianza Pianificata per un ruolo specifico all’interno di un singolo progetto
-* Dato uno scenario, individua l’elemento finanziario specifico in [!DNL Workfront]
+* Dato uno scenario, individuare l&#39;elemento finanziario specifico in [!DNL Workfront]
 * Dato un diagramma di Gantt, spiegare le relazioni tra gli oggetti sul grafico
 * Confrontare le differenze tra Stato condizione e Stato di avanzamento
-* Identificare come [!DNL Workfront] team e [!DNL Workfront] gruppi utilizzabili
+* Identifica come utilizzare [!DNL Workfront] team e [!DNL Workfront] gruppi
 * In uno scenario, descrivi come fornire alle parti interessate le informazioni che richiedono
 * Dato uno scenario, determinare in che modo i tipi di data e le durate influiscono sulle condizioni del progetto
 * In uno scenario, determina quali sono gli stati personalizzati richiesti
-* Identifica i vari tipi di rapporti disponibili in [!DNL Workfront]
+* Identificare i vari tipi di report disponibili in [!DNL Workfront]
 * Dato uno scenario, descrivi i passaggi per creare un rapporto personalizzato
 
 **Sezione 3: chiusura (20%)**
@@ -117,7 +117,7 @@ Dovresti avere:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
 <br>
 
@@ -137,13 +137,13 @@ Dovresti avere:
 
 **Corso di formazione consigliato**
 
-[Formazione del team di base per i pianificatori nel nuovo [!DNL Workfront] esperienza](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[Formazione del team di base per i pianificatori nella nuova [!DNL Workfront] esperienza](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -153,11 +153,11 @@ Dovresti avere:
 
 [Partecipa al corso Adobe Workfront Project Manager - Professional](https://app.rockinfo.com/courses/230)
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/229)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/229)
 
 +++
 
@@ -212,6 +212,6 @@ Dovresti avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

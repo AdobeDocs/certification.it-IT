@@ -1,6 +1,6 @@
 ---
 title: Certificazione Enhanced Connector Expert
-description: Scopri come diventare un Adobe Certified Expert certificato in Adobe [!DNL Workfront] per [!DNL Experience Manager]
+description: Scopri come diventare un Adobe Certified Expert certificato in Adobe [!DNL Workfront] for [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Esame AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Workfront] per [!DNL Experience Manager] Esperto del connettore avanzato
+# Percorso di certificazione per l&#39;Adobe [!DNL Workfront] per l&#39;esperto del connettore avanzato [!DNL Experience Manager]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/244) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/244) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -54,13 +54,13 @@ Devi aver ottenuto una o più delle seguenti certificazioni:
 
 * Esperto certificato sviluppatore AEM Assets
 * Esperto certificato sviluppatore AEM Sites
-* [!DNL Workfront] Esperto certificato sviluppatore core
+* Esperto certificato sviluppatore core [!DNL Workfront]
 
 Inoltre, dovresti avere:
 
 * 1+ anni di esperienza CMS
 * 1+ anni di esperienza nell’AEM
-* Più di 1 anno [!DNL Workfront] esperienza
+* Più di 1 anno di esperienza [!DNL Workfront]
 * Oltre 2 anni di esperienza di sviluppo Java/J2EE
 * Coarchitettura di almeno una soluzione basata su AEM
 * Esperienza di lavorare direttamente con i clienti per creare soluzioni personalizzate
@@ -73,12 +73,12 @@ Inoltre, dovresti avere:
 
 {{exam-objectives}}
 
-**Sezione 1: Requisiti tecnici (25%)**
+**Sezione 1: requisiti tecnici (25%)**
 
-* Utilizzare [!DNL Workfront] Forms personalizzato
+* Usa Forms personalizzato [!DNL Workfront]
 * Dato uno scenario, dimostrare la gestione dei documenti
 * Dimostrare le conoscenze per la promozione del codice in ambienti diversi
-* Dato uno scenario, identifica il modo in cui i valori vengono trasmessi a [!DNL Workfront] moduli personalizzati
+* Considerato uno scenario, identificare il modo in cui i valori vengono passati ai moduli personalizzati [!DNL Workfront]
 * Risolvere i problemi relativi al codice lato server
 
 **Sezione 2: Configurazione (26%)**
@@ -88,15 +88,15 @@ Inoltre, dovresti avere:
 * Prendere decisioni necessarie per personalizzare lo schema metadati per diversi tipi di risorse
 * Applica i concetti procedurali AEM necessari per distribuire bundle OSGi, risorse, schema metadati, tag e autorizzazioni
 
-**Sezione 3: pratiche commerciali (21%)**
+**Sezione 3: Pratiche aziendali (21%)**
 
 * Interpretare le esigenze dei clienti per consigliare le strategie di flusso di lavoro appropriate
 * Dimostrare come impostare [!DNL Workfront] flussi di lavoro di approvazione e verifica
 * Considerato uno scenario, identifica le best practice per l’utilizzo del visualizzatore di bozze, delle impostazioni e della funzionalità di markup
 * Dimostrare di comprendere il tracciamento dei risultati finali come parte della gestione delle campagne
-* Considerato uno scenario, identificare le considerazioni chiave della gestione delle modifiche per un [!DNL Workfront] implementazione
+* Considerato uno scenario, identificare le considerazioni chiave della gestione delle modifiche per un&#39;implementazione [!DNL Workfront]
 
-**Sezione 4: Installazione e configurazione del connettore (28%)**
+**Sezione 4: installazione e configurazione del connettore (28%)**
 
 * Convalidare i prerequisiti in AEM
 * Dato un caso di utilizzo di un cliente, identifica le funzioni del connettore da implementare
@@ -117,15 +117,15 @@ Inoltre, dovresti avere:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/244)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/244)
 
 **Domande di esempio**
 
@@ -186,6 +186,6 @@ Inoltre, dovresti avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

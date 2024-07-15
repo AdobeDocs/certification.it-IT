@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale per professionisti del business
-description: Scopri come diventare un professionista del business certificato in Adobe [!DNL Experience Manager].
+description: Scopri come diventare un professionista certificato di professionisti aziendali in Adobe [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager] Professionista professionista
+# Percorso di certificazione per Adobe professionista [!DNL Experience Manager]
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Manager](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>* **Corso:** Se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli di conoscenza. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/122) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/122) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
->_Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>_Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -62,7 +62,7 @@ Dovresti avere:
 * Almeno 0-12 mesi di esperienza con le funzionalità AEM e le funzionalità necessarie per coinvolgere gli sviluppatori nella ricerca di soluzioni aziendali
 * Almeno 0-12 mesi di esperienza nella configurazione, implementazione e gestione di attività di integrazione continua/distribuzione continua
 
-Dovresti avere familiarità con Adobe Managed Services e Adobe [!DNL Experience Manager] as a Cloud Service e sono in grado di impostare Adobi [!DNL Experience Manager] ambienti e infrastrutture.
+Lavorare con Adobe Managed Services e Adobe [!DNL Experience Manager] as a Cloud Service è molto comodo e puoi configurare gli ambienti e l&#39;infrastruttura Adobe [!DNL Experience Manager].
 
 Inoltre, dovresti disporre di:
 
@@ -76,13 +76,13 @@ Inoltre, dovresti disporre di:
 
 {{exam-objectives}}
 
-**Sezione 1: istruzione (22%)**
+**Sezione 1: Istruzione (22%)**
 
 * Identificare le caratteristiche e le funzionalità dell’AEM
 * Descrizione delle funzionalità AEM che soddisfano le esigenze aziendali
 * Descrivi i concetti procedurali necessari per condurre la formazione per gli editor di contenuti
 
-**Sezione 2: Architettura (22%)**
+**Sezione 2: architettura (22%)**
 
 * Identificazione dell&#39;architettura delle informazioni appropriata per soddisfare le esigenze aziendali utilizzando un ambiente on-premise o ospitato da un Adobe (cloud)
 * Descrivi il modo in cui l’AEM si connette ai servizi di terze parti
@@ -98,7 +98,7 @@ Inoltre, dovresti disporre di:
 * Dato uno scenario, descrivere un approccio corretto per soddisfare gli obiettivi aziendali rimanendo entro budget e/o ambito
 * Identificare modi per collegare gli obiettivi aziendali con il team di sviluppo
 
-**Sezione 4: Configurazione e implementazione (13%)**
+**Sezione 4: configurazione e implementazione (13%)**
 
 * Identificare le best practice dell’AEM per utilizzare i componenti dei contenuti
 * Dato uno scenario, identifica la corretta implementazione di una funzione
@@ -119,7 +119,7 @@ Inoltre, dovresti disporre di:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
@@ -127,13 +127,13 @@ Inoltre, dovresti disporre di:
 
 {{take-course}}
 
-[Segui il corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Partecipa al corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/122)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/122)
 
 
 **Domande di esempio**
@@ -200,6 +200,6 @@ Inoltre, dovresti disporre di:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

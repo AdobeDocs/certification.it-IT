@@ -1,6 +1,6 @@
 ---
 title: Certificazione Architect Master
-description: Scopri come ottenere la certificazione come [!DNL Adobe Analytics] Architetto principale.
+description: Scopri come ottenere la certificazione come  [!DNL Adobe Analytics] Architect Master.
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/223) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/223) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Dovresti avere almeno 3-4 anni di esperienza nella progettazione [!DNL Adobe Analytics] architettura, specifiche del livello dati e gestione dei tag, nonché una conoscenza di base del codice JavaScript.
+Dovresti avere almeno 3-4 anni di esperienza nella progettazione dell&#39;architettura [!DNL Adobe Analytics], nelle specifiche dei livelli di dati e nella gestione dei tag, nonché una conoscenza di base del codice JavaScript.
 
-Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di tracciamento e [!DNL Adobe Analytics] e conosci le tecnologie e gli ambienti seguenti:
+Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di tracciamento e [!DNL Adobe Analytics] variabili e hai familiarità con le tecnologie e gli ambienti seguenti:
 
 * Applicazioni di analisi web
 * Adobe Experience Cloud
@@ -78,7 +78,7 @@ Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di 
 * Esaminare le esigenze dei clienti per creare requisiti aziendali
 * Dato uno scenario, crea un framework di misurazione
 
-**Sezione 2: Progettazione della soluzione (54%)**
+**Sezione 2: progettazione della soluzione (54%)**
 
 * Tradurre i requisiti aziendali in variabili e metriche
 * Dimostrare la capacità di gestire le impostazioni delle suite di rapporti
@@ -87,7 +87,7 @@ Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di 
 * Scrivi specifiche tecniche per sviluppatori di siti
 * Creazione di utenti/gruppi di Experienci Cloud
 
-**Sezione 3: post-implementazione (28%)**
+**Sezione 3: Implementazione di Post (28%)**
 
 * Considerato un set di requisiti, convalida il tracciamento tramite gli strumenti per sviluppatori del browser e i rapporti sugli Adobi
 * Applicare concetti procedurali per gestire l’estrazione dei dati e le relazioni
@@ -111,19 +111,19 @@ Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di 
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/223)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/223)
 
 +++
 
@@ -178,7 +178,7 @@ Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di 
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
 

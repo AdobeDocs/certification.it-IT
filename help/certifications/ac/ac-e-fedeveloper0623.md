@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per [!DNL Adobe Commerce] Sviluppatore esperto front-end
+# Percorso di certificazione per [!DNL Adobe Commerce] esperto sviluppatore front-end
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/139) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/139) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -56,7 +56,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 * [!DNL Adobe Commerce] - versione 2.4.6
 * Comprensione di base della struttura e del layout front-end
-* Esperienza e comprensione di HTML, CSS (e preprocessori), LESS, JavaScript e componenti dell’interfaccia utente, jQuery, Underscore, Require.JS, Knockout, anche modelli PHP, conoscenza del database e gestione dei contenuti
+* Esperienza e comprensione di HTML, CSS (e preprocessori), LESS, JavaScript e componenti UI, jQuery, Underscore, Require.JS, Knockout, anche modelli PHP, conoscenza DB e gestione dei contenuti
 * Familiarità con la piattaforma, i blocchi CMS, i widget, le pagine CMS, le pagine di categorie, le pagine di prodotti, l’area Carrello e pagamento e la dashboard dell’account
 * Conoscenza di base delle configurazioni di amministrazione
 * Conoscenza dell’estensione e della sovrascrittura di stili, layout e file JS
@@ -77,7 +77,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 {{exam-objectives}}
 
-**Sezione 1: Gestione del tema (gerarchia dei temi, configurazione delle immagini, traduzioni) (16%)**
+**Sezione 1: gestione tema (gerarchia tema, configurazione immagine, traduzioni) (16%)**
 
 * Descrizione della struttura di cartelle di temi Adobe Commerce e della relazione con i temi basati su cartelle
 * Dimostrare la possibilità di creare un nuovo tema (ereditarietà/fallback, eccezioni di progettazione, proprietà del tema)
@@ -95,7 +95,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Dimostrare la capacità di creare e personalizzare modelli
 * Applica protezione modello (output di escape)
 
-**Sezione 3: Stili (18%)**
+**Sezione 3: stili (18%)**
 
 * Identificare lo scopo di style-m.less, styles-l.less, print.less
 * Descrivi la differenza tra file parziali specifici (_extensions.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -106,10 +106,10 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Dimostrare la capacità di implementare e personalizzare MENO componenti della libreria
 * Identificare le differenze tra la compilazione lato client e lato server e come funziona
 
-**Sezione 4: JavaScript (widget immagine, libreria di immagini, modulo dati del cliente, modelli di foratura) (22%)**
+**Sezione 4: JavaScript (widget immagine, libreria immagini, modulo dati cliente, modelli di foratura) (22%)**
 
 * Dimostrare la capacità di inizializzare e chiamare i componenti JavaScript
-* Distinguere i casi d’uso per i diversi componenti JavaScript
+* Distinguere i casi d’uso per i diversi componenti di JavaScript
 * Dimostrare l’utilizzo di RequireJS
 * Dimostrare la capacità di implementare diversi tipi di mixin
 * Descrivere come aggiungere una traduzione in JS
@@ -125,7 +125,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Personalizzare le e-mail transazionali
 * Dimostrare l’utilizzo degli strumenti di sviluppo per amministratori
 
-**Sezione 6: Strumenti (CLI e Grunt) (10%)**
+**Sezione 6: strumenti (CLI e Grunt) (10%)**
 
 * Dimostrare l&#39;utilizzo dei comandi di base bin/Magento
 * Descrivere l&#39;utilizzo dei comandi del Compositore (installazione, aggiornamento, richiesta, rimozione)
@@ -139,7 +139,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
@@ -157,19 +157,19 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/139)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/139)
 
 +++
 
@@ -224,6 +224,6 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale per professionisti del business
-description: Scopri come ottenere la certificazione come Adobe [!DNL Audience Manager] Professionista di business.
+description: Scopri come ottenere la certificazione di Adobe [!DNL Audience Manager] professionista di business.
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Audience Manager] Professionista professionista
+# Percorso di certificazione per Adobe professionista [!DNL Audience Manager]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/245) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/245) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 * Considerato uno scenario, identifica segnali, caratteristiche, segmenti e tipi di pubblico
 * Identificare gli utilizzi di diversi tipi di caratteristiche
 
-**Sezione 3: relazioni e misurazioni (16%)**
+**Sezione 3: Reporting e misurazioni (16%)**
 
 * Dato uno scenario, genera rapporti per misurare gli obiettivi di attivazione o campagna
 * In uno scenario, confronta i tipi di pubblico in base alle percentuali di corrispondenza
@@ -94,7 +94,7 @@ ht-degree: 0%
 **Sezione 6: unione profili, sincronizzazione ID e Audience Marketplace (14%)**
 
 * Organizzare le caratteristiche degli utenti in un unico profilo unificato per creare un pubblico basato su famiglie o dispositivi
-* Identificare l’attivazione tramite Audienci Marketplace
+* Identificare l’attivazione tramite Audience Marketplace
 
 <br>
 
@@ -112,15 +112,15 @@ ht-degree: 0%
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/245)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/245)
 
 +++
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
 

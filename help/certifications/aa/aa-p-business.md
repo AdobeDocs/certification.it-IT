@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale per professionisti del business
-description: Scopri come ottenere la certificazione come [!DNL Adobe Analytics] Professionista professionista.
+description: Scopri come ottenere la certificazione come  [!DNL Adobe Analytics] professionista di business.
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Analytics] Professionista professionista
+# Percorso di certificazione per Adobe professionista [!DNL Analytics]
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/145) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/145) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la seguente esperienza:
+Dovresti avere almeno 3 mesi di esperienza in [!DNL Adobe Analytics] e la seguente esperienza:
 
 * Un background di marketing o provengono da un ruolo di marketing, ma possono provenire da una varietà di ruoli.
 * Una familiarità di base con le metriche e le dimensioni dell’analisi digitale.
@@ -79,7 +79,7 @@ Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la segue
 * Analizzare i dati del rapporto per riepilogare e trarre conclusioni
 * Riconoscere anomalie e anomalie nei rapporti
 
-**Sezione 2: relazioni e dashboard per i progetti (38%)**
+**Sezione 2: reporting e dashboard per i progetti (38%)**
 
 * Valuta i vantaggi dell’utilizzo di visualizzazioni specifiche basate su un dato scenario
 * Confrontare la visualizzazione Abbandono e Flusso
@@ -96,9 +96,9 @@ Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la segue
 * Applicare segmenti a progetti e componenti
 * Applicare il processo per generare metriche calcolate e/o segmentate di base
 
-**Sezione 4: conoscenza generale degli strumenti e risoluzione dei problemi (9%)**
+**Sezione 4: informazioni generali sullo strumento e risoluzione dei problemi (9%)**
 
-* Comprendere i diversi tipi di quote e parametri esistenti in [!DNL Adobe Analytics] (evar, prop ed eventi)
+* Comprendere i diversi tipi di dimensioni e parametri esistenti in [!DNL Adobe Analytics] (eVar, prop ed eventi)
 * Determinare come esportare i dati da [!DNL Adobe Analytics]
 
 <br>
@@ -107,7 +107,7 @@ Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la segue
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -125,15 +125,15 @@ Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la segue
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/145)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/145)
 
 **Domande di esempio**
 
@@ -199,6 +199,6 @@ Deve avere un’esperienza minima di 3 mesi su [!DNL Adobe Analytics] e la segue
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

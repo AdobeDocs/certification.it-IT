@@ -1,6 +1,6 @@
 ---
 title: Certificazione esperto di professionisti aziendali
-description: Scopri come diventare un Adobe certificato esperto di professionisti aziendali in [!DNL Adobe Target].
+description: Scopri come diventare un esperto Adobe di professionisti aziendali certificato in [!DNL Adobe Target].
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per [!DNL Adobe Target] Esperto di professionisti aziendali
+# Percorso di certificazione per l&#39;esperto di [!DNL Adobe Target] professionisti aziendali
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/236) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/236) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -55,15 +55,15 @@ I candidati previsti per questa certificazione includono membri dei seguenti tea
 
 Dovresti avere:
 
-* Oltre 2 anni di esperienza con le piattaforme di ottimizzazione, tra cui [!DNL Adobe Target]
-* Esperienza pratica [!DNL Adobe Target]
+* Oltre 2 anni di esperienza con le piattaforme di ottimizzazione, incluso [!DNL Adobe Target]
+* Esperienza pratica con [!DNL Adobe Target]
 * Più di 2 anni di esperienza che hanno portato/contribuito ai programmi di ottimizzazione
 * Nozioni di base sulle attività amministrative di Target/Adobe Marketing Cloud (preferenze, ruoli utente e autorizzazioni, impostazioni)
 * Capacità di comprendere e tradurre i KPI aziendali in obiettivi di ottimizzazione
 * Capacità di formulare suggerimenti in base alla valutazione delle esigenze
-* La capacità di determinare le [!DNL Adobe Target] tipi di attività basati su obiettivi di ottimizzazione
+* Possibilità di determinare i tipi di attività [!DNL Adobe Target] appropriati in base agli obiettivi di ottimizzazione
 * Conoscenza di come HTML e CSS possono essere utilizzati per ottimizzare l’esperienza utente
-* Informazioni su JavaScript come concetto
+* Concetto di JavaScript
 * Conoscenza dei concetti statistici e dell’analisi dei dati in relazione all’ottimizzazione
 * Una conoscenza approfondita del flusso di lavoro in tre fasi (esperienze, targeting, obiettivi e impostazioni, incluse tutte le origini di reporting)
 * Capacità di tradurre i risultati dei rapporti sulle attività in informazioni e suggerimenti fruibili
@@ -79,8 +79,8 @@ Tecnologie:
 * Strumenti di sviluppo per console/browser del browser come console, scheda di rete
 * Strumenti di rete nel browser
 * Nozioni di base su altri strumenti di Adobe
-* Console per sviluppatori (qualsiasi browser web)
-* [!DNL Adobe Target] calcolatrice di esempio
+* Developer Console (qualsiasi browser web)
+* Calcolatore di esempio [!DNL Adobe Target]
 * Nozioni di base su Adobe Audience Manager
 * Adobe Experience Cloud (come origine del pubblico per Target)
 * Adobe Experience Manager
@@ -137,7 +137,7 @@ Ambienti:
 **Sezione 3: analisi e reporting (17%)**
 
 * Definire e valutare le impostazioni dei rapporti per aiutare a impostare gli elementi da visualizzare in un rapporto
-* Valuta e confronta [!DNL Adobe Target] Impostazioni del Calcolatore dimensione campione quando si pianificano le attività di Target e si convalidano i relativi rapporti
+* Valuta e confronta le impostazioni del calcolatore delle dimensioni del campione di [!DNL Adobe Target] quando pianificano le attività di Target e convalidano i relativi rapporti
 * Valutare e identificare i problemi comuni associati ai test A/B e come evitarli
 * Comprendere le differenze tra i rapporti di riepilogo di Automated Personalization e gli altri rapporti
 * Valutare i rapporti sulle prestazioni delle esperienze (MVT)
@@ -165,19 +165,19 @@ Ambienti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/236)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/236)
 
 +++
 
@@ -243,6 +243,6 @@ Ambienti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Commerce] Architect Master
+# Percorso di certificazione per l&#39;Adobe [!DNL Commerce] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/142) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/142) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### Pubblico previsto {#intended-audience}
 
-* Software principale/[!DNL Adobe Commerce] Architetto
+* Lead Software/[!DNL Adobe Commerce] Architect
 * Architetto tecnico
 * Architetto della soluzione
 * Responsabile tecnico
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Dovresti avere almeno 3-5 anni di esperienza prima [!DNL Commerce] progetti di sviluppo e sono in grado di progettare, integrare, implementare e spiegare soluzioni ai problemi aziendali utilizzando [!DNL Adobe Commerce] insieme ai servizi associati.
+Dovresti avere almeno 3-5 anni di esperienza per [!DNL Commerce] progetti di sviluppo e essere in grado di progettare, integrare, implementare e spiegare soluzioni ai problemi aziendali utilizzando [!DNL Adobe Commerce] insieme ai servizi associati.
 
 Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
@@ -71,21 +71,21 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 * Logica dei contratti di assistenza
 * GraphQL
 * Comprendere il compositore come strumento di dipendenza
-* Impostare e configurare l’istanza di lavoro di Adobe [!DNL Adobe Commerce] da zero
+* Imposta e configura l&#39;istanza di lavoro dell&#39;Adobe [!DNL Adobe Commerce] da zero
 * Personalizzare il dashboard di amministrazione, creando griglie e moduli
 * Gestione della cache e dell’indice; creazione di un indice personalizzato
 * Crea nuovo tipo di cache
 * Risolvere ed eseguire il debug di vari problemi nell’ambiente
 * Estendere e gestire lo schema del database
 * Funzioni di sicurezza, installazione sicura ed estensione dello sviluppo
-* Eseguire servizi basati su server che [!DNL Adobe Commerce] connessioni (Redis, Gestione configurazione vernice)
+* Esecuzione di servizi basati su server connessi a [!DNL Adobe Commerce] (Gestione configurazione Redis e Vernice)
 * Consapevole delle migliori pratiche di codifica standard, standard di codifica, PSR, principio SOLID
-* Configurazione e utilizzo [!DNL Adobe Commerce] Connettore servizi (e servizi associati)
+* Configura e utilizza [!DNL Adobe Commerce] Services Connector (e servizi associati)
 * Gestione dei contenuti di staging
-* Informazioni [!DNL Adobe Commerce] impostazioni predefinite, quando è disponibile e non disponibile
-* Ampia comprensione di qualsiasi correlato [!DNL Adobe Commerce] dominio
+* Informazioni sui valori predefiniti di [!DNL Adobe Commerce], quando disponibili e non disponibili
+* Ampia comprensione di qualsiasi dominio [!DNL Adobe Commerce] correlato
 * Progettare l’architettura del progetto
-* Ottimizzare le prestazioni di [!DNL Adobe Commerce] predefinito
+* Ottimizza le prestazioni del [!DNL Adobe Commerce] predefinito
 * Creazione e modifica di B2B
 * Protocollo AMQP e schede in [!DNL Adobe Commerce] (S3)
 
@@ -97,23 +97,23 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
 **Sezione 1: Progettazione (46%)**
 
-* Progetta e implementa soluzioni ottimali per Adobe [!DNL Commerce] per soddisfare le esigenze aziendali
+* Progettare e implementare soluzioni ottimali per l&#39;Adobe [!DNL Commerce] per soddisfare le esigenze aziendali
 * Progettare flussi logici e tecnici
-* Personalizza [!DNL Commerce] funzioni
-* Integra Adobe [!DNL Commerce] con sistemi e servizi esterni
+* Personalizza le funzionalità di [!DNL Commerce]
+* Integrare l&#39;Adobe [!DNL Commerce] con sistemi e servizi esterni
 * Risoluzione dei problemi dei flussi di progettazione
 
 **Sezione 2: revisione (32%)**
 
-* Rivedi e riesegui il factoring dell&#39;Adobe esistente [!DNL Commerce] personalizzazioni
-* Utilizzare [!DNL Commerce] framework di test in tutto il flusso di lavoro
-* Ottimizzazione di prestazioni e scalabilità per Adobe [!DNL Commerce]
-* Risoluzione dei problemi per identificare la causa principale dei problemi con Adobe [!DNL Commerce]
+* Rivedi e riesegui il factoring delle personalizzazioni di Adobe [!DNL Commerce] esistenti
+* Utilizza [!DNL Commerce] framework di test in tutto il flusso di lavoro
+* Ottimizza prestazioni e scalabilità per l&#39;Adobe [!DNL Commerce]
+* Risoluzione dei problemi per identificare la causa principale dei problemi con l&#39;Adobe [!DNL Commerce]
 * Imponi standard di codifica
 
 **Sezione 3: configurazione e distribuzione (22%)**
 
-* Configura Adobe [!DNL Commerce] e assicurati che il progetto sia configurato in modo ottimale
+* Configurare l&#39;Adobe [!DNL Commerce] e assicurarsi che il progetto sia configurato in modo ottimale
 * Configura tutti gli aspetti di Adobe [!DNL Commerce] Cloud
 * Supervisionare e migliorare il processo di implementazione
 * Risoluzione dei problemi di infrastruttura e configurazione
@@ -122,7 +122,7 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -140,19 +140,19 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/142)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/142)
 
 +++
 
@@ -207,6 +207,6 @@ Inoltre, dovresti avere familiarità con le seguenti attività e tecnologie:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

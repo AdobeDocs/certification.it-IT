@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Nuovo corso disponibile:** Il [Adobe Workfront Core Developer - Corso professionale](https://app.rockinfo.com/courses/231) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
+>* **Nuovo corso disponibile:** Il [corso Adobe Workfront Core Developer - Professional](https://app.rockinfo.com/courses/231) include spiegazioni dei concetti chiave, dimostrazioni pratiche e controlli delle conoscenze.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/238) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, inclusi i materiali necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/238) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami, inclusi i materiali necessari per il successo dell&#39;esame.
 >
->_Se viene richiesto di effettuare l’accesso, utilizza l’Adobe ID._
+>_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -61,16 +61,16 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Anche se questo esame non richiede conoscenze di codifica/programmazione, richiede almeno 3 - 6 mesi di esperienza pratica utilizzando Adobe [!DNL Workfront]
+Anche se questo esame non richiede conoscenze di codifica/programmazione, richiede almeno 3 - 6 mesi di esperienza pratica utilizzando l&#39;Adobe [!DNL Workfront]
 
 I candidati idonei dovrebbero inoltre avere:
 
-* Esperienza con Adobe [!DNL Workfront] funzionalità e connettività tramite acquisizione, approvazione, pianificazione, esecuzione e reporting
-* Comprensione approfondita dell&#39;Adobe [!DNL Workfront] tipi di oggetto, inclusi moduli personalizzati e flussi di lavoro di approvazione, modelli, durate, lavoro/ore pianificate
-* Comprensione approfondita dell&#39;Adobe [!DNL Workfront] Configurazione, inclusi livelli di accesso, modelli di layout, preferenze di progetto e altri metodi per ottenere semplicità di progettazione per l’utente finale
+* Esperienza con funzionalità e connettività Adobe [!DNL Workfront] tramite acquisizione, approvazione, pianificazione, esecuzione e reporting
+* Informazioni approfondite sui tipi di oggetto Adobe [!DNL Workfront], inclusi moduli personalizzati e flussi di lavoro di approvazione, modelli, durate, lavoro/ore pianificate
+* Comprensione approfondita della configurazione dell&#39;Adobe [!DNL Workfront], inclusi i livelli di accesso, i modelli di layout, le preferenze del progetto e altri metodi per semplificare la progettazione dell&#39;utente finale
 * Informazioni ed esperienza sulla mappatura dei processi
-* Comprensione dei diversi Adobi [!DNL Workfront] utenti tipo e modalità di coinvolgimento nel supporto
-* Familiarità con i connettori nativi e altri Adobi [!DNL Workfront] prodotti e servizi
+* Informazioni sui diversi utenti tipo Adobe [!DNL Workfront] e su come utilizzare il supporto
+* Familiarità con i connettori nativi e altri prodotti e servizi Adobe [!DNL Workfront]
 * Familiarità con la gestione dei progetti, compresi agile e a cascata, e i concetti di gestione delle risorse
 
 <br>
@@ -86,7 +86,7 @@ I candidati idonei dovrebbero inoltre avere:
 * Usa Forms personalizzato
 * Usa approvazioni di base
 
-**Sezione 2: Bilancio e pianificazione (11%)**
+**Sezione 2: Budget e pianificazione (11%)**
 
 * Utilizzare la programmazione delle risorse
 * Dato uno scenario/set di requisiti, applica le configurazioni per impostare un modello di progetto
@@ -110,9 +110,9 @@ I candidati idonei dovrebbero inoltre avere:
 * Dimostrare come impostare flussi di lavoro di approvazione e verifica
 * Riconoscere lo scopo della creazione di un problema per un progetto
 * Dimostrare come personalizzare gli stati dei progetti a livello di gruppo
-* Identifica gli attributi necessari per abilitare Agile in [!DNL Workfront]
-* Identifica i modi in cui immettere l’ora in [!DNL Workfront]
-* Identificare gli elementi di tracciamento finanziario in [!DNL Workfront]
+* Identificare gli attributi necessari per abilitare Agile in [!DNL Workfront]
+* Identificare i modi per immettere l&#39;ora in [!DNL Workfront]
+* Identificare gli elementi del tracciamento finanziario in [!DNL Workfront]
 
 <br>
 
@@ -130,11 +130,11 @@ I candidati idonei dovrebbero inoltre avere:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -142,13 +142,13 @@ I candidati idonei dovrebbero inoltre avere:
 
 {{take-course}}
 
-[Segui il corso Adobe Workfront Core Developer - Professional](https://app.rockinfo.com/courses/231)
+[Partecipa al corso Adobe Workfront Core Developer - Professional](https://app.rockinfo.com/courses/231)
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/238)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/238)
 
 +++
 
@@ -203,6 +203,6 @@ I candidati idonei dovrebbero inoltre avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

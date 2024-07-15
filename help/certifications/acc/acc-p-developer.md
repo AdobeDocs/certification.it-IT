@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Campaign Classic] Sviluppatore professionale
+# Percorso di certificazione per Adobe [!DNL Campaign Classic] Developer Professional
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/250) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/250) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 Dovresti avere:
 
-* Almeno un anno di Adobe [!DNL Campaign Classic] esperienza software
-* Almeno un anno di esperienza combinata nella programmazione JavaScript, nello sviluppo SQL, incluso ETL, e nelle tecnologie Web (XML, HTML e servizi Web)
+* Almeno un anno di esperienza software Adobe [!DNL Campaign Classic]
+* Almeno un anno di esperienza combinata nella programmazione JavaScript, nello sviluppo SQL, inclusa ETL, e nelle tecnologie Web (XML, HTML e servizi Web)
 * Conoscenza di base dell’automazione del marketing
 * Informazioni sui concetti dei database relazionali
 
@@ -64,7 +64,7 @@ Dovresti avere:
 
 {{exam-objectives}}
 
-**Sezione 1: configurazione del sistema (25%)**
+**Sezione 1: configurazione di sistema (25%)**
 
 * Dimostrare la configurazione delle impostazioni a livello di sistema nel nodo Amministrazione
 * Applicare il processo per estendere lo schema destinatario OOTB
@@ -75,12 +75,12 @@ Dovresti avere:
 * Identificare le impostazioni di configurazione per le enumerazioni Open e Closed
 * Differenziare i tipi di regole di tipologia
 * Identificare i requisiti per utilizzare una mappa di destinazione personalizzata e i relativi effetti sulle funzionalità OOTB
-* In Adobe, descrivi come accedere ai tipi di pubblico generati esternamente da altre soluzioni Adobe Experience Cloud [!DNL Campaign Classic]
+* Descrivere il modo in cui i tipi di pubblico generati esternamente da altre soluzioni Adobe Experience Cloud sono accessibili nell&#39;Adobe [!DNL Campaign Classic]
 * Descrivi il caso di utilizzo aziendale per interazioni e offerte
 * Descrivi il caso di utilizzo aziendale per il Centro messaggi
 * Identificare la funzionalità di importazione dati API V8
 
-**Sezione 2: Personalizzazione (16%)**
+**Sezione 2: personalizzazione (16%)**
 
 * Applicare il processo per modificare gli schemi di Campaign
 * Identificare le impostazioni per garantire la corretta estensione dello schema o configurare schemi personalizzati
@@ -91,14 +91,14 @@ Dovresti avere:
 * Identificare i casi d’uso per utilizzare la gestione dei contenuti
 * Applica al processo per aggiornare i moduli OOTB
 
-**Sezione 3: Sicurezza operativa (10%)**
+**Sezione 3: sicurezza operativa (10%)**
 
 * Descrivere il processo per l’aggiunta di gruppi di utenti e ruoli
 * Applicare il processo per tradurre la matrice di gestione utenti con diritti utente e gerarchia corretti
 * Identificare e definire le autorizzazioni corrette
 * Identificare l’area di sicurezza per un gruppo di utenti
 
-**Sezione 4: Flussi di lavoro tecnici (29%)**
+**Sezione 4: flussi di lavoro tecnici (29%)**
 
 * Applicare il processo di importazione/esportazione
 * Identificare le diverse origini di dati a cui può accedere un flusso di lavoro
@@ -114,12 +114,12 @@ Dovresti avere:
 * Applica il processo per configurare avvisi e approvazioni
 * Identificare i tipi di database delle campagne
 
-**Sezione 5: Manutenzione dell’istanza (4%)**
+**Sezione 5: manutenzione istanza (4%)**
 
 * Identificare gli errori da diversi registri del servizio
 * Spiegare le letture della mappa di calore del flusso di lavoro
 
-**Sezione 6: configurazione di Campaign (14%)**
+**Sezione 6: configurazione della campagna (14%)**
 
 * Applicare il processo per creare campagne utilizzando i modelli di Campaign
 * Descrivere il processo di creazione delle approvazioni
@@ -134,7 +134,7 @@ Dovresti avere:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -152,19 +152,19 @@ Dovresti avere:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/250)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/250)
 
 +++
 
@@ -219,6 +219,6 @@ Dovresti avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

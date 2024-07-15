@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] Panoramica certificazione
+# Panoramica certificazione Adobe [!DNL Journey Optimizer]
 
-**Professionale**
+**Professionista**
 
 * [Professionista](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
 
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 * [Sviluppatore](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
+Visita la pagina [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

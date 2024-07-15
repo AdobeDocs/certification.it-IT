@@ -4,7 +4,7 @@ description: Panoramica delle opzioni di certificazione per gli utenti professio
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 44%
+ht-degree: 13%
 
 ---
 
@@ -12,7 +12,7 @@ ht-degree: 44%
 
 **Advertising**
 
-* [Professionista (ricerca)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [Professionista (Ricerca)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [Professionista (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
@@ -42,7 +42,7 @@ ht-degree: 44%
 * [Sviluppatore (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [Sviluppatore (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Sviluppatore back-end (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [Fondamenti tecnici](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [Nozioni di base tecniche](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Marketo Engage**
 

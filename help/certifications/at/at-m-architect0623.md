@@ -1,6 +1,6 @@
 ---
 title: Architetto Master nuova certificazione
-description: Scopri come ottenere la certificazione [!DNL Adobe Target] Architetto principale.
+description: Scopri come ottenere la certificazione [!DNL Adobe Target] Architect Master.
 solution: Target
 product: Target
 role: Data Architect
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/237) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/237) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 I candidati previsti per questa certificazione includono membri dei seguenti team/organizzazioni:
 
 * Tecnico/architetto di ottimizzazione del tasso di conversione
-* Ingegnere/architetto della personalizzazione
+* ingegnere/architetto Personalization
 * Architetto di soluzioni digitali
 * Consulente per la trasformazione digitale
 * Lead di ottimizzazione dell’esperienza
@@ -61,7 +61,7 @@ Dovresti avere:
 * Almeno tre anni di esperienza di ottimizzazione del marketing digitale
 * Almeno due anni di esperienza (o cinque progetti) nell’implementazione, distribuzione e risoluzione dei problemi di Adobe Target
 * Esperienza nell’integrazione di Target con Adobe Experience Cloud
-* Comprensione di base di JavaScript, HTML, CSS e sviluppo web front-end
+* Comprensione di base dello sviluppo web front-end, JavaScript, HTML e CSS
 * Conoscenza/consapevolezza delle API/SDK di Adobe Target, integrazione lato server, reporting e amministrazione
 * Conoscenza dell’implementazione di Adobe Target con framework di applicazioni a pagina singola (SPA), dispositivi mobili, e-mail e consigli.
 
@@ -69,7 +69,7 @@ Tecnologie:
 
 * Più programmi Adobe Experience Cloud (Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, API di Target)
 * JavaScript (Ajax, JQuery e così via)
-* Strumenti di debug basati su browser (strumenti per sviluppatori Chrome, VEC Helper), JSON per il debug delle risposte da Target
+* Strumenti di debug basati su browser (strumenti per sviluppatori di Chrome, VEC Helper), JSON per il debug delle risposte di Target
 * Strumenti di debug per le app native (Charles Proxy, Fiddler)
 * Configurazione HTML, CSS, HTTP, XML
 * IDE di sviluppo mobile nativi, nozioni di base sullo sviluppo iOS, nozioni di base sullo sviluppo Android
@@ -93,21 +93,21 @@ Ambienti:
 
 {{exam-objectives}}
 
-**Sezione 1: [!DNL Adobe Target] fondamentali (13%)**
+**Sezione 1: [!DNL Adobe Target] nozioni di base (13%)**
 
-* Identificare la [!DNL Adobe Target] utilizzo per un dato scenario
-* Spiegare le tecnologie fondamentali di un [!DNL Adobe Target] implementazione
+* Identificare l&#39;utilizzo [!DNL Adobe Target] appropriato per uno scenario specifico
+* Spiegare le tecnologie fondamentali di un&#39;implementazione [!DNL Adobe Target]
 
-**Sezione 2: Integrazione con [!DNL Adobe Target] (18%)**
+**Sezione 2: integrazione con [!DNL Adobe Target] (18%)**
 
-* Applicare il processo per l&#39;integrazione [!DNL Adobe Target] con Adobe Analytics (A4T)
-* Applicare il processo per l&#39;integrazione [!DNL Adobe Target] a ADOBE EXPERIENCE MANAGER
+* Applica il processo per integrare [!DNL Adobe Target] con Adobe Analytics (A4T)
+* Applica il processo per integrare [!DNL Adobe Target] in Adobe Experience Manager
 * Descrizione dell&#39;integrazione con le soluzioni Adobe Experience Cloud e Adobe Experience Platform
 * Descrizione dell’integrazione con i tipi di pubblico di Adobe Experience Cloud
 
 **Sezione 3: [!DNL Adobe Target] amministrazione e governance (6%)**
 
-* Definire un’attività [!DNL Adobe Target] strategia di implementazione e governance del sistema
+* Definire una strategia di implementazione [!DNL Adobe Target] e una governance del sistema in corso
 * Applicare il processo e le best practice per la gestione degli utenti
 * Descrivere gli aspetti amministrativi dell’impostazione di implementazione
 
@@ -117,15 +117,16 @@ Ambienti:
 * Descrizione dell’implementazione della distribuzione lato server
 * Descrizione dei requisiti di implementazione per dispositivi mobili, targeting e-mail e API
 
-**Sezione 5: Leva finanziaria [!DNL Adobe Target] consigli (11%)**
+**Sezione 5: sfrutta [!DNL Adobe Target] consigli (11%)**
 
 * Dimostrare di comprendere consigli, cataloghi e criteri
 * Applicare il processo per configurare i consigli di Target
 
 **Sezione 6: Architetto, progettazione e implementazione [!DNL Adobe Target] (18%)**
 
-* Seleziona la corretta implementazione della richiesta Target (globale, conferma ordine, ibrida) Valuta e progetta un [!DNL Adobe Target] implementazione
-* Descrivi l’implementazione di [!DNL Adobe Target] nelle app mobile native
+* Selezionare l’implementazione corretta della richiesta Target (globale, conferma ordine, ibrida)
+Valuta e progetta un&#39;implementazione [!DNL Adobe Target]
+* Descrivi l&#39;implementazione di [!DNL Adobe Target] nelle app mobile native
 
 **Sezione 7: Risoluzione dei problemi (28%)**
 
@@ -133,7 +134,7 @@ Ambienti:
 * Risoluzione dei problemi relativi agli errori di richiesta e risposta di Target
 * Risolvere i problemi relativi agli errori di configurazione delle attività
 * Errori di integrazione
-* Risoluzione dei problemi [!DNL Adobe Target] Errori Recommendations
+* Risolvere i problemi relativi a [!DNL Adobe Target] errori Recommendations
 
 <br>
 
@@ -151,19 +152,19 @@ Ambienti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/237)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/237)
 
 +++
 
@@ -218,6 +219,6 @@ Ambienti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

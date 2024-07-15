@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager Forms] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Experience Manager Forms] sviluppatore esperto
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/128) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/128) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -73,13 +73,13 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Possibilità di integrazione con i servizi dati
 * Implementazione del flusso di lavoro
 * Conoscenza di base di AEM Forms Workbench (JEE) per creare processi e servizi live lunghi e brevi.
-* Sviluppare clientlibs JavaScript utilizzando l’API GuideBridge
+* Sviluppare clientlibs di JavaScript utilizzando l’API GuideBridge
 * In base al CAC di Sign/Government, è possibile sapere quale ambiente AEM Forms desktop o server utilizzare
-* Conoscenza di base di Java/J2EE e JavaScript per scrivere la logica e chiamare diversi servizi.
+* Conoscenza di base di Java/J2EE e JavaScript per scrivere logica e chiamare diversi servizi.
 * Precompilare un modulo adattivo
 * Conoscenza di base di OSGi e dei componenti Sling
 * Utilizzo di Document Services
-* Progettazione AEM, workbench AEM, area di lavoro AEM
+* Designer AEM, workbench AEM, area di lavoro AEM
 * Console Moduli adattivi
 * Strumenti IDE Java
 * Maven
@@ -91,7 +91,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: Creazione e gestione di Forms (36%)**
+**Sezione 1: creazione e gestione di Forms (36%)**
 
 * Genera Forms
 * Configurare Forms Data Model
@@ -107,7 +107,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Manipolare PDF utilizzando i servizi di Forms o Assembler
 * Implementazione dei servizi JDBC
 
-**Sezione 3: Amministrazione e risoluzione dei problemi (18%)**
+**Sezione 3: amministrazione e risoluzione dei problemi (18%)**
 
 * Risoluzione dei problemi e differenziazione dei file di registro
 * Eseguire attività di amministrazione
@@ -115,7 +115,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Eseguire la configurazione del Dispatcher AEM per Forms
 * Navigare tra diverse console
 
-**Sezione 4: Endpoint e integrazioni API (8%)**
+**Sezione 4: endpoint API e integrazioni (8%)**
 
 * Integrare con Adobe Experience Cloud
 * Generare e utilizzare vari servizi endpoint
@@ -130,7 +130,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -148,19 +148,19 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/128)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/128)
 
 +++
 
@@ -215,6 +215,6 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

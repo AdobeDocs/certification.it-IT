@@ -1,6 +1,6 @@
 ---
 title: Certificazione Architect Master
-description: Scopri come diventare un Adobe Architect Master certificato in Adobe [!DNL Marketo Engage].
+description: Scopri come diventare un master Adobe Architect certificato in Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Marketo Engage] Architect Master
+# Percorso di certificazione per l&#39;Adobe [!DNL Marketo Engage] Architect Master
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/248) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/248) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->Questa certificazione ha un prerequisito. DEVI avere un Adobe attivo (non scaduto) [!DNL Marketo Engage] Professionista **Esperto** Certificazione per prendere l&#39;Adobe [!DNL Marketo Engage] Esame di master di architetto.
+>Questa certificazione ha un prerequisito. È NECESSARIO disporre di una certificazione di Adobe [!DNL Marketo Engage] {Expert **** Professionista  attiva (non scaduta) per sostenere l&#39;esame di master architetto dell&#39;Adobe [!DNL Marketo Engage].
 
-* Prerequisito: Adobe attivo (non scaduto) [!DNL Marketo Engage] Certificazione di esperto di professionisti aziendali
+* Prerequisito: Adobe attivo (non scaduto) [!DNL Marketo Engage] Certificazione per esperti di professionisti aziendali
 * Livello: Master (3-5 anni di esperienza)
 * Certificazione del professionista
 * Punteggio minimo: 32/50
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 Dovresti avere:
 
-* Certificazione corrente come esperto certificato Marketi Engage Business Practitioner
+* Certificazione corrente come esperto certificato Marketo Engage Business Practitioner
 * Almeno cinque anni di esperienza, preferibilmente con più istanze di Marketo Engage
 * Comprensione dell&#39;impatto aziendale e spiegazione/comunicazione efficace della propria soluzione alle parti interessate (tecniche e non) a diversi livelli
 * La capacità di concepire una soluzione e tradurla in un’architettura di Marketo Engage, comprendere i processi aziendali interessati dalle integrazioni
@@ -89,14 +89,14 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{exam-objectives}}
 
-**Sezione 1: Leadership del progetto (16%)**
+**Sezione 1: Leadership progetto (16%)**
 
 * Dato un caso di studio, individua le parti interessate giuste
 * Valuta una serie di requisiti e consiglia i limiti del progetto, il budget, le risorse e l&#39;ambito
 * Dato un processo modificato, determina chi ha bisogno dell’abilitazione e di un piano di rollout di abilitazione efficiente
 * Valuta un audit e consiglia le priorità e la tempistica
 
-**Sezione 2: Progettazione dell&#39;architettura di Marketo Engage (48%)**
+**Sezione 2: Progettazione architettura di Marketo Engage (48%)**
 
 * Raccogliere requisiti/esigenze e consigliare una gestione dei lead e una progettazione del ciclo di vita
 * Esamina un’implementazione esistente e fornisci i risultati
@@ -133,7 +133,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -151,19 +151,19 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Guida alla preparazione all’esame](https://app.rockinfo.com/courses/248)
+[Guida alla preparazione degli esami](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 >[!IMPORTANT]
 >
->Questa certificazione ha un prerequisito. DEVI avere un Adobe attivo (non scaduto) [!DNL Marketo Engage] Professionista **Esperto** Certificazione per prendere l’Adobe [!DNL Marketo Engage] Esame di master di architetto.
+>Questa certificazione ha un prerequisito. È NECESSARIO disporre di una certificazione di Adobe [!DNL Marketo Engage] {Expert **** Professionista  attiva (non scaduta) per sostenere l&#39;esame di Adobe [!DNL Marketo Engage] Architect Master.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale
-description: Scopri come diventare un Adobe certificato [!DNL Experience Manager] Professionale.
+description: Scopri come diventare un Adobe certificato [!DNL Experience Manager] Professionista.
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager] Assets Developer Professional
+# Percorso di certificazione per l&#39;Adobe [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso:** Se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Experience Manager](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>* **Corso:** Se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli di conoscenza. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/120) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/120) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
 >
->_Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>_Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Dovresti avere familiarità con Adobe Managed Services e Adobe [!DNL Experience Manager as a Cloud Service], e sono in grado di impostare Adobe [!DNL Experience Manager] ambienti e infrastrutture.
+Lavorare con Adobe Managed Services e Adobe [!DNL Experience Manager as a Cloud Service] è molto comodo e puoi configurare gli ambienti e l&#39;infrastruttura Adobe [!DNL Experience Manager].
 
 Dovresti avere:
 
@@ -88,7 +88,7 @@ Inoltre, dovresti avere esperienza con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: Flussi di lavoro delle risorse (24%)**
+**Sezione 1: flussi di lavoro risorse (24%)**
 
 * Spiegare il processo per personalizzare i flussi di lavoro OOTB
 * Identificare quando creare o personalizzare flussi di lavoro per risorse per implementare i requisiti dei clienti
@@ -96,28 +96,28 @@ Inoltre, dovresti avere esperienza con le tecnologie e gli ambienti seguenti:
 * Differenziare tra flussi di lavoro cloud e on-premise
 * Descrivi come utilizzare la console Flusso di lavoro per monitorare lo stato e l’avanzamento
 
-**Sezione 2: organizzazione delle risorse e console delle risorse (22%)**
+**Sezione 2: organizzazione delle risorse e console risorse (22%)**
 
-* Dimostrare come creare e organizzare le risorse nelle raccolte
-* Dimostrare come organizzare le risorse utilizzando i tag
+* Dimostrare come creare e organizzare Assets in raccolte
+* Dimostrare come organizzare Assets utilizzando i tag
 * Identificare come sfruttare i filtri e i facet di ricerca OOTB
 * Descrivi come configurare e generare rapporti sulle risorse AEM
 * Descrivere come gestire le autorizzazioni utente per le cartelle di risorse
 
-**Sezione 3: Metadati delle risorse (24%)**
+**Sezione 3: metadati risorsa (24%)**
 
 * Definire gli schemi di metadati
 * Considerato uno scenario, determina come regolare lo schema metadati appropriato
 * Considerato uno scenario, determina come sfruttare i profili metadati per soddisfare i requisiti
 * Funzionamento degli schemi di metadati a cascata
 
-**Sezione 4: Tipi di attività (18%)**
+**Sezione 4: Tipi di risorse (18%)**
 
 * Descrizione delle funzioni OOTB disponibili per i tipi di risorse
 * Spiegare i frammenti di contenuto e i modelli per frammenti di contenuto
 * Dimostrare come e quando utilizzare le varianti di frammenti di contenuto
 
-**Sezione 5: Set di funzioni e funzionalità delle risorse (12%)**
+**Sezione 5: set di funzioni e funzionalità delle risorse (12%)**
 
 * Descrivi i casi d’uso comuni e i vantaggi dell’utilizzo di Brand Portal
 * Descrivi i casi d’uso comuni e i vantaggi dell’utilizzo di Dynamic Medie
@@ -129,7 +129,7 @@ Inoltre, dovresti avere esperienza con le tecnologie e gli ambienti seguenti:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -151,17 +151,17 @@ Inoltre, dovresti avere esperienza con le tecnologie e gli ambienti seguenti:
 
 {{take-course}}
 
-[Segui il corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
+[Partecipa al corso Adobe Experience Manager Foundations](https://app.rockinfo.com/courses/240)
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/120)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/120)
 
 
 +++
@@ -217,6 +217,6 @@ Inoltre, dovresti avere esperienza con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

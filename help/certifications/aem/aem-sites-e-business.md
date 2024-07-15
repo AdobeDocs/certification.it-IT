@@ -1,6 +1,6 @@
 ---
 title: Certificazione esperto di professionisti aziendali
-description: Scopri come diventare un esperto di business practice in [!DNL Experience Manager Sites].
+description: Scopri come ottenere la certificazione come esperto di professionisti aziendali in [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager Sites] Esperto di professionisti aziendali
+# Percorso di certificazione per l&#39;Adobe [!DNL Experience Manager Sites] esperto di professionisti aziendali
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/127) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/127) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -60,7 +60,7 @@ Dovresti avere:
 * Esperienza con le funzionalità AEM e le funzionalità necessarie per coinvolgere gli sviluppatori nella ricerca di soluzioni aziendali
 * La capacità di utilizzare i prodotti dell’AEM per gestire i contenuti per promuovere le esperienze digitali
 * Comprensione dei moduli presenti
-* Approfondimenti su moduli come [!DNL Sites], [!DNL Assets], e [!DNL Forms]
+* Informazioni più approfondite sui moduli come [!DNL Sites], [!DNL Assets] e [!DNL Forms]
 
 Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
@@ -69,15 +69,15 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Progetti
 * Forms
 * Frammenti di esperienza e frammenti di contenuto
-* Schermi
+* Screens
 * Flussi di lavoro
 * Lanci
-* CRXDE Liti
+* CRXDE Lite
 * Amministrazione utenti
 * Gestione multisito
 * Strumenti di monitoraggio
 * Controllo delle versioni
-* Hub di personalizzazione e contesto
+* Personalization e context hub
 * Editor SPA
 * Assegnazione tag
 * Utilizzo browser
@@ -90,13 +90,13 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: istruzione (22%)**
+**Sezione 1: Istruzione (22%)**
 
 * Elencare le caratteristiche e le capacità pertinenti dell’AEM
 * Consigliare come sfruttare le funzionalità AEM per soddisfare le esigenze aziendali
 * Applicare i concetti procedurali necessari per la formazione degli editor di contenuti
 
-**Sezione 2: Architettura (24%)**
+**Sezione 2: architettura (24%)**
 
 * Consigliare un&#39;architettura informativa che sfrutti le funzionalità standard dell&#39;AEM per soddisfare le esigenze aziendali utilizzando un ambiente on-premise o ospitato da Adobi (cloud)
 * Descrivi come l’AEM si integra con i servizi di terze parti
@@ -112,7 +112,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Determinare come soddisfare gli obiettivi aziendali principali pur rimanendo entro il budget e/o l&#39;ambito
 * Determina come rispondere alle domande degli sviluppatori in relazione agli obiettivi di business
 
-**Sezione 4: Configurazione e implementazione (16%)**
+**Sezione 4: configurazione e implementazione (16%)**
 
 * Determinare come configurare e utilizzare i componenti di contenuto per mostrare le best practice dell’AEM
 * Verificare la corretta implementazione delle funzioni, nonché individuare e descrivere gli errori che si verificano
@@ -123,7 +123,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -141,19 +141,19 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/127)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/127)
 
 +++
 
@@ -219,6 +219,6 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

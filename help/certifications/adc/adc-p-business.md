@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per [!DNL Adobe Document Cloud] Professionista professionista
+# Percorso di certificazione per professionisti [!DNL Adobe Document Cloud] professionisti
 
 {{intro}}
 
@@ -50,7 +50,7 @@ Dovresti avere:
 
 * Almeno 0-12 mesi di esperienza entro [!DNL Adobe Document Cloud]
 * Essere in grado di identificare e comunicare le esigenze aziendali
-* Essere in grado di fornire consigli sull’abilitazione del prodotto su [!DNL Adobe Document Cloud] soluzioni.
+* Essere in grado di fornire consigli sull&#39;abilitazione del prodotto per [!DNL Adobe Document Cloud] soluzioni.
 
 <br>
 
@@ -58,7 +58,7 @@ Dovresti avere:
 
 {{exam-objectives}}
 
-**Sezione 1: individuazione dei casi d’uso (36%)**
+**Sezione 1: individuazione casi d&#39;uso (36%)**
 
 * Poni le domande appropriate per identificare le opportunità del Document Cloud
 * Definire casi d’uso aziendali di alto livello
@@ -69,7 +69,7 @@ Dovresti avere:
 * Allineare gli obiettivi aziendali alle funzionalità di Document Cloud
 * Dimostrazioni di alto livello incentrate sugli utenti finali dei diversi componenti del Document Cloud
 
-**Sezione 3: Definire le funzionalità di Document Cloud (DC) (18%)**
+**Sezione 3: definizione delle funzionalità di Document Cloud (18%)**
 
 * Descrivere le implicazioni delle esigenze di conformità e sicurezza del documento e della firma elettronica
 * Descrivere il modo in cui la modifica del processo aggiunge valore
@@ -94,53 +94,53 @@ Dovresti avere:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Sezione 1: individuazione di casi d’uso**
+**Sezione 1: individuazione casi d&#39;uso**
 
 * [Panoramica di Document Services](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
-* [Benvenuto in una nuova esperienza documentale](https://www.adobe.com/documentcloud.html){target="_blank"}
-* [Adobe di API per la generazione di documenti](https://developer.adobe.com/document-services/apis/doc-generation){target="_blank"}
-* [Casi di utilizzo dell’API dei servizi Acrobat](https://developer.adobe.com/document-services/use-cases/agreements-and-contracts/legal-contracts/){target="_blank"}
+* [Esperienza documento completamente nuova](https://www.adobe.com/documentcloud.html){target="_blank"}
+* [API di generazione documenti di Adobe](https://developer.adobe.com/document-services/apis/doc-generation){target="_blank"}
+* [Casi di utilizzo dell&#39;API di Acrobat Services](https://developer.adobe.com/document-services/use-cases/agreements-and-contracts/legal-contracts/){target="_blank"}
 * [Scopri come Acrobat Sign può accelerare la tua attività](https://www.adobe.com/sign.html){target="_blank"}
-* [Funzione Adobe Acrobat Sign](https://www.adobe.com/sign/features.html){target="_blank"}
+* [Funzionalità Adobe Acrobat Sign](https://www.adobe.com/sign/features.html){target="_blank"}
 
 **Sezione 2: Valutazione dei processi aziendali**
 
-* [Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
+* [API Adobe PDF Extract](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 * [API dei servizi PDF](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
 * [Guida introduttiva di Adobe Acrobat Sign](https://helpx.adobe.com/sign/using/get-started-guide.html){target="_blank"}
 * [Adobe Acrobat Sign Web Form](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
 * [API di incorporamento Adobe PDF](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-* [PDF e strumenti di firma elettronica per la tua azienda. Acrobat ha capito.](https://www.adobe.com/acrobat/business.html){target="_blank"}
+* [Strumenti di PDF e firma elettronica per la tua azienda. Acrobat l&#39;ha capito.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Guida utente di Adobe Acrobat](https://helpx.adobe.com/it/acrobat/user-guide.html){target="_blank"}
-* [Panoramica sulle integrazioni - Novità](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
+* [Panoramica delle integrazioni - Novità](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Firme online sicure e flessibili](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
-**Sezione 3: Definire le funzionalità di Document Cloud (DC)**
+**Sezione 3: Definire le funzionalità del Document Cloud**
 
-* [Certificazioni, standard e normative di conformità Adobe](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
+* [Certificazioni, standard e regolamenti di conformità Adobe](https://www.adobe.com/trust/compliance/compliance-list.html){target="_blank"}
 * [Adobe Sign for Life Sciences](https://www.adobe.com/content/dam/dx-dc/en/pdfs/adobe-sign-life-sciences-solution-brief-ue.pdf){target="_blank"}
-* [Conformità conforme allo standard](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
+* [Conformità standard](https://www.adobe.com/documentcloud/resources/compliance.html){target="_blank"}
 * [Che cos&#39;è una firma digitale?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [L&#39;impatto economico totale di Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
-* [Reimmagina le esperienze dei documenti con API PDF progettate per sviluppatori](https://developer.adobe.com/document-services){target="_blank"}
+* [Immagina di nuovo le esperienze documento con API PDF progettate per sviluppatori](https://developer.adobe.com/document-services){target="_blank"}
 * [Limita visibilità documento](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
-**Sezione 4: Consigliare la soluzione**
+**Sezione 4: Soluzione consigliata**
 
-* [Panoramica sulla sicurezza delle API dei servizi Adobe Acrobat](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
-* [Guida introduttiva alle API dei servizi Acrobat](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
+* [Panoramica sulla sicurezza delle API di Adobe Acrobat Services](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
+* [Introduzione alle API dei servizi Acrobat](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
 * [Automazione di Adobe Acrobat e flussi di lavoro per documenti](https://helpx.adobe.com/acrobat/kb/automation-and-document-workflows.html){target="_blank"}
-* [Benvenuti in una nuova esperienza di gestione dei documenti.](https://www.adobe.com/documentcloud.html){target="_blank"}
+* [Ti diamo il benvenuto in una nuova esperienza con i documenti.](https://www.adobe.com/documentcloud.html){target="_blank"}
 * [Funzioni E Strumenti Di Adobe Acrobat](https://www.adobe.com/acrobat/features.html){target="_blank"}
-* [Configurare i flussi di lavoro di firma](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
+* [Imposta flussi di lavoro per la firma](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
 <br>
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -197,6 +197,6 @@ Dovresti avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

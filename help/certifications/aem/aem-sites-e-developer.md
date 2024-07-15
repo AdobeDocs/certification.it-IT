@@ -1,6 +1,6 @@
 ---
 title: Certificazione Developer Expert
-description: Scopri come diventare un Adobe certificato [!DNL Experience Manager Sites] Esperto.
+description: Scopri come diventare un Adobe certificato [!DNL Experience Manager Sites] esperto.
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Experience Manager] Sites Developer Expert
+# Percorso di certificazione per l&#39;Adobe [!DNL Experience Manager] Sites Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/125) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/125) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -75,7 +75,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: Configurazioni (22%)**
+**Sezione 1: configurazioni (22%)**
 
 * Identificare i passaggi per creare e gestire le configurazioni del Dispatcher AEM
 * Determinare i passaggi corretti per configurare la multi-tenancy
@@ -92,12 +92,12 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 * Dato uno scenario, determina l’approccio per qualsiasi integrazione di terze parti
 * Determinare l’approccio per implementare un’implementazione headless o ibrida
 
-**Sezione 3: build e implementazione (14%)**
+**Sezione 3: compilazione e distribuzione (14%)**
 
 * Identificare i passaggi per impostare e gestire la gestione delle dipendenze front-end e back-end
 * Determinare l’archetipo corretto durante la creazione dei progetti
 
-**Sezione 4: Manutenzione dell’ambiente (22%)**
+**Sezione 4: Manutenzione dell&#39;ambiente (22%)**
 
 * Considerato uno scenario, determina i passaggi necessari per gestire gli ambienti AEM
 * Spiegare i passaggi di configurazione per la gestione delle versioni
@@ -110,7 +110,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -128,19 +128,19 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/125)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/125)
 
 +++
 
@@ -206,6 +206,6 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

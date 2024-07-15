@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale
-description: Scopri come diventare un Adobe certificato [!DNL Marketo Engage] Professionale.
+description: Scopri come diventare un Adobe certificato [!DNL Marketo Engage] Professionista.
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Marketo Engage] Professionale
+# Percorso di certificazione per Adobe [!DNL Marketo Engage] Professional
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
 >
->* **Corso**: se stai iniziando da poco, o se hai bisogno di un aggiornamento, prendi [Corso sui fondamenti di Adobe Marketo Engage](https://app.rockinfo.com/courses/261) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo ti offre una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
+>* **Corso**: se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [Corso sulle nozioni di base di Adobe Marketo Engage](https://app.rockinfo.com/courses/261) per accedere alle spiegazioni dei concetti chiave, alle procedure dettagliate sui prodotti e ai controlli delle conoscenze. Questo ti offre una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
 >
->* **Guida alla preparazione all’esame:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/247) fornisce un percorso personalizzato attraverso il processo di preparazione dell&#39;esame, compresi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/247) fornisce un percorso personalizzato per il processo di preparazione degli esami, inclusi i materiali di studio approfonditi necessari per il successo dell&#39;esame.
 >
->_Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>_Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -89,7 +89,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{exam-objectives}}
 
-**Sezione 1: Creazione e gestione dei programmi (39%)**
+**Sezione 1: creazione e gestione di programmi (39%)**
 
 * Identifica quando utilizzare ciascuno dei 4 tipi di programmi.
 * Identifica perché/quando utilizzare il programma dell’evento.
@@ -106,7 +106,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * Informazioni sulle preferenze del cliente (abbonamento, comunicazione).
 * Applica le best practice per la revisione prima del lancio.
 
-**Sezione 2: Immobili (19%)**
+**Sezione 2: creazione di risorse (19%)**
 
 * Manipolazione dei file in Design Studio (caricamento/sostituzione di immagini e file).
 * Creare/modificare un modulo mediante l&#39;Editor di moduli.
@@ -116,7 +116,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * Distinguere la differenza tra cespiti provvisori e cespiti approvati.
 * Distinguere la differenza tra risorse locali e globali.
 
-**Sezione 3: Definizione e targeting dei tipi di pubblico (33%)**
+**Sezione 3: definizione e targeting dei tipi di pubblico (33%)**
 
 * Creare/Modificare elenchi avanzati.
 * Comprendere i passaggi del flusso di Smart Campaign.
@@ -124,16 +124,16 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * Interpretare i risultati di Smart Campaign.
 * Descrivi lo scopo di una segmentazione e il relativo utilizzo.
 * Identificare e navigare nel database.
-* Spiegare come impostare le impostazioni della privacy in Adobe [!DNL Marketo Engage].
+* Spiegare come impostare le impostazioni di privacy nell&#39;Adobe [!DNL Marketo Engage].
 * Differenziare tra elenchi avanzati ed elenchi statici.
 * Definite gli elenchi avanzati del sistema.
 * Confrontare e contrastare i diversi tipi di campagne intelligenti.
 * Comprendi come funzionano i trigger e i filtri di Smart Campaign.
 * Differenziare le diverse importazioni dell’elenco.
 
-**Sezione 4: Analisi e creazione di report (9%)**
+**Sezione 4: analisi e compilazione dei report (9%)**
 
-* Spiegare l’Adobe standard [!DNL Marketo Engage] rapporti e quando devono essere utilizzati (prestazioni del collegamento e-mail, prestazioni dell’e-mail, prestazioni della pagina di destinazione, prestazioni delle persone, prestazioni del programma, attività della pagina web e così via)
+* Spiega i report standard dell&#39;Adobe [!DNL Marketo Engage] e quando devono essere utilizzati (Prestazioni collegamento e-mail, Prestazioni e-mail, Prestazioni pagina di destinazione, Prestazioni persone, Prestazioni programma, Attività pagina web e così via)
 * Comprendere le informazioni e le metriche del dashboard (dashboard del programma e-mail, dashboard del programma di coinvolgimento)
 * Comprendere le metriche di Email Insights
 
@@ -143,7 +143,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
 <br>
 
@@ -161,11 +161,11 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -175,11 +175,11 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 [Segui il corso sui fondamenti di Adobe Marketo Engage](https://app.rockinfo.com/courses/261)
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/247)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/247)
 
 +++
 
@@ -245,6 +245,6 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

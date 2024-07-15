@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Customer Journey Analytics] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Customer Journey Analytics] sviluppatore esperto
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/132) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/132) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analytics]ed essere in grado di eseguire le seguenti attività:
+È necessario avere un&#39;esperienza di 12-24 mesi nell&#39;Adobe [!DNL Customer Journey Analytics] ed essere in grado di eseguire le attività seguenti:
 
 * Leggi e comprendi lo schema XDM (classi)
 * Dimostrare la familiarità con l’interfaccia della piattaforma
@@ -80,7 +80,7 @@ Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analyti
 
 {{exam-objectives}}
 
-**Sezione 1: Connessioni (22%)**
+**Sezione 1: connessioni (22%)**
 
 * Progettare connessioni CJA con le impostazioni appropriate
 * Creare connessioni CJA dai set di dati XDM disponibili in AEP tramite sandbox
@@ -90,7 +90,7 @@ Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analyti
 * Configurare le visualizzazioni dati per reporting e analisi
 * Modificare i componenti nelle visualizzazioni dati
 
-**Sezione 3: Convalida dei dati e risoluzione dei problemi (34%)**
+**Sezione 3: convalida dei dati e risoluzione dei problemi (34%)**
 
 * Verificare che i dati vengano compilati in modo accurato e completo
 * Risolvere i problemi relativi a connessioni e visualizzazioni dati
@@ -119,19 +119,19 @@ Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analyti
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/132)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/132)
 
 +++
 
@@ -186,6 +186,6 @@ Deve avere un’esperienza di 12-24 mesi su Adobe [!DNL Customer Journey Analyti
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Real-Time Customer Data Platform] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Real-Time Customer Data Platform] sviluppatore esperto
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/246) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/246) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -91,7 +91,7 @@ Dovresti essere a tuo agio in questi ambienti:
 
 **Architettura dei dati (19%)**
 
-* In base a uno scenario, traduci RDBMS in Adobe [!DNL RT-CDP]Modello dati NoSQL di
+* In base a uno scenario, tradurre RDBMS nel modello dati NoSQL dell&#39;Adobe [!DNL RT-CDP]
 * Dimostrare le best practice per la modellazione di Real-Time Customer Profile
 * Progettare la strategia di identità e le relazioni per la modellazione
 
@@ -102,10 +102,10 @@ Dovresti essere a tuo agio in questi ambienti:
 * Descrizione della composizione del profilo
 * Differenziazione tra profilo edge e profilo hub
 
-**Acquisizione dei dati (13%)**
+**Acquisizione dati (13%)**
 
 * Descrizione delle funzionalità di acquisizione dei dati con CDP
-* Descrivi le funzionalità di acquisizione Edge
+* Descrizione delle funzionalità di acquisizione di Edge
 * Descrizione delle tecniche avanzate per l’architettura di acquisizione dei dati
 
 **Segmentazione (18%)**
@@ -122,7 +122,7 @@ Dovresti essere a tuo agio in questi ambienti:
 
 **Governance (9%)**
 
-* Applica le best practice per la governance nell’Adobe [!DNL RT-CDP] implementazione
+* Applica le best practice per la governance nell&#39;implementazione dell&#39;Adobe [!DNL RT-CDP]
 * Descrivi come gestire i dati tra i vari servizi
 
 **Amministrazione (15%)**
@@ -130,7 +130,7 @@ Dovresti essere a tuo agio in questi ambienti:
 * Comprendere le funzionalità di monitoraggio
 * Descrivere gli avvisi
 * Descrivi il diverso utilizzo della licenza
-* Descrivi i casi d&#39;uso per l&#39;abilitazione ABAC in Adobe [!DNL RT-CDP]
+* Descrivere i casi d&#39;uso per l&#39;abilitazione ABAC nell&#39;Adobe [!DNL RT-CDP]
 
 <br>
 
@@ -148,19 +148,19 @@ Dovresti essere a tuo agio in questi ambienti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/246)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/246)
 
 +++
 
@@ -215,6 +215,6 @@ Dovresti essere a tuo agio in questi ambienti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

@@ -1,6 +1,6 @@
 ---
 title: Certificazione Developer Expert
-description: Scopri come ottenere la certificazione come [!DNL Adobe Analytics] Sviluppatore esperto.
+description: Scopri come ottenere la certificazione come  [!DNL Adobe Analytics] esperto di sviluppatori.
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Analytics] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Analytics] sviluppatore esperto
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/221) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/221) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-È necessaria un&#39;esperienza di consulente per l&#39;implementazione con un ruolo ibrido, con circa 2 anni di esperienza in [!DNL Adobe Analytics] implementazione. L’utente funge da ponte tra l’IT e l’azienda, traduce i requisiti aziendali in una soluzione tecnica (SDR) e, in base ai requisiti forniti dall’analista, comprende quale tipo di variabile è necessaria, dove e come raccogliere i dati, progetta il modello dati (livello dati), configura e gestisce la soluzione di gestione dei tag.
+È necessario avere esperienza come consulente dell&#39;implementazione con un ruolo ibrido con circa 2 anni di esperienza nell&#39;implementazione [!DNL Adobe Analytics]. L’utente funge da ponte tra l’IT e l’azienda, traduce i requisiti aziendali in una soluzione tecnica (SDR) e, in base ai requisiti forniti dall’analista, comprende quale tipo di variabile è necessaria, dove e come raccogliere i dati, progetta il modello dati (livello dati), configura e gestisce la soluzione di gestione dei tag.
 
 In qualità di sviluppatore di Analytics, raramente si implementano i tag nella pagina, ma vengono invece implementati da IT o dall’integratore di sistemi.
 
@@ -60,15 +60,15 @@ Devi acquisire familiarità con i seguenti strumenti e ambienti:
 Strumenti:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come Adobe Debugger, strumenti per sviluppatori di browser, Charles)
-* [!DNL Adobe Analytics] Admin Console impostazioni suite di rapporti
+* Strumenti di debug relativi a [!DNL Adobe Analytics] (monitoraggio pacchetti come Adobe Debugger, strumenti per sviluppatori browser, Charles)
+* [!DNL Adobe Analytics] Admin Console di impostazioni suite di rapporti
 * Conoscenza di base di Workspace
 * Strumenti di sviluppo web, editor di codice e strumenti di debug per dispositivi mobili
 * Adobe Auditor
 * Regole di elaborazione
 * Regole di classificazione: regole di classificazione basate su regex
 * Errori JavaScript
-* Conoscenza di base delle [!DNL Adobe Analytics] API correlate
+* Nozioni di base sulle API correlate a [!DNL Adobe Analytics] disponibili
 * Integrazione Adobe I/O
 
 Ambienti:
@@ -76,7 +76,7 @@ Ambienti:
 * Ambienti di sviluppo web front-end
 * Conoscenza delle applicazioni mobili (limitazioni e differenze, ad esempio, perché sono diverse dal web)
 * Il campo del marketing digitale
-* Conoscenza minima degli ambienti di sviluppo back-end, inclusi i sistemi operativi PC, Mac, Android/iOS (operazioni di base, non sviluppo)
+* Conoscenza minima degli ambienti di sviluppo back-end, inclusi i sistemi operativi PC, Mac e Android/iOS (operazioni di base, non sviluppo)
 
 ### Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
@@ -84,7 +84,7 @@ Ambienti:
 
 **Obiettivi e ambito dell&#39;esame**
 
-**Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud (10%)**
+**Sezione 1: Informazioni su Analytics nell&#39;ecosistema Adobe Experience Cloud (10%)**
 
 * Dimostrare la conoscenza sull’utilizzo di Adobe Experience Cloud ID
 * Dimostrare la comprensione di Adobe Launch
@@ -97,31 +97,31 @@ Ambienti:
 
 **Sezione 3: Implementazione e configurazione di Analytics (36%)**
 
-* Determinare l’ambiente da distribuire [!DNL Adobe Analytics] Codice
+* Determinare quale ambiente distribuire il codice [!DNL Adobe Analytics]
 * Esegui un codice di implementazione minimo per il tracciamento di Analytics
-* Configurare vari componenti in [!DNL Adobe Analytics] UI
-* Configura [!DNL Adobe Analytics] impostazioni suite di rapporti e variabili
+* Configura vari componenti nell&#39;interfaccia utente [!DNL Adobe Analytics]
+* Configura le impostazioni della suite di rapporti e della variabile [!DNL Adobe Analytics]
 * Utilizzare un livello di dati all’interno di una distribuzione
 * Eseguire funzioni di tracciamento avanzate, come il tracciamento dei collegamenti e le stringhe di prodotto
 
-**Sezione 4: Sistemi di gestione dei tag (20%)**
+**Sezione 4: sistemi di gestione dei tag (20%)**
 
 * Enumera i requisiti per distribuire Adobe Experience Platform Launch in [!DNL Adobe Analytics]
 * Applicare i processi per configurare l’assegnazione tag al sito web con Adobe Launch
 * Enumera i requisiti per abilitare estensioni e Adobe Launch
 * Creare regole ed elementi dati
 
-**Sezione 5: Servizi mobili (8%)**
+**Sezione 5: Mobile Services (8%)**
 
 * Applica i processi per configurare ed eseguire un codice di pre-distribuzione di base per dispositivi mobili
 * Dimostrare la comprensione delle regole di elaborazione e dei servizi mobili
 
-**Sezione 6: Test, convalida e risoluzione dei problemi (20%)**
+**Sezione 6: test, convalida e risoluzione dei problemi (20%)**
 
-* Risolvere i problemi relativi agli errori JavaScript
-* Risoluzione dei problemi [!DNL Adobe Analytics] Variabili
+* Risoluzione dei problemi relativi agli errori di JavaScript
+* Risolvere i problemi relativi a [!DNL Adobe Analytics] variabili
 * Best practice consigliate per il test e il debug
-* Risolvere i problemi di un [!DNL Adobe Analytics] chiamata al server durante il suo ciclo di vita (cioè, dalla richiesta beacon alla visualizzazione nel rapporto)
+* Risolvere i problemi relativi a una chiamata al server [!DNL Adobe Analytics] durante il suo ciclo di vita (dalla richiesta beacon alla visualizzazione nel report)
 
 <br>
 
@@ -129,7 +129,7 @@ Ambienti:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -147,19 +147,19 @@ Ambienti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/221)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/221)
 
 <br>
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -228,6 +228,6 @@ Ambienti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

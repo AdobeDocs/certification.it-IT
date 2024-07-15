@@ -7,13 +7,13 @@ exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 21%
+ht-degree: 0%
 
 ---
 
-# Panoramica dell’estensione Adobe Analytics
+# Panoramica della certificazione Adobe Analytics
 
-**Professionale**
+**Professionista**
 
 * [Professionista](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Sviluppatore](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
@@ -27,4 +27,4 @@ ht-degree: 21%
 
 * [Architetto](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
+Visita la pagina [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

@@ -14,13 +14,13 @@ ht-degree: 4%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Journey Optimizer] Sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Journey Optimizer] sviluppatore esperto
 
 {{intro}}
 
 >[!NOTE]
 >
->Questo esame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 22 dicembre 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](ajo-e-developer-23-10.md).
+>Questo esame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 22 dicembre 2023. Se hai appena iniziato, ti consigliamo di sostenere la [versione più recente di questo esame](ajo-e-developer-23-10.md).
 
 ## Descrizione esame {#exam-description}
 
@@ -116,7 +116,7 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -134,11 +134,11 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Sezione 1: Amministrazione e configurazione**
+**Sezione 1: amministrazione e configurazione**
 
 * [Adobe [!DNL Journey Optimizer] Documentazione](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
@@ -148,25 +148,25 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
    * Guardrail
    * Percorsi
 
-* [Panoramica sulle sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=it){target="_blank"}
+* [Panoramica delle sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=it){target="_blank"}
 
 
-**Sezione 2: Fondazione AEP**
+**Sezione 2: AEP Foundation**
 
-* [Adobe [!DNL Experience Platform] Documentazione](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
+* [Adobe [!DNL Experience Platform] Documentazione](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
    * Guida di XDM
    * Guida al profilo cliente in tempo reale
    * Guida al servizio Platform Identity
    * configurare un flusso di dati
-   * Guida ai connettori di origini
+   * Guida ai connettori di Source
    * Guida all’acquisizione dei dati
    * Guida al servizio di segmentazione
    * Schemi
 
 * [Introduzione a Adobe [!DNL Experience Platform] corso](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=it){target="_blank"}
-* [Guida introduttiva ad Adobe [!DNL Experience Platform] corso per data engineer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=it){target="_blank"}
-* [Corso sull’acquisizione dei dati per data engineer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=it){target="_blank"}
+* [Guida introduttiva all&#39;Adobe [!DNL Experience Platform] per il corso sugli ingegneri dati](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=it){target="_blank"}
+* [Corso di acquisizione dati per data engineer](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=it){target="_blank"}
 * [Blueprint per esperienze digitali](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=it){target="_blank"}
 
 **Sezione 3: Offer decisioning**
@@ -200,7 +200,7 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 <br>
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
@@ -232,7 +232,7 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 >[!NOTE]
 >
->Questo esame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 22 dicembre 2023. Se hai appena iniziato, ti consigliamo di prendere [versione più recente di questo esame](ajo-e-developer-23-10.md).
+>Questo esame, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), è stato aggiornato. Se hai già iniziato a studiare o hai in programma di utilizzare questa versione, assicurati di completarla prima del 22 dicembre 2023. Se hai appena iniziato, ti consigliamo di sostenere la [versione più recente di questo esame](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -261,6 +261,6 @@ Devi avere almeno un anno di esperienza nell’utilizzo di vari sistemi di autom
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

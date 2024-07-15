@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale per professionisti del business
-description: Scopri come ottenere la certificazione come Adobe [!DNL Advertising DSP] Professionista di business.
+description: Scopri come ottenere la certificazione di Adobe [!DNL Advertising DSP] professionista di business.
 solution: Advertising
 product: Advertising Cloud
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Advertising DSP] Professionista professionista
+# Percorso di certificazione per Adobe professionista [!DNL Advertising DSP]
 
 {{intro}}
 
@@ -55,7 +55,7 @@ Dovresti avere:
 
 Dovresti anche avere familiarità con i seguenti strumenti e tecnologie:
 
-* Software di test/debug degli annunci (VAST INSPECTOR, strumenti per sviluppatori di Chrome)
+* Software di test/debug degli annunci (VAST INSPECTOR, Chrome Developer Tools)
 * Strumenti di Analytics ([!DNL Adobe Analytics], Google Analytics)
 * Software di assegnazione tag di terze parti (Sizmek, Google Tag Manager)
 * Strumenti per la qualità dei contenuti multimediali di terze parti (IAS, MOAT)
@@ -68,7 +68,7 @@ Dovresti anche avere familiarità con i seguenti strumenti e tecnologie:
 
 {{exam-objectives}}
 
-**Sezione 1: Impostazione delle campagne (42%)**
+**Sezione 1: configurazione delle campagne (42%)**
 
 * Date le esigenze di una campagna, stabilisci la strategia per tale campagna
 * Dato uno scenario, crea una nuova campagna
@@ -78,7 +78,7 @@ Dovresti anche avere familiarità con i seguenti strumenti e tecnologie:
 * Dato uno scenario, duplica e modifica una campagna
 * Applicare i concetti procedurali necessari per impostare gli inventari privati e su richiesta per una campagna
 
-**Sezione 2: Esecuzione e ottimizzazione di campagne (22%)**
+**Sezione 2: esecuzione e ottimizzazione delle campagne (22%)**
 
 * Applicare concetti procedurali per garantire il corretto funzionamento delle campagne
 * Applicare concetti procedurali per ottimizzare una campagna
@@ -93,7 +93,7 @@ Dovresti anche avere familiarità con i seguenti strumenti e tecnologie:
 * Dato uno scenario, valuta le prestazioni di una campagna
 * Applicare concetti procedurali per attribuire le prestazioni a una campagna
 
-**Sezione 4: Fornitura di raccomandazioni per le campagne (10%)**
+**Sezione 4: fornitura di consigli per le campagne (10%)**
 
 * Dato uno scenario, fornire aggiornamenti ai clienti in base a una campagna
 * Dato uno scenario, regola la strategia della campagna in base alle prestazioni della campagna
@@ -114,32 +114,32 @@ Dovresti anche avere familiarità con i seguenti strumenti e tecnologie:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Sezione 1: Impostazione delle campagne**
+**Sezione 1: configurazione delle campagne**
 
-* [Informazioni sulla gestione dell&#39;audience in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
-* [Panoramica delle funzioni di magazzino in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [Informazioni su Gestione dell&#39;audience in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
+* [Panoramica delle funzionalità di inventario in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
 * [[!DNL Campaign] Impostazioni](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
-* [Impostazioni di posizionamento](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
+* [Impostazioni posizionamento](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
-**Sezione 2: Esecuzione e ottimizzazione delle campagne**
+**Sezione 2: esecuzione e ottimizzazione delle campagne**
 
-* [Come [!DNL Advertising DSP] Ottimizza le campagne](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Come [!DNL Advertising DSP] Ottimizza Le Campagne](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Informazioni sugli obiettivi personalizzati](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
-* [Best practice per l’impostazione di campagne sulle prestazioni](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
-* [Informazioni sull&#39;inventario dei premi su richiesta](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
-* [Generazione di rapporti con [!DNL Advertising] Canali di marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
+* [Procedure consigliate per l&#39;impostazione di campagne delle prestazioni](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
+* [Informazioni Sull&#39;Inventario Premium On Demand](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* [Generazione rapporti con [!DNL Advertising] Canali marketing](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
 **Sezione 3: Reporting e analisi**
 
-* [Console web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
+* [Console Web](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
-**Sezione 4: Fornitura di raccomandazioni per le campagne**
+**Sezione 4: fornitura di consigli per le campagne**
 
-* [Come [!DNL Advertising] DSP ottimizza le campagne](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [Come [!DNL Advertising] DSP Ottimizza Le Campagne](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [Informazioni sulla gestione degli annunci in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
 +++
@@ -195,6 +195,6 @@ Dovresti anche avere familiarità con i seguenti strumenti e tecnologie:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

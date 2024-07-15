@@ -2,17 +2,17 @@
 title: Panoramica della certificazione di Target
 description: Panoramica delle opzioni di certificazione per Adobe Target
 solution: Target
-exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '37'
-ht-degree: 18%
+ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Target] Panoramica sulla certificazione
+# Panoramica certificazione [!DNL Adobe Target]
 
-**Professionale**
+**Professionista**
 
 * [Professionista certificato](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
@@ -24,4 +24,4 @@ ht-degree: 18%
 
 * [Architetto](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
-Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
+Visita la pagina [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

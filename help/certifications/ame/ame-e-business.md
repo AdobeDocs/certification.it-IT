@@ -1,6 +1,6 @@
 ---
 title: Certificazione esperto di professionisti aziendali
-description: Scopri come diventare un Adobe certificato esperto di professionisti aziendali in [!DNL Marketo Engage].
+description: Scopri come diventare un esperto Adobe di professionisti aziendali certificato in [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Marketo Engage] Esperto di professionisti aziendali
+# Percorso di certificazione per l&#39;Adobe [!DNL Marketo Engage] esperto di professionisti aziendali
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/144) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/144) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### Esperienza minima {#minimum-experience}
 
-* Circa 18 mesi di esperienza con Adobe [!DNL Marketo Engage] funzionalità necessarie per creare campagne di marketing e utilizzare i dati sul comportamento dei clienti
+* Circa 18 mesi di esperienza con le funzionalità e le caratteristiche Adobe [!DNL Marketo Engage] necessarie per creare campagne di marketing e utilizzare i dati sul comportamento dei clienti
 
 Devi essere un esperto di marketing con esperienza in:
 
@@ -84,7 +84,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{exam-objectives}}
 
-**Sezione 1: somministrazione e manutenzione (12%)**
+**Sezione 1: Amministrazione e manutenzione (12%)**
 
 * Determinare il processo di mappatura tra Marketo e CRM
 * Identificare cosa è successo a una risorsa utilizzando Audit Trail
@@ -103,14 +103,14 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * Fornisci esempi di utilizzo per diversi tipi di token
 * Riepilogare l’utilità dei webhook in Marketo e come vengono utilizzati
 * Identificare e applicare l’uso appropriato del PMCF
-* Spiegare i vantaggi delle risorse globali e come utilizzarle
+* Spiegare i vantaggi di Global Assets e come utilizzarli
 * Dimostrare le funzionalità dei moduli
 * Eseguire e analizzare una strategia di test A/B
 * Identificare dove è stato fatto riferimento a un programma o a una risorsa con &quot;Usato da&quot;
 * Risolvere i problemi relativi ai limiti di comunicazione
 * Utilizzare le informazioni sul provider del webinar in un programma di eventi
 
-**Sezione 3: Gestione dei lead (12%)**
+**Sezione 3: Gestione lead (12%)**
 
 * Descrivere i punti decisionali chiave nella definizione del modello del ciclo di vita
 * Applicare le best practice per il punteggio del lead
@@ -118,19 +118,19 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 * Interpretare il registro attività lead
 * Dato uno scenario, identifica l’origine della creazione
 
-**Sezione 4: Gestione dei dati (10%)**
+**Sezione 4: Gestione dati (10%)**
 
 * Dimostrare come impostare un programma di gestione dati
 * Analizzare la qualità dei dati di un’istanza
 * Identifica alcuni elementi chiave dei criteri di conservazione dei dati di Marketo in relazione agli elenchi avanzati
 * Riepilogare il funzionamento della segmentazione
 
-**Sezione 5: relazioni (4%)**
+**Sezione 5: Reporting (4%)**
 
 * Dato il risultato di una campagna, determina come impostare un programma per fornire i migliori rapporti
 * In uno scenario, essere in grado di indagare e assegnare il programma di acquisizione appropriato
 
-**Sezione 6: best practice (16%)**
+**Sezione 6: Procedure consigliate (16%)**
 
 * Dimostrare la rilevanza del punteggio dei lead nella collaborazione nei settori marketing e vendite
 * Illustrare i vantaggi della struttura di cartelle e delle convenzioni di denominazione
@@ -144,7 +144,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -162,19 +162,19 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/144)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/144)
 
 +++
 
@@ -240,7 +240,7 @@ Inoltre, dovresti avere familiarità con i seguenti strumenti e tecnologie:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
 

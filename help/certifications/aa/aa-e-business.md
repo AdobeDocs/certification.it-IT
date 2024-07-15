@@ -1,6 +1,6 @@
 ---
 title: Certificazione per professionisti aziendali
-description: Scopri come ottenere la certificazione come [!DNL Adobe Analytics] Esperto di professionisti aziendali
+description: Scopri come ottenere la certificazione come  [!DNL Adobe Analytics] esperto di professionisti aziendali
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per [!DNL Adobe Analytics] Esperto di professionisti aziendali
+# Percorso di certificazione per l&#39;esperto di [!DNL Adobe Analytics] professionisti aziendali
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/220) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/220) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -69,13 +69,13 @@ Dovresti avere:
 * Comprendere il funzionamento della tecnologia e comprendere l’implementazione di un cliente (ad esempio, dove si trovano i dati, come possono essere raccolti e tracciati) dal punto di vista funzionale
 * Almeno un anno di [!DNL Adobe Analytics] esperienza pratica
 * Nozioni di base su come Digital Analytics filtra/struttura i dati
-* Una consapevolezza dell&#39;integrazione di [!DNL Adobe Analytics] con altre soluzioni di Adobe
+* Consapevolezza dell&#39;integrazione di [!DNL Adobe Analytics] con altre soluzioni di Adobe
 
 Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 * Client FTP
-* Corrente [!DNL Adobe Analytics] Funzioni di Workspace e altre opzioni di reporting al di fuori di Workspace (ad es. progetti programmati e rapporti programmati)
-* Strumenti di debug rilevanti per [!DNL Adobe Analytics] (Monitor di pacchetti come un Adobe Debugger, strumenti di sviluppo del browser, Charles)
+* Funzioni correnti di [!DNL Adobe Analytics] Workspace e altre opzioni di reporting al di fuori di Workspace (ad es. progetti programmati e rapporti programmati)
+* Strumenti di debug relativi a [!DNL Adobe Analytics] (monitoraggio pacchetti come un Adobe Debugger, strumenti per sviluppatori del browser, Charles)
 * Admin Console (Admin Console della suite di rapporti di Analytics e Admin Console dell’Experience Cloud)
 * Nozioni di base su Launch Adobe
 * App, SPA, informazioni di base sul sito web
@@ -89,13 +89,13 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{exam-objectives}}
 
-**Sezione 1: Informazioni sull’analisi nell’ecosistema Adobe Experience Cloud (10%)**
+**Sezione 1: Informazioni su Analytics nell&#39;ecosistema Adobe Experience Cloud (10%)**
 
 * Dimostrare la conoscenza sull’utilizzo di Adobe Experience Cloud ID
 * Dimostrare la comprensione di Adobe Launch
 * Dimostrare la comprensione delle integrazioni comuni nell’ecosistema Adobe Experience Cloud
 
-**Sezione 2: relazioni e dashboard per i progetti (30%)**
+**Sezione 2: reporting e dashboard per i progetti (30%)**
 
 * Valuta i vantaggi dell’utilizzo di uno strumento di reporting basato su un dato scenario
 * Confrontare la visualizzazione dell’abbandono e del flusso e i tipi di variabili appropriati per il reporting
@@ -118,16 +118,16 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 **Sezione 4: conoscenza generale degli strumenti e risoluzione dei problemi (12%)**
 
 * Analizzare i rapporti e identificare i problemi relativi alla qualità dei dati
-* Definite diversi tipi di quote e parametri esistenti in [!DNL Adobe Analytics] (eVar, prop ed eventi)
-* Determinare come inserire e estrarre i dati [!DNL Adobe Analytics]
+* Definisci diversi tipi di dimensioni e parametri esistenti in [!DNL Adobe Analytics] (eVar, prop ed eventi)
+* Determinare come inserire e estrarre dati da [!DNL Adobe Analytics]
 * Identificare le informazioni dagli URL di marketing
 
-**Sezione 5: somministrazione (10%)**
+**Sezione 5: Amministrazione (10%)**
 
-* Applica il processo per configurare [!UICONTROL Canale di marketing] rapporti con [!UICONTROL Canale di marketing] regole di elaborazione
+* Applica il processo per configurare i report [!UICONTROL Canale di marketing] con [!UICONTROL Regole di elaborazione canale di marketing]
 * Applica il processo per configurare Importazione classificazioni e Generatore regole
 * Applicare il processo per configurare una suite di rapporti virtuale basata su un segmento esistente
-* Utilizza il [!UICONTROL Feed dati] Interfaccia utente amministratore manager
+* Utilizza l&#39;interfaccia utente di amministrazione di [!UICONTROL Feed dati] Manager
 * Informazioni sulla governance dei dati
 
 <br>
@@ -136,7 +136,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 {{readiness}}
 
-[rispondere al questionario di preparazione online](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
 
 <br>
 
@@ -154,19 +154,19 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/220)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/220)
 
 +++
 
@@ -232,7 +232,7 @@ Inoltre, dovresti avere familiarità con le tecnologie e gli ambienti seguenti:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
 

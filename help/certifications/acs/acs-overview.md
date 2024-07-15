@@ -7,15 +7,15 @@ exl-id: db58c266-9c21-4739-9824-49b9557319eb
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 11%
+ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Standard] Panoramica certificazione
+# Panoramica certificazione Adobe [!DNL Campaign Standard]
 
 **Esperto**
 
 * [Professionista](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Sviluppatore](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
-Visita il [Rinnovare la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
+Visita la pagina [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.

@@ -1,6 +1,6 @@
 ---
 title: Certificazione professionale per professionisti del business
-description: Scopri come ottenere la certificazione [!DNL Adobe Target] Professionista di business.
+description: Scopri come diventare un professionista certificato [!DNL Adobe Target] Business Practitioner.
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per [!DNL Adobe Target] Professionista professionista
+# Percorso di certificazione per professionisti [!DNL Adobe Target] professionisti
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/235) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/235) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -55,8 +55,8 @@ I candidati previsti per questa certificazione includono membri dei seguenti tea
 
 Dovresti avere:
 
-* Esperienza di 0-12 mesi con le piattaforme di ottimizzazione, tra cui [!DNL Adobe Target]
-* Esperienza pratica supervisionata con [!DNL Adobe Target]
+* Esperienza di 0-12 mesi con le piattaforme di ottimizzazione, inclusi [!DNL Adobe Target]
+* Esperienza pratica controllata con [!DNL Adobe Target]
 * 0-12 mesi di esperienza che portano/contribuiscono ai programmi di ottimizzazione
 * Possibilità di identificare le attività amministrative di base di Target/Adobe Marketing Cloud (preferenze, ruoli utente e autorizzazioni, impostazioni)
 * Conoscenza di base del flusso di lavoro in tre fasi (esperienze, targeting, obiettivi e impostazioni, incluse tutte le origini di reporting)
@@ -99,7 +99,7 @@ Dovresti avere:
 **Sezione 3: analisi e reporting (16%)**
 
 * Descrivere le impostazioni per aiutare a impostare gli elementi visualizzati in un rapporto
-* Descrivi la differenza in [!DNL Adobe Target] Impostazioni del Calcolatore dimensioni campione tra la pianificazione e la convalida
+* Descrivere la differenza nelle impostazioni del calcolatore delle dimensioni del campione di [!DNL Adobe Target] tra pianificazione e convalida
 * Descrivere i problemi comuni associati ai test A/B
 * Identificare le differenze tra i rapporti di riepilogo di Automated Personalization e gli altri rapporti
 * Descrizione delle funzioni dei rapporti Prestazioni esperienza (MVT)
@@ -127,19 +127,19 @@ Dovresti avere:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/235)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/235)
 
 <br>
 
@@ -196,6 +196,6 @@ Dovresti avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.

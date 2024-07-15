@@ -1,6 +1,6 @@
 ---
 title: Certificazione esperto di professionisti aziendali
-description: Scopri come diventare un Adobe esperto di professionisti aziendali certificato con [!DNL Campaign Classic].
+description: Scopri come diventare un esperto Adobe di professionisti aziendali certificato con [!DNL Campaign Classic].
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Campaign Classic] Esperto di professionisti aziendali
+# Percorso di certificazione per l&#39;Adobe [!DNL Campaign Classic] esperto di professionisti aziendali
 
 {{intro}}
 
 >[!NOTE]
 >
->**Sono disponibili nuove risorse per lo studio:** Il [Guida alla preparazione all’esame](https://app.rockinfo.com/courses/253) fornisce un percorso personalizzato attraverso il processo di preparazione dell’esame di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se ti viene richiesto di accedere alla Guida alla preparazione degli esami, utilizza l’Adobe ID._
+>**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/253) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali di studio approfonditi necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 Dovresti avere:
 
-* Adobe esteso di almeno 2 anni [!DNL Campaign Classic] esperienza software
+* Almeno 2 anni di esperienza software con Adobe completo [!DNL Campaign Classic]
 * Esperienza pluriennale nello sviluppo di campagne e tattiche di marketing utilizzando l’omnicanale digitale
 * Esperienza nell’interpretazione/traduzione dei requisiti di business in materiali realizzabili per Campaign
 * Esperienza con metriche di marketing quali ROI, tassi di click-through e conversione
@@ -69,7 +69,7 @@ Dovresti avere:
 
 {{exam-objectives}}
 
-**Sezione 1: Gestione delle campagne (20%)**
+**Sezione 1: Gestione campagne (20%)**
 
 * Applicare le best practice per creare una campagna
 * Dato uno scenario, determina il modello di campagna corretto
@@ -84,7 +84,7 @@ Dovresti avere:
 * Dato un set di requisiti per la campagna, determina la progettazione corretta di un flusso di lavoro di marketing
 * Applicare le procedure consigliate nell’esecuzione dei flussi di lavoro
 
-**Sezione 3: Gestione dei dati (24%)**
+**Sezione 3: gestione dati (24%)**
 
 * Spiegare i concetti principali dei database relazionali
 * Determinare le diverse origini di dati a cui può accedere un flusso di lavoro
@@ -100,13 +100,13 @@ Dovresti avere:
 * Dato uno scenario, seleziona e imposta il pubblico di bozze appropriato per le approvazioni
 * Analizzare e interpretare i controlli di consegna
 
-**Sezione 5: relazioni (12%)**
+**Sezione 5: Reporting (12%)**
 
 * Dato uno scenario, determina i rapporti appropriati da generare
 * Interpretare i rapporti incorporati
 * Spiegare l’impatto della pulizia/eliminazione dei registri sui rapporti
 
-**Sezione 6: somministrazione (8%)**
+**Sezione 6: Amministrazione (8%)**
 
 * Dato uno scenario, spiega l’impatto dell’eliminazione dei registri sui rapporti
 * Determinati requisiti aziendali, concedi le autorizzazioni e gli accessi giusti
@@ -128,19 +128,19 @@ Dovresti avere:
 
 +++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
 
-**Materiale dello studio**
+**Materiale studio**
 
 {{study-materials-intro}}
 
-**Esegui un test di esercitazione**
+**Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
 
-**Guida alla preparazione all’esame**
+**Guida alla preparazione degli esami**
 
 {{exam-prep-guide}}
 
-[Visualizza Guida alla preparazione esame](https://app.rockinfo.com/courses/253)
+[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/253)
 
 +++
 
@@ -195,6 +195,6 @@ Dovresti avere:
 
 ## Domande
 
-Visualizzare la certificazione [Domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
