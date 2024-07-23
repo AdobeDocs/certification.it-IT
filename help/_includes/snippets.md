@@ -1,7 +1,7 @@
 ---
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 <!--divider-->
 
 ## Introduzione {#intro}
-
->[!WARNING]
->
->Alcuni utenti hanno segnalato di aver ricevuto un errore durante il tentativo di accesso all’Adobe Credential Management System, impedendo loro di sostenere l’esame. Stiamo lavorando per risolvere questo problema. Gli utenti interessati verranno contattati per ulteriori informazioni.
 
 Questa pagina fornisce informazioni su come ottenere questa certificazione. Include una descrizione dell’esame, materiali per lo studio, istruzioni dettagliate sul processo di certificazione e su come rinnovare la certificazione.
 
