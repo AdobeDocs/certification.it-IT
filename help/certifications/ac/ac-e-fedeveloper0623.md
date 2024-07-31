@@ -7,9 +7,9 @@ role: Developer
 badge: label="Esame AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: d0bf65a667035e122f9731c23d207dd35e68487f
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -132,14 +132,6 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Differenziare il caso d’uso appropriato per le modalità di distribuzione
 * Definire l’impostazione e l’utilizzo dell’indennità
 * Descrivi gli strumenti aggiuntivi forniti dal cloud (Fastly, download del database, distribuzione dei contenuti, diramazione tramite l’interfaccia utente)
-
-<br>
-
-### Questionario di preparazione
-
-{{readiness}}
-
-[rispondere al questionario di preparazione in linea](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
