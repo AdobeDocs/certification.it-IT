@@ -8,9 +8,9 @@ role: User
 badge: label="Esame AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: b553b0d2e70535480d1c0826b6f24a0925830dc3
+source-git-commit: 5673c232251041578d0fbcdd87e5e5a1cbcafd1f
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,7 @@ Dovresti anche avere esperienza nell’utilizzo delle seguenti funzioni:
 * Preparazione dei portfolio in modo da disporre di dati sufficienti per ottimizzare
 * Creazione/estrazione di rapporti
 * Tattiche di offerta di tROAS
+* Tattiche di offerta e ottimizzazione ibride
 * Impostazione del tracciamento delle conversioni
 * Impostazione degli obiettivi
 * Gestione del portfolio rispetto a una destinazione
@@ -226,5 +227,5 @@ Dovresti anche avere esperienza nell’utilizzo delle seguenti funzioni:
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
 
