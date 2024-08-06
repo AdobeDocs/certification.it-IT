@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Esame AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 0%
@@ -215,4 +215,4 @@ Inoltre, dovresti avere la possibilità di eseguire le seguenti attività:
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).

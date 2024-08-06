@@ -8,7 +8,7 @@ role: Data Architect,Developer
 badge: label="Esame AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di 
 * Scrivi specifiche tecniche per sviluppatori di siti
 * Creazione di utenti/gruppi di Experienci Cloud
 
-**Sezione 3: Implementazione di Post (28%)**
+**Sezione 3: post-implementazione (28%)**
 
 * Considerato un set di requisiti, convalida il tracciamento tramite gli strumenti per sviluppatori del browser e i rapporti sugli Adobi
 * Applicare concetti procedurali per gestire l’estrazione dei dati e le relazioni
@@ -180,5 +180,5 @@ Inoltre, è tua responsabilità tradurre i requisiti aziendali in specifiche di 
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
 

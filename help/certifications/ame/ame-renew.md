@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: e8af3d80437671df62f99a60f80eecc31c5976bf
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2421'
 ht-degree: 0%
@@ -429,4 +429,4 @@ Verificare innanzitutto di aver eseguito correttamente l&#39;accesso a [Adobe Cr
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).

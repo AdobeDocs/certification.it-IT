@@ -7,7 +7,7 @@ role: Developer
 badge: label="Esame AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -120,9 +120,9 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 **Sezione 5: Configurazione amministratore e Page Builder (6%)**
 
-* Dimostrare la possibilità di personalizzare il contenuto di Page Builder e CMS&quot;
+* Dimostrare la possibilità di personalizzare i contenuti di Page Builder e CMS&quot;
 * Applicare/pianificare un tema a un ambito specifico (sito Web, store, store-view)
-* Applica modifiche progettuali a categorie, prodotti e pagine CMS utilizzando la configurazione di amministrazione
+* Applica modifiche progettuali a categorie, prodotti e pagine CMS utilizzando la configurazione amministratore
 * Descrivi i passaggi per personalizzare le e-mail transazionali
 
 **Sezione 6: strumenti (CLI e Grunt) (8%)**
@@ -228,4 +228,4 @@ Inoltre, è necessario mostrare la conoscenza delle seguenti tecnologie:
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).

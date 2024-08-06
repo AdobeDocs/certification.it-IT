@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Esame AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Dovresti avere circa 1-3 anni di esperienza pratica [!DNL Commerce] e una vasta 
 
 Dovresti avere esperienza in:
 
-* Marketing digitale: SEO, CMS, tecniche di vendita come cross-selling e up-selling, Google Analytics, modelli e-mail
+* Marketing digitale: SEO, CMS, tecniche di vendita come cross-selling e up-selling, comprensione di Google Analytics, modelli e-mail
 * Normative sulla sicurezza, conformità e privacy, come PCI, GDPR, ADA, CAN-SPAM, PSD2
 * Strategie di vendita/marketing come omnicanale e multicanale
 * Esperienza nella gestione dei progetti, nella raccolta dei requisiti, nei flussi di integrazione, nelle leggi generali sul commercio elettronico, nelle metodologie di sviluppo del software e nel monitoraggio
@@ -90,7 +90,7 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 * Dimostrare la capacità di importare/esportare entità Adobe [!DNL Commerce]
 * Come configurare in modo nativo il carrello e il pagamento
 * Valutare i metodi di spedizione nativi disponibili nell&#39;Adobe [!DNL Commerce] e come si applicano ai casi d&#39;uso comuni
-* Informazioni sui modi in cui creare e pubblicare contenuti formattati con le funzioni CMS di Adobe [!DNL Commerce], incluso Page Builder
+* Informazioni sui modi di creare e pubblicare contenuti formattati con le funzioni CMS di Adobe [!DNL Commerce], incluso Page Builder
 * Utilizzo di strumenti nativi per gestire il ciclo di vita dell&#39;ordine
 * Dimostrare la capacità di configurare le varie opzioni di regalo (gift card, confezione regalo, inviare messaggi)
 * Configurazione e modifica delle e-mail transazionali
@@ -224,4 +224,4 @@ Inoltre, dovresti avere familiarità con le seguenti tecnologie:
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).

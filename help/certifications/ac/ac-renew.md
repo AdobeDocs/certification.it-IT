@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2295'
 ht-degree: 0%
@@ -208,7 +208,7 @@ Adobe [!DNL Commerce] Developer Professional
 
 **Sezione 4: layout/interfaccia utente (18%)**
 
-* Descrizione dell’utilizzo di pagine e blocchi CMS
+* Descrivere l’utilizzo di pagine e blocchi CMS
 * Dato uno scenario, modifica il layout
 * Dato uno scenario, modifica lo stile della pagina
 * Descrizione della struttura del tema
@@ -478,4 +478,4 @@ Innanzitutto, seleziona **due corsi** per completare e superare ogni valutazione
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).

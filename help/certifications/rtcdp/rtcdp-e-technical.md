@@ -9,7 +9,7 @@ badge: label="Esame AD0-E600 e AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Dovresti avere:
 >
 ><br>
 >
->**Se hai già pianificato l&#39;esame AD0-E600**, ti consigliamo vivamente di annullare l&#39;appuntamento nel portale Examity (vedi il passaggio 3 seguente) e di riprogrammare quando il nuovo esame verrà rilasciato. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com){target="_blank"}.
+>**Se hai già pianificato l&#39;esame AD0-E600**, ti consigliamo vivamente di annullare l&#39;appuntamento nel portale Examity (vedi il passaggio 3 seguente) e di riprogrammare quando il nuovo esame verrà rilasciato. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com).
 
 L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle caratteristiche di base e alle attività più frequenti dell&#39;Adobe [!DNL Experience Platform] a livello di esperti.
 
@@ -183,7 +183,7 @@ L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle carat
 >
 ><br>
 >
->**Se hai già pianificato l&#39;esame AD0-E600**, ti consigliamo vivamente di annullare l&#39;appuntamento nel portale Examity e di riprogrammare quando il nuovo esame verrà rilasciato. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com){target="_blank"}.
+>**Se hai già pianificato l&#39;esame AD0-E600**, ti consigliamo vivamente di annullare l&#39;appuntamento nel portale Examity e di riprogrammare quando il nuovo esame verrà rilasciato. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com).
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle carat
 >
 ><br>
 >
->**Se hai già pianificato l&#39;esame AD0-E600**, ti consigliamo vivamente di annullare l&#39;appuntamento nel portale Examity e di riprogrammare quando il nuovo esame verrà rilasciato. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com){target="_blank"}.
+>**Se hai già pianificato l&#39;esame AD0-E600**, ti consigliamo vivamente di annullare l&#39;appuntamento nel portale Examity e di riprogrammare quando il nuovo esame verrà rilasciato. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ L&#39;esame AD0-E600 convalida le competenze e le conoscenze relative alle carat
 >
 ><br>
 >
->**Se hai già superato l&#39;esame AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations e ti stai preparando per l&#39;esame AD7-E601**, ti consigliamo di mantenere l&#39;appuntamento, in quanto superando l&#39;esame AD7-E601 ti verrà conferita la certificazione Adobe [!DNL Real-Time Customer Data Platform] Expert. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com){target="_blank"}.
+>**Se hai già superato l&#39;esame AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations e ti stai preparando per l&#39;esame AD7-E601**, ti consigliamo di mantenere l&#39;appuntamento, in quanto superando l&#39;esame AD7-E601 ti verrà conferita la certificazione Adobe [!DNL Real-Time Customer Data Platform] Expert. Per domande, contatta il [supporto per la certificazione](mailto:certif@adobe.com).
 
 L&#39;esame AD7-E601 tratta la creazione, la gestione e la comprensione del profilo del cliente, la segmentazione, le destinazioni tra le sorgenti e altri argomenti. L’esame convalida le competenze e le conoscenze fondamentali necessarie per utilizzare Real-time CDP per la segmentazione del pubblico, le esportazioni di destinazioni e l’attivazione in tempo reale per profili unificati che rispettano le normative su dati e privacy. I candidati devono avere esperienza con Customer Data Platform (CDP) e conoscenza dell&#39;Adobe [!DNL Experience Platform].
 
@@ -431,4 +431,4 @@ Sezione 3: Destinazioni (27%)
 
 Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com){target="_blank"}.
+Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
