@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ L&#39;Adobe utilizza Examity per amministrare gli esami protetti online. Nel por
 >[!NOTE]
 >
 >È necessario accedere a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} prima di fare clic sul pulsante Esamina di seguito.
+
+>[!WARNING]
+>
+>Il programma di certificazione delle esperienze digitali Adobe si sta preparando per gli aggiornamenti. Per questo motivo, al momento i candidati non possono programmare gli appuntamenti dell’esame dopo il 26 settembre 2024. La pianificazione tornerà normale una volta completati gli aggiornamenti.
 
 <!--divider-->
 
