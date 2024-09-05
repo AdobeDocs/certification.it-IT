@@ -7,9 +7,9 @@ role: User
 badge: label="Esame AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Nuove risorse di studio disponibili:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/235) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione. _Se viene richiesto di accedere alla Guida alla preparazione esami, utilizzare il proprio Adobe ID._
+>Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
+>
+>* **Nuovo corso:** Se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [corso Adobe Target Foundations](https://app.rockinfo.com/courses/273) per accedere alle spiegazioni dei concetti chiave, delle procedure dettagliate sui prodotti e dei controlli delle conoscenze. Questo corso ti fornirà una base di conoscenze su cui basarti nel tuo percorso di certificazione.
+>
+>* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/235) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
+>
+>_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
 
 ## Descrizione esame {#exam-description}
 
@@ -134,6 +140,12 @@ Dovresti avere:
 **Esegui un test dell&#39;esercitazione**
 
 {{practice-test}}
+
+**Segui un corso**
+
+{{take-course}}
+
+[Corso sui fondamenti di Adobe Target](https://app.rockinfo.com/courses/273)
 
 **Guida alla preparazione degli esami**
 
