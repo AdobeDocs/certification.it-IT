@@ -1,5 +1,5 @@
 ---
-source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
+source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
 workflow-type: tm+mt
 source-wordcount: '1835'
 ht-degree: 0%
@@ -193,7 +193,7 @@ L&#39;Adobe utilizza Examity per amministrare gli esami protetti online. Nel por
 
 >[!WARNING]
 >
->Il programma di certificazione delle esperienze digitali Adobe si sta preparando per gli aggiornamenti. Per questo motivo, al momento i candidati non possono programmare gli appuntamenti dell’esame dopo il 26 settembre 2024. La pianificazione tornerà normale una volta completati gli aggiornamenti.
+>Il programma di certificazione delle esperienze digitali Adobe si sta preparando per gli aggiornamenti. Per questo motivo, al momento i candidati non possono programmare gli appuntamenti dell’esame dopo il 13 ottobre 2024. La pianificazione tornerà normale una volta completati gli aggiornamenti.
 
 <!--divider-->
 
