@@ -4,9 +4,9 @@ description: Scopri come ottenere la certificazione all’Adobe. Trova tutte le 
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ La maggior parte dei rinnovi della certificazione sono **gratuiti**. Per le cert
 
 **Pagamento dell&#39;esame**
 
-Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher di esame, vai a: [Centro voucher certificazione Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare il tuo esame di certificazione con voucher o carta di credito. Per acquistare un voucher di esame, vai a: [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, questo viene applicato al momento del pagamento.
 
@@ -82,7 +82,7 @@ I partner Bronze e superiori ottengono sconti su tutti gli esami e le classi di 
 
 **Altri sconti**
 
-Inoltre, tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite il [Centro voucher certificazione Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Inoltre, tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite il [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers).
 
 **Livelli di sconto in blocco**
 
@@ -94,6 +94,68 @@ Nota: gli sconti collettivi non possono essere combinati con altre offerte o sco
 | 25-49 | 25% |
 | 50+ | 33% |
 
+>[!TAB Voucher]
+
+Il programma di certificazione delle esperienze digitali Adobe si sta trasferendo su una nuova piattaforma questo autunno! Il nuovo portale di certificazione Adobe offrirà formazione tecnica e una migliore esperienza utente per i candidati alla certificazione.
+
+Come parte del portale, è stato progettato un nuovo [Centro voucher Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}, che verrà avviato il 23 settembre 2024. Questo nuovo sistema per l’acquisto e la gestione dei voucher è più robusto, è più facile da navigare e offre agli amministratori opzioni di reporting migliorate.
+
+Tutti i voucher già acquistati tramite Xvoucher saranno disponibili sul portale di certificazione Adobe entro 72 ore da questa transizione. Dopo aver effettuato l&#39;accesso, vai al [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} per visualizzare i voucher attivi e la cronologia dei voucher e acquistare nuovi voucher.
+
+**Date importanti da ricordare:**
+
+**23 settembre 2024, 12:01 ET**
+* I voucher non possono più essere acquistati su Xvoucher.
+* L&#39;acquisto del voucher sarà disponibile nel [Centro voucher Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+* Gli esami possono ancora essere pianificati dal [Adobe sistema di gestione delle credenziali](https://www.certmetrics.com/adobe/){target="_blank"}.
+
+**25 settembre 2024 alle 08:00 ET**
+* I voucher dell&#39;account Xvoucher verranno visualizzati nel [Centro voucher Adobe](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
+**Domande frequenti**
+
++++Cosa succederà ai voucher esistenti?
+
+Tutti i voucher già acquistati tramite Xvoucher saranno disponibili sul portale di certificazione Adobe il 25 settembre 2024 alle 08:00 ET. Puoi comunque utilizzare questi voucher per pianificare gli esami. I numeri non cambieranno nemmeno dopo la transizione da Xvoucher.
+
++++
+
++++Come si acquistano i voucher sul portale di certificazione Adobe?
+
+Vai al [Centro voucher Adobi](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} e aggiungi il numero desiderato di voucher al carrello. Se hai effettuato l’accesso con l’e-mail del partner, verrà applicato lo sconto per il partner.
+
+Per una demo sull&#39;acquisto del voucher, visualizza questo [video](https://video.tv.adobe.com/v/3434122){target="_blank"}.
+
++++
+
++++Come posso assegnare e gestire i voucher per il mio team?
+
+Questo [video](https://video.tv.adobe.com/v/3434581){target="_blank"} fornisce una panoramica dettagliata delle funzioni di amministrazione di Adobe Voucher Center.
+
++++
+
++++Dove posso visualizzare i voucher del mio team?
+
+I voucher del tuo team saranno visibili nel [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
++++
+
++++Dove possono visualizzare i voucher assegnati ai membri del team?
+
+Gli utenti possono visualizzare i voucher assegnati nel loro [account](https://certification.adobe.com/user/purchases){target="_blank"} sul portale di certificazione Adobe.
+
++++
+
++++Come avvio l’onboarding dell’ordine di acquisto nel nuovo sistema?
+
+Vedi l&#39;ultima domanda nelle [Domande frequenti sul voucher](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}: &quot;Qual è il processo per il pagamento con un ordine di acquisto?&quot;
+
++++
+
+**Domande?**
+
+Visita le [Domande frequenti sul voucher](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} nel nostro sito Web.
+
 >[!TAB Fornitori certificazione]
 
 Il programma di certificazione di esperienza digitale Adobe collabora con i fornitori per supportare le iniziative e gli obiettivi del programma. Di seguito sono elencati i fornitori e le relative informazioni di contatto:
@@ -102,7 +164,6 @@ Il programma di certificazione di esperienza digitale Adobe collabora con i forn
 | ------- | ------- | ------- |
 | Credendo | Sistema di gestione dei badge | [Supporto](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | Esamina | Fornitore consegna di prova (solo Online Proctoring) | [E-mail](mailto:support@examity.com){target="_blank"} o 855-Examity (855-392-6489) |
-| Xvoucher - Adobe Certification Voucher Center | Centro voucher per l&#39;acquisto di voucher singoli o in blocco | [E-mail](mailto:support@xvoucher.com){target="_blank"} o [Guida in linea](https://help.xvoucher.com/hc/en-us) |
 
 Altre risorse fornitore:
 
@@ -123,69 +184,6 @@ Video utili:
 * [Riprogrammazione dell&#39;appuntamento di prova](https://vimeo.com/394507149){target="_blank"}
 * [Annullare l&#39;appuntamento del test](https://vimeo.com/394507135){target="_blank"}
 * [Verifica online](https://vimeo.com/394506686){target="_blank"}
-
-Domande frequenti su Adobe Certification Voucher Center (Xvoucher)
-
-+++Quando scadono i giustificativi per gli esami? Per quanto tempo sono buoni?
-
-I buoni Adobe scadono 12 mesi dopo l&#39;acquisto. I voucher non possono essere estesi oltre la data di scadenza. Le iscrizioni all&#39;esame devono essere programmate, pagate e prese prima della data di scadenza del voucher dell&#39;esame.
-
-+++
-
-+++I voucher possono essere restituiti per il credito o il rimborso?
-
-_Tutte le vendite sono definitive._ restituzioni e restituzioni non sono accettati. I voucher per gli esami Adobi vengono acquistati a livello di esame, non per esami specifici, e ciò offre flessibilità.
-
-* Esempio: quando si acquistano 10 buoni per esami di livello Adobe Certified Expert e li si distribuisce, non è necessario sapere in anticipo o pianificare chi prenderà quale esame Expert.
-* Gli amministratori possono assegnare il voucher a un utente per verificare se è stato visualizzato, riscattato o quando è stato programmato o svolto l&#39;esame.
-
-+++
-
-+++Che tipo di pagamenti sono accettati?
-
-Il pagamento può essere effettuato con (tutte le principali) carte di credito. I pagamenti tramite carta di credito richiedono l’accettazione di un contratto di click-wrap online. Le diverse opzioni di pagamento sono:
-
-* Cablaggio, ordine di acquisto o ACH: creare un ordine di acquisto nel sistema Xvoucher che può essere stampato e inviato al reparto contabilità fornitori. Tale ordine sarà approvato al ricevimento del bonifico o dell’assegno.
-* Carta di credito: tutte le principali carte di credito accettate.
-* Xwallet: questo sottrarrà l&#39;importo dell&#39;ordine dal tuo pool Xwallet.
-
-+++
-
-+++Esiste un numero minimo o massimo di voucher che posso acquistare?
-
-No, non esiste un minimo o un massimo. Gli acquisti dei clienti sono limitati solo in base ai fondi disponibili, ad esempio un limite della carta di credito o il saldo del conto bancario per i bonifici.
-
-+++
-
-+++Quanto tempo ci vorrà per avere accesso ai voucher dopo aver effettuato l&#39;ordine?
-
-I voucher saranno disponibili subito dopo l&#39;acquisto se si paga tramite carta di credito o Xwallet.
-
-* Se effettui acquisti per conto tuo, i codici dei voucher verranno forniti sullo schermo e via e-mail.
-* Se acquisti per altri, accedi al tuo account Xvoucher e distribuisci i voucher agli utenti finali da lì.
-* Se si effettua il pagamento tramite bonifico bancario o ordine di acquisto, gli ordini dei voucher verranno rilasciati quando Xvoucher avrà ricevuto i fondi.
-
-[Guida in linea](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Come posso accedere al mio account Xvoucher?
-
-Accedi al tuo account [qui](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++Come posso accedere al mio voucher Adobe?
-
-Dopo aver assegnato un voucher, riceverai un&#39;e-mail da support@xvoucher.com con un codice e istruzioni su come riscattare il voucher. Se non hai ricevuto un’e-mail, controlla la cartella di posta indesiderata. Se non riesci ancora a trovare l’e-mail, puoi accedere al tuo account Xvoucher.
-
-+++
-
-+++I voucher possono essere restituiti per il credito o il rimborso?
-
-Tutte le vendite sono definitive. Non sono accettati restituzioni e restituzioni. I voucher per esami di Adobe vengono acquistati a livello di esame, non per esami specifici, il che offre grande flessibilità.
-
-+++
 
 >[!TAB Gestione del profilo di certificazione]
 
