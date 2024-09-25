@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ L&#39;Adobe utilizza Examity per amministrare gli esami protetti online. Nel por
 
 * **Sostieni l&#39;esame.**
 
->[!NOTE]
->
->È necessario accedere a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} prima di fare clic sul pulsante Esamina di seguito.
+**Nota:** è necessario accedere a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} prima di fare clic sul pulsante Esamina di seguito.
 
 >[!WARNING]
 >
