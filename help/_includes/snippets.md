@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Pagamento con voucher: per acquistare un voucher d&#39;esame vai a: Centro vouch
 
 **Acquisto di un voucher**
 
-Puoi pagare un esame con un voucher. Per acquistare un voucher di esame, vai al [Centro voucher certificazione Adobe](https://market.xvoucher.com/adobe/global){target="_blank"}.
+Puoi pagare un esame con un voucher. Per acquistare un voucher di esame, vai al [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Per informazioni sullo sconto per il voucher, consulta la sezione sottostante.
 
 Tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite l&#39;Adobe Certification Voucher Center.
 
-Per ulteriori informazioni sui voucher, consulta le [domande frequenti](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+Per ulteriori informazioni sui voucher, consulta le [domande frequenti](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
 **Sconti**
 
@@ -143,7 +143,7 @@ Sono disponibili sconti collettivi:
 
 Sconti per i partner: i partner di livello Bronze e superiore ottengono sconti su tutti gli esami e le classi di certificazione Adobi. Per ulteriori informazioni su questi sconti e su come accedere ai vantaggi per i partner, consulta il Solution Partner Portal.
 
-Sconti voucher: tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite l&#39;Adobe Certification Voucher Center.
+Sconti voucher: tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite il [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Nota: gli sconti collettivi non possono essere combinati con altre offerte o sconti.
 
@@ -183,7 +183,7 @@ L&#39;Adobe utilizza Examity per amministrare gli esami protetti online. Nel por
 
 * **Pianifica, riprogramma o annulla l&#39;esame.** Si noti che l&#39;annullamento e la riprogrammazione devono iniziare prima di 48 ore prima dell&#39;appuntamento dell&#39;esame pianificato. I candidati devono modificare essi stessi questo appuntamento.
 
-* **Paga per il tuo esame.** Paga l&#39;esame di certificazione tramite voucher o carta di credito nel portale Examity. Per acquistare un voucher di esame, vai a: [Adobe sistema voucher certificazione](https://market.xvoucher.com/adobe/global){target="_blank"}. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+* **Paga per il tuo esame.** Paga l&#39;esame di certificazione tramite voucher o carta di credito nel portale Examity. Per acquistare un voucher di esame, vai a: [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 * **Sostieni l&#39;esame.**
 
