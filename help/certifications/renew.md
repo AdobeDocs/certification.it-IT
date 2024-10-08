@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,6 +13,8 @@ ht-degree: 0%
 ---
 
 # Rinnovare la certificazione {#renew}
+
+{{renewals-hold}}
 
 Per mantenere la certificazione Adobe, devi rinnovarla ogni 2 anni. Se non rinnovi la certificazione prima della scadenza, dovrai sostenere di nuovo l’esame di certificazione completo per ottenere la nuova certificazione.
 
