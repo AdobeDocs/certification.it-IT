@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '3484'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -17,550 +17,556 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Il tuo Adobe di certificazione è valido per due anni. Se ti avvicini a questo periodo di due anni, è ora di rinnovare la certificazione per mantenerla attiva.
+<!--
 
-Selezionare innanzitutto il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la certificazione.
-
-Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti prima della scadenza della certificazione.
-
-È importante notare che se la certificazione scade, dovrai sostenere nuovamente l&#39;esame di certificazione, che NON è gratuito.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
+ 
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Per condividere un collegamento:** Se si desidera condividere il collegamento a un esame di rinnovo o a una valutazione con un collega, collegarsi alla pagina di rinnovo generale dell&#39;esame, non all&#39;URL dell&#39;esame stesso, per evitare problemi di accesso.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB Professionista]
+>[!TAB Professional]
 
 +++Adobe [!DNL Workfront] Fusion Developer Professional
 
-## Istruzioni per il rinnovo della certificazione:
+## Instructions for renewing your certification:
 
-* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
-* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: superare l&#39;esame
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Preparati
+### Get ready
 
-**Dettagli esame:**
+**Exam details:**
+  
+* Passing Score: 26/34
+* Time: 68 mins
+* Cost: Free
+* Delivery: On-demand/non-proctored
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Workfront] Fusion Developer Professional certification
+* Exam ID: AD5-E830 Adobe [!DNL Workfront] Fusion Developer Professional
 
-* Punteggio minimo: 26/34
-* Tempo: 68 minuti
-* Costo: gratuito
-* Distribuzione: on-demand/non protetto
-* Lingue disponibili: inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Workfront] certificazione Fusion Developer Professional
-* ID esame: AD5-E830 Adobe [!DNL Workfront] Fusion Developer Professional
+**Scope and objectives**
 
-**Ambito e obiettivi**
+Section 1: Core System Administration and Setup (26%)
 
-Sezione 1: amministrazione e configurazione del sistema core (26%)
+* Given a Fusion scenario that requires a function to be nested inside another function, select the properly formed expression.
+* Given a Fusion scenario that requires timezone manipulation, distinguish between the user, visible organization, and where overriding the timezone is needed.
+* Given a Fusion scenario, select the Mapping Panel expression and/or module(s) that would appropriately transform input data to output data.
+* Identify the correct way(s) to utilize the Fusion Dev Tool to troubleshoot errors in execution or determine calls and responses made to third-party systems.
 
-* Dato uno scenario Fusion che richiede che una funzione sia nidificata all’interno di un’altra funzione, seleziona l’espressione formattata correttamente.
-* Dato uno scenario Fusion che richiede la manipolazione del fuso orario, fai una distinzione tra utente, organizzazione visibile e dove è necessario ignorare il fuso orario.
-* Dato uno scenario Fusion, seleziona l’espressione del pannello di mappatura e/o i moduli che trasformano in modo appropriato i dati di input in dati di output.
-* Identifica il modo o i modi corretti per utilizzare Fusion Dev Tool per risolvere gli errori di esecuzione o determinare le chiamate e le risposte inviate a sistemi di terze parti.
+Section 2: Scenario Design and Architecture (47%)
 
-Sezione 2: Progettazione e architettura dello scenario (47%)
+* Given a list of steps, choose the correct sequence to parse JSON and convert to bundles.
+* Given a Fusion scenario, identify an opportunity to simplify the design and/or optimize for maintenance.
+* Given a situation, identify an opportunity to reduce data flow through a scenario.
+* Given an example of the number of bundles shown on a search module and a following aggregator, explain the changes in the number of operations processed and displayed by the bundle inspector. 
+* Given an example of an error 403:forbidden, correctly select the origin of the error message and cause
+* Identify the appropriate usage of References and Collections on [!DNL Workfront] Search and Read modules.
 
-* Dato un elenco di passaggi, scegli la sequenza corretta per analizzare JSON e convertirlo in bundle.
-* Dato uno scenario Fusion, individua un’opportunità per semplificare la progettazione e/o ottimizzare la manutenzione.
-* Data una situazione, identifica un’opportunità per ridurre il flusso di dati attraverso uno scenario.
-* Dato un esempio del numero di bundle visualizzati in un modulo di ricerca e in un aggregatore successivo, spiegare le modifiche apportate al numero di operazioni elaborate e visualizzate dalla finestra di ispezione del bundle.
-* Dato un esempio di errore 403:forbidden, seleziona correttamente l’origine del messaggio di errore e causa
-* Identificare l&#39;utilizzo appropriato di Riferimenti e raccolte nei moduli di ricerca e lettura di [!DNL Workfront].
+Section 3: Testing and Error Handling (15%)
 
-Sezione 3: Test e gestione degli errori (15%)
+* Given a Fusion scenario, correctly identify the a solution to prevent or handle an unreliable service. 
+* Given a Fusion scenario with missing required data, select ways to handle the invalid data.
 
-* Dato uno scenario Fusion, identificare correttamente una soluzione per evitare o gestire un servizio inaffidabile.
-* Dato uno scenario Fusion con dati richiesti mancanti, seleziona i modi per gestire i dati non validi.
+Section 4: Working with APIs (12%)
 
-Sezione 4: Utilizzo delle API (12%)
+* Given a 3rd-party system that does not have a dedicated app, identify the HTTP app and select the appropriate module. 
+* Identify the difference between CRUD operations and other common capabilities of REST APIs.
 
-* Dato un sistema di terze parti privo di un’app dedicata, identifica l’app HTTP e seleziona il modulo appropriato.
-* Identifica la differenza tra le operazioni CRUD e altre funzionalità comuni delle API REST.
+## Get prepped
 
-## Preparati
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+Here are some suggested resources to help you prepare:
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+**Section 1: Core System Administration and Setup**
 
-**Sezione 1: amministrazione e configurazione del sistema di base**
+* [[!DNL Workfront] Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Functions in Adobe [!DNL Workfront] Fusion, Organizations in Adobe [!DNL Workfront] Fusion, Modules in Adobe [!DNL Workfront] Fusion, Scenarios in Adobe [!DNL Workfront] Fusion
 
-* [[!DNL Workfront] Documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Funzioni nell&#39;Adobe [!DNL Workfront] Fusion, organizzazioni nell&#39;Adobe [!DNL Workfront] Fusion, moduli nell&#39;Adobe [!DNL Workfront] Fusion, scenari nell&#39;Adobe [!DNL Workfront] Fusion
+**Section 2: Scenario Design and Architecture**
 
-**Sezione 2: Progettazione e architettura dello scenario**
+* [[!DNL Workfront] Fusion scenario optimization](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Tutorial
+* [[!DNL Workfront] Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Modules in Adobe [!DNL Workfront] Fusion 
 
-* [[!DNL Workfront] Ottimizzazione dello scenario di fusione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"} - Esercitazione
-* [[!DNL Workfront] Documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Moduli in Adobe [!DNL Workfront] Fusion
+**Section 3: Testing and Error Handling**
 
-**Sezione 3: test e gestione degli errori**
+* [[!DNL Workfront] Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Scenario Settings Panel in Adobe [!DNL Workfront] Fusion, Errors in Adobe [!DNL Workfront] Fusion, Functions in Adobe [!DNL Workfront] Fusion
 
-* [[!DNL Workfront] Documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Pannello Impostazioni scenario nell&#39;Adobe [!DNL Workfront] Fusion, Errori nell&#39;Adobe [!DNL Workfront] Fusion, Funzioni nell&#39;Adobe [!DNL Workfront] Fusion
+**Section 4: Working with APIs**
 
-**Sezione 4: Utilizzo delle API**
-
-* [[!DNL Workfront] Documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Moduli HTTP, Connessioni nell&#39;Adobe [!DNL Workfront] Fusion, Moduli nell&#39;Adobe [!DNL Workfront] Fusion
+* [[!DNL Workfront] Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP Modules, Connections in Adobe [!DNL Workfront] Fusion, Modules in Adobe [!DNL Workfront] Fusion 
 * [Adobe [!DNL Workfront] API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
-## Rinnovare la certificazione
+## Renew your certification
 
-Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fai clic sul collegamento [!DNL Workfront] Fusion Developer RENEW - AD5-830 di seguito.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the [!DNL Workfront] Fusion Developer renewal - AD5-830 link below.
 
-* [[!DNL Workfront] Rinnovo sviluppatore Fusion - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
+* [[!DNL Workfront] Fusion Developer renewal - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E830){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
 +++Adobe [!DNL Workfront] Project Manager Professional
 
-## Istruzioni per il rinnovo della certificazione:
+## Instructions for renewing your certification:
 
-* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
-* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: superare l&#39;esame
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Preparati
+### Get ready
 
-**Dettagli esame:**
+**Exam details:**
+  
+* Passing Score: 27/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Workfront] Project Manager Professional certification
+* Exam ID: AD5-E833
 
-* Punteggio minimo: 27/35
-* Tempo: 70 minuti
-* Costo: GRATUITO/non protetto
-* Consegna: on-demand
-* Lingue disponibili: inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Workfront] certificazione di Project Manager Professional
-* ID esame: AD5-E833
+**Scope and objectives**
 
-**Ambito e obiettivi**
+Section 1: Intake and Planning (29%)
 
-Sezione 1: Assunzione e pianificazione (29%)
+* Given a request, review the custom data to determine the appropriate action. (Consider attached documents, approval required, how complete the data is, priority, etc.)
+* Given a scenario, determine the sharing permissions that are required for an activity. (Consider dashboard/report sharing, actions on a task or request, visibility, inherited permissions, agile, etc.)
+* Given a scenario, determine the appropriate task settings to plan the execution of a task in a specific time frame. (Consider duration, planned hours, constraint and task or cross-project predecessors, lead and lag on predecessors, task assignment and time-off.)
+* Identify the correct hierarchy of objects in [!DNL Workfront]. (Consider portfolios, programs, projects, tasks, and issues.)
+* Given a persona, determine the intake or planning reports/dashboards that are helpful for the persona during the work intake or planning stage of the project/work process. (Consider project owners, executives / sponsors, task assignees, requestors, etc.)
 
-* Dato un dato, rivedi i dati personalizzati per determinare l’azione appropriata. (Considera documenti allegati, approvazione richiesta, la completezza dei dati, la priorità, ecc.)
-* Considerato uno scenario, determina le autorizzazioni di condivisione necessarie per un’attività. (Considera la condivisione di dashboard/report, le azioni su un’attività o una richiesta, la visibilità, le autorizzazioni ereditate, agile, ecc.)
-* Considerato uno scenario, determinare le impostazioni appropriate per pianificare l&#39;esecuzione di un&#39;attività in un intervallo di tempo specifico. Si considerino la durata, le ore pianificate, il vincolo e i predecessori di attività o di più progetti, il lead e il ritardo sui predecessori, l&#39;assegnazione delle attività e il tempo libero.
-* Identificare la gerarchia corretta di oggetti in [!DNL Workfront]. (Prendi in considerazione portfolio, programmi, progetti, attività e problemi).
-* Dato un utente tipo, determina i rapporti/dashboard di input o pianificazione utili per l’utente tipo durante la fase di inserimento del lavoro o pianificazione del processo di progetto/lavoro. (Prendi in considerazione proprietari di progetto, dirigenti/sponsor, assegnatari di attività, richiedenti, ecc.)
+Section 2: Execute (59%)
 
-Sezione 2: Esecuzione (59%)
+* Create [!DNL Workfront] Single Use Approvals and when an Approval would be used. (Consider Project and Task Approvals, Multipath Approvals, and Multistage Approvals.)
+* Given a scenario, identify the information that date types convey to a project manager. (Consider Planned Dates, Actual Dates, Commit Dates, Estimated Dates)
+* Given a scenario, determine how different Task Constraints affect the project timeline when used. (Consider the understanding of what the different task constraints do, knowing what the different task constraints are, and when to use the different task constraints)
+* Given a scenario, demonstrate how to find project teams and how to notify them of work assignments, updates, or completion of work items. (Consider notification types, project team notifications, People tab, Updates to projects/tasks, when and why to subscribe to a work object, and how to modify individual email notifications)
+* Identify the different ways to manage a project. (Consider waterfall, Agile, SCRUM, and Kanban.)
+* Given a scenario, describe how to provide stakeholders the information they require. (Consider exporting reports, exporting files, recurring deliveries, etc.)
+* Given a scenario, determine how date types and durations impact project conditions. (Consider planned start, projected start, individual's commit date, etc.)
+* Given a scenario, determine how to implement or modify changes in system-level or group-level custom statuses
+* Given a scenario, describe the steps to build a report and determine the type of report needed.
+* Given a scenario, determine when an issue should be utilized on a project.
 
-* Creare [!DNL Workfront] approvazioni monouso e quando utilizzare un&#39;approvazione. Si considerino le approvazioni di progetti e attività, le approvazioni a percorsi multipli e le approvazioni a più fasi.
-* Dato uno scenario, identifica le informazioni che i tipi di data trasmettono a un project manager. (Considera Date Pianificate, Date Effettive, Date Impegno, Date Stimate)
-* Considerato uno scenario, determina in che modo i diversi vincoli attività influiscono sulla sequenza temporale del progetto quando viene utilizzata. Si consideri la comprensione delle operazioni dei diversi vincoli delle attività, la conoscenza dei diversi vincoli delle attività e la tempistica di utilizzo dei diversi vincoli delle attività.
-* Dato uno scenario, dimostrare come trovare i team di progetto e notificare loro le assegnazioni di lavoro, gli aggiornamenti o il completamento degli elementi di lavoro. (Prendi in considerazione tipi di notifica, notifiche del team di progetto, scheda Persone, aggiornamenti a progetti/attività, quando e perché abbonarti a un oggetto di lavoro e come modificare le singole notifiche e-mail)
-* Identifica i diversi modi per gestire un progetto. (Considera cascata, Agile, SCRUM e Kanban.)
-* In uno scenario, descrivi come fornire alle parti interessate le informazioni di cui hanno bisogno. Prendi in considerazione l’esportazione di rapporti, l’esportazione di file, consegne ricorrenti e così via.
-* Dato uno scenario, determinare in che modo i tipi di date e le durate influiscono sulle condizioni del progetto. Considera l’inizio pianificato, l’inizio previsto, la data di commit dell’individuo, ecc.
-* Considerato uno scenario, determinare come implementare o modificare le modifiche negli stati personalizzati a livello di sistema o di gruppo
-* Dato uno scenario, descrivi i passaggi per creare un rapporto e determinane il tipo necessario.
-* Considerato uno scenario, determina quando un problema deve essere utilizzato in un progetto.
+Section 3: Closeout (12%)
 
-Sezione 3: Chiusura (12%)
+* Given a particular object status, determine what activities need to be executed or what actions are triggered. (Consider pending approvals, i.e., approval is required or a project cannot be closed until approvals are resolved, notification sent on active projects only - not on statuses equivalent to planning, editing data or deleting tasks with logged hours on a completed project, etc.)
+* Identify the project elements that can be used to measure project success. (Consider baseline variants, financials, planned vs actual dates/hours/costs, custom data/KPIs, etc. DO NOT use Case specific questions. Focus on technical elements.)
 
-* Dato un particolare stato dell’oggetto, determina le attività da eseguire o le azioni da attivare. (Considera le approvazioni in sospeso, ovvero che l’approvazione sia necessaria o che un progetto non possa essere chiuso finché non vengono risolte le approvazioni, non viene inviata una notifica solo per i progetti attivi, non per gli stati equivalenti alla pianificazione, alla modifica dei dati o all’eliminazione di attività con ore registrate su un progetto completato, ecc.)
-* Identifica gli elementi del progetto che possono essere utilizzati per misurare il successo del progetto. (Considera varianti di base, dati finanziari, date/ore/costi pianificati ed effettivi, dati/KPI personalizzati, ecc.) NON utilizzare Domande specifiche sul caso. Concentrarsi sugli elementi tecnici).
+## Get prepped
 
-## Preparati
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+Here are some suggested resources to help you prepare:
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+**Section 1: Intake and Planning**
 
-**Sezione 1: accettazione e pianificazione**
+* [Understand request queues](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
+* [Approving work](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
+* [Share a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [Edit project templates](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
+* [Assign tasks from the project plan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
+* [Tasks overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
+* [Duration Type overview: Calculated Work](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
+* [Understand objects in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
+* [Convert issues to other work items](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
+* [Share a project in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
+* [Designate Resource Managers for a project or template](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html){target="_blank"}
+* [Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
-* [Comprendere le code di richieste](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
-* [Approvazione del lavoro](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
-* [Condividi un progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=it){target="_blank"}
-* [Modifica modelli di progetto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
-* [Assegna attività dal piano del progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
-* [Panoramica attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
-* [Panoramica sul tipo di durata: lavoro calcolato](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/tasks-overview.html){target="_blank"}
-* [Comprendere gli oggetti in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
-* [Converti problemi in altri elementi di lavoro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
-* [Condividi un progetto in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html){target="_blank"}
-* [Designare Responsabili risorse per un progetto o un modello](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html){target="_blank"}
-* [Crea dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
+**Section 2: Execute**
 
-**Sezione 2: Esecuzione**
-
-* [Panoramica del processo di approvazione](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
-* [Crea un processo di approvazione per gli elementi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Convertire un problema in attività nell&#39;Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
-* [Crea problemi](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
-* [Gestione lavoro non pianificato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html){target="_blank"}
-* [Crea un report semplice](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html){target="_blank"}
-* [Panoramica sulla data di conferma](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html){target="_blank"}
-* [Vincoli attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html){target="_blank"}
-* [Gruppi e team nell&#39;Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
-* [Modifica progetti](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
-* [Crea un Team Agile](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
-* [Utilizzo della pagina di iterazione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html){target="_blank"}
-* [Comprendere la comunicazione del progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html){target="_blank"}
-* [Pianifica la consegna automatica di un report](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html){target="_blank"}
-* [Panoramica della condizione e del tipo di condizione del progetto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
-* [Comprendere i tipi di data e lo stato di avanzamento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html){target="_blank"}
-* [Gestione del lavoro del team tramite dashboard](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
-* [Utilizza Adobe [!DNL Workfront] rapporti incorporati](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
+* [Approval process overview](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
+* [Create an approval process for work items](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [Convert an issue to a task in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
+* [Create issues](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
+* [Handle unplanned work](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html){target="_blank"}
+* [Create a simple report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html){target="_blank"}
+* [Commit Date overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html){target="_blank"}
+* [Task Constraints](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html){target="_blank"}
+* [Groups vs. teams in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html){target="_blank"}
+* [Edit projects](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
+* [Create an agile team](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
+* [Using the iteration page](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html){target="_blank"}
+* [Understand project communication](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html){target="_blank"}
+* [Schedule an automatic report delivery](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html){target="_blank"}
+* [Overview of Project Condition and Condition Type](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
+* [Understand date types and progress status](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html){target="_blank"}
+* [Manage Your Team's Work Using Dashboards](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
+* [Use Adobe [!DNL Workfront] built-in reports](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
-**Sezione 3: Chiusura**
+**Section 3: Closeout**
 
-* [Modifica lo stato di un progetto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
-* [Stati progetto di sistema](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
-* [Utilizza la vista Milestone](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
-* [Panoramica dei campi finanziari del caso aziendale](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
-* [Dati finanziari progetto inclusi nelle previsioni del progetto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
-* [Tracciare l&#39;avanzamento del lavoro con le metriche del progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
+* [Change the status of a project](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
+* [System project statuses](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
+* [Use the Milestone view](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
+* [Overview of Business Case financial fields](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html){target="_blank"}
+* [Project finances included in project baselines](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
+* [Track work progress with project metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
 
-## Rinnovare la certificazione
+## Renew your certification
 
-Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fare clic sul link Workfront Project Manager Professional RENEW - AD5-833 di seguito.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Workfront Project Manager Professional renewal - AD5-833 link below.
 
-* [Adobe [!DNL Workfront] Rinnovo di Project Manager Professional - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+* [Adobe [!DNL Workfront] Project Manager Professional renewal - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E833){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
 +++[!DNL Workfront] Core Developer Professional
 
-## Istruzioni per il rinnovo della certificazione:
+## Instructions for renewing your certification:
 
-* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
-* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: superare l&#39;esame
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Preparati
+### Get ready
 
-**Dettagli esame:**
+**Exam details:**
+  
+* Passing Score: 27/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Workfront] Core Developer Professional certification
+* Exam ID: AD5-E835
 
-* Punteggio minimo: 27/35
-* Tempo: 70 minuti
-* Costo: GRATUITO/non protetto
-* Consegna: on-demand
-* Lingue disponibili: inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Workfront] di certificazione Core Developer Professional
-* ID esame: AD5-E835
+**Scope and objectives**
 
-**Ambito e obiettivi**
+Section 1: Strategy and Intake (20%)
 
-Sezione 1: Strategia e assunzione (20%)
+* Use Portfolios and Programs
+* Use Request Queues
+* Use Custom Forms
 
-* Utilizzare Portfoli e programmi
-* Usa code di richieste
-* Usa Forms personalizzato
+Section 2: Budget and Planning (11%)
 
-Sezione 2: Bilancio e pianificazione (11%)
+* Use the Resource Planning tools
 
-* Utilizzare gli strumenti di pianificazione delle risorse
+Section 3: User Experience (26%)
 
-Sezione 3: esperienza utente (26%)
+* Illustrate best practices for user management in creating the right user experience
+* Given a scenario, apply the correct set up for sharing and access rights across the system
+* Describe what a blueprint is and recognize when to use it
+* Demonstrate how to create and use timesheets
+* Describe the purpose and value of connectors, plug-ins, and add-ons
 
-* Illustrare le best practice per la gestione degli utenti nella creazione dell’esperienza utente corretta
-* Considerato uno scenario, applica la configurazione corretta per la condivisione e i diritti di accesso nel sistema
-* Descrivere cos’è una blueprint e riconoscere quando utilizzarla
-* Dimostrare come creare e utilizzare le schede orario
-* Descrivere lo scopo e il valore di connettori, plug-in e componenti aggiuntivi
+Section 4: Metrics and Reporting (14%)
 
-Sezione 4: Metriche e reporting (14%)
+* Describe basic concepts for building, sending, and customizing reports
+* Explain how to build and customize dashboards
 
-* Descrivere i concetti di base per la creazione, l’invio e la personalizzazione dei rapporti
-* Spiegare come creare e personalizzare le dashboard
+Section 5: Execution (29%)
 
-Sezione 5: Esecuzione (29%)
+* Demonstrate how to set up approval and proofing workflows
+* Recognize the purpose of creating an issue for a project
+* Demonstrate how to customize group-level project statuses
+* Identify the attributes needed to enable Agile in Workfront
+* Identify the ways to enter time in Workfront
 
-* Dimostrare come impostare flussi di lavoro di approvazione e verifica
-* Riconoscere lo scopo della creazione di un problema per un progetto
-* Dimostrare come personalizzare gli stati dei progetti a livello di gruppo
-* Identificare gli attributi necessari per abilitare Agile in Workfront
-* Identificare i modi per immettere l’ora in Workfront
+## Get prepped
 
-## Preparati
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+Here are some suggested resources to help you prepare:
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+**Section 1: Strategy and Intake**
 
-**Sezione 1: strategia e assunzione**
+* [Portfolio Optimizer overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
+* [Create and manage Request Queues](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
+* [Provide access to request queues](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html){target="_blank"}
+* [Custom forms overview](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 
-* [Panoramica di Portfolio Optimizer](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
-* [Crea e gestisci code di richieste](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html){target="_blank"}
-* [Fornire l&#39;accesso alle code di richieste](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html){target="_blank"}
-* [Panoramica moduli personalizzati](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+**Section 2: Budget and Planning**
 
-**Sezione 2: Budget e pianificazione**
+* [Locate the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html){target="_blank"}
+* [Assign work in bulk using the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [Manage user allocations in the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html){target="_blank"}
 
-* [Individua il Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html){target="_blank"}
-* [Assegna il lavoro in blocco utilizzando il Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
-* [Gestione delle allocazioni utente nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html){target="_blank"}
+**Section 3: User Experience**
 
-**Sezione 3: Esperienza utente**
+* [When and how to deactivate or delete users](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
+* [Share project templates](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
+* [Actions to take after installing a blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html){target="_blank"}
+* [Create a single-use timesheet](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html){target="_blank"}
 
-* [Quando e come disattivare o eliminare gli utenti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
-* [Condividi modelli di progetto](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
-* [Azioni da eseguire dopo l&#39;installazione di un blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html){target="_blank"}
-* [Crea una scheda orario monouso](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html){target="_blank"}
+**Section 4: Metrics and Reporting**
 
-**Sezione 4: Metriche e reporting**
+* [Adobe [!DNL Workfront] integrations](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html){target="_blank"}
+* [Use Adobe [!DNL Workfront] plugins for Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html){target="_blank"}
+* [Send and share reports](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
+* [Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
-* [Adobe [!DNL Workfront] integrazioni](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html){target="_blank"}
-* [Utilizza Adobe [!DNL Workfront] plug-in per Creative Cloud](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html){target="_blank"}
-* [Inviare e condividere report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
-* [Crea dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
+**Section 5: Execution**
 
-**Sezione 5: Esecuzione**
+* [Convert an issue to a project in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
+* [Create or edit a board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html){target="_blank"}
+* [Add or remove members from a board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
+* [Understand the Timesheet layout](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html){target="_blank"}
 
-* [Converti un problema in un progetto in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
-* [Crea o modifica una bacheca](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html){target="_blank"}
-* [Aggiungere o rimuovere membri da una bacheca](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
-* [Comprendere il layout della scheda orario](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html){target="_blank"}
+## Renew your certification
 
-## Rinnovare la certificazione
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the [!DNL Workfront] Core Developer Professional renewal - AD5-E835 link below.
 
-Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fare clic sul collegamento [!DNL Workfront] Core Developer Professional RENEW - AD5-E835 di seguito.
-
-* [Adobe [!DNL Workfront] Rinnovo core Developer Professional - AD5-E835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Adobe [!DNL Workfront] Core Developer Professional renewal - AD5-E835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB Esperto]
+>[!TAB Expert]
 
-+++Adobe [!DNL Workfront] per Adobe [!DNL Experience Manager] Esperto connettore avanzato
++++Adobe [!DNL Workfront] for Adobe [!DNL Experience Manager] Enhanced Connector Expert
 
-## Istruzioni per il rinnovo della certificazione:
+## Instructions for renewing your certification:
 
-* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
-* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: superare l&#39;esame
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Preparati
+### Get ready
 
-**Dettagli esame:**
+**Exam details:**
+  
+* Passing Score: 21/28
+* Time: 56 minutes
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequesite: Adobe [!DNL Workfront] for Adobe [!DNL Experience Manager] Enhanced Connector Expert certification
+* Exam ID: AD5-E849 Adobe [!DNL Workfront] for Adobe [!DNL Experience Manager] Enhanced Connector Expert
 
-* Punteggio minimo: 21/28
-* Tempo: 56 minuti
-* Costo: GRATUITO/non protetto
-* Consegna: on-demand
-* Lingue disponibili: inglese
-* Prerequisito: Adobe [!DNL Workfront] per Adobe [!DNL Experience Manager] certificazione Enhanced Connector Expert
-* ID esame: AD5-E849 Adobe [!DNL Workfront] per Adobe [!DNL Experience Manager] Esperto connettore avanzato
+**Scope and objectives**
 
-**Ambito e obiettivi**
+Section 1: Technical Requirements 25%
 
-Sezione 1: Requisiti tecnici 25%
+* Use [!DNL Workfront] Custom Forms    
+* Given a scenario, demonstrate document management     
+* Demonstrate knowledge of promoting code across environments     
+* Given a scenario, identify how values are passed to [!DNL Workfront] custom forms    
+* Troubleshoot server side code    
 
-* Usa Forms personalizzato [!DNL Workfront]
-* Dato uno scenario, dimostrare la gestione dei documenti
-* Dimostrare le conoscenze per la promozione del codice in ambienti diversi
-* Considerato uno scenario, identificare il modo in cui i valori vengono passati ai moduli personalizzati [!DNL Workfront]
-* Risoluzione dei problemi relativi al codice lato server
+Section 2: Configuration 26.25%
 
-Sezione 2: configurazione 26,25%
+* Illustrate best practices for user management    
+* Apply procedural concepts required to modify existing AEM asset workflows     
+* Make decisions required to customize metadata schema for different asset types     
+* Apply procedural AEM concepts required to deploy OSGi bundles, assets, metadata schema, tagging and permissions     
 
-* Best practice per la gestione degli utenti
-* Applicare i concetti procedurali necessari per modificare i flussi di lavoro delle risorse AEM esistenti
-* Prendere decisioni necessarie per personalizzare lo schema metadati per diversi tipi di risorse
-* Applica i concetti procedurali AEM necessari per distribuire bundle OSGi, risorse, schema metadati, tag e autorizzazioni
+Section 3: Business Practices 21.25%
 
-Sezione 3: pratiche commerciali 21,25%
+* Interpret client needs in order to recommend the appropriate workflow strategies    
+* Demonstrate how to set up [!DNL Workfront] approval and proofing workflows    
+* Given a scenario, identify best practices for using the proofing viewer, settings, and markup functionality     
+* Demonstrate an understanding of tracking deliverables as part of campaign management     
+* Given a scenario, identify the key considerations of change management for a [!DNL Workfront] implementation     
 
-* Interpretare le esigenze dei clienti per consigliare le strategie di flusso di lavoro appropriate
-* Dimostrare come impostare [!DNL Workfront] flussi di lavoro di approvazione e verifica
-* Considerato uno scenario, identifica le best practice per l’utilizzo del visualizzatore di bozze, delle impostazioni e della funzionalità di markup
-* Dimostrare di comprendere il tracciamento dei risultati finali come parte della gestione delle campagne
-* Considerato uno scenario, identificare le considerazioni chiave della gestione delle modifiche per un&#39;implementazione [!DNL Workfront]
+Section 4: Installation and Configuration of Connector 27.5%
 
-Sezione 4: Installazione e configurazione del connettore 27,5%
+* Validate prerequisites within AEM    
+* Given a customer use case, identify the features of the connector to implement    
 
-* Convalidare i prerequisiti in AEM
-* Dato un caso di utilizzo di un cliente, identifica le funzioni del connettore da implementare
+**Section 1**
 
-**Sezione 1**
+* [Transfer custom form data when converting an object](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Ftransfer-custom-form-data-larger-item.html&_LANG=en){target="_blank"}
+* [Interface AssetManager](https://www.adobe.io/experience-manager/reference-materials/6-5/javadoc/com/day/cq/dam/api/AssetManager.html){target="_blank"}
+ 
+**Section 2**
 
-* [Trasferisci dati modulo personalizzato durante la conversione di un oggetto](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Ftransfer-custom-form-data-larger-item.html&amp;_LANG=en){target="_blank"}
-* [Gestione risorse interfaccia](https://www.adobe.io/experience-manager/reference-materials/6-5/javadoc/com/day/cq/dam/api/AssetManager.html){target="_blank"}
+* [Interface Asset](https://www.adobe.io/experience-manager/reference-materials/6-5/javadoc/com/adobe/granite/asset/api/Asset.html){target="_blank"}
+* [Starting Workflows](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-starting.html){target="_blank"}
+* [Variables in AEM workflows](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/using-variables-in-aem-workflows.html){target="_blank"}
+* [Workflow Step Reference](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-step-ref.html){target="_blank"}
+* [Add or edit metadata in Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html#applying-a-metadata-profile-to-folders){target="_blank"}
+ 
+**Section 3**
 
-**Sezione 2**
+* [Configure proofing viewer settings](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FReview_and_approve_work%2FProofing%2FReviewing_Proofs_within_Workfront%2Fconfigure-proofing-viewer-settings.html){target="_blank"}
+* [[!DNL Workfront] documentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FReview_and_approve_work%2FProofing%2FCreating_Proofs_within_Workfront%2Fconfigure-proof.html){target="_blank"}
+* [Create a milestone path](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2Fcreate-milestone-path.html){target="_blank"}
+* [Create or edit a custom form with the legacy form builder](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Fcreate-or-edit-a-custom-form.html){target="_blank"}
+* [7 Best Practices in Change Management Communication](https://whatfix.com/blog/best-practices-change-management-communication/){target="_blank"}
+ 
+**Section 4**
 
-* [Risorsa interfaccia](https://www.adobe.io/experience-manager/reference-materials/6-5/javadoc/com/adobe/granite/asset/api/Asset.html){target="_blank"}
-* [Avvio dei flussi di lavoro](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-starting.html){target="_blank"}
-* [Variabili nei flussi di lavoro AEM](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/using-variables-in-aem-workflows.html){target="_blank"}
-* [Riferimento passaggio flusso di lavoro](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-step-ref.html){target="_blank"}
-* [Aggiungi o modifica metadati in Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html#applying-a-metadata-profile-to-folders){target="_blank"}
+* [Install [!DNL Workfront] for Experience Manager enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html){target="_blank"}
+* [Configure your firewall's allowlist](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-your-firewall.html){target="_blank"}
+* [Configure basic information for your system](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-basic-info.html){target="_blank"}
+ 
+## Renew your certification
 
-**Sezione 3**
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Adobe [!DNL Workfront] for Adobe [!DNL Experience Manager] Enhanced Connector Expert - AD5-E849 link below.
 
-* [Configurare le impostazioni del visualizzatore di verifica](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReview_and_approve_work%2FProofing%2FReviewing_Proofs_within_Workfront%2Fconfigure-proofing-viewer-settings.html){target="_blank"}
-* [[!DNL Workfront] documentazione](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FReview_and_approve_work%2FProofing%2FCreating_Proofs_within_Workfront%2Fconfigure-proof.html){target="_blank"}
-* [Crea un percorso milestone](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2Fcreate-milestone-path.html){target="_blank"}
-* [Crea o modifica un modulo personalizzato con il generatore di moduli legacy](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreate_manage_Custom_Forms%2Fcreate-or-edit-a-custom-form.html){target="_blank"}
-* [7 Procedure consigliate nella comunicazione per la gestione delle modifiche](https://whatfix.com/blog/best-practices-change-management-communication/){target="_blank"}
-
-**Sezione 4**
-
-* [Installa [!DNL Workfront] ad Experience Manager connettore avanzato](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=it){target="_blank"}
-* [Configurare il inserisco nell&#39;elenco Consentiti di configurazione del firewall](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-your-firewall.html){target="_blank"}
-* [Configura le informazioni di base per il sistema](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FGet_started-WF_administration%2Fconfigure-basic-info.html){target="_blank"}
-
-## Rinnovare la certificazione
-
-Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fare clic sull&#39;Adobe [!DNL Workfront], ad Adobe [!DNL Experience Manager] Esperto connettore avanzato - AD5-E849, collegamento seguente.
-
-* [Adobe [!DNL Workfront] per Adobe [!DNL Experience Manager] Esperto connettore avanzato - AD5-E849](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E849){target="_blank"}
+* [Adobe [!DNL Workfront] for Adobe [!DNL Experience Manager] Enhanced Connector Expert - AD5-E849](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E849){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe [!DNL Workfront] certificazione esperti sviluppatori core
++++Adobe [!DNL Workfront] Core Developer Expert certification
 
-## Istruzioni per il rinnovo della certificazione:
+## Instructions for renewing your certification:
 
-* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
-* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: superare l&#39;esame
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Preparati
+### Get ready
 
-**Dettagli esame:**
+**Exam details:**
+  
+* Passing Score: 27/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Workfront] Core Developer Expert certification
+* Exam ID: AD5-E829
 
-* Punteggio minimo: 27/35
-* Tempo: 70 minuti
-* Costo: GRATUITO/non protetto
-* Consegna: on-demand
-* Lingue disponibili: inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Workfront] Certificazione Core Developer Expert
-* ID esame: AD5-E829
+**Scope and objectives**
 
-**Ambito e obiettivi**
+Section 1: Core System Administration and Setup (27%)
 
-Sezione 1: amministrazione e configurazione del sistema core (27%)
+* Given a requirement, select the appropriate group level settings.
+* Given a scenario where an enterprise account wants to make sure SSO is working effectively to maintain system security, identify best practices for auto-provisioning users. (Considerations include Admin Console, Classic SSO, and restrictions when using Admin Console)
+* Given a scenario recommend a Boards configuration to meet a custom requirement.
 
-* Dato un requisito, selezionare le impostazioni appropriate a livello di gruppo.
-* Dato uno scenario in cui un account aziendale desidera assicurarsi che l&#39;SSO funzioni in modo efficace per mantenere la sicurezza del sistema, identificare le best practice per gli utenti che utilizzano il provisioning automatico. (le considerazioni includono Admin Console, SSO classico e restrizioni quando si utilizza Admin Console)
-* In uno scenario, consiglia una configurazione delle bacheche che soddisfi un requisito personalizzato.
+Section 2: Intake, Custom Forms, and Project Management (11%)
 
-Sezione 2: Assunzione, Forms personalizzato e gestione dei progetti (11%)
+* Given a scenario with multiple forms, determine actions to control access, visibility, and dependency.
+* Given a scenario with calculated fields on multi-object forms, identify the correct formula.
 
-* Dato uno scenario con più moduli, determinare le azioni per controllare l&#39;accesso, la visibilità e la dipendenza.
-* Dato uno scenario con campi calcolati in moduli con più oggetti, identifica la formula corretta.
+Section 3: Strategic Functionality (Portfolio and Program Management, Resource Management) (11%)
 
-Sezione 3: funzionalità strategica (gestione di Portfoli e programmi, gestione delle risorse) (11%)
+* Given a scenario, provide a mechanism to ensure that projects are fully staffed by using Resource Management tools.
+* Given a scenario Resource Management tools to determine why a user is over allocated.
 
-* Considerato uno scenario, fornire un meccanismo per garantire che i progetti dispongano di personale completo utilizzando gli strumenti di gestione delle risorse.
-* Dato uno scenario Strumenti di gestione delle risorse per determinare perché un utente è sovrassegnato.
+Section 4: Document Management and Proof (11%)
 
-Sezione 4: gestione dei documenti e verifica (11%)
+* Given a scenario, demonstrate how to edit and set permissions with proofing.
+* Given a scenario, setup a connection to AEM as a Cloud Service or AEM Assets Essentials.
 
-* In uno scenario, illustra come modificare e impostare le autorizzazioni con la verifica.
-* Considerato uno scenario, imposta una connessione ad AEM as a Cloud Service o AEM Assets Essentials.
+Section 5: Reporting (11%)
 
-Sezione 5: relazioni (11%)
+* Given a scenario, determine how a field type would render on a report. (Field types include rich text, images, multi-select)
+* Identify Adobe [!DNL Workfront] capabilities that support monitoring and improving user adoption.
 
-* Considerato uno scenario, determina il rendering di un tipo di campo in un rapporto. (I tipi di campo includono testo RTF, immagini e selezione multipla)
-* Identificare le funzionalità di Adobe [!DNL Workfront] che supportano il monitoraggio e il miglioramento dell&#39;adozione da parte degli utenti.
+Section 6: Methodology / Best Practices / Use Cases (29%)
 
-Sezione 6: Metodologia/Best Practice/Casi d’uso (29%)
+* Given a scenario within [!DNL Workfront], demonstrate functionality for setting up tracking of deliverables that are part of a single campaign. (Consider a marketing use case.)
+* Given a scenario within [!DNL Workfront], demonstrate functionality around financials, utilization, forecasting, billing rates/records (professional services)
+* Given a scenario within [!DNL Workfront], demonstrate functionality around setting up workflow and approvals. (Consider regulatory/compliance situations.)
+* Given a scenario using [!DNL Workfront] Boards, identify native features to show progress.
+* Given a scenario, recommend a framework for governance around system and group administration.
 
-* Dato uno scenario entro [!DNL Workfront], dimostrare la funzionalità per impostare il tracciamento dei risultati finali che fanno parte di una singola campagna. Considera un caso di utilizzo di marketing.
-* Dato uno scenario entro [!DNL Workfront], dimostrare funzionalità relative a dati finanziari, utilizzo, previsioni, tariffe/record di fatturazione (servizi professionali)
-* Dato uno scenario entro [!DNL Workfront], dimostrare la funzionalità relativa alla configurazione del flusso di lavoro e alle approvazioni. (Considerare le situazioni di conformità/normative.)
-* Dato uno scenario che utilizza [!DNL Workfront] bacheche, identifica le funzionalità native per mostrare l&#39;avanzamento.
-* Considerato uno scenario, consiglia un framework per la governance sull’amministrazione di sistemi e gruppi.
+## Get prepped
 
-## Preparati
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+Here are some suggested resources to help you prepare:
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+**Section 1: Core System Administration and Setup**
 
-**Sezione 1: amministrazione e configurazione del sistema di base**
+* [Workfront documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administration and Setup, Manage Groups, Agile)
+* [Create and modify a group's project templates](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
+* [Understand group-specific approval processes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html){target="_blank"}
+* [How groups inherit statuses](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html){target="_blank"}
+* [Create and modify a group's teams](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html){target="_blank"}
+* [Named User Licensing | Deployment guide](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
+* [Configure card falloff](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
+* [Use connected cards on boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
+* [Add or remove members from a board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
 
-* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Amministrazione e configurazione, Gestisci gruppi, Agile)
-* [Creare e modificare i modelli di progetto di un gruppo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
-* [Comprendere i processi di approvazione specifici del gruppo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html){target="_blank"}
-* [In che modo i gruppi ereditano gli stati](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html){target="_blank"}
-* [Crea e modifica i team di un gruppo](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html){target="_blank"}
-* [Licenze utente nominative | Guida alla distribuzione](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
-* [Configura abbandono schede](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
-* [Usa schede collegate nelle bacheche](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
-* [Aggiungere o rimuovere membri da una bacheca](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
+**Section 2: Intake, Custom Forms, and Project Management**
 
-**Sezione 2: accettazione, Forms personalizzato e gestione dei progetti**
+* [[!DNL Workfront] documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Administration and Set up, Custom Forms, Reports, Reporting Elements)
+* [Add a section break to a custom form with the legacy form builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
+* [Wildcard filter variables](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
-* [[!DNL Workfront] documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (amministrazione e configurazione, Forms personalizzato, rapporti, elementi di reporting)
-* [Aggiungi un&#39;interruzione di sezione a un modulo personalizzato con il generatore di moduli legacy](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
-* [Variabili filtro con caratteri jolly](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
+**Section 3: Strategic Functionality (Portfolio and Program Management, Resource Management)**
 
-**Sezione 3: funzionalità strategica (gestione di Portfoli e programmi, gestione delle risorse)**
+* [[!DNL Workfront] documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (The Workload Balancer, Resource Planning in Adobe [!DNL Workfront], Assign Tasks)
+* [Assign work in bulk using the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [Budget resources in the Resource Planner using the Project and Role views](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
+* [Filter information in the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
+* [Assign work in bulk using the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [Smart assignments overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
 
-* [[!DNL Workfront] documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Bilanciatore dei carichi di lavoro, Pianificazione delle risorse nell&#39;Adobe [!DNL Workfront], Assegna attività)
-* [Assegna il lavoro in blocco utilizzando il Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
-* [Preventivare le risorse nella Programmazione delle risorse utilizzando le visualizzazioni Progetto e Ruolo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
-* [Filtra le informazioni nel Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
-* [Assegna il lavoro in blocco utilizzando il Bilanciatore dei carichi di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
-* [Panoramica assegnazioni intelligenti](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
+**Section 4: Document Management and Proof**
 
-**Sezione 4: Gestione documenti e bozze**
+* [[!DNL Workfront] documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Review and approve work, Configure proofing, Configure integrations)
+* [Proof Permission Profile overview](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
+* [Proof Roles overview](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
+* [Configure a user's proofing access](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
+* [Configure the Experience Manager Assets Essentials integration](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html){target="_blank"}
+* [Configure the Experience Manager Assets as a Cloud Service integration](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
 
-* [[!DNL Workfront] documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Esamina e approva il lavoro, Configura la verifica, Configura le integrazioni)
-* [Panoramica del profilo di autorizzazione della bozza](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
-* [Panoramica sui ruoli bozza](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
-* [Configurare l&#39;accesso di verifica di un utente](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
-* [Configurare l&#39;integrazione di Experience Manager Assets Essentials](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html){target="_blank"}
-* [Configura l&#39;integrazione di Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
+**Section 5: Reporting**
 
-**Sezione 5: Reporting**
+* [[!DNL Workfront] documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Review and approve work, Configure proofing, Configure integrations)
+* [Create a project template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
+* [Add or edit an image or other asset widget in a custom form with the legacy form builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
+* [Chart a report by a multi-select custom field](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
+* [Blueprints overview](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
 
-* [[!DNL Workfront] documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - (Esamina e approva il lavoro, Configura la verifica, Configura le integrazioni)
-* [Crea un modello di progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
-* [Aggiungi o modifica un&#39;immagine o un altro widget di risorse in un modulo personalizzato con il generatore di moduli legacy](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html){target="_blank"}
-* [Tracciare un report in base a un campo personalizzato a selezione multipla](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
-* [Panoramica blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
+**Section 6: Methodology / Best Practices / Use Cases**
 
-**Sezione 6: Metodologia / Best Practice / Casi D&#39;Uso**
+* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} - (Integration with Adobe [!DNL Workfront])
+* [[!DNL Workfront] documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (Reporting elements, Project finances, Resource utilization, Use agile planning tools in boards, Configure proofing functionality)
+* [System Admin Essentials Webinar: What IS [!DNL Workfront] Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [Configure asset metadata mapping between Adobe [!DNL Workfront] and Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
+* [About Metadata](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
+* [Use the Milestone view](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
+* [Track costs](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
-* [as a Cloud Service Adobe documentazione](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=it){target="_blank"} - (Integrazione con l&#39;Experience Manager [!DNL Workfront])
-* [[!DNL Workfront] documentazione](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} (elementi di reporting, finanze del progetto, utilizzo delle risorse, utilizzo degli strumenti di pianificazione agile nelle bacheche, configurazione della funzionalità di verifica)
-* [Webinar System Admin Essentials: Cos&#39;È [!DNL Workfront] Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
-* [Configura il mapping dei metadati delle risorse tra Adobe [!DNL Workfront] e Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
-* [Informazioni sui metadati](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
-* [Utilizza la vista Milestone](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
-* [Rileva costi](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
+## Renew your certification
 
-## Rinnovare la certificazione
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the [!DNL Workfront] Core Developer renewal - AD5-829 link below.
 
-Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fai clic sul collegamento [!DNL Workfront] Core Developer RENEW - AD5-829 di seguito.
-
-* [Adobe [!DNL Workfront] Rinnovo esperti sviluppatori core - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
+* [Adobe [!DNL Workfront] Core Developer Expert renewal - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E829){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
 >[!ENDTABS]
 
-## Domande
+## Questions
 
-Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

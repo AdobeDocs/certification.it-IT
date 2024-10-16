@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -18,228 +18,234 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Il tuo Adobe di certificazione è valido per due anni. Se ti avvicini a questo periodo di due anni, è ora di rinnovare la certificazione per mantenerla attiva.
+<!--
 
-Selezionare innanzitutto il livello appropriato nella scheda seguente (Professional, Expert o Master). Quindi controlla attentamente ciò che dovrai fare per rinnovare la certificazione.
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-Assicurati di fornire un ampio periodo di tempo per completare tutti i requisiti prima della scadenza della certificazione.
-
-È importante notare che se la certificazione scade, dovrai sostenere nuovamente l&#39;esame di certificazione, che NON è gratuito.
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**Effettua prima l&#39;accesso:** I seguenti collegamenti funzioneranno **solo** dopo un **accesso riuscito** a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**Per condividere un collegamento:** Se si desidera condividere il collegamento a un esame di rinnovo o a una valutazione con un collega, collegarsi alla pagina di rinnovo generale dell&#39;esame, non all&#39;URL dell&#39;esame stesso, per evitare problemi di accesso.
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB Esperto]
+>[!TAB Expert]
 
-+++Adobe [!DNL Campaign Standard] rinnovo esperto professionista aziendale
++++Adobe [!DNL Campaign Standard] Business Practitioner expert renewal
 
-Al momento dovresti essere certificato (non scaduto) in:
+You should be currently certified (not expired) in:
 
-* Adobe [!DNL Campaign Standard] esperto di professionisti aziendali
+* Adobe [!DNL Campaign Standard] Business Practitioner expert
 
-## Istruzioni per il rinnovo della certificazione:
+## Instructions for renewing your certification:
 
-* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
-* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: superare l&#39;esame
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Preparati
+### Get ready
 
-**Dettagli esame:**
+**Exam details:**
+  
+* Passing Score: 23/30
+* Time: 110 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
+* Exam ID: AD5-E822
 
-* Punteggio minimo: 23/30
-* Tempo: 110 minuti
-* Costo: GRATUITO/non protetto
-* Consegna: on-demand
-* Lingue disponibili: inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Standard] Certificazione esperto di professionisti aziendali
-* ID esame: AD5-E822
+**Scope and objectives**
 
-**Ambito e obiettivi**
+Section 1: Campaign management
 
-Sezione 1: Gestione delle campagne
+* Organize hierarchies based on a given use case
+* Given sample business requirements, determine what can be fulfilled by OOTB features
+* Given a scenario, apply best practices to design a multi- or cross-channel campaign
+* Identify channels (push notification, email, SMS, direct mail, in-app) in [!DNL Campaign Standard]
 
-* Organizzare gerarchie in base a un determinato caso d’uso
-* Dati i requisiti aziendali di esempio, determinare cosa può essere soddisfatto dalle funzioni OOTB
-* Considerato uno scenario, applica le best practice per progettare una campagna multicanale o cross-channel
-* Identificare i canali (notifica push, e-mail, SMS, direct mailing, in-app) in [!DNL Campaign Standard]
+Section 2: Delivery management
 
-Sezione 2: Gestione della consegna
+* Given sample requirements, design and configure a delivery
+* Apply best practices in delivery design
 
-* Dati i requisiti di esempio, progetta e configura una consegna
-* Applicare le best practice nella progettazione della consegna
+Section 3: Workflow design and execution
 
-Sezione 3: Progettazione ed esecuzione dei flussi di lavoro
+* Manipulate data for use in a campaign, configure targeting, enrichment
+* Identify targets: data collection, segmentation, audiences, lists, filtering
+* Given a use case, identify the use of the main marketing-related tables
 
-* Manipolare i dati da utilizzare in una campagna, configurare il targeting e l’arricchimento
-* Identificare i target: raccolta di dati, segmentazione, tipi di pubblico, elenchi, filtro
-* Dato un caso di utilizzo, identifica l’utilizzo delle principali tabelle relative al marketing
+Section 4: Administration, monitoring and reporting
 
-Sezione 4: amministrazione, monitoraggio e relazioni
+* Interpret delivery error logs and identify and solve workflow errors
+* Determine and measure the success of deliveries and campaigns
+* Recognize access and named rights
 
-* Interpretare i registri di errore di consegna e identificare e risolvere gli errori del flusso di lavoro
-* Determinare e misurare il successo di consegne e campagne
-* Riconoscere l’accesso e i diritti denominati
+## Get prepped
 
-## Preparati
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+Here are some suggested resources to help you prepare:
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+**Section 1: Campaign management**
 
-**Sezione 1: Gestione campagne**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
 
-* [Adobe [!DNL Campaign Standard] Documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it){target="_blank"} (utilizzo di attività di marketing, creazione di contenuti e-mail, canali di comunicazione, consegne, configurazione di canali)
+**Section 2: Delivery management**
 
-**Sezione 2: Gestione delle consegne**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (building email content, preparing and testing messages, communication channels -- email, application settings)
 
-* [Adobe [!DNL Campaign Standard] Documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it){target="_blank"} (creazione di contenuti e-mail, preparazione e verifica dei messaggi, canali di comunicazione, e-mail, impostazioni dell&#39;applicazione)
+**Section 3: Workflow design and execution**
 
-**Sezione 3: progettazione ed esecuzione del flusso di lavoro**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
 
-* [Adobe [!DNL Campaign Standard] Documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it){target="_blank"} (gestione di processi e dati, gestione di tipi di pubblico, pianificazione dei messaggi, aggiunta o estensione di una risorsa)
+**Section 4: Administration, monitoring, and reporting**
 
-**Sezione 4: amministrazione, monitoraggio e reporting**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (executing a workflow, testing and sending, customizing reports, profiles and audiences, users and security)
 
-* [Adobe [!DNL Campaign Standard] Documentazione](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=it){target="_blank"} (esecuzione di un flusso di lavoro, verifica e invio, personalizzazione di report, profili e pubblico, utenti e sicurezza)
+## Renew your certification
 
-## Rinnovare la certificazione
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your exam click the [!DNL Campaign Standard] Business Practitioner renewal - AD5-822 link below. 
 
-Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare l&#39;esame, fare clic sul collegamento [!DNL Campaign Standard] rinnovo Business Practitioner - AD5-822 di seguito.
-
-* [[!DNL Campaign Standard] Rinnovo Business Practitioner - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
+* [[!DNL Campaign Standard] Business Practitioner renewal - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe [!DNL Campaign Standard] rinnovo esperti sviluppatori
++++Adobe [!DNL Campaign Standard] Developer expert renewal
 
-Al momento dovresti essere certificato (non scaduto) in:
+You should be currently certified (not expired) in:
 
-* Adobe [!DNL Campaign Standard] esperto di sviluppatori
+* Adobe [!DNL Campaign Standard] Developer expert
 
-## Istruzioni per il rinnovo della certificazione:
+## Instructions for renewing your certification:
 
-* **Passaggio 1**: accesso riuscito a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, quindi ritorno a questa pagina
-* **Passaggio 2**: rivedere gli obiettivi e le risorse dell&#39;esame
-* **Passaggio 3**: superare l&#39;esame
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### Preparati
+### Get ready
 
-**Dettagli esame:**
+**Exam details:**
+  
+* Passing Score: 23/30
+* Time: 60 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
+* Exam ID: AD5-E821
 
-* Punteggio minimo: 23/30
-* Tempo: 60 minuti
-* Costo: GRATUITO/non protetto
-* Consegna: on-demand
-* Lingue disponibili: inglese
-* Prerequisito: Adobe corrente (non scaduto) [!DNL Campaign Standard] Certificazione Developer Expert
-* ID esame: AD5-E821
+**Scope and objectives**
 
-**Ambito e obiettivi**
+Section 1: Data Modeling and Management (30%)
 
-Sezione 1: Modellazione e gestione dei dati (30%)
+* Apply the process to utilize the API interface across different use cases
+* Apply the process to create a custom resource
+* Determine the correct strategy to assign data model best practices
+* Recommend an approach for using an import or export workflow
 
-* Applicare il processo per utilizzare l’interfaccia API in diversi casi d’uso
-* Applicare il processo per creare una risorsa personalizzata
-* Determinare la strategia corretta per assegnare le best practice per i modelli di dati
-* Consigliare un approccio per l’utilizzo di un flusso di lavoro di importazione o esportazione
+Section 2: Campaign Management (40%)
 
-Sezione 2: Campaign Management (40%)
+* Given a scenario, identify the event trigger
+* Explain the reconciliation process
+* Configure a custom report for a delivery
+* Determine the correct approach to configure communication channels (real-time and non-real time)
+* Describe the process to configure and personalize a landing page
+* Given a scenario, troubleshoot workflow errors and integrations
+* Identify use cases for new Campaign features
 
-* Dato uno scenario, identifica il trigger dell’evento
-* Spiegare il processo di riconciliazione
-* Configurare un rapporto personalizzato per una consegna
-* Determinare l’approccio corretto per configurare i canali di comunicazione (in tempo reale e non)
-* Descrivere il processo di configurazione e personalizzazione di una pagina di destinazione
-* Dato uno scenario, risolvi gli errori e le integrazioni dei flussi di lavoro
-* Identificare i casi d’uso per le nuove funzioni di Campaign
+Section 3: Administration (30%)
 
-Sezione 3: somministrazione (30%)
+* Configure privacy management
+* Identify the list of activities to delegate a subdomain to Adobe (including brand configuration)
+* Describe the features of the Control Panel
+* Analyze the configuration for Campaign to access external SFTP
+* Describe the benefits of integration between Adobe Campaign and the broader Adobe Experience Cloud
+* Apply the process to import and export a configuration package
+* Recommend the process to manage user access and permissions, or organizational structure
 
-* Configurare la gestione della privacy
-* Identifica l’elenco di attività per delegare un sottodominio ad Adobe (inclusa la configurazione del brand)
-* Descrizione delle caratteristiche del Pannello di controllo Campaign
-* Analizzare la configurazione di Campaign per accedere a SFTP esterno
-* Descrivere i vantaggi dell’integrazione tra Adobe Campaign e Adobe Experience Cloud in generale
-* Applicare il processo per importare ed esportare un pacchetto di configurazione
-* Consigliare il processo per gestire l’accesso e le autorizzazioni degli utenti o la struttura organizzativa
+## Get prepped
 
-## Preparati
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Non è necessario completare la formazione prima di sostenere l&#39;esame, e la formazione da sola non fornirà le conoscenze e le competenze necessarie per superare l&#39;esame. Una combinazione di formazione e di esperienza sul posto di lavoro di successo è fondamentale per fornire l&#39;archivio necessario per superare l&#39;esame.
+Here are some suggested resources to help you prepare:
 
-Di seguito sono riportate alcune risorse consigliate per la preparazione:
+**Section 1: Data modeling and management**
 
-**Sezione 1: modellazione e gestione dei dati**
+* [Create a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [Creating or extending the resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [Configuring a screen definition for a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [Configure the screen definition](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Linking custom resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [Configuring the resource's data structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
+* [Approval process](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [Updating the database structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [Technical workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html){target="_blank"}
 
-* [Crea una risorsa personalizzata](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
-* [Creazione o estensione della risorsa](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
-* [Configurazione della definizione dello schermo per una risorsa personalizzata](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
-* [Configura la definizione dello schermo](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
-* [Collegamento di risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
-* [Configurazione della struttura dati della risorsa](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
-* [Processo di approvazione](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [Aggiornamento della struttura del database](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
-* [Flussi di lavoro tecnici](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=it){target="_blank"}
+**Section 2: Campaign Management**
 
-**Sezione 2: Campaign Management**
+* [Programs and campaigns](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html){target="_blank"}
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html){target="_blank"}
+* [Programs and campaigns](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html){target="_blank"}
+* [Get started with profiles and audiences](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [About typologies and typology rules](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [Filtering rules](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [Marketing activity templates](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [Configuring a landing page](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [Subscription Services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Key steps to send a message](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [Track and monitor](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Delivery summary](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Get started with dynamic reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
-* [Programmi e campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=it){target="_blank"}
-* [Best practice per i flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=it){target="_blank"}
-* [Programmi e campagne](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=it){target="_blank"}
-* [Introduzione a profili e pubblico](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
-* [Informazioni su tipologie e regole di tipologia](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
-* [Regole di filtro](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
-* [Modelli di attività di marketing](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
-* [Configurazione di una pagina di destinazione](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
-* [Servizi di abbonamento](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
-* [Passaggi chiave per inviare un messaggio](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
-* [Traccia e monitora](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [Riepilogo consegne](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [E-mail campagna Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
-* [Introduzione al reporting dinamico](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+**Section 3: Administration**
 
-**Sezione 3: Amministrazione**
-
-* [Gestione di gruppi e utenti](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
-* [Unità organizzative](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
-* [Gestione dei pacchetti](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [Esportazione/importazione di risorse personalizzate](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
-* [Account esterni](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
-* [Gestione delle opzioni di esecuzione](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=it){target="_blank"}
-* [Monitoraggio dell&#39;esecuzione del flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
-* [Marchio](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
-* [Informazioni sulla configurazione dei canali](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [Introduzione ai canali di comunicazione](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
+* [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
+* [Organizational units](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Exporting / importing custom resources](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
+* [External accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
+* [Managing execution options](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html){target="_blank"}
+* [Monitoring workflow execution](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
+* [Branding](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
+* [About channel configuration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Get started with communication channels](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 
-## Rinnovare la certificazione
+## Renew your certification
 
-Verificare di aver eseguito il passaggio 1 riportato sopra e di aver eseguito correttamente l&#39;accesso a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Quindi, per rinnovare la certificazione, fai clic sul collegamento [!DNL Campaign Standard] Developer RENEW - AD5-821 di seguito.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the [!DNL Campaign Standard] Developer renewal - AD5-821 link below.
 
-* [[!DNL Campaign Standard] Rinnovo sviluppatore - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
+* [[!DNL Campaign Standard] Developer renewal - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
->Questo esame è gratuito, libro aperto e non protetto. Puoi sostenere l&#39;esame fino a tre volte. Se dopo il terzo tentativo non riesci, attendi **30 giorni** per riprovare. Il mancato rispetto di questa impostazione potrebbe comportare la revoca della certificazione.
+>This exam is free, open book, and non-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
 >[!ENDTABS]
 
-## Domande
+## Questions
 
-Hai una domanda sulla certificazione Adobe? [Contattaci](mailto:certif@adobe.com).
+Have a question about Adobe Certification? [Contact us](mailto:certif@adobe.com).
 
-Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+
+-->
+
+{{questions}}

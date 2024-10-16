@@ -1,7 +1,7 @@
 ---
-source-git-commit: db72e72c2b642102d1ecb991df04138e6bd7f630
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '2012'
 ht-degree: 0%
 
 ---
@@ -252,6 +252,16 @@ La guida gratuita per la preparazione degli esami offre un percorso personalizza
 
 ## Rinnovi in attesa {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->Il programma di certificazione delle esperienze digitali Adobe sarà presto oggetto di modifiche. Se stai rinnovando la certificazione, tieni presente che **13 ottobre 2024 è l&#39;ultima data utile per completare il rinnovo.**
+>L’Adobe del programma di certificazione dell’esperienza digitale semplifica la procedura di rinnovo della certificazione per rendere la tua esperienza più pratica. Durante l&#39;implementazione di questo nuovo processo, **i rinnovi sono temporaneamente in attesa.**
+>
+>* Per coloro le cui certificazioni scadono tra il 14 ottobre 2024 e il 30 settembre 2025, la certificazione verrà prorogata fino al 1° ottobre 2025.
+>
+>* I dettagli relativi al processo di rinnovo aggiornato saranno condivisi all’inizio di marzo, garantendo che tutti i titolari di certificazioni abbiano il tempo necessario per rinnovare le loro certificazioni.
+
+<!--divider-->
+
+## Domande {#questions}
+
+**Domande?** [Contattaci](mailto:certif@adobe.com)

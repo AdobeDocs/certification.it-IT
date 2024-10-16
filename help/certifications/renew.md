@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -16,27 +16,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Per mantenere la certificazione Adobe, devi rinnovarla ogni 2 anni. Se non rinnovi la certificazione prima della scadenza, dovrai sostenere di nuovo l’esame di certificazione completo per ottenere la nuova certificazione.
+<!--
 
-Visualizza le certificazioni correnti e scadute nella scheda **Certificazioni** del [Adobe di gestione delle credenziali](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+To maintain your Adobe certification, you must renew it every 2 years. If you do not renew your certification before it expires, you will need to take the full certification exam again to become re-certified.
 
-## Come posso rinnovare la certificazione?
+View your current and expired certifications under the **Certifications** tab, in the [Adobe Credential Management system](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
-Rinnovare la certificazione di Adobe è facile! A seconda della certificazione di cui si è titolari, si completa il rinnovo lavorando attraverso attività di apprendimento continuo e superando le valutazioni, o superando un esame di ruolo on-demand non protetto.
+## How do I renew my certification?
 
-## Risorse di studio
+Renewing your Adobe certification is easy! Depending on which certification you hold, you will complete your renewal by working through continuous learning activities and passing assessments, or by passing a non-proctored, on-demand job role exam. 
 
-Con il supporto di Adobe, rinnovare una certificazione Adobe Experience Cloud è un processo semplice che ti consente di mantenere le tue competenze e rimanere competitivo nel mercato digitale.
+## Study resources
 
-Adobe offre diverse risorse e strumenti per aiutarti a rinnovare la certificazione, tra cui:
+With Adobe's support, renewing an Adobe Experience Cloud Certification is a straightforward process that enables you to maintain your expertise and stay competitive in the digital marketplace.
 
-* Accesso ai corsi online
-* Tutorial
-* Materiale dello studio
+Adobe offers various resources and tools to help you renew your certification, including:
 
-## Quanto costa?
+* Access to online courses
+* Tutorials
+* Study materials
 
-La maggior parte delle certificazioni può essere rinnovata **gratuitamente**. Alcune certificazioni non dispongono ancora di un’opzione di rinnovo gratuito. Per rinnovare tali certificazioni, dovrai sostenere nuovamente l’esame di certificazione completo.
+## How much does it cost?
+
+Most certifications can be renewed **free of charge**. Some certifications do not yet have a free renewal option. To renew those certifications, you will need to retake the full certification exam.
 
 <!-- 
 
@@ -61,8 +63,4 @@ The certifications found under the links below can be renewed for free, either t
 
 -->
 
-## Domande
-
-Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
+{{questions}}

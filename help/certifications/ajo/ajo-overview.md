@@ -3,9 +3,9 @@ title: Panoramica certificazione Journey Optimizer
 description: Panoramica delle opzioni di certificazione per Adobe Journey Optimizer
 solution: Journey Optimizer
 exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '20'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,5 @@ ht-degree: 0%
 
 * [Sviluppatore](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-Visita la pagina [Rinnova la certificazione](/help/certifications/renew.md) per verificare se è disponibile un&#39;opzione di rinnovo per questo prodotto.
+{{questions}}
+

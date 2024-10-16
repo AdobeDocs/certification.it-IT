@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="Esame AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: ef8afa56b9e78e616f7949f302526e258721518b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,7 @@ ht-degree: 0%
 
 {{intro}}
 
->[!NOTE]
->
->Sono ora disponibili risorse gratuite on-demand per aiutarti a preparare il tuo esame:
->
->* **Corso:** Se stai iniziando da poco o se hai bisogno di un aggiornamento, segui il [Corso sulle nozioni di base di Adobe Experience Platform](https://app.rockinfo.com/courses/216) per accedere alle spiegazioni dei concetti chiave, alle procedure dettagliate sui prodotti e ai controlli di conoscenza. Questo corso fornisce una base di conoscenze su cui puoi basarti nel tuo percorso di certificazione.
->
->* **Guida alla preparazione degli esami:** La [Guida alla preparazione degli esami](https://app.rockinfo.com/courses/133) fornisce un percorso personalizzato attraverso il processo di preparazione degli esami di certificazione, inclusi i materiali necessari per ottenere questa certificazione.
->
->_Se ti viene richiesto di effettuare l&#39;accesso, utilizza il tuo Adobe ID._
-
-## Descrizione esame {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### Dettagli esame {#exam-details}
+## Dettagli esame {#exam-details}
 
 * Livello: professionale (0-12 mesi di esperienza)
 * Punteggio minimo: 33/50
@@ -45,166 +29,4 @@ ht-degree: 0%
 * Costo: $125 (globale) / $95 (India)
 * ID esame: AD0-E602
 
-<br>
-
-### Pubblico previsto {#intended-audience}
-
-* Consulente soluzioni
-* Analista dati
-* Marketing Manager
-* Analista marketing di Campaign
-* Analista aziendale
-* Gestione campagne
-* Consulente CDP
-* Consulente conversione/ottimizzazione
-* Proprietario prodotto marketing
-* Analista marketing
-
-<br>
-
-### Esperienza minima {#minimum-experience}
-
-Dovresti avere:
-
-* Esperienza con uno o più ambienti Real-Time CDP
-* Familiarità con gli stack di tecnologie di marketing digitale e varie integrazioni di piattaforme
-* Comprensione dei flussi di dati (tipi di ID, sincronizzazioni ID, tipi di pubblico, segmenti, modelli di dati)
-* 6-12 mesi di esperienza nella creazione e attivazione di tipi di pubblico tramite CDP
-
-Esperienza con attività che includono:
-
-* Creazione di tipi di pubblico in Real-Time CDP (segmenti) mappatura di tali tipi di pubblico su destinazioni (attivazione)
-* Informazioni e applicazione dei concetti di unione profili, funzionamento dell’unione dati in Real-Time CDP
-* Navigazione nell’interfaccia utente
-* Informazioni sui criteri (DULE) e relativa applicazione
-* Concetti degli spazi dei nomi e dei grafici delle identità
-* Comprendere le funzionalità di alto livello di AEP e dei suoi servizi
-* Configurazione di nuove destinazioni
-
-<br>
-
-### Obiettivi e ambito dell&#39;esame {#exam-objectives}
-
-{{exam-objectives}}
-
-**Sezione 1: Segmenti e attivazione (32%)**
-
-* Creare un segmento e attivarlo nella destinazione
-* Configurare nuove destinazioni
-* Applicare i concetti necessari per eseguire il targeting delle identità nelle destinazioni
-* Identificare le mappature degli attributi e la pianificazione dei segmenti nella destinazione
-
-**Sezione 2: Privacy e governance dei dati (20%)**
-
-* Dimostrare una comprensione delle politiche DULE e del loro impatto sulla disponibilità dei dati nelle destinazioni
-* Garantire il rispetto delle misure relative alla privacy e alla conformità dei dati
-
-**Sezione 3: analisi aziendale (30%)**
-
-* Identificare i casi d’uso che si ricollegano ai KPI aziendali
-* Eseguire l’analisi dei dati sui segmenti dei clienti in Platform
-* Dimostrare una comprensione dei concetti del flusso di dati
-
-**Sezione 4: Schemi e profili (18%)**
-
-* Dimostrare la comprensione dei concetti dell&#39;Adobe [!DNL Experience Platform]
-* Utilizzare le funzioni del profilo
-
-<br>
-
-## Come ottenere la certificazione {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++Passaggio 1: creare l’account
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++Passaggio 2: Prepararsi per l&#39;esame con questi materiali di studio gratuiti
-
-**Materiale studio**
-
-{{study-materials-intro}}
-
-**Segui un corso**
-
-{{take-course}}
-
-<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Segui il corso sui fondamenti di Adobe Experience Platform
-</span>
-</a>
-
-**Esegui un test dell&#39;esercitazione**
-
-{{practice-test}}
-
-**Guida alla preparazione degli esami**
-
-{{exam-prep-guide}}
-
-[Visualizza guida preparazione esami](https://app.rockinfo.com/courses/133)
-
-
-+++
-
-<br>
-
-+++Passaggio 3: Programmazione e pagamento dell&#39;esame
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++Passaggio 4: prima e dopo l&#39;esame
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++Passaggio 5: sostenere l&#39;esame
-
-{{about-certification-exam}}
-
-## Programmare o sostenere l&#39;esame AD0-E602
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Vai al portale di esempio
-</span>
-</a>
-
-+++
-
-<br>
-
-+++Passaggio 6: gestire i badge
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## Rinnovo della certificazione
-
-{{renewing-intro}}
-
-<br>
-
-## Domande
-
-Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
+{{questions}}
