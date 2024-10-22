@@ -6,26 +6,89 @@ product: Experience Manager
 role: Developer
 badge: label="Esame AD0-E134" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: true
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
 
 # Percorso di certificazione per l&#39;Adobe [!DNL Experience Manager] Sites Developer Expert
 
-{{intro}}
+>[!NOTE]
+>
+>**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
 
-## Dettagli esame {#exam-details}
+## Cosa c&#39;è nel nuovo portale di certificazione Adobe?
 
-* Livello: esperto (1-3 anni di esperienza)
-* Punteggio minimo: 26/50
-* Tempo: 100 minuti
-* Distribuzione: online protetta (richiede l&#39;accesso alla fotocamera)
-* Lingue disponibili: inglese, giapponese
-* Costo: $225 (globale) / $150 (India)
-* ID esame: AD0-E134 (inglese), AD0-E134-J (giapponese)
+Tutto quello che una volta trovavi su questa pagina e altro ancora!
+
+* Pianificazione degli esami
+* Dettagli esame
+* Risorse di studio
+* Test pratici
+* Convalida e condivisione dei badge
+* Nuovi corsi di formazione tecnica
+* Il nuovo Adobe della Digital Experience Community
+* Una nuova dashboard interattiva per monitorare e condividere l’attività di corso e certificazione
+
+## Domande frequenti
+
+### Da dove inizio?
+
+[Accedi oggi](https://certification.adobe.com/){target="_blank"} e verifica i dati del tuo profilo.
+
+Quindi, esplora i nostri [corsi](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certificazioni](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} e [dashboard personalizzabile](https://certification.adobe.com/user/dashboard){target="_blank"}.
+
+### Come faccio a programmare un esame?
+
+Ora puoi pianificare un esame sul portale di certificazione Adobe.
+
+1. Vai al [catalogo certificazioni](https://certification.adobe.com/certifications){target="_blank"}.
+2. Trova il tuo esame
+3. Vai alla scheda **Pianifica o sostenere l&#39;esame**.
+4. Nella sezione **Pianifica e paga per il tuo esame** troverai il collegamento alla pagina dell&#39;esame.
+5. Fai clic sul pulsante **Pianifica esame**.
+
+### Dove trovo la cronologia delle certificazioni?
+
+È già stata effettuata la migrazione delle certificazioni attive all&#39;[account](https://certification.adobe.com/user/certifications){target="_blank"} nel portale di certificazione Adobe. Alcuni aspetti dell’account potrebbero non essere ancora completamente popolati durante la migrazione dei dati utente rimanenti. Grazie per la vostra pazienza!
+
+### Dove trovo i miei voucher?
+
+I voucher (inclusi quelli trasferiti da Xvoucher) verranno visualizzati nel [tuo account](https://certification.adobe.com/user/purchases){target="_blank"} sul portale di certificazione Adobe.
+
+### Dov&#39;è il mio distintivo di certificazione?
+
+Il badge è ora disponibile sul portale di certificazione Adobe.
+
+1. Vai a **Il mio account** > [Risultati](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Trova il widget **Certificazioni attive**.
+
+* Per visualizzare la pagina di verifica del badge, fai clic sul pulsante **Condividi**. Da quella pagina, puoi condividere sui social media.
+
+* Per scaricare il tuo badge, fai clic sull&#39;**immagine miniatura del badge**.
+
+### Domande?
+
+Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [Domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nostre nuove funzioni!
+
+<!-- 
+
+## Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 26/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E134 (English), AD0-E134-J (Japanese)
 
 {{questions}}
+
+-->
