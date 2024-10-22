@@ -3,9 +3,9 @@ title: Panoramica certificazione Journey Optimizer
 description: Panoramica delle opzioni di certificazione per Adobe Journey Optimizer
 solution: Journey Optimizer
 exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '22'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 **Professionista**
 
-* [Professionista](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
+* [Professionista](https://certification.adobe.com/certification/aem-business-practitioner-professional)<!--AD0-E607-->
 
 **Esperto**
 
-* [Sviluppatore](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
+* [Sviluppatore](https://certification.adobe.com/certification/journey-optimizer-developer-expert) <!--AD0-E606-->
 
 {{questions}}
 
