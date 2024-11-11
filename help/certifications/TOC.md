@@ -2,7 +2,7 @@
 user-guide-title: Certificazione in Adobe
 breadcrumb-title: Certificazione in Adobe
 user-guide-description: Scopri di più sulla certificazione  [!DNL Experience Cloud] Adobe. Scopri cosa vuol dire ottenere una certificazione.
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -34,12 +34,6 @@ ht-degree: 28%
       + Master {#aa-master}
          + [Architetto](/help/certifications/aa/aa-m-architect.md)
       + [Rinnovo](/help/certifications/aa/aa-renew.md)
-   + Adobe [!DNL Customer Journey Analytics] {#acja}
-      + [Panoramica del Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
-      + Professionale {#acja-professional}
-         + [Professionista](/help/certifications/acja/acja-p-business.md)
-      + Esperto {#acja-expert}
-         + [Sviluppatore](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
       + [Panoramica di Audience Manager](/help/certifications/aam/aam-overview.md)
       + Professionale {#aam-professional}
@@ -79,6 +73,12 @@ ht-degree: 28%
       + Master {#ac-master}
          + [Architetto](/help/certifications/ac/ac-m-architect.md)
       + [Rinnovo](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Customer Journey Analytics] {#acja}
+      + [Panoramica del Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+      + Professionale {#acja-professional}
+         + [Professionista](/help/certifications/acja/acja-p-business.md)
+      + Esperto {#acja-expert}
+         + [Sviluppatore](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Document Cloud] {#adc}
       + [Panoramica del Document Cloud](/help/certifications/adc/adc-overview.md)
       + Professionale {#adc-professional}
@@ -101,6 +101,13 @@ ht-degree: 28%
       + Master {#aem-master}
          + [Architetto (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
       + [Rinnovo](/help/certifications/aem/aem-renew.md)
+   + Adobe [!DNL Journey Optimizer] {#ajo}
+      + [Panoramica di Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+      + Professionale {#ajo-professional}
+         + [Professionista](/help/certifications/ajo/ajo-p-business.md)
+      + Esperto {#ajo-expert}
+         + [Sviluppatore](/help/certifications/ajo/ajo-e-developer-23-10.md)
+      + [Rinnovo](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
       + [Panoramica del Marketo Engage](/help/certifications/ame/ame-overview.md)
       + Professionale {#ame-professional}
@@ -117,13 +124,6 @@ ht-degree: 28%
       + Esperto {#rtcdp-expert}
          + [Sviluppatore](/help/certifications/rtcdp/rtcdp-e-developer.md)
       + [Rinnovo](/help/certifications/rtcdp/rtcdp-renew.md)
-   + Adobe [!DNL Journey Optimizer] {#ajo}
-      + [Panoramica di Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
-      + Professionale {#ajo-professional}
-         + [Professionista](/help/certifications/ajo/ajo-p-business.md)
-      + Esperto {#ajo-expert}
-         + [Sviluppatore](/help/certifications/ajo/ajo-e-developer-23-10.md)
-      + [Rinnovo](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
       + [Panoramica di Target](/help/certifications/at/at-overview.md)
       + Professionale {#at-professional}
