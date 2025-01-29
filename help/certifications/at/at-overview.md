@@ -3,14 +3,16 @@ title: Panoramica della certificazione di Target
 description: Panoramica delle opzioni di certificazione per Adobe Target
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Panoramica certificazione [!DNL Adobe Target]
+
+Seleziona il livello e la mansione per trovare i dettagli dell’esame di certificazione, accedere alle risorse di studio e pianificare l’esame. Puoi anche esplorare il [catalogo completo delle certificazioni](https://certification.adobe.com/certifications){target="_blank"} e i [corsi di formazione tecnica](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Professionista**
 
