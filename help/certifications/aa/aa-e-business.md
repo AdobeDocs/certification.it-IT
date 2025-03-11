@@ -8,7 +8,7 @@ badge: label="Esame AD0-E208" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
 
-## Cosa c&#39;è nel nuovo portale di certificazione Adobe?
+## Cosa contiene il nuovo portale di certificazione Adobe?
 
 Tutto quello che una volta trovavi su questa pagina e altro ancora!
 
@@ -31,7 +31,7 @@ Tutto quello che una volta trovavi su questa pagina e altro ancora!
 * Test pratici
 * Convalida e condivisione dei badge
 * Nuovi corsi di formazione tecnica
-* Il nuovo Adobe della Digital Experience Community
+* La nuova community Adobe Digital Experience
 * Una nuova dashboard interattiva per monitorare e condividere l’attività di corso e certificazione
 
 ## Domande frequenti
@@ -75,4 +75,4 @@ Il badge è ora disponibile sul portale di certificazione Adobe.
 
 Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [Domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nostre nuove funzioni!
+Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nuove funzioni.
