@@ -145,7 +145,7 @@ ht-degree: 28%
       + [Rinnovo](/help/certifications/aw/aw-renew.md)
    + [Esami qualificati forniti da ADLS](https://learning.adobe.com/certification/credentials)
 + [Domande frequenti](faq.md)
-+ {#hidden} nascosto
++ nascosto{#hidden}
    + [Verifica idoneità riavvio certificazione](exam-eligibility-check.md)
    + [Panoramica di Experience Platform](/help/certifications/aep/aep-overview.md)
    + [Developer)](/help/certifications/aep/aep-e-foundations.md)
