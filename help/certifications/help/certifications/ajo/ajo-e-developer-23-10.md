@@ -151,7 +151,7 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 **Sezione 5: Modellazione dati**
 
 * [Guida di AJO, configurazione, tipi di pubblico, profili e identità, gestione dati](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Experience Platform, Set di dati, Guida ai connettori di Source, Tutorials API, Guida al servizio Platform Identity, Interfaccia utente di segmentazione, Tutorials dell&#39;interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
+* [Experience Platform, Set di dati, Guida ai connettori di Source, Tutorials API, Guida al servizio Platform Identity, Interfaccia utente di segmentazione, Tutorials dell&#39;interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
 
 +++
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 
 ## Domande
 
-Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=it){target="_blank"}.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).

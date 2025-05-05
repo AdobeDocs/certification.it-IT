@@ -110,7 +110,7 @@ Questi passaggi ti guidano attraverso il processo di certificazione dall’inizi
 >
 > **È richiesto un documento ufficiale:** È NECESSARIO utilizzare un documento ufficiale come documento valido. Non sono consentite copie programmate o ID digitali. <br><br> **Nome account Adobe ID:** Il nome dell&#39;account Adobe ID DEVE corrispondere al tuo nome nell&#39;ID governativo. Per aggiornare il nome dell&#39;account Adobe ID, inviare un messaggio di posta elettronica a <certif@adobe.com>. Richiedi questa correzione con **72 ore di anticipo**. Se i nomi non corrispondono al momento dell&#39;esame, dovrai iscriverti a un nuovo esame a un costo aggiuntivo.
 
-Devi avere un Adobe ID per programmare e sostenere il tuo esame. Se non hai un Adobe ID, puoi crearne uno [qui](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+Devi avere un Adobe ID per programmare e sostenere il tuo esame. Se non hai un Adobe ID, puoi crearne uno [qui](https://helpx.adobe.com/it/manage-account/using/create-update-adobe-id.html).
 
 È necessario disporre di un Adobe ID per tre motivi:
 
@@ -278,7 +278,7 @@ Il tuo badge è una prova tangibile della tua esperienza con i prodotti Adobe Ex
 
 ## Rinnovo della certificazione {#renewing-intro}
 
-Le certificazioni scadono dopo due anni. Per mantenere la certificazione, devi rinnovarla prima della scadenza. Visita la pagina [Rinnova la certificazione](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} per ulteriori informazioni.
+Le certificazioni scadono dopo due anni. Per mantenere la certificazione, devi rinnovarla prima della scadenza. Visita la pagina [Rinnova la certificazione](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=it){target="_blank"} per ulteriori informazioni.
 
 <!--divider-->
 
