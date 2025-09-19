@@ -3,7 +3,7 @@ title: Panoramica della certificazione di Target
 description: Panoramica delle opzioni di certificazione per Adobe Target
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -17,8 +17,7 @@ Seleziona il livello e la mansione per trovare i dettagli dell’esame di certif
 **Professionista**
 
 * [Professionista certificato](https://certification.adobe.com/certification/target-business-practitioner-professional){target="_blank"} <!--AD0-E408-->
-* [Specialista di ottimizzazione](https://certification.adobe.com/certification/optimization-specialist-professional) (tieni presente che questa certificazione non viene considerata in base ai requisiti del partner).
-  {target="_blank"} <!--AD0-E410-->
+* [Specialista di ottimizzazione](https://certification.adobe.com/certification/optimization-specialist-professional){target="_blank"} (tieni presente che questa certificazione non viene considerata in base ai requisiti del partner) <!--AD0-E410-->
 
 **Esperto**
 
