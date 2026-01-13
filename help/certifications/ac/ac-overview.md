@@ -4,9 +4,9 @@ description: Panoramica delle opzioni di certificazione per Adobe Commerce
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 6c33aabd08ab72f3f1f902a1f85b459f97ad1751
+source-git-commit: 1a3804183a638bb5e5d1eb999d752e102f67f4a2
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,7 @@ Seleziona il livello e la mansione per trovare i dettagli dell’esame di certif
 
 * [Professionista](https://certification.adobe.com/certification/business-practitioner-professional){target="_blank"} <!--AD0-E712-->
 * [Sviluppatore](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
-* [Sviluppatore front-end - NUOVO](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
-* [Sviluppatore front-end - Scade il 10 gennaio 2026](https://certification.adobe.com/certification/front-end-developer-professional){target="_blank"} <!--AD0-E721-->
+* [Sviluppatore front-end](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
 
 **Esperto**
 
