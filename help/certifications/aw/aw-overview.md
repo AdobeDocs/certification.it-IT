@@ -3,9 +3,9 @@ title: Panoramica certificazione Workfront
 description: Panoramica delle opzioni di certificazione per Adobe Workfront
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: f2f470a40056cbcf5052262de12cd5f490514ab7
+source-git-commit: 5a731d7198970cc5857ad0a7342a82178511094a
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,7 @@ _Le credenziali qualificate non sono certificazioni._
 **Professionista**
 
 * [Sviluppatore (Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
-* [Project Manager - NUOVO](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
-* [Project Manager - Scade il 17 gennaio 2026](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
+* [Project Manager](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
 * [Sviluppatore (Core) - NUOVO](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
 * [Sviluppatore (Core) - Scade il 31 gennaio 2026](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
 
