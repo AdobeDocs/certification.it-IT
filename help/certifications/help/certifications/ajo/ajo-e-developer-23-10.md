@@ -1,26 +1,26 @@
 ---
 title: Certificazione esperto
-description: Scopri come diventare un Adobe certificato [!DNL Journey Optimizer] Sviluppatore esperto.
+description: Scopri come diventare un Adobe [!DNL Journey Optimizer] Developer Expert certificato.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
 
-# Percorso di certificazione per Adobe [!DNL Journey Optimizer] sviluppatore esperto
+# Percorso di certificazione per Adobe [!DNL Journey Optimizer] Developer Expert
 
 {{intro}}
 
 >[!NOTE]
 >
->Questo è l&#39;ultimo Adobe dell&#39;esame per sviluppatori [!DNL Journey Optimizer] (AD0-E606). Se hai già iniziato a studiare o hai pianificato la [versione precedente](ajo-e-developer.md), devi completarla entro il 22 dicembre 2023.
+>Questo è l&#39;ultimo esame Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E606).
 
 
 ## Descrizione esame {#exam-description}
@@ -53,7 +53,7 @@ ht-degree: 1%
 * Responsabile delle decisioni
 * Sviluppatore di Campaign
 * Consulente di recapito messaggi
-* Specialista della segmentazione RTCDP
+* Specialista della segmentazione di RTCDP
 * Architetto della campagna
 * Specialista del Percorso del cliente
 * Sviluppatore mobile/Sviluppatore web
@@ -87,7 +87,7 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 * Dato uno scenario, determina i casi d’uso appropriati per un tipo di percorso
 * Preparare i casi di prova (ad esempio sperimentazione o percorso multicanale)
 
-**Sezione 3: Offer decisioning (16%)**
+**Sezione 3: Offer Decisioning (16%)**
 
 * Dimostrare di avere familiarità con la creazione e la gestione di offerte e componenti
 * Dimostrare come utilizzare i profili di test per eseguire la simulazione delle offerte
@@ -131,7 +131,7 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 
 **Sezione 1: Amministrazione e configurazione**
 
-* [Experience Platform, Controllo di accesso, Guida Sandbox](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=it){target="_blank"}
+* [Experience Platform, controllo degli accessi, guida alle sandbox](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=it){target="_blank"}
 * [Guida di AJO, Configurazione, Canale SMS, Percorsi](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 * [API di AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
@@ -139,25 +139,25 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 
 * [Guida di AJO, Percorsi, espressioni, traccia e monitora](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
-**Sezione 3: Offer decisioning**
+**Sezione 3: Offer Decisioning**
 
 * [Guida di AJO, gestione delle decisioni, riferimento API](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
 **Sezione 4: authoring dei contenuti**
 
 * [Guida di AJO, canale SMS, privacy, configurazione, Percorsi, espressioni, gestione dei contenuti, traccia e monitoraggio, canale di notifica push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Tutorials Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
+* [Tutorial su Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
 
 **Sezione 5: Modellazione dati**
 
-* [Guida di AJO, configurazione, tipi di pubblico, profili e identità, gestione dati](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Experience Platform, Set di dati, Guida ai connettori di Source, Tutorials API, Guida al servizio Platform Identity, Interfaccia utente di segmentazione, Tutorials dell&#39;interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
+* [Guida di AJO, configurazione, tipi di pubblico, profili e identità, gestione dei dati](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Experience Platform, Dataset, Guida ai connettori Source, Tutorial API, Guida al servizio Platform Identity, Interfaccia utente di segmentazione, Tutorial sull&#39;interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
 
-+++
++++ 
 
 <br>
 
-+++Passaggio 3: Programmazione e pagamento dell&#39;esame
++++Passaggio 3: Programmazione e pagamento dell’esame
 
 {{schedule-and-pay}}
 
@@ -181,7 +181,7 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 
 >[!NOTE]
 >
->Questo è l&#39;ultimo Adobe dell&#39;esame per sviluppatori [!DNL Journey Optimizer] (AD0-E606). Se hai già iniziato a studiare o hai pianificato la [versione precedente](ajo-e-developer.md), devi completarla entro il 22 dicembre 2023.
+>Questo è l&#39;ultimo esame Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E606).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 
 ## Domande
 
-Visualizza la certificazione [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=it){target="_blank"}.
+Visualizza le [domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} sulla certificazione.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
