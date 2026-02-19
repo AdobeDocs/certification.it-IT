@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Questo archivio è stato migrato a GitHub Enterprise Cloud
 
-<https://github.com/Adobe-Enterprise-Docs/certification.en>
+<https://github.com/Adobe-Enterprise-Docs/certification.it-IT>
