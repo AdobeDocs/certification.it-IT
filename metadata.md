@@ -8,16 +8,16 @@ topic: Certification
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/certification.it-IT
 index: true
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: c0af4d9398bfa258627c367faf64de35185f8985
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 93%
+source-wordcount: '68'
+ht-degree: 0%
 
 ---
 
 
 # Metadati per uso interno
 
-Il file metadata.md include metadati a livello di repository che passano attraverso i file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, esegui questa operazione in qualsiasi file TOC.md.
+Il file metadata.md include metadati a livello di repository che passano attraverso i file TOC.md della guida utente nel repository. Se desideri modificare il contenuto di metadata.md per qualsiasi guida utente, effettua questa operazione in qualsiasi file TOC.md.
 
-Consulta la sezione [Metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=it) per visualizzare un elenco di valori validi per **soluzione**, **prodotto** e **tipo**.
+Per un elenco di valori validi per **soluzione**, **prodotto** e **tipo**, vedere [metadati](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html).
