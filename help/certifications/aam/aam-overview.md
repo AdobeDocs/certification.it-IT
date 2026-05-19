@@ -1,12 +1,12 @@
 ---
-title: Panoramica certificazione Audience Manager
+title: Panoramica della certificazione Audience Manager
 description: Panoramica delle opzioni di certificazione per Adobe Audience Manager
 solution: Audience Manager
 product: Audience Manager
 exl-id: aeeef127-446c-4d22-8791-b93ea755545a
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+source-git-commit: 9bbe611b8961bb7ef008310ae3532df9b992eeb6
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,3 @@ Seleziona il livello e la mansione per trovare i dettagli dell’esame di certif
 * [Architetto](https://certification.adobe.com/certification/audience-manager-architect-master){target="_blank"} <!--AD0-E454-->
 
 {{questions}}
-
