@@ -1,27 +1,27 @@
 ---
 title: Certificazione esperto
-description: Scopri come diventare un Adobe certificato [!DNL Experience Manager] esperto.
-solution: Experience Manager, Experience Manager as a Cloud Service
+description: Scopri come diventare un esperto Adobe [!DNL Experience Manager] certificato.
+solution: Experience Manager as a Cloud Service, Experience Manager
 product: Experience Manager
 role: Developer
 badge: label="Esame AD0-E136" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: a277b79cc26e5c8ae43c2f4388a8cdb21ea0996d
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
-# Percorso di certificazione per l&#39;Adobe [!DNL Experience Manager] as a Cloud Service esperto di migrazione
+# Percorso di certificazione per Adobe [!DNL Experience Manager] as a Cloud Service Migration Expert
 
 >[!NOTE]
 >
->**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
+>**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}!** Scopri le nuove funzioni e come iniziare di seguito.
 
-## Cosa c&#39;è nel nuovo portale di certificazione Adobe?
+## Cosa contiene il nuovo portale di certificazione Adobe?
 
 Tutto quello che una volta trovavi su questa pagina e altro ancora!
 
@@ -31,7 +31,7 @@ Tutto quello che una volta trovavi su questa pagina e altro ancora!
 * Test pratici
 * Convalida e condivisione dei badge
 * Nuovi corsi di formazione tecnica
-* Il nuovo Adobe della Digital Experience Community
+* La nuova community Adobe Digital Experience
 * Una nuova dashboard interattiva per monitorare e condividere l’attività di corso e certificazione
 
 ## Domande frequenti
@@ -73,9 +73,9 @@ Il badge è ora disponibile sul portale di certificazione Adobe.
 
 ### Domande?
 
-Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [Domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
+Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nostre nuove funzioni!
+Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nuove funzioni.
 
 <!-- 
 
