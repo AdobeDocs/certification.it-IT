@@ -1,6 +1,6 @@
 ---
 title: Rinnovo certificazione
-description: Scopri come rinnovare la certificazione Adobe [!DNL Campaign Standard]  prima della scadenza.
+description: Scopri come rinnovare la certificazione Adobe [!DNL Campaign Standard] prima della scadenza.
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
-# Rinnova la certificazione di Adobe [!DNL Campaign Standard]
+# Rinnova la certificazione Adobe [!DNL Campaign Standard]
 
 {{renewals-hold}}
 
