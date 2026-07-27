@@ -1,7 +1,7 @@
 ---
 source-git-commit: 623b5ac3fe79543a23f7ac0f79a688ad4a3c98ec
 workflow-type: tm+mt
-source-wordcount: '2229'
+source-wordcount: '2373'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
+>**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}!** Scopri le nuove funzioni e come iniziare di seguito.
 
-## Cosa c'è nel nuovo portale di certificazione Adobe?
+## Cosa contiene il nuovo portale di certificazione Adobe?
 
 Tutto quello che una volta trovavi su questa pagina e altro ancora!
 
@@ -31,7 +31,7 @@ Tutto quello che una volta trovavi su questa pagina e altro ancora!
 * Test pratici
 * Convalida e condivisione dei badge
 * Nuovi corsi di formazione tecnica
-* Il nuovo Adobe della Digital Experience Community
+* La nuova community Adobe Digital Experience
 * Una nuova dashboard interattiva per monitorare e condividere l’attività di corso e certificazione
 
 ## Domande frequenti
@@ -60,7 +60,7 @@ Ora puoi pianificare un esame sul portale di certificazione Adobe.
 
 I voucher (inclusi quelli trasferiti da Xvoucher) verranno visualizzati nel [tuo account](https://certification.adobe.com/user/purchases){target="_blank"} sul portale di certificazione Adobe.
 
-### Dov'è il mio distintivo di certificazione?
+### Dov&#39;è il mio distintivo di certificazione?
 
 Il badge è ora disponibile sul portale di certificazione Adobe.
 
@@ -73,9 +73,9 @@ Il badge è ora disponibile sul portale di certificazione Adobe.
 
 ### Domande?
 
-Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [Domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
+Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nostre nuove funzioni!
+Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nuove funzioni.
 
 
 <!--divider-->
@@ -86,7 +86,7 @@ Scopri chi deve sostenere questo esame, quale esperienza è consigliata e quali 
 
 <!--divider-->
 
-## Obiettivi e ambito dell'esame {#exam-objectives}
+## Obiettivi e ambito dell&#39;esame {#exam-objectives}
 
 Questa sezione fornisce informazioni sul contenuto dell’esame.
 
@@ -110,13 +110,13 @@ Questi passaggi ti guidano attraverso il processo di certificazione dall’inizi
 >
 > **È richiesto un documento ufficiale:** È NECESSARIO utilizzare un documento ufficiale come documento valido. Non sono consentite copie programmate o ID digitali. <br><br> **Nome account Adobe ID:** Il nome dell&#39;account Adobe ID DEVE corrispondere al tuo nome nell&#39;ID governativo. Per aggiornare il nome dell&#39;account Adobe ID, inviare un messaggio di posta elettronica a <certif@adobe.com>. Richiedi questa correzione con **72 ore di anticipo**. Se i nomi non corrispondono al momento dell&#39;esame, dovrai iscriverti a un nuovo esame a un costo aggiuntivo.
 
-Devi avere un Adobe ID per programmare e sostenere il tuo esame. Se non hai un Adobe ID, puoi crearne uno [qui](https://helpx.adobe.com/it/manage-account/using/create-update-adobe-id.html).
+Devi avere un Adobe ID per programmare e sostenere il tuo esame. Se non hai un Adobe ID, puoi crearne uno [qui](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
 È necessario disporre di un Adobe ID per tre motivi:
 
 * Per creare e accedere all&#39;account [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} è necessario disporre di un account Adobe ID. Qui puoi visualizzare le certificazioni, la cronologia degli esami, i punteggi degli esami e ulteriori informazioni.
-* Devi aver effettuato l’accesso a Adobe Credential Management System per creare e accedere al tuo account Examity. È qui che pianificherai, pagherai e sosterrai il tuo test.
-* Devi aver effettuato l’accesso a Adobe Credential Management System per eseguire test pratici sul portale Adobe Certification Exam Prep.
+* Devi aver effettuato l’accesso ad Adobe Credential Management System per creare e accedere al tuo account Examity. È qui che pianificherai, pagherai e sosterrai il tuo test.
+* Devi aver effettuato l’accesso ad Adobe Credential Management System per eseguire test pratici sul portale Adobe Certification Exam Prep.
 
 <!--divider-->
 
@@ -140,7 +140,7 @@ Le domande di esempio ti consentono di visualizzare il tipo e il formato degli e
 
 ## Esegui un test di esercitazione {#practice-test}
 
-Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami di livello Adobe.
+Si consiglia di eseguire il test dell&#39;esercitazione gratuita prima di iniziare. Avrai accesso illimitato a tutti i test pratici disponibili per gli esami Adobe di livello Expert.
 
 I nostri test pratici sono tutti sviluppati dallo stesso blueprint degli esami live. L&#39;esercitazione ti aiuterà a comprendere gli argomenti trattati nell&#39;esame in diretta.
 
@@ -150,11 +150,11 @@ Per eseguire l&#39;esercitazione:
 
 1. Accedi innanzitutto a [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} con il tuo Adobe ID.
 
-2. Quindi, vai al [portale per la preparazione dell&#39;esame di certificazione dell&#39;Adobe](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} per trovare il test dell&#39;esercitazione.
+2. Quindi, vai al [portale Adobe Certification Exam Prep](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} per trovare il test dell&#39;esercitazione.
 
 <!--divider-->
 
-## Pianifica e paga l'esame {#schedule-and-pay}
+## Pianifica e paga l&#39;esame {#schedule-and-pay}
 
 >[!NOTE]
 >
@@ -162,7 +162,7 @@ Per eseguire l&#39;esercitazione:
 
 **Consegna degli esami**
 
-In questo Adobe viene utilizzato un fornitore denominato Examity per gestire gli esami pianificati e protetti. Tutti i nuovi esami di certificazione sono protetti. Gli esami di rinnovo sono on-demand e non gestiti.
+Adobe utilizza un fornitore denominato Examity per gestire gli esami pianificati e protetti. Tutti i nuovi esami di certificazione sono protetti. Gli esami di rinnovo sono on-demand e non gestiti.
 
 **Pianifica, riprogramma o annulla esame**
 
@@ -172,13 +172,13 @@ Per programmare, riprogrammare o annullare l&#39;esame:
 
 2. Passare quindi al [portale Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} e seguire le istruzioni visualizzate.
 
-Gli annullamenti e la riprogrammazione devono essere iniziati **48 ore prima** dell&#39;appuntamento per l&#39;esame pianificato. I candidati devono modificare essi stessi questo appuntamento. Né il Supporto Adobe né i fornitori di esami possono elaborare richieste di riprogrammazione e annullamento. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
+Gli annullamenti e la riprogrammazione devono essere iniziati **48 ore prima** dell&#39;appuntamento per l&#39;esame pianificato. I candidati devono modificare essi stessi questo appuntamento. Né il supporto Adobe né i fornitori di esami possono elaborare richieste di riprogrammazione e annullamento. Le cancellazioni al di sotto di 48 ore sono soggette a una tassa di riprogrammazione in aggiunta alla tassa d&#39;esame.
 
 **Modalità di pagamento**
 
 Pagare con carta di credito: quando si pianifica l&#39;esame, verrà richiesto di inserire la carta di credito per il pagamento.
 
-Pagamento con voucher: per acquistare un voucher d&#39;esame vai a: Centro voucher certificazione Adobe. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Per informazioni sullo sconto per il voucher, consulta la sezione sottostante.
+Paga in base a voucher: per acquistare un voucher d&#39;esame vai a: Centro voucher certificazione Adobe. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Per informazioni sullo sconto per il voucher, consulta la sezione sottostante.
 
 **Acquisto di un voucher**
 
@@ -186,7 +186,7 @@ Puoi pagare un esame con un voucher. Per acquistare un voucher di esame, vai al 
 
 Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Per informazioni sullo sconto per il voucher, consulta la sezione sottostante.
 
-Tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite l&#39;Adobe Certification Voucher Center.
+Tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite il Centro voucher certificazione Adobe.
 
 Per ulteriori informazioni sui voucher, consulta le [domande frequenti](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
@@ -200,7 +200,7 @@ Sono disponibili sconti collettivi:
 | 25-49 | 25% |
 | 50+ | 33% |
 
-Sconti per i partner: i partner di livello Bronze e superiore ottengono sconti su tutti gli esami e le classi di certificazione Adobi. Per ulteriori informazioni su questi sconti e su come accedere ai vantaggi per i partner, consulta il Solution Partner Portal.
+Sconti per i partner: i partner di livello Bronze e superiore ottengono sconti su tutti gli esami e le classi di certificazione Adobe. Per ulteriori informazioni su questi sconti e su come accedere ai vantaggi per i partner, consulta il Solution Partner Portal.
 
 Sconti voucher: tutti i candidati possono ricevere uno sconto sugli acquisti in blocco di 10 o più esami quando acquistano tramite il [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
@@ -215,7 +215,7 @@ Nota: gli sconti collettivi non possono essere combinati con altre offerte o sco
 * Esegui il test di sistema.
 * Verificare che Zoom sia installato nel computer. Zoom deve disporre dell&#39;autorizzazione per utilizzare la fotocamera e il microfono, condividere lo schermo e consentire al proiettore di assumere temporaneamente il controllo del computer.
 * Disattivare il blocco popup prima di iniziare l&#39;esame.
-* Controlla nuovamente il tuo fuso orario nel tuo profilo di esame accedendo al sistema di gestione delle credenziali dell&#39;Adobe, facendo clic su Pianifica/Modifica il mio appuntamento dell&#39;esame, selezionando il tuo esame e andando al tuo profilo di esame.
+* Verifica nuovamente il tuo fuso orario nel profilo Esami accedendo al sistema di gestione delle credenziali di Adobe, facendo clic su Pianifica/Modifica appuntamento per l’esame, selezionando l’esame e andando al profilo Esami.
 
 >[!IMPORTANT]
 >
@@ -224,25 +224,25 @@ Nota: gli sconti collettivi non possono essere combinati con altre offerte o sco
 **Giorno dell&#39;esame**
 
 * Presto! Il tuo relatore inizierà la sessione proprio all’ora di inizio dell’appuntamento, quindi lascia il tempo di accedere a Examity prima dell’appuntamento.
-* Prepara lo spazio sulla scrivania. Rimuovere eventuali monitor, componenti elettronici, libri, notebook, carta, ecc. aggiuntivi. dal desktop.
+* Prepara lo spazio sulla scrivania. Rimuovere dal desktop qualsiasi monitor, componente elettronico, libro, notebook, carta, ecc. aggiuntivi.
 * Collegare il computer.
 * Chiude tutte le applicazioni tranne la condivisione dello schermo e il browser. Il proiettore ti chiederà di aprire il gestore attività per mostrare che non sono in esecuzione altre applicazioni.
 * Nota: se sei disconnesso, riceverai una notifica e-mail dal Supporto Experience per assistenza nella riconnessione. Puoi anche rivolgerti al supporto Examity per riconnetterti direttamente.
 
 **Dopo l&#39;esame**
 
-* Al termine dell&#39;esame, riceverai un pass/fail provvisorio; tuttavia, il punteggio finale può richiedere fino a 72 ore. Una volta rivisto e finalizzato l&#39;esame, troverai la scheda di punteggio in Gestione credenziali Adobe nella scheda &quot;Cronologia&quot;.
-* Se al primo tentativo non superi un esame di certificazione di Adobe, devi attendere almeno 24 ore prima di ripetere l’esame. Un voto negativo al secondo tentativo o a qualsiasi tentativo successivo richiede un periodo di attesa di 14 giorni di calendario prima di ripetere l&#39;esame. Ogni tentativo sarà soggetto a una tassa d&#39;esame separata.
+* Al termine dell&#39;esame, riceverai un pass/fail provvisorio; tuttavia, il punteggio finale può richiedere fino a 72 ore. Una volta rivisto e finalizzato l’esame, troverai la scheda di valutazione in Gestione credenziali di Adobe nella scheda &quot;Cronologia&quot;.
+* Se al primo tentativo non superi un esame di certificazione Adobe, devi attendere almeno 24 ore prima di ripetere l’esame. Un voto negativo al secondo tentativo o a qualsiasi tentativo successivo richiede un periodo di attesa di 14 giorni di calendario prima di ripetere l&#39;esame. Ogni tentativo sarà soggetto a una tassa d&#39;esame separata.
 
 <!--divider-->
 
 ## Informazioni sull’esame di certificazione {#about-certification-exam}
 
-L&#39;Adobe utilizza Examity per amministrare gli esami protetti online. Nel portale Examity puoi effettuare le seguenti operazioni:
+Adobe utilizza Examity per amministrare gli esami consigliati online. Nel portale Examity puoi effettuare le seguenti operazioni:
 
-* **Pianifica, riprogramma o annulla l&#39;esame.** Si noti che l&#39;annullamento e la riprogrammazione devono iniziare prima di 48 ore prima dell&#39;appuntamento dell&#39;esame pianificato. I candidati devono modificare essi stessi questo appuntamento.
+* **Pianifica, riprogramma o annulla l&#39;esame.** Si prega di notare che l&#39;annullamento e la riprogrammazione devono essere iniziati prima di 48 ore prima dell&#39;appuntamento dell&#39;esame programmato. I candidati devono modificare essi stessi questo appuntamento.
 
-* **Paga per il tuo esame.** Paga l&#39;esame di certificazione tramite voucher o carta di credito nel portale Examity. Per acquistare un voucher di esame, vai a: [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
+* **Paga per il tuo esame.** Paga il tuo esame di certificazione tramite voucher o carta di credito nel portale Examity. Per acquistare un voucher di esame, vai a: [Centro voucher certificazione Adobe](https://certification.adobe.com/certifications/vouchers){target="_blank"}. Puoi applicare il codice del voucher quando pianifichi l&#39;esame. Se hai uno sconto, verrà applicato al momento del pagamento.
 
 * **Sostieni l&#39;esame.**
 
@@ -250,26 +250,26 @@ L&#39;Adobe utilizza Examity per amministrare gli esami protetti online. Nel por
 
 >[!WARNING]
 >
->Il programma di certificazione delle esperienze digitali Adobe si sta preparando per gli aggiornamenti. Per questo motivo, al momento i candidati non possono programmare gli appuntamenti dell’esame dopo il 13 ottobre 2024. La pianificazione tornerà normale una volta completati gli aggiornamenti.
+>Il programma di certificazione Adobe Digital Experience si sta preparando per gli aggiornamenti. Per questo motivo, al momento i candidati non possono programmare gli appuntamenti dell’esame dopo il 13 ottobre 2024. La pianificazione tornerà normale una volta completati gli aggiornamenti.
 
 <!--divider-->
 
 ## Gestione dei badge {#manage-your-badges}
 
-Dopo aver superato l&#39;esame di certificazione, riceverai un distintivo digitale Adobe Experience Cloud da Creded, un fornitore di servizi di creazione di credenziali digitali.
+Dopo aver superato l’esame di certificazione, riceverai un distintivo digitale Adobe Experience Cloud da Creded, un fornitore di servizi di credenziale digitale.
 
-Il tuo badge è una prova tangibile della tua esperienza con i prodotti Adobe Experience Cloud. Visualizzandolo sui profili di social media o riprendendolo, puoi dimostrare il tuo successo a potenziali datori di lavoro e clienti e mostrare le tue competenze in queste applicazioni.
+Il badge funge da prova tangibile della tua esperienza con i prodotti Adobe Experience Cloud. Visualizzandolo sui profili di social media o riprendendolo, puoi dimostrare il tuo successo a potenziali datori di lavoro e clienti e mostrare le tue competenze in queste applicazioni.
 
-**Per gli utenti esistenti, esistono due modi per accettare il tuo Adobe di distintivo di certificazione:**
+**Per gli utenti esistenti, esistono due modi per accettare il tuo badge di certificazione Adobe:**
 
-* **Passaggio 1:** Accedi a [In modo credibile](https://www.credly.com/users/sign_in){target="_blank"}. Devi usare la stessa e-mail che hai usato per guadagnare le tue credenziali Adobi, altrimenti non vedrai il tuo distintivo.
+* **Passaggio 1:** Accedi a [Creded](https://www.credly.com/users/sign_in){target="_blank"}. Devi usare la stessa e-mail che hai usato per guadagnare le tue credenziali Adobe, altrimenti non vedrai il tuo badge.
 * **Passaggio 2:** Oppure vai all&#39;e-mail ricevuta da Creded per accettare il badge.
 * **Passaggio 3:** Accetta e condividi il tuo distintivo.
 
-**Per i nuovi utenti, segui le istruzioni riportate di seguito per accettare il tuo Adobe di badge di certificazione:**
+**Per i nuovi utenti, segui le istruzioni riportate di seguito per accettare il tuo badge di certificazione Adobe:**
 
 * **Passaggio 1:** Vai all&#39;e-mail ricevuta da Creded per accettare il badge.
-* **Passaggio 2:** Crea un account. Devi usare la stessa e-mail che hai usato per guadagnare le tue credenziali Adobi, altrimenti non vedrai il tuo distintivo.
+* **Passaggio 2:** Crea un account. Devi usare la stessa e-mail che hai usato per guadagnare le tue credenziali Adobe, altrimenti non vedrai il tuo badge.
 * **Passaggio 3:** Accetta e condividi il tuo distintivo.
 
 [Ulteriori informazioni](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
@@ -278,7 +278,7 @@ Il tuo badge è una prova tangibile della tua esperienza con i prodotti Adobe Ex
 
 ## Rinnovo della certificazione {#renewing-intro}
 
-Le certificazioni scadono dopo due anni. Per mantenere la certificazione, devi rinnovarla prima della scadenza. Visita la pagina [Rinnova la certificazione](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=it){target="_blank"} per ulteriori informazioni.
+Le certificazioni scadono dopo due anni. Per mantenere la certificazione, devi rinnovarla prima della scadenza. Visita la pagina [Rinnova la certificazione](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} per ulteriori informazioni.
 
 <!--divider-->
 
@@ -304,13 +304,13 @@ La guida gratuita per la preparazione degli esami offre un percorso personalizza
 
 >[!NOTE]
 >
->L’Adobe del programma di certificazione dell’esperienza digitale semplifica la procedura di rinnovo della certificazione per rendere la tua esperienza più pratica. Durante l&#39;implementazione di questo nuovo processo, **i rinnovi sono temporaneamente in attesa.**
+>Il programma di certificazione Adobe Digital Experience sta semplificando il processo di rinnovo della certificazione per rendere più pratica la tua esperienza. Durante l&#39;implementazione di questo nuovo processo, **i rinnovi sono temporaneamente in attesa.**
 >
 >* Per coloro le cui certificazioni scadono tra il 14 ottobre 2024 e il 30 settembre 2025, la certificazione verrà prorogata fino al 1° ottobre 2025.
 >
 >* I dettagli relativi al processo di rinnovo aggiornato saranno condivisi all’inizio di marzo, garantendo che tutti i titolari di certificazioni abbiano il tempo necessario per rinnovare le loro certificazioni.
 >
->**Visita il nuovo [portale di certificazione di Adobe](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"} per ottenere le informazioni più aggiornate.**
+>**Visita il nuovo [portale di certificazione Adobe](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"} per ottenere le informazioni più aggiornate.**
 
 <!--divider-->
 
