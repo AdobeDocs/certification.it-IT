@@ -60,7 +60,7 @@ Ora puoi pianificare un esame sul portale di certificazione Adobe.
 
 I voucher (inclusi quelli trasferiti da Xvoucher) verranno visualizzati nel [tuo account](https://certification.adobe.com/user/purchases){target="_blank"} sul portale di certificazione Adobe.
 
-### Dov&#39;è il mio distintivo di certificazione?
+### Dov'è il mio distintivo di certificazione?
 
 Il badge è ora disponibile sul portale di certificazione Adobe.
 
@@ -86,7 +86,7 @@ Scopri chi deve sostenere questo esame, quale esperienza è consigliata e quali 
 
 <!--divider-->
 
-## Obiettivi e ambito dell&#39;esame {#exam-objectives}
+## Obiettivi e ambito dell'esame {#exam-objectives}
 
 Questa sezione fornisce informazioni sul contenuto dell’esame.
 
@@ -154,7 +154,7 @@ Per eseguire l&#39;esercitazione:
 
 <!--divider-->
 
-## Pianifica e paga l&#39;esame {#schedule-and-pay}
+## Pianifica e paga l'esame {#schedule-and-pay}
 
 >[!NOTE]
 >
