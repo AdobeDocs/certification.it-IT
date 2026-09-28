@@ -3,11 +3,9 @@ title: Certificazioni tecniche professionali
 description: Panoramica delle opzioni di certificazione per gli utenti professionali
 source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 13%
-
+source-wordcount: '77'
+ht-degree: 12%
 ---
-
 # Certificazioni tecniche professionali
 
 **Advertising**
