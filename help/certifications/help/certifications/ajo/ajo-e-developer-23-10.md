@@ -1,19 +1,26 @@
 ---
 title: Certificazione esperto
-description: Scopri come diventare un Adobe [!DNL Journey Optimizer] Developer Expert certificato.
+description: Scopri come diventare un esperto di sviluppatori Adobe [!DNL Journey Optimizer] certificato.
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Esame AD0-E606" type="neutral"
-hidefromtoc: true
-exl-id: null
-source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
+hidefromtoc: 'yes'
+exl-id:
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '614'
-ht-degree: 1%
-
+source-wordcount: '696'
+ht-degree: 9%
 ---
-
 # Percorso di certificazione per Adobe [!DNL Journey Optimizer] Developer Expert
 
 {{intro}}
@@ -132,12 +139,12 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 **Sezione 1: Amministrazione e configurazione**
 
 * [Experience Platform, controllo degli accessi, guida alle sandbox](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=it){target="_blank"}
-* [Guida di AJO, Configurazione, Canale SMS, Percorsi](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Guida di AJO, configurazione, canale SMS, Percorsi](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 * [API di AJO](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **Sezione 2: Journey Orchestration**
 
-* [Guida di AJO, Percorsi, espressioni, traccia e monitora](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Guida di AJO, Percorsi, espressioni, tracciamento e monitoraggio](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 
 **Sezione 3: Offer Decisioning**
 
@@ -145,13 +152,13 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 
 **Sezione 4: authoring dei contenuti**
 
-* [Guida di AJO, canale SMS, privacy, configurazione, Percorsi, espressioni, gestione dei contenuti, traccia e monitoraggio, canale di notifica push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Guida di AJO, canale SMS, privacy, configurazione, Percorsi, espressioni, gestione dei contenuti, tracciamento e monitoraggio, canale di notifica push](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
 * [Tutorial su Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=it){target="_blank"}
 
 **Sezione 5: Modellazione dati**
 
-* [Guida di AJO, configurazione, tipi di pubblico, profili e identità, gestione dei dati](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
-* [Experience Platform, Dataset, Guida ai connettori Source, Tutorial API, Guida al servizio Platform Identity, Interfaccia utente di segmentazione, Tutorial sull&#39;interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
+* [Guida di AJO, Configurazione, Tipi di pubblico, Profili e identità, Gestione dei dati](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=it){target="_blank"}
+* [Experience Platform, Set di dati, Guida ai connettori Source, Tutorial API, Guida al servizio Platform Identity, Interfaccia utente di segmentazione, Tutorial sull’interfaccia utente](https://experienceleague.adobe.com/docs/experience-platform.html?lang=it){target="_blank"}
 
 +++ 
 

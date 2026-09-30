@@ -1,28 +1,35 @@
 ---
 title: Certificazione professionale
-description: Scopri come diventare un professionista certificato [!DNL Experience Platform] in [!DNL Real-Time Customer Data Platform]
+description: Scopri come diventare un professionista [!DNL Experience Platform] certificato in [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 badge: label="Esame AD0-E602" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
-# Percorso di certificazione per Adobe professionista [!DNL Real-Time CDP]
+# Percorso di certificazione per Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
 >[!NOTE]
 >
->**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
+>**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}!** Scopri le nuove funzioni e come iniziare di seguito.
 
-## Cosa c&#39;è nel nuovo portale di certificazione Adobe?
+## Cosa contiene il nuovo portale di certificazione Adobe?
 
 Tutto quello che una volta trovavi su questa pagina e altro ancora!
 
@@ -32,7 +39,7 @@ Tutto quello che una volta trovavi su questa pagina e altro ancora!
 * Test pratici
 * Convalida e condivisione dei badge
 * Nuovi corsi di formazione tecnica
-* Il nuovo Adobe della Digital Experience Community
+* La nuova community Adobe Digital Experience
 * Una nuova dashboard interattiva per monitorare e condividere l’attività di corso e certificazione
 
 ## Domande frequenti
@@ -74,9 +81,9 @@ Il badge è ora disponibile sul portale di certificazione Adobe.
 
 ### Domande?
 
-Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [Domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
+Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nostre nuove funzioni!
+Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nuove funzioni.
 
 <!-- 
 

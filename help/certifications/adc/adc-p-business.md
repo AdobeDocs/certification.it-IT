@@ -1,27 +1,34 @@
 ---
 title: Certificazione professionale
-description: Scopri come diventare un Adobe certificato Doc Cloud Professional.
+description: Scopri come diventare un Adobe Doc Cloud Professional certificato.
 solution: Document Cloud
 product: Document Cloud
 role: User
 badge: label="Esame AD0-D106" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+product_v2:
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '384'
 ht-degree: 0%
-
 ---
-
 # Percorso di certificazione per professionisti [!DNL Adobe Document Cloud] professionisti
 
 >[!NOTE]
 >
->**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
+>**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}!** Scopri le nuove funzioni e come iniziare di seguito.
 
-## Cosa c&#39;è nel nuovo portale di certificazione Adobe?
+## Cosa contiene il nuovo portale di certificazione Adobe?
 
 Tutto quello che una volta trovavi su questa pagina e altro ancora!
 
@@ -31,7 +38,7 @@ Tutto quello che una volta trovavi su questa pagina e altro ancora!
 * Test pratici
 * Convalida e condivisione dei badge
 * Nuovi corsi di formazione tecnica
-* Il nuovo Adobe della Digital Experience Community
+* La nuova community Adobe Digital Experience
 * Una nuova dashboard interattiva per monitorare e condividere l’attività di corso e certificazione
 
 ## Domande frequenti
@@ -73,9 +80,9 @@ Il badge è ora disponibile sul portale di certificazione Adobe.
 
 ### Domande?
 
-Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [Domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
+Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nostre nuove funzioni!
+Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nuove funzioni.
 
 <!-- 
 

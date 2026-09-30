@@ -1,24 +1,25 @@
 ---
-title: Introduzione alle certificazioni di Adobe
-description: Inizia a usare  [!DNL Experience Cloud]  certificazioni. Scopri il programma e questo sito web.
+title: Guida introduttiva alle certificazioni Adobe
+description: Introduzione a [!DNL Experience Cloud] certificazioni. Scopri il programma e questo sito web.
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-hidefromtoc: true
-source-git-commit: a033bd6a57abf06eb6712cf1aca076b39e8a4739
+hidefromtoc: 'yes'
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '381'
 ht-degree: 2%
-
 ---
-
 # Introduzione {#getting-started}
 
 >[!NOTE]
 >
->**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
+>**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}!** Scopri le nuove funzioni e come iniziare di seguito.
 
-## Cosa c&#39;è nel nuovo portale di certificazione Adobe?
+## Cosa contiene il nuovo portale di certificazione Adobe?
 
 Tutto quello che una volta trovavi su questa pagina e altro ancora!
 
@@ -51,7 +52,7 @@ Ora puoi pianificare un esame sul portale di certificazione Adobe.
 
 ### Dove trovo la cronologia delle certificazioni?
 
-È già stata effettuata la migrazione delle certificazioni attive all&#39;[account](https://certification.adobe.com/user/certifications){target="_blank"} nel portale di certificazione di Adobe. Alcuni aspetti dell’account potrebbero non essere ancora completamente popolati durante la migrazione dei dati utente rimanenti. Grazie per la vostra pazienza!
+È già stata effettuata la migrazione delle certificazioni attive all&#39;[account](https://certification.adobe.com/user/certifications){target="_blank"} nel portale di certificazione Adobe. Alcuni aspetti dell’account potrebbero non essere ancora completamente popolati durante la migrazione dei dati utente rimanenti. Grazie per la vostra pazienza!
 
 ### Dove trovo i miei voucher?
 
@@ -70,6 +71,6 @@ Il badge è ora disponibile sul portale di certificazione Adobe.
 
 ### Domande?
 
-Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [Domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
+Visualizza i [video dimostrativi](https://certification.adobe.com/#){target="_blank"} nella parte inferiore della home page, visita le [domande frequenti](https://certification.adobe.com/support/faq){target="_blank"} o [contattaci](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nostre nuove funzioni!
+Siamo entusiasti di scoprire la nuova home del programma di certificazione Adobe Digital Experience e scoprire le nuove funzioni.

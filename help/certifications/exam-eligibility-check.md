@@ -1,16 +1,17 @@
 ---
 title: Verifica esami di idoneità riavvio certificazione
-description: Per informazioni sull’idoneità all’esame per riavviare un programma di certificazione, consulta l’Adobe.
+description: Scopri come sostenere gli esami per riavviare un programma di certificazione in Adobe.
 recommendations: disable, exclude
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 23d948de-7d3d-4ccf-a55f-51bf117a41c8
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 5%
-
+source-wordcount: '669'
+ht-degree: 3%
 ---
-
 # Verifica esami di idoneità riavvio certificazione
 
 Utilizzare la tabella seguente per visualizzare gli esami idonei per il programma di riavvio.
@@ -25,8 +26,8 @@ Utilizzare la tabella seguente per visualizzare gli esami idonei per il programm
 | Adobe Certified Expert - Professionista Adobe Experience Manager Sites | Professionista Adobe Experience Manager Sites | AD0-E102 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 | Adobe Certified Expert - Sviluppatore Adobe Experience Manager Sites | Sviluppatore Adobe Experience Manager Sites | AD0-E103 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 | Adobe Certified Expert - Sviluppatore Adobe Experience Manager Sites | Sviluppatore Adobe Experience Manager Sites | AD0-E116 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
-| Master certificato Adobe - Architetto Adobe Experience Manager Sites | Adobe Experience Manager Sites Architect | AD0-E117 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
-| Master certificato Adobe - Architetto Adobe Experience Manager Sites | Adobe Experience Manager Sites Architect | AD0-E104 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
+| Master certificato Adobe - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E117 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
+| Master certificato Adobe - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E104 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 
 >[!TAB Analytics]
 
@@ -34,14 +35,14 @@ Utilizzare la tabella seguente per visualizzare gli esami idonei per il programm
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Professionista Adobe Analytics | Professionista Adobe Analytics | AD0-E202 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 | Adobe Certified Expert - Sviluppatore Adobe Analytics | Sviluppatore Adobe Analytics | AD0-E201 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
-| Master certificato Adobe - Architetto Adobe Analytics | Adobe Analytics Architect | AD0-E207 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
-| Master certificato Adobe - Architetto Adobe Analytics | Adobe Analytics Architect | AD0-E200 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
+| Master certificato Adobe - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E207 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
+| Master certificato Adobe - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E200 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 
 >[!TAB Audience Manager]
 
 | Nome certificazione | Nome esame | ID esame | Ulteriori informazioni |
 | --- | --- | --- | --- |
-| Adobe Certified Master - Architect Adobe Audience Manager | Adobe Audience Manager Architect | AD0-E454 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
+| Master certificato Adobe - Architect Adobe Audience Manager | Adobe Audience Manager Architect | AD0-E454 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 | Master certificato Adobe - Architetto Adobe Audience Manager | Adobe Audience Manager Architect | AD0-E452 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 | Adobe Certified Expert - Professionista Adobe Audience Manager | Professionista Adobe Audience Manager | AD0-E453 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 
@@ -76,6 +77,6 @@ Utilizzare la tabella seguente per visualizzare gli esami idonei per il programm
 
 | Nome certificazione | Nome esame | ID esame | Ulteriori informazioni |
 | --- | --- | --- | --- |
-| Master certificato Adobe - Architetto Adobe Target | Adobe Target Architect | AD0-E402 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
+| Master certificato Adobe - Adobe Target Architect | Adobe Target Architect | AD0-E402 | [collegamento](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html?lang=it) |
 
 >[!ENDTABS]
