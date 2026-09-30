@@ -217,6 +217,6 @@ Adobe Journey Optimizer è alimentato da Experience Platform. Ai candidati che d
 
 ## Domande
 
-Visualizza le [domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} sulla certificazione.
+Visualizza le [domande frequenti](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=it){target="_blank"} sulla certificazione.
 
 Domande aggiuntive? [Contattaci](mailto:certif@adobe.com).
