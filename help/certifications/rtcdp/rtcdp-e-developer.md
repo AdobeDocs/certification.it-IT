@@ -1,25 +1,32 @@
 ---
 title: Certificazione esperto
-description: Scopri come diventare un esperto Adobe [!DNL Real-Time Customer Data Platform] Developer certificato
+description: Scopri come diventare un esperto di Adobe [!DNL Real-Time Customer Data Platform] Developer certificato
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer
 badge: label="Esame AD0-E605" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '383'
 ht-degree: 0%
-
 ---
-
 # Percorso di certificazione per Adobe [!DNL Real-Time Customer Data Platform] Developer Expert
 
 >[!NOTE]
 >
->**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}.** Leggi le nuove funzionalità e come iniziare di seguito.
+>**Il programma di certificazione Adobe Digital Experience è stato spostato nel nuovo [portale di certificazione Adobe](https://certification.adobe.com/){target="_blank"}!** Scopri le nuove funzioni e come iniziare di seguito.
 
 ## Cosa contiene il nuovo portale di certificazione Adobe?
 
